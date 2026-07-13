@@ -1,0 +1,28 @@
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Archivos temporales de Office ---
+~$*
+*.tmp
+
+# --- Editores / IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- Entornos y dependencias ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+
+# --- Variables de entorno / secretos ---
+.env
+.env.*
+
+# --- Logs ---
+*.log
