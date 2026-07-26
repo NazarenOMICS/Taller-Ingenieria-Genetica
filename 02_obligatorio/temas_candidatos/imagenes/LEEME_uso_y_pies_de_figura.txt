@@ -1,0 +1,26 @@
+FIGURAS DE ENSEMBL PARA EL OBLIGATORIO: FTO Y RPGRIP1L
+
+Figura 1. Contexto genómico del locus FTO, vista de 1 Mb.
+Uso recomendado: introducción del locus o diapositiva donde se explique que FTO ocupa una región regulatoria extensa y que IRX3 se encuentra distalmente. La imagen es una extracción directa del PDF exportado por Ensembl.
+
+Pie sugerido:
+“Organización genómica del locus FTO en el cromosoma 16 (GRCh38). Se muestran los genes del conjunto primario GENCODE 50 y las características regulatorias anotadas por Ensembl.”
+
+Figura 2. Transcritos de FTO y RPGRIP1L y características regulatorias.
+Uso recomendado: mostrar las isoformas principales, la orientación positiva de FTO y la orientación negativa de RPGRIP1L. También permite justificar la elección del transcrito MANE FTO-206. La imagen es una extracción directa del PDF exportado por Ensembl.
+
+Pie sugerido:
+“Transcritos anotados de FTO y RPGRIP1L y distribución de características regulatorias en Ensembl release 116. FTO se transcribe en la hebra positiva y RPGRIP1L en la negativa.”
+
+Figura 3. Promotor divergente FTO-RPGRIP1L.
+Uso recomendado: diapositiva de diseño de las guías dCas9-p300. Es la figura más importante para explicar que el blanco no es un promotor exclusivo de FTO.
+
+Pie sugerido:
+“Arquitectura del promotor divergente FTO-RPGRIP1L. Los TSS MANE están separados por 297 pb y quedan incluidos en el promotor Ensembl ENSR16_9RBJC, flanqueado por los enhancers ENSR16_9RBJ8 y ENSR16_BDMQQ.”
+
+Advertencias:
+- Ensamblado de trabajo: GRCh38.p14.
+- Ensembl release 116 y GENCODE 50.
+- La Figura 3 es una reconstrucción gráfica exacta a partir de las coordenadas oficiales extraídas, no una captura directa de la interfaz.
+- La presencia de una característica regulatoria no demuestra actividad en células de la granulosa.
+- Al usar la Figura 3, aclarar que la activación con dCas9-p300 puede afectar FTO, RPGRIP1L o ambos.
