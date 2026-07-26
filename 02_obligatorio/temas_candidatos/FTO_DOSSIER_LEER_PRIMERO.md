@@ -2,7 +2,7 @@
 
 ## Alcance
 
-Este archivo **no vuelve a explicar el Obligatorio ni la hipótesis biológica general**, puesto que ese contexto ya se encuentra desarrollado en el repositorio y en el agente que trabaja sobre el proyecto.
+Este archivo **no vuelve a explicar el Obligatorio ni la hipótesis biológica general**. Ese contexto ya está desarrollado en el repositorio y en el agente que trabaja sobre el proyecto.
 
 Su única función es incorporar el conocimiento nuevo obtenido durante la inspección genómica solicitada:
 
@@ -16,31 +16,56 @@ Su única función es incorporar el conocimiento nuevo obtenido durante la inspe
 
 Claude debe leer este archivo como un **anexo técnico incremental** al conocimiento que ya posee del Obligatorio.
 
-## Dónde está cada cosa
+## Dónde están los archivos nuevos
 
-Los archivos consolidados se encuentran en:
+El índice interpretativo está en `main`:
 
-- `02_obligatorio/temas_candidatos/FTO_anexo_tecnico/`
+- `02_obligatorio/temas_candidatos/FTO_DOSSIER_LEER_PRIMERO.md`
 
-Orden de lectura:
+Las extracciones auditadas y los archivos descargados están en la rama técnica:
 
-1. `FTO_anexo_tecnico/00_LEER_PRIMERO.md`: síntesis de los hallazgos nuevos y mapa de archivos.
-2. `FTO_anexo_tecnico/01_promotor_divergente_FTO_RPGRIP1L.md`: análisis focalizado de la región inter-TSS.
-3. `FTO_anexo_tecnico/datos/FTO_resumen_extraccion_Ensembl116.json`: resumen reproducible de la extracción.
-4. `FTO_anexo_tecnico/datos/FTO_exones_MANE_Ensembl116_GRCh38.csv`: exones del transcrito MANE de FTO.
-5. `FTO_anexo_tecnico/datos/FTO_enhancers_Ensembl116_GRCh38_1p8kb_upstream.csv`: enhancers Ensembl dentro del intervalo amplio.
-6. `FTO_anexo_tecnico/datos/FTO_regulatorios_Ensembl116_GRCh38_1p8kb_upstream.csv`: enhancers, promotores y sitios CTCF.
-7. `FTO_anexo_tecnico/datos/FTO_RPGRIP1L_TSS_resumen_Ensembl116.csv`: TSS MANE y TSS alternativos anotados.
-8. `FTO_anexo_tecnico/datos/FTO_RPGRIP1L_interTSS_elementos_regulatorios.csv`: elementos que solapan o caracterizan la región de diseño.
+- rama: `tmp/fto-ensembl116-extraction`
 
-La rama `tmp/fto-ensembl116-extraction` conserva los archivos intermedios y la procedencia técnica de las descargas. No es necesario usarla para la lectura normal una vez que las tablas consolidadas están en `main`.
+Archivos principales:
+
+1. `tmp_fto/summary.json`
+   - resumen de la extracción de FTO;
+   - intervalo analizado;
+   - cantidad de exones y elementos regulatorios.
+
+2. `tmp_fto/fto_mane_exons_ensembl116.csv`
+   - los 9 exones del transcrito MANE `ENST00000471389.6`.
+
+3. `tmp_fto/fto_enhancers_ensembl116.csv`
+   - las 59 características Ensembl tipo enhancer dentro del intervalo de FTO más 1,8 kb upstream.
+
+4. `tmp_fto/fto_regulatory_all_ensembl116.csv`
+   - enhancers, promotores y sitios CTCF dentro del mismo intervalo.
+
+5. `tmp_fto_promoters/summary_promoter_universes.json`
+   - resumen de los TSS observados para FTO y RPGRIP1L y de los universos regulatorios consultados.
+
+6. `tmp_fto_promoters/ensembl116_FTO_RPGRIP1L_transcripts_TSS.csv`
+   - todos los transcritos recuperados y sus TSS;
+   - permite distinguir los TSS MANE de los alternativos.
+
+7. `tmp_fto_promoters/ensembl116_regulatory_145kb_around_FTO_RPGRIP1L.csv`
+   - elementos Ensembl en la región ampliada alrededor de ambos genes.
+
+8. `tmp_fto_promoters/ucsc_encodeCcreCombined.json`
+   - cCRE de ENCODE consultados mediante UCSC.
+
+9. `tmp_fto_promoters/ucsc_geneHancerRegElements.json`
+   - elementos GeneHancer consultados mediante UCSC.
+
+Los archivos generados localmente en formato Excel, CSV y Markdown que se entregaron durante la conversación no están todos versionados en `main`. Para Claude, la fuente reproducible dentro de GitHub es la rama técnica indicada arriba.
 
 ## Hallazgos nuevos principales
 
 ### Referencia de FTO
 
 - Gen: `FTO`, Ensembl Gene `ENSG00000140718`.
-- Transcrito principal de trabajo: `ENST00000471389.6`, `FTO-206`.
+- Transcrito principal: `ENST00000471389.6`, `FTO-206`.
 - Etiquetas: MANE Select, Ensembl canonical, GENCODE primary y GENCODE basic.
 - Ensamblado: GRCh38.p14.
 - Ensembl: release 116.
@@ -102,17 +127,15 @@ La información nueva modifica el diseño de guías porque una guía dCas9-p300 
 
 Un cambio en RPGRIP1L no constituiría automáticamente un off-target de secuencia; podría ser un efecto cis esperable de acetilar un promotor divergente.
 
-## Reglas para leer las tablas
+## Reglas para Claude
 
-1. Mantener GRCh38 como ensamblado de diseño.
-2. No mezclar coordenadas hg19 de FANTOM5 con las tablas GRCh38.
-3. No equiparar solapamiento espacial con regulación funcional de FTO.
-4. No afirmar actividad en granulosa sin evidencia específica del tipo celular.
-5. No confundir los nueve exones MANE con el conjunto agregado de exones de todas las isoformas.
-6. No asignar coordenadas a motivos de factores de transcripción si no fueron verificadas contra la secuencia de referencia.
-7. Separar hechos de anotación, evidencia experimental, inferencias de integración y decisiones de diseño.
-8. No seleccionar una guía definitiva sin evaluar PAM, actividad, especificidad, variantes frecuentes, distancia a ambos TSS y elementos solapados.
-
-## Uso esperado por Claude
-
-Claude debe utilizar este anexo exclusivamente para incorporar los hallazgos genómicos y regulatorios nuevos al diseño ya existente. No debe reestructurar el Obligatorio a partir de este archivo ni tratarlo como una nueva propuesta de proyecto.
+1. Usar este archivo solamente como actualización técnica del diseño existente.
+2. Mantener GRCh38 como ensamblado de diseño.
+3. No mezclar coordenadas hg19 de FANTOM5 con las tablas GRCh38.
+4. No equiparar solapamiento espacial con regulación funcional de FTO.
+5. No afirmar actividad en granulosa sin evidencia específica del tipo celular.
+6. No confundir los nueve exones MANE con el conjunto agregado de exones de todas las isoformas.
+7. No asignar coordenadas a motivos de factores de transcripción si no fueron verificadas contra la secuencia de referencia.
+8. Separar hechos de anotación, evidencia experimental, inferencias de integración y decisiones de diseño.
+9. No seleccionar una guía definitiva sin evaluar PAM, actividad, especificidad, variantes frecuentes, distancia a ambos TSS y elementos solapados.
+10. No reestructurar el Obligatorio a partir de este anexo.
