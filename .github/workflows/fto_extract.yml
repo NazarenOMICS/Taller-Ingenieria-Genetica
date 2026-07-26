@@ -1,0 +1,89 @@
+name: Temporary FTO Ensembl extraction
+on:
+  push:
+    branches: [tmp/fto-ensembl116-extraction]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: tmp/fto-ensembl116-extraction
+      - name: Download Ensembl 116 annotations
+        run: |
+          mkdir -p tmp_fto
+          wget -q https://ftp.ensembl.org/pub/release-116/gff3/homo_sapiens/Homo_sapiens.GRCh38.116.chromosome.16.gff3.gz -O tmp_fto/gene.gff3.gz
+          wget -q https://ftp.ensembl.org/pub/release-116/regulation/homo_sapiens/GRCh38/annotation/Homo_sapiens.GRCh38.regulatory_features.v116.gff3.gz -O tmp_fto/reg.gff3.gz
+      - name: Extract FTO interval
+        run: |
+          python - <<'PY'
+          import gzip, csv, re, json
+          from pathlib import Path
+          out=Path('tmp_fto')
+          gene_id='ENSG00000140718'
+          tx_id='ENST00000471389'
+          # Parse MANE transcript and exons from Ensembl 116 chr16 GFF3
+          gene_rows=[]; exon_rows=[]; transcript_row=None
+          with gzip.open(out/'gene.gff3.gz','rt') as f:
+              for line in f:
+                  if line.startswith('#'): continue
+                  p=line.rstrip('\n').split('\t')
+                  if len(p)!=9: continue
+                  seq,src,typ,start,end,score,strand,phase,attrs=p
+                  if gene_id not in attrs and tx_id not in attrs: continue
+                  d={}
+                  for x in attrs.split(';'):
+                      if '=' in x:
+                          k,v=x.split('=',1); d[k]=v
+                  row={'seqid':seq,'source':src,'type':typ,'start':int(start),'end':int(end),'strand':strand,'phase':phase,'attributes':attrs,**d}
+                  gene_rows.append(row)
+                  if typ in ('mRNA','transcript') and (d.get('transcript_id','').split('.')[0]==tx_id or d.get('ID','').split(':')[-1].split('.')[0]==tx_id): transcript_row=row
+                  if typ=='exon' and (tx_id in attrs): exon_rows.append(row)
+          if transcript_row is None:
+              raise RuntimeError('MANE transcript not found')
+          tx_start,tx_end=transcript_row['start'],transcript_row['end']
+          # + strand: 1.8 kb upstream is lower genomic coordinates
+          region_start=max(1,tx_start-1800); region_end=tx_end
+          exon_rows=sorted(exon_rows,key=lambda r:r['start'])
+          for i,r in enumerate(exon_rows,1): r['exon_number_calculated']=i
+          # Parse all regulatory features overlapping interval, retaining all classes; enhancer subset later
+          reg_rows=[]
+          with gzip.open(out/'reg.gff3.gz','rt') as f:
+              for line in f:
+                  if line.startswith('#'): continue
+                  p=line.rstrip('\n').split('\t')
+                  if len(p)!=9: continue
+                  seq,src,typ,start,end,score,strand,phase,attrs=p
+                  if seq not in ('16','chr16'): continue
+                  start=int(start); end=int(end)
+                  if end < region_start or start > region_end: continue
+                  d={}
+                  for x in attrs.split(';'):
+                      if '=' in x:
+                          k,v=x.split('=',1); d[k]=v
+                  reg_rows.append({'seqid':seq,'source':src,'type':typ,'start':start,'end':end,'strand':strand,'phase':phase,'attributes':attrs,**d})
+          def write_csv(path, rows):
+              keys=[]
+              for r in rows:
+                  for k in r:
+                      if k not in keys: keys.append(k)
+              with open(path,'w',newline='',encoding='utf-8') as h:
+                  w=csv.DictWriter(h,fieldnames=keys); w.writeheader(); w.writerows(rows)
+          write_csv(out/'fto_mane_exons_ensembl116.csv',exon_rows)
+          write_csv(out/'fto_regulatory_all_ensembl116.csv',reg_rows)
+          enh=[r for r in reg_rows if 'enhancer' in (r.get('type','')+' '+r.get('feature_type','')+' '+r.get('Name','')).lower()]
+          write_csv(out/'fto_enhancers_ensembl116.csv',enh)
+          summary={'gene_id':gene_id,'transcript_id':tx_id,'transcript_start':tx_start,'transcript_end':tx_end,'strand':transcript_row['strand'],'region_start':region_start,'region_end':region_end,'upstream_bp':1800,'n_exons':len(exon_rows),'n_regulatory_all':len(reg_rows),'n_enhancers':len(enh),'transcript_row':transcript_row}
+          (out/'summary.json').write_text(json.dumps(summary,indent=2),encoding='utf-8')
+          print(json.dumps(summary,indent=2))
+          PY
+      - name: Commit extracted data
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add tmp_fto/*.csv tmp_fto/summary.json
+          git commit -m "Extract FTO Ensembl 116 exons and regulatory features" || exit 0
+          git push origin tmp/fto-ensembl116-extraction
