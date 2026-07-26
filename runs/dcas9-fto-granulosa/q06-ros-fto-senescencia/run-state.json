@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q06-ros-fto-senescencia",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q06-ros-fto-senescencia",
+    "goal":  "Determinar que relacion causal esta documentada entre el estres oxidativo (ROS o peroxido de hidrogeno), el descenso de FTO y la senescencia en celulas somaticas del ovario.",
+    "notebook_title":  "ROS-FTO-senescence (q06)",
+    "dashboard":  "ROS FTO senescence",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T17:18:15",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q06-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\questions-q06-ros-fto-senescencia.json",
+    "notebook_id":  "ed51dcbd-977c-4cf0-9c1b-01abfe96bdc8",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\tmp-sources-q06-ros-fto-senescencia.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q06-ros-fto-senescencia\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q06-ros-fto-senescencia\" -Goal \"Determinar que relacion causal esta documentada entre el estres oxidativo (ROS o peroxido de hidrogeno), el descenso de FTO y la senescencia en celulas somaticas del ovario.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q06-queries.json\" -NotebookTitle \"ROS-FTO-senescence (q06)\" -Dashboard \"ROS FTO senescence\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"ed51dcbd-977c-4cf0-9c1b-01abfe96bdc8\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

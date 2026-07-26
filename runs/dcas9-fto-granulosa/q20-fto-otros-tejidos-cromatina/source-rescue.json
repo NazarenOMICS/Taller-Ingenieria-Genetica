@@ -1,0 +1,613 @@
+﻿{
+    "date":  "2026-07-24",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.31083/rcm46194",
+                        "title":  "DNA Methylation: A Key Epigenetic Regulator of Cardiovascular Diseases.",
+                        "doi":  "10.31083/rcm46194",
+                        "pmid":  "42110184",
+                        "pmcid":  "PMC13155980",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf",
+                        "notebook_source_id":  "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13040280",
+                        "title":  "Disulfidptosis: A Metabolic Cell Death Mechanism with Therapeutic Potential in Cancer.",
+                        "doi":  "10.32604/or.2026.076406",
+                        "pmid":  "41930157",
+                        "pmcid":  "PMC13040280",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\zhao_2026_disulfidptosis_a_metabolic_cell_death_mechanism_with_therapeutic.pdf",
+                        "notebook_source_id":  "14262aa3-48a8-4ef3-a79f-03ab6ab3378e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3892/mmr.2026.13913",
+                        "title":  "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+                        "doi":  "10.3892/mmr.2026.13913",
+                        "pmid":  "42169659",
+                        "pmcid":  "PMC13238957",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:integrated epigenetic networks in aging from histone to rna modifications",
+                        "title":  "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+                        "doi":  "10.1186/s12967-026-07990-w",
+                        "pmid":  "41832537",
+                        "pmcid":  "PMC13101344",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13199325",
+                        "title":  "Methylation-centric epigenetic regulation in dilated cardiomyopathy: mechanisms, metabolic interplay, and translational potential.",
+                        "doi":  "10.3389/fcvm.2026.1785320",
+                        "pmid":  "42199200",
+                        "pmcid":  "PMC13199325",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+                        "notebook_source_id":  "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13237288",
+                        "title":  "N6-methyladenosine (m6A) methylation in adipose tissue: role, regulation, and therapeutic potential.",
+                        "doi":  "10.1007/s00018-026-06201-5",
+                        "pmid":  "42026353",
+                        "pmcid":  "PMC13237288",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:targeting glycolytic plasticity to overcome therapy resistance in cancer stem cells mechanisms and clinical perspectives",
+                        "title":  "Targeting Glycolytic Plasticity to Overcome Therapy Resistance in Cancer Stem Cells: Mechanisms and Clinical Perspectives.",
+                        "doi":  "10.3390/cells15121107",
+                        "pmid":  "42346134",
+                        "pmcid":  "PMC13296908",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\huang_2026_targeting_glycolytic_plasticity_to_overcome_therapy_resistance_in.pdf",
+                        "notebook_source_id":  "49a240cf-7ea1-407f-9139-60b9148b38e6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of n lt sup gt 6 lt sup gt methyladenosine modification in health and disease",
+                        "title":  "The Role of N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-Methyladenosine Modification in Health and Disease.",
+                        "doi":  "10.1002/mco2.70767",
+                        "pmid":  "42164653",
+                        "pmcid":  "PMC13183813",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+                        "notebook_source_id":  "555a3763-67fd-49ac-8ea6-63e811abdfce",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.redox.2026.104249",
+                        "title":  "Ubiquitination-dependent regulation of ferroptosis in ischemic heart and brain.",
+                        "doi":  "10.1016/j.redox.2026.104249",
+                        "pmid":  "42263416",
+                        "pmcid":  "PMC13273139",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\zhang_2026_ubiquitination_dependent_regulation_of_ferroptosis_in_ischemic_heart.pdf",
+                        "notebook_source_id":  "77c11a5c-f848-4441-916f-411f4916b1c7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.redox.2026.104178",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A epitranscriptomic remodeling links redox stress to mitochondrial quality control and programmed cell death in sepsis-induced myocardial dysfunction.",
+                        "doi":  "10.1016/j.redox.2026.104178",
+                        "pmid":  "42030647",
+                        "pmcid":  "PMC13125911",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\chen_2026_m_lt_sup_gt_6_lt_sup_gt.pdf",
+                        "notebook_source_id":  "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m lt sup gt 6 lt sup gt a modification in skeletal system diseases review",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modification in skeletal system diseases (Review).",
+                        "doi":  "10.3892/mmr.2026.13908",
+                        "pmid":  "42169641",
+                        "pmcid":  "PMC13220071",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13032713",
+                        "title":  "m6A RNA modification and its emerging roles in diseases: recent advances and therapeutic implications.",
+                        "doi":  "10.1186/s12967-026-07805-y",
+                        "pmid":  "41731568",
+                        "pmcid":  "PMC13032713",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-023-01333-7",
+                        "title":  "Epigenetic regulation in metabolic diseases: mechanisms and advances in clinical study",
+                        "doi":  "10.1038/s41392-023-01333-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+                        "notebook_source_id":  "e4509ff4-37c3-4445-9511-069caa2096b9",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:isid1298 membranal expression of calreticulin induced by unfolded protein response in melanocytes a mechanism underlying oxidative stress induced autoimmunity in vitiligo",
+                        "title":  "ISID1298 - Membranal expression of calreticulin induced by unfolded protein response in melanocytes: A mechanism underlying oxidative stress-induced autoimmunity in vitiligo",
+                        "doi":  "10.26226/m.64199a0a70c3630019098f86",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/antiox12051075",
+                        "title":  "PGC-1α Is a Master Regulator of Mitochondrial Lifecycle and ROS Stress Response",
+                        "doi":  "10.3390/antiox12051075",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:premature ovarian insufficiency a review on the role of oxidative stress and the application of antioxidants",
+                        "title":  "Premature ovarian insufficiency: a review on the role of oxidative stress and the application of antioxidants",
+                        "doi":  "10.3389/fendo.2023.1172481",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+                        "notebook_source_id":  "510de3b5-b9a0-4ef2-b84a-a48542bbc584",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-022-01073-0",
+                        "title":  "Trends in insulin resistance: insights into mechanisms and therapeutic strategy",
+                        "doi":  "10.1038/s41392-022-01073-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\mengwei_2022_trends_in_insulin_resistance_insights_into_mechanisms_and.pdf",
+                        "notebook_source_id":  "a2d16ca0-3266-449a-8711-c3da63fee986",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of m6a modification in the biological functions and diseases",
+                        "title":  "The role of m6A modification in the biological functions and diseases",
+                        "doi":  "10.1038/s41392-020-00450-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+                        "notebook_source_id":  "6ef39c58-e00f-4a7e-9e27-a6f8a7fa1cd9",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:applications of genome editing technology in the targeted therapy of human diseases mechanisms advances and prospects",
+                        "title":  "Applications of genome editing technology in the targeted therapy of human diseases: mechanisms, advances and prospects",
+                        "doi":  "10.1038/s41392-019-0089-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+                        "notebook_source_id":  "8e32e9b9-ce33-4f73-9e3e-8706603133c9",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:chromatin regulation and transcription factor cooperation in liver cells",
+                        "title":  "Chromatin Regulation and Transcription Factor Cooperation in Liver Cells",
+                        "doi":  "10.1002/9781119436812.ch81",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for chromatin accessibility of kidney tubule cells under stress reveals key transcription factor mediating acute and chronic kidney disease",
+                        "title":  "Review for \"Chromatin accessibility of kidney tubule cells under stress reveals key transcription factor mediating acute and chronic kidney disease\"",
+                        "doi":  "10.1111/febs.15818/v1/review1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for chromatin accessibility of kidney tubule cells under stress reveals key transcription factor mediating acute and chronic kidney disease",
+                        "title":  "Review for \"Chromatin accessibility of kidney tubule cells under stress reveals key transcription factor mediating acute and chronic kidney disease\"",
+                        "doi":  "10.1111/febs.15818/v1/review2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of oxidative stress in the development of obesity and obesity related metabolic disorders",
+                        "title":  "The role of oxidative stress in the development of obesity and obesity-related metabolic disorders",
+                        "doi":  "10.5937/jomb0-24652",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\emina_2020_the_role_of_oxidative_stress_in_the_development.pdf",
+                        "notebook_source_id":  "d3d662df-7369-4b12-8669-b1712b2fb24e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-981-13-8273-4_11",
+                        "title":  "Influence of Genetic Factor on Oxidative Stress Mediated Heart Damage",
+                        "doi":  "10.1007/978-981-13-8273-4_11",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/genes10090720",
+                        "title":  "Physical Activity and Brain Health",
+                        "doi":  "10.3390/genes10090720",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fto dependent n sup 6 sup methyladenosine regulates cardiac function during remodeling and repair",
+                        "title":  "FTO-Dependent N \u003csup\u003e6\u003c/sup\u003e -Methyladenosine Regulates Cardiac Function During Remodeling and Repair",
+                        "doi":  "10.1161/circulationaha.118.033794",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:intravenous nad effectively increased the nad metabolome reduced oxidative stress and inflammation and increased expression of longevity genes safely in elderly humans",
+                        "title":  "Intravenous NAD+ effectively increased the NAD metabolome, reduced oxidative stress and inflammation, and increased expression of longevity genes safely in elderly humans",
+                        "doi":  "10.37212/jcnos.610084",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\nady_2018_intravenous_nad_effectively_increased_the_nad_metabolome_reduced.pdf",
+                        "notebook_source_id":  "14786973-bca5-4709-9fbb-6c245d867b43",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:metabolic regulation of chromatin modifications and gene expression",
+                        "title":  "Metabolic regulation of chromatin modifications and gene expression",
+                        "doi":  "10.1083/jcb.201803061",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.5772/65366",
+                        "title":  "Oxidative Stress and Disease",
+                        "doi":  "10.5772/65366",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\rosngela_2016_oxidative_stress_and_disease.pdf",
+                        "notebook_source_id":  "ea29d7e2-90b5-490f-b42f-28323562dad6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-3-319-45865-6_10",
+                        "title":  "Reduced Oxidative Stress as a Mechanism for Increased Longevity, Exercise and Heart Failure Protection with Adenylyl Cyclase Type 5 Inhibition",
+                        "doi":  "10.1007/978-3-319-45865-6_10",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:metabolic signaling to chromatin",
+                        "title":  "Metabolic Signaling to Chromatin",
+                        "doi":  "10.1101/cshperspect.a019463",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\shelley_2015_metabolic_signaling_to_chromatin.pdf",
+                        "notebook_source_id":  "ecd6cca6-01e1-47b5-825e-13f202b3b66f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mechanism and function of oxidative reversal of dna and rna methylation",
+                        "title":  "Mechanism and Function of Oxidative Reversal of DNA and RNA Methylation",
+                        "doi":  "10.1146/annurev-biochem-060713-035513",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:oxidants and antioxidants",
+                        "title":  "Oxidants and Antioxidants",
+                        "doi":  "10.1201/9781420028256.ch1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1201/9781420028256-5",
+                        "title":  "Oxidants and Antioxidants: Mechanism of Action and Regulation of Gene Expression by Bioflavonoids",
+                        "doi":  "10.1201/9781420028256-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.23860/diss-armstrong-laura-2015",
+                        "title":  "NRF as an Oxidative Stress and Nutrient Responsive Transcription Factor in Calorie Restriction",
+                        "doi":  "10.23860/diss-armstrong-laura-2015",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/3-540-32232-9_14",
+                        "title":  "Nrf2: a Transcription Factor that Modifies Susceptibility to Cigarette Smoke-Induced Pulmonary Oxidative Stress and Emphysema",
+                        "doi":  "10.1007/3-540-32232-9_14",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the use of particle mediated gene transfer for the study of promoter activity in somatic tissues",
+                        "title":  "The Use of Particle-Mediated Gene Transfer for the Study of Promoter Activity in Somatic Tissues",
+                        "doi":  "10.1385/1-59259-686-x:103",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acs.jafc.5c10561.s001",
+                        "title":  "Transcription Factor ROX1 Controls Oxidative Stress Homeostasis in Saccharomyces cerevisiae at Low pH",
+                        "doi":  "10.1021/acs.jafc.5c10561.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q16-cebpa-promotor-fto",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q16-cebpa-promotor-fto",
+    "goal":  "Determinar cómo se regula la ocupación de C/EBPα sobre el promotor de FTO y si el estrés oxidativo modula esa ocupación en algún tipo celular relevante.",
+    "notebook_title":  "C/EBPα occupancy at FTO promoter (q16)",
+    "dashboard":  "C/EBPα occupancy at FTO promoter",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T17:52:42",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers",
+    "queries_file":  "C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q16-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\questions-q16-cebpa-promotor-fto.json",
+    "notebook_id":  "e1e63fca-378c-4d40-8517-608d3cf815cc",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\tmp-sources-q16-cebpa-promotor-fto.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q16-cebpa-promotor-fto\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q16-cebpa-promotor-fto\" -Goal \"Determinar cómo se regula la ocupación de C/EBPα sobre el promotor de FTO y si el estrés oxidativo modula esa ocupación en algún tipo celular relevante.\" -QueriesFile \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q16-queries.json\" -NotebookTitle \"C/EBPα occupancy at FTO promoter (q16)\" -Dashboard \"C/EBPα occupancy at FTO promoter\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"e1e63fca-378c-4d40-8517-608d3cf815cc\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

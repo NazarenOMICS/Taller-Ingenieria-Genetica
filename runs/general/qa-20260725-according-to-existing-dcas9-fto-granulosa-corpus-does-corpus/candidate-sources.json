@@ -1,0 +1,2973 @@
+{
+  "slug": "qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus",
+  "date": "2026-07-25",
+  "candidates": [
+    {
+      "title": "Chromatin remodeling and epigenetic regulation in chronic kidney disease.",
+      "authors": "Liang J; Wan C",
+      "year": 2026,
+      "doi": "10.3389/fgene.2026.1781322",
+      "pmid": "41607591",
+      "pmcid": "PMC12844562",
+      "abstract": "The progression of chronic kidney disease (CKD) stems from persistent maladaptive alterations in renal cellular gene expression, processes governed by dynamic epigenetic regulation. The dynamic regulation of chromatin encompasses structural changes, condensation, altered accessibility, and ATP-dependent remodeling, playing a pivotal role in CKD progression. Dysregulation of these processes is increasingly implicated in key pathogenic events such as fibroblast activation and inflammatory responses. Recent advances in multi-omics approaches have provided crucial insights into the composition, mechanisms, and dysregulation of chromatin states within diseased kidneys. In this review, we summarize the current understanding of chromatin dynamics and remodeling in CKD, emphasizing their role in disease progression and their interplay with other epigenetic layers. We further discuss how these mechanisms contribute to establishing pathogenic transcriptional memory and highlight emerging therapeutic opportunities.",
+      "url": "https://europepmc.org/articles/PMC12844562",
+      "pdf_url": "https://europepmc.org/articles/PMC12844562?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1d/7b/PMC12844562.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\liang_2026_chromatin_remodeling_and_epigenetic_regulation_in_chronic_kidney.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "PMID:41607591",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic Regulation of Uterine Smooth Muscle Tumors: Histone Modifications in Uterine Fibroids and Leiomyosarcoma.",
+      "authors": "Yang Q",
+      "year": 2026,
+      "doi": "10.3390/biology15110838",
+      "pmid": "42274489",
+      "pmcid": "PMC13255634",
+      "abstract": "Uterine smooth muscle tumors (USMTs) represent a diverse group of neoplasms arising from the myometrium, ranging from benign uterine fibroids (leiomyomas) to highly aggressive uterine leiomyosarcoma. While genetic alterations contribute to tumor development, growing evidence highlights the crucial role of epigenetic regulation in shaping tumor behavior. Among these mechanisms, histone modification has emerged as a key regulator of chromatin structure and gene expression. Histone modifications, including acetylation, methylation, phosphorylation, ubiquitination, ADP-ribosylation, and SUMOylation, are dynamically controlled by epigenetic regulators known as writers, erasers, and readers, which collectively modulate transcriptional programs involved in cell proliferation, differentiation, and stress responses. Recent studies indicate that dysregulation of histone-modifying enzymes contributes to the pathogenesis of USMTs by altering chromatin accessibility and transcriptional networks. In uterine fibroids, histone modifications are associated with hormone-responsive signaling pathways, extracellular matrix deposition, and abnormal smooth muscle cell proliferation. In contrast, uterine leiomyosarcoma exhibits extensive epigenetic reprogramming characterized by aberrant histone acetylation and methylation patterns, dysregulated chromatin regulators, and activation of oncogenic signaling pathways that promote tumor aggressiveness and genomic instability. Importantly, histone modifications interact with other epigenetic mechanisms, including DNA methylation, non-coding RNA-mediated regulation, and RNA epitranscriptomics, forming complex networks that influence tumor initiation and progression. This narrative review summarizes current knowledge on histone modification pathways and their roles in USMT biology, highlighting the functions of histone-modifying enzymes, their interactions with other epigenetic mechanisms, and their impact on tumor development. In addition, this review discusses emerging therapeutic strategies targeting epigenetic regulators, including inhibitors of histone deacetylases, histone methyltransferases, and readers, as well as potential epigenetic biomarkers for diagnosis and prognosis. Finally, this review outlines future research directions, including multi-omics integration, and advanced epigenomic technologies, which may provide deeper insights into the epigenetic landscape of USMTs and facilitate the development of personalized therapeutic approaches.",
+      "url": "https://europepmc.org/articles/PMC13255634",
+      "pdf_url": "https://europepmc.org/articles/PMC13255634?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a2/e9/PMC13255634.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "PMID:42274489",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic alterations in cancer metastasis: molecular mechanisms and implications for precision oncology.",
+      "authors": "Turna S; Demokan S",
+      "year": 2026,
+      "doi": "10.3389/fonc.2026.1788808",
+      "pmid": "42137145",
+      "pmcid": "PMC13167426",
+      "abstract": "Metastasis is a complex, multistep process that underlies the majority of cancer-related deaths and is increasingly recognized as a consequence of dynamic epigenetic reprogramming rather than solely genetic alterations. Epigenetic mechanisms enable stable yet reversible changes in gene expression that drive cellular plasticity throughout the metastatic cascade, including epithelial-mesenchymal transition (EMT), intravasation, survival as circulating tumor cells, extravasation, dormancy, and metastatic colonization. In this review, we provide an integrated overview of the molecular epigenetic mechanisms regulating cancer metastasis, with particular emphasis on DNA methylation, histone post-translational modifications, chromatin remodeling complexes, and non-coding RNAs. We discuss how these epigenetic regulators interact with key EMT-associated signaling pathways to control phenotypic plasticity, anoikis resistance, and metastatic niche adaptation. In addition, emerging evidence supports the clinical relevance of metastasis-associated epigenetic alterations, including DNA methylation signatures, histone modification patterns, and non-coding RNA profiles, as promising diagnostic and prognostic biomarkers. Selected examples such as aberrant CDH1 promoter methylation, miR-200 family dysregulation, and EZH2-mediated chromatin remodeling illustrate their potential utility in patient stratification and therapeutic targeting. A deeper mechanistic understanding of epigenetic regulation across metastatic stages may facilitate the development of clinically actionable biomarkers and combination therapies in precision oncology.",
+      "url": "https://europepmc.org/articles/PMC13167426",
+      "pdf_url": "https://europepmc.org/articles/PMC13167426?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ff/9e/PMC13167426.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\turna_2026_epigenetic_alterations_in_cancer_metastasis_molecular_mechanisms_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac",
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "PMID:42137145",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+      "authors": "Zhang Y; Yang Y; Liao Q; Chen X; Wang K; Zhang R; Li J; Liu H",
+      "year": 2026,
+      "doi": "10.1186/s13072-026-00664-3",
+      "pmid": "42050634",
+      "pmcid": "PMC13274177",
+      "abstract": "Ovarian aging leads to the progressive loss of reproductive and endocrine functions. As an upstream regulatory hub, epigenetic modifications synergistically impair these two functions through multi-dimensional mechanisms, collectively contributing to the occurrence of clinical phenotypes. Current therapies (e.g., hormone replacement therapy) are difficult to reverse functional decline and carry long-term risks. This review systematically elaborates on the core roles of three major epigenetic mechanisms in ovarian aging: DNA methylation (mediated by DNMTs/TET), histone modification (dynamic balance of HATs/HDACs), and non-coding RNA (miRNA/lncRNA/circRNA network). Dysregulation of DNA methylation reprogramming drives the imbalance between dormancy and activation of primordial follicles and impairs steroidogenesis. Dysregulated histone modification induces spindle assembly defects, meiotic arrest, and a vicious cycle of apoptosis and autophagy in granulosa cells. ncRNAs regulate oocyte maturation through the ceRNA mechanism and epitranscriptomic reprogramming (e.g., m6A). These mechanisms synergistically accelerate ovarian aging through multiple pathways, including interfering with the HPG axis, aggravating oxidative stress-mitochondrial dysfunction, and disrupting apoptosis/autophagy homeostasis. Although epigenetic interventions still face potential transgenerational genetic safety risks, against the backdrop of high incidence and global population aging, the development of novel therapies that specifically target somatic cells or can avoid such risks has become an urgent need. In the future, targeting key epigenetic nodes is still expected to open up new avenues for extending female reproductive lifespan and alleviating long-term health risks associated with ovarian aging.",
+      "url": "https://europepmc.org/articles/PMC13274177",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/77/3d/13072_2026_Article_664.PMC13274177.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/77/3d/PMC13274177.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "PMID:42050634",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Histone Modifications in Cardiovascular Disease: Mechanisms and Therapeutic Opportunities.",
+      "authors": "Zheng Y; Gao YX; Guo MX; Wang LT; Zheng XW; Liao YH; Li Y; Zhu JP; Wei JM",
+      "year": 2026,
+      "doi": "10.1002/mco2.70765",
+      "pmid": "42137184",
+      "pmcid": "PMC13168874",
+      "abstract": "Cardiovascular diseases remain the leading cause of death worldwide. Maladaptive transcriptional programs drive the fibrosis, hypertrophy, and vascular inflammation that characterize these pathologies. Histone posttranslational modifications regulate these programs by remodeling chromatin accessibility and transcriptional output in cardiomyocytes, vascular cells, and immune cells. These modifications include methylation, acetylation, and metabolite-derived acylations. While the enzymatic machinery of classical histone marks is increasingly well defined, the cell-type-specific integration of these regulators into dynamic cardiovascular networks remains incompletely understood. This narrative review summarizes experimental and human studies published up to early 2026. We examine how classical marks such as H3K27me3 and H3K9ac, alongside emerging metabolic sensors like histone lysine lactylation, shape core pathobiological programs, including oxidative stress responses, endothelial dysfunction, and extracellular matrix remodeling, across major cardiovascular syndromes. We further critically evaluate the enzymatic machinery and pharmacological strategies by contrasting broad-spectrum histone deacetylase inhibition with precision approaches, including bromodomain inhibition and locus-selective epigenome editing. Finally, we address translational constraints such as drug delivery and off-target effects. We propose that single-cell resolution and spatial multiomics will be essential to identify compartment-specific targets and advance precision cardiovascular epigenetic therapeutics.",
+      "url": "https://europepmc.org/articles/PMC13168874",
+      "pdf_url": "https://europepmc.org/articles/PMC13168874?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/88/5a/PMC13168874.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zheng_2026_histone_modifications_in_cardiovascular_disease_mechanisms_and_therapeutic.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "PMID:42137184",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+      "authors": "Wang X; Zhu Q; Liu J; Fu Y; Xu J; Dong Z; Tang B; Li J",
+      "year": 2026,
+      "doi": "10.1186/s12967-026-07990-w",
+      "pmid": "41832537",
+      "pmcid": "PMC13101344",
+      "abstract": "BACKGROUND: Aging is a complex process characterized by the progressive decline of physiological functions. This process is accompanied by a series of genetic and epigenetic alterations. Epigenetic mechanisms, including histone modifications, chromatin remodeling, and RNA modifications, are critical due to their highly dynamic and plastic nature. These mechanisms play fundamental roles in the occurrence and progression of aging and age-related diseases. MAIN BODY: This review systematically summarizes the fundamental roles and molecular mechanisms of histone modifications (e.g., methylation and acylation such as acetylation), chromatin remodeling (encompassing heterochromatin formation, nuclear lamina association, alterations in chromatin accessibility and higher-order architecture, and TF-mediated regulation), and RNA modifications (such as m6A, m7G, and m5C) in the regulation of cellular senescence, organ functional decline, and age-related diseases, including neurodegenerative disorders, CVDs, and osteoporosis. We highlight the sophisticated interaction networks formed between these three epigenetic layers. Finally, we summarize potential anti-aging interventions targeting these mechanisms. These strategies include natural products, peptides, and specific small-molecule inhibitors or agonists. Emerging intervention methods and their potential safety considerations are also discussed. CONCLUSION: Histone modifications, chromatin remodeling, and RNA modifications constitute an interconnected and dynamically coordinated epigenetic network that synergistically regulates the aging process. A thorough elucidation of the regulatory mechanisms within this complex network will not only contribute to a fundamental understanding of the biological essence of aging, but also provide a critical theoretical foundation for the development of precise and efficient epigenetic interventions.",
+      "url": "https://europepmc.org/articles/PMC13101344",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/9a/85/12967_2026_Article_7990.PMC13101344.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9a/85/PMC13101344.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "PMID:41832537",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanisms coordinating exit from the stem cell state in mammals.",
+      "authors": "Park EJ; Levin-Ferreyra F; Di Stefano B",
+      "year": 2026,
+      "doi": "10.1101/gad.353584.125",
+      "pmid": "42156139",
+      "pmcid": "PMC13267984",
+      "abstract": "Differentiation requires coordinated exit from the stem cell state, during which gene regulatory networks sustaining self-renewal are dismantled, while lineage-specific programs are activated. This transition is governed by chromatin modifications, transcriptional networks, RNA processing, translational control, and metabolic rewiring that must operate with temporal precision. Despite significant progress in identifying individual regulatory components, understanding how these layers integrate to orchestrate irreversible cell fate commitment remains a fundamental challenge. This review examines common and unique regulatory principles governing stem cell exit, from totipotency during early embryogenesis to tissue-specific stem cell differentiation in adults. We synthesize recent findings on regulatory mechanisms across mammalian species, highlight species-specific adaptations, and explore the concept of reversibility in differentiation. Elucidating these principles has broad implications for regenerative medicine, cellular reprogramming, and diseases in which differentiation programs are corrupted.",
+      "url": "https://europepmc.org/articles/PMC13267984",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/50/b7/982.PMC13267984.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/50/b7/PMC13267984.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "PMID:42156139",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Metabolic oxidoreductases: central regulators of the epigenetic landscapes in stemness.",
+      "authors": "Lee HT; Roe JS; Youn HD",
+      "year": 2026,
+      "doi": "10.1038/s12276-026-01687-2",
+      "pmid": "41974890",
+      "pmcid": "PMC13144531",
+      "abstract": "Cell metabolism has long been recognized as a fundamental process for energy production, biomolecule synthesis, and cell survival. During transitions between stem and somatic states, central carbon metabolism is rewired with concurrent changes in chromatin regulation and gene expression. Because a specific central carbon metabolic transition occurs simultaneously during the epigenetic transition from stem cells to somatic cells or vice versa, metabolism has an important role in determining the epigenetic landscape that influences cell fate. Oxidoreductases are key enzymes that catalyze oxidation-reduction reactions during central carbon metabolism. They also have important roles in determining the metabolic flux and epigenetic landscapes by supplying epigenetic metabolites, directly shaping chromatin structures through posttranslational modifications, and acting as scaffold proteins for epigenetic complexes to affect chromatin states. In this Review, we outline emerging mechanisms by which oxidoreductases couple metabolic flux to epigenetic landscapes that maintain or dissolve stemness.",
+      "url": "https://europepmc.org/articles/PMC13144531",
+      "pdf_url": "https://europepmc.org/articles/PMC13144531?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1e/36/PMC13144531.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac",
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "PMID:41974890",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation-centric epigenetic regulation in dilated cardiomyopathy: mechanisms, metabolic interplay, and translational potential.",
+      "authors": "Wang Y; Zhang Y; Mao Z; Xu Z",
+      "year": 2026,
+      "doi": "10.3389/fcvm.2026.1785320",
+      "pmid": "42199200",
+      "pmcid": "PMC13199325",
+      "abstract": "Dilated cardiomyopathy (DCM) is one of the main causes of heart failure and heart transplantation, with complex causes involving multiple factors such as genetics, epigenetics, and environment. In recent years, methylation, as a key epigenetic regulatory approach, has increasingly garnered attention for its role in the mechanisms of DCM onset. This review comprehensively summarizes the mechanisms, functions, and metabolic regulatory characteristics of DNA methylation, histone methylation, and RNA N6-methyladenosine (m6A) modification in the occurrence and development of DCM. Literature was selected from PubMed and Web of Science, focusing on studies related to methylation and DCM published in recent years, as well as comprehensive and well-structured review articles. Studies have shown that these three methylation modifications collectively influence the phenotypic characteristics of DCM by regulating processes such as gene expression, metabolic homeostasis, inflammatory responses, fibrosis, and cell death in cardiomyocytes. Moreover, there is cross-regulation among these modifications, which is closely related to carbon metabolism and the tricarboxylic acid cycle. Further exploration of methylation regulatory mechanisms not only helps reveal the underlying basis of DCM but also opens new directions for targeted therapy and precision medicine. This article aims to summarize existing research advancements, explore the clinical translation potential of methylation-related mechanisms, and identify key questions and challenges for future studies.",
+      "url": "https://europepmc.org/articles/PMC13199325",
+      "pdf_url": "https://europepmc.org/articles/PMC13199325?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/19/66/PMC13199325.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "PMID:42199200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modification-mediated multidimensional crosstalk: a novel perspective on gene expression regulation.",
+      "authors": "Wang Y; Yang C; Lin R; Ling H; Xu YZ; Wu Q; Zhou Y",
+      "year": 2026,
+      "doi": "10.1186/s13059-026-04037-7",
+      "pmid": "41918117",
+      "pmcid": "PMC13162458",
+      "abstract": "RNA modifications play pivotal roles in regulating RNA metabolism. Notably, they do not function in isolation, but crosstalk with DNA/protein modifications and other RNA modifications to form multi-layered regulatory networks that cooperatively fine-tune gene expression. In this review, we propose a two-dimensional, mutually exclusive \"cis/trans\" and \"direct/indirect\" framework to delineate the mechanisms and functions of four reciprocal modification axes including RNA-DNA, RNA-histone, RNA-non-histone, and RNA-RNA interactions. Furthermore, this RNA modification-centered crosstalk provides groundbreaking insights into translational applications across disease therapy, tissue engineering, and plant biotechnology. We also address current technical challenges and outline future directions to accelerate translational research.",
+      "url": "https://europepmc.org/articles/PMC13162458",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/0a/cd/13059_2026_Article_4037.PMC13162458.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0a/cd/PMC13162458.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "PMID:41918117",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulatory risk loci link disrupted androgen response to the pathophysiology of polycystic ovary syndrome.",
+      "authors": "Srivastava J; Ovcharenko I",
+      "year": 2026,
+      "doi": "10.1210/jendso/bvag083",
+      "pmid": "41994484",
+      "pmcid": "PMC13080274",
+      "abstract": "A major challenge in deciphering the complex genetic landscape of polycystic ovary syndrome (PCOS) lies in the limited understanding of how susceptibility loci drive molecular mechanisms across diverse phenotypes. To address this, we integrated molecular and epigenomic annotations from proposed causal cell types and employed a deep learning (DL) framework to predict cell type-specific regulatory effects of PCOS-risk variants. Our analysis revealed that these variants affect key transcription factor-binding sites, including <i>NR4A1/2</i>, <i>NHLH2</i>, <i>FOXA1</i>, and <i>WT1</i>, which regulate gonadotropin signaling, folliculogenesis, and steroidogenesis across brain and endocrine cell types. The DL model, which showed strong concordance with reporter assay data, identified enhancer-disrupting activity in ∼20% of risk variants. Notably, many of these variants disrupt transcription factors involved in androgen-mediated signaling, providing molecular insights into hyperandrogenemia in PCOS. Variants prioritized by the model were more pleiotropic and exerted stronger regulatory effects on gene expression compared with other risk variants. Using the <i>IRX3-FTO</i> locus as a case study, we demonstrate how regulatory disruptions in tissues such as the fetal brain, pancreas, adipocytes, and endothelial cells may link obesity-associated mechanisms to PCOS pathogenesis via neuronal development, metabolic dysfunction, and impaired folliculogenesis. Collectively, our findings highlight the utility of integrating DL models with epigenomic data to uncover disease-relevant variants, reveal cross-tissue regulatory effects, and refine mechanistic understanding of PCOS.",
+      "url": "https://europepmc.org/articles/PMC13080274",
+      "pdf_url": "https://europepmc.org/articles/PMC13080274?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "PMID:41994484",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of epigenetic modifications in cancer-associated fibroblasts.",
+      "authors": "Yan B; Yang C; Liu X; Zuo Q; Wang J; Yang W; Chen H",
+      "year": 2026,
+      "doi": "10.3389/fmed.2026.1780734",
+      "pmid": "42110420",
+      "pmcid": "PMC13154011",
+      "abstract": "Cancer-associated fibroblasts (CAFs) constitute a heterogeneous population of stromal cells whose tumor-modulating activities are highly context-dependent. Unlike cancer cells, CAFs rarely harbor stable genetic mutations; instead, their phenotypic plasticity is largely driven by reversible epigenetic reprogramming. Within the tumor microenvironment (TME), CAFs function as key regulators by secreting extracellular matrix (ECM) components, paracrine growth factors, cytokines, and metabolic intermediates that collectively promote tumor growth, invasion, and therapeutic resistance. Recent advances in cancer biology have shifted attention from solely cataloging coding-sequence mutations toward understanding the epigenetic mechanisms that shape CAF identity and function. Major epigenetic regulatory mechanisms include DNA methylation, histone modifications, and RNA modifications, which dynamically regulate chromatin structure and gene expression without altering the underlying DNA sequence. Emerging evidence indicates that the activation and functional heterogeneity of CAFs are predominantly governed by these epigenetic alterations rather than by permanent genetic changes. Epigenetic reprogramming enables CAFs to acquire diverse tumor-promoting properties, including remodeling of the extracellular matrix, modulation of intercellular signaling pathways, and secretion of cytokines that influence gene expression in neighboring cancer and immune cells. These processes ultimately contribute to tumor initiation, progression, metastasis, and resistance to therapy. This review summarizes recent advances in understanding how epigenetic modifications regulate CAF activation and function within the tumor microenvironment. In addition, we discuss the potential of targeting CAF-associated epigenetic pathways as a promising therapeutic strategy for cancer treatment.",
+      "url": "https://europepmc.org/articles/PMC13154011",
+      "pdf_url": "https://europepmc.org/articles/PMC13154011?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/85/39/PMC13154011.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "PMID:42110420",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts",
+      "authors": "",
+      "year": 2025,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC11696521",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11696521/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11696521/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV",
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "PMC11696521",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "EACR 2025 Congress: Innovative Cancer Science, 16-19 June 2025.",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1002/1878-0261.70070",
+      "pmid": "40498965",
+      "pmcid": "PMC12155586",
+      "abstract": "Abstracts submitted to the 'EACR 2025 Congress: Innovative Cancer Science', from 16-19 June 2025 and accepted by the Congress Organising Committee are published in this Supplement of Molecular Oncology, an affiliated journal of the European Association for Cancer Research (EACR).",
+      "url": "https://europepmc.org/articles/PMC12155586",
+      "pdf_url": "https://europepmc.org/articles/PMC12155586?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/06/d3/PMC12155586.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2025_eacr_2025_congress_innovative_cancer_science_16_19.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV",
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "PMID:40498965",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fosl2 facilitates chromatin accessibility to determine developmental events during follicular maturation.",
+      "authors": "Zhang H; Li Z; Zhu Y; Lyu W; Wei W; Wang H; Tian S; Yue W; Zhong J; Sun QY; Guan Y",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-64009-6",
+      "pmid": "41062456",
+      "pmcid": "PMC12508199",
+      "abstract": "Granulosa cells (GCs) are the most dynamically responsive cell lineage to encourage continuous folliculogenesis; however, developmental dynamics and interplay with downstream transcription circuitry remain unclear. Here, we unravel the redistribution of genome-wide chromatin areas that drive broad developmental-related transcriptomic alterations during follicular maturation in murine and porcine GCs. Distinct GC-activated accessibility regions (GAAs) at the ovulatory phase are responsible for augmenting flanking GC-involved developmental gene (GDG) expression, which are essential for transcriptional responses to developmental cues. Mechanistically, the transcription factor Fosl2 is strongly recruited to GAAs, facilitating chromatin accessibility state transition. Elevated GAA signals driven by Fosl2 loading induce a significant upregulation of adjacent GDG expression. Additionally, GC-specific Fosl2 deletion in mice perturbs GC cellularity, leading to subfertility related to reproductive aging. Together, we highlight a dynamic chromatin accessibility landscape during follicular maturation, revealing the indispensable Fosl2 function not only controls transcriptional activation via a reconfigured chromatin state, but also orchestrates intricate signaling pathways that are fundamental for ovulation and reproduction.",
+      "url": "https://europepmc.org/articles/PMC12508199",
+      "pdf_url": "https://europepmc.org/articles/PMC12508199?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ee/64/PMC12508199.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "PMID:41062456",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Implications of gut microbiota-mediated epigenetic modifications in intestinal diseases",
+      "authors": "Qihong Zhang; Yun Liu; Yuheng Li; Guangdong Bai; Jiaman Pang; Miaomiao Wu; Jiawei Li; Xuan Zhao; Yaoyao Xia",
+      "year": 2025,
+      "doi": "10.1080/19490976.2025.2508426",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Intestinal diseases are highly prevalent, affecting millions worldwide and significantly contributing to global morbidity. The treatment of complex disorders, such as inflammatory bowel disease (IBD) and colorectal cancer (CRC), remains challenging due to multifactorial etiologies, diverse patient responses, and the limitations of current therapeutic strategies. Although the gut microbiota clearly plays a role in regulating the onset of intestinal diseases, few studies have explored the epigenetic factors by which the microbiota contributes to disease development. Here, the latest insights into the molecular mechanisms underlying the bidirectional influence between gut microbiota and epigenetic modifications are discussed, including DNA methylation, histone modifications, non-coding RNAs, and N6-methyladenosine (m6A). Importantly, mechanistic studies based on animal models or human cells have demonstrated that the gut microbiota, and other environmental factors, influence targeted gene expression and activate immune pathways through host epigenetic dysregulation, which are closely associated with the development of IBD and CRC. Furthermore, potential microbiome interventions, including probiotics, prebiotics and postbiotics, fecal microbiota transplantation (FMT), dietary modifications, and phage therapy, have been proposed as innovative therapeutic strategies to correct these abnormal epigenetic patterns associated with the diseases. Overall, addressing microbiome dysbiosis and its epigenetic consequences presents a promising frontier in the treatment of intestinal diseases, offering the potential to not only restore microbial balance but also provide more targeted and personalized therapeutic strategies for better patient outcomes.",
+      "url": "https://doi.org/10.1080/19490976.2025.2508426",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19490976.2025.2508426?needAccess=true",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "W4411025997",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Lactylation of HDAC1 Confers Resistance to Ferroptosis in Colorectal Cancer",
+      "authors": "Zhou Yang; Wei Su; Qinglin Zhang; Lili Niu; Baijie Feng; Yu Zhang; Feng Huang; Jiaxin He; Qinyao Zhou; Xin Zhou; Ma La; Jingwan Zhou; Yuanrong Wang; Wenjing Xiong; Jun Xiang; Zhilin Hu; Qiang Zhan; Bing Yao",
+      "year": 2025,
+      "doi": "10.1002/advs.202408845",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Colorectal cancer (CRC) is highly resistant to ferroptosis, which hinders the application of anti‐ferroptosis therapy. Through drug screening, it is found that histone deacetylase inhibitor (HDACi) significantly sensitized CRC to ferroptosis. The combination of HDACi and ferroptosis inducers synergically suppresses CRC growth both in vivo and in vitro. Mechanically, HDACi reduces ferroptosis suppressor protein (FSP1) by promoting its mRNA degradation. Specifically, it is confirmed that HDACi specifically targets HDAC1 and promotes the H3K27ac modification of fat mass‐ and obesity‐associated gene (FTO) and AlkB Homolog 5, RNA Demethylase (ALKBH5), which results in significant activation of FTO and ALKBH5. The activation of FTO and ALKBH5 reduces N6‐methyladenosine (m 6 A) modification on FSP1 mRNA, leading to its degradation. Crucially, lactylation of HDAC1 K412 is essential for ferroptosis regulation. Both Vorinostat (SAHA) and Trichostatin A (TSA) notably diminish HDAC1 K412 lactylation in comparison to other HDAC1 inhibitors, exhibiting a consistent trend of increasing susceptibility to ferroptosis. In conclusion, the research reveals that HDACi decreases HDAC1 K412 lactylation to sensitize CRC to ferroptosis and that the combination of HDACi and ferroptosis inducers can be a promising therapeutic strategy for CRC.",
+      "url": "https://doi.org/10.1002/advs.202408845",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202408845",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "W4407038098",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanism of crosstalk between DNA methylation and histone acetylation and related advances in diagnosis and treatment of premature ovarian failure.",
+      "authors": "Li J; Liao Q; Guo Y; Zhang J; Zhang R; Liu Q; Liu H",
+      "year": 2025,
+      "doi": "10.1080/15592294.2025.2528563",
+      "pmid": "40620015",
+      "pmcid": "PMC12239803",
+      "abstract": "Premature ovarian failure (POF) affects 1-3.5% of women under 40 years of age, characterized by irreversible depletion of the follicular pool and decline in oocyte quality, with its pathogenesis remaining incompletely understood. Current mainstream therapies, such as hormone replacement therapy, only alleviate symptoms, fail to reverse the underlying functional decline, and carry long-term risks, necessitating the exploration of novel strategies targeting the etiology. This review systematically dissects the central role of epigenetic regulation in POF. First, DNA methylation governs female reproductive lifespan by reprogramming the dormant-activation balance of primordial follicles and maintaining epigenetic memory in oocytes. Second, histone modification homeostasis determines ovarian endocrine function by influencing granulosa cell senescence and steroid hormone synthesis. Additionally, non-coding RNAs form regulatory hubs by constructing competing endogenous RNA networks that integrate oxidative stress and developmental signaling pathways. These mechanisms provide new insights into the pathological basis of POF, identify potential biomarkers, and offer a theoretical framework for deciphering targeted intervention strategies and developing precision epigenetic therapies to delay POF progression.",
+      "url": "https://europepmc.org/articles/PMC12239803",
+      "pdf_url": "https://europepmc.org/articles/PMC12239803?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f4/aa/PMC12239803.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\li_2025_mechanism_of_crosstalk_between_dna_methylation_and_histone.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "PMID:40620015",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+      "authors": "",
+      "year": 2024,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC11627200",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11627200/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11627200/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "PMC11627200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Association of childhood dehydroepiandrosterone sulfate concentration, pubertal development, and DNA methylation at puberty-related genes",
+      "authors": "Maya Sudman; Reinhard Stöger; Gillian R. Bentley; Philippa Melamed",
+      "year": 2024,
+      "doi": "10.1093/ejendo/lvae156",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "OBJECTIVE: High concentrations of dehydroepiandrosterone sulfate (DHEAS) often precede premature puberty and sometimes polycystic ovary syndrome (PCOS). We hypothesized that the underlying mechanisms might involve DNA methylation. As an indicator of the downstream effects of DHEAS, we looked for associations between prepubertal DHEAS concentration, pubertal progression, and DNA methylation at puberty-related genes in blood cells. DESIGN: Blood methylome and DHEAS concentration at 7.5 and 8.5 years, respectively, were analyzed in 91 boys and 82 girls. Pubertal development data were collected between 8.1 and 17 years (all from UK birth cohort, Avon Longitudinal Study of Parents and Children [ALSPAC]). METHODS: Correlation between DHEAS and pubertal measurements was assessed by Spearman's correlation. DHEAS association with methylation at individual CpGs or regions was evaluated by linear regression, and nearby genes examined by enrichment analysis and intersection with known puberty-related genes. RESULTS: Boys and girls with higher childhood DHEAS concentrations had more advanced pubic hair growth throughout puberty; girls also had advanced breast development, earlier menarche, and longer menstrual cycles. DHEAS concentration was associated with methylation at individual CpGs near several puberty-related genes. In boys, 14 genes near CpG islands with DHEAS-associated methylation were detected, and in girls, there were 9 which included LHCGR and SRD5A2; FGFR1 and FTO were detected in both sexes. CONCLUSIONS: The association between DHEAS and pubertal development, as reported previously, suggests a physiological connection. Our novel findings showing that DHEAS concentration correlates negatively and linearly with DNA methylation levels at regulatory regions of key puberty-related genes, provide a mechanism for such a functional relationship.",
+      "url": "https://doi.org/10.1093/ejendo/lvae156",
+      "pdf_url": "https://durham-repository.worktribe.com/file/3225318/1/Accepted%20Journal%20Article",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "W4405369566",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "EACR 2024: Innovative Cancer Science, 10-13 June 2024, Rotterdam, Netherlands.",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.1002/1878-0261.13683",
+      "pmid": "38845177",
+      "pmcid": "PMC11156946",
+      "abstract": "",
+      "url": "https://europepmc.org/articles/PMC11156946",
+      "pdf_url": "https://europepmc.org/articles/PMC11156946?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4e/c9/PMC11156946.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV",
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "PMID:38845177",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Genetically-engineered mouse models of small cell lung cancer: the next generation",
+      "authors": "Matthew G. Oser; David MacPherson; Trudy G. Oliver; Julien Sage; Kwon-Sik Park",
+      "year": 2024,
+      "doi": "10.1038/s41388-023-02929-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41388-023-02929-7",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11180418/pdf/nihms-1999222.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "W4390669840",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Insights into the m6A demethylases FTO and ALKBH5 : structural, biological function, and inhibitor development",
+      "authors": "Zewei Gao; Xuan Zha; Min Li; Xueli Xia; Shengjun Wang",
+      "year": 2024,
+      "doi": "10.1186/s13578-024-01286-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract N6-methyladenosine (m 6 A) is dynamically regulated by methyltransferases (termed “writers”) and demethylases (referred to as “erasers”), facilitating a reversible modulation. Changes in m 6 A levels significantly influence cellular functions, such as RNA export from the nucleus, mRNA metabolism, protein synthesis, and RNA splicing. They are intricately associated with a spectrum of pathologies. Moreover, dysregulation of m 6 A modulation has emerged as a promising therapeutic target across many diseases. m 6 A plays a pivotal role in controlling vital downstream molecules and critical biological pathways, contributing to the pathogenesis and evolution of numerous conditions. This review provides an overview of m 6 A demethylases, explicitly detailing the structural and functional characteristics of FTO and ALKBH5. Additionally, we explore their distinct involvement in various diseases, examine factors regulating their expression, and discuss the progress in inhibitor development.",
+      "url": "https://doi.org/10.1186/s13578-024-01286-6",
+      "pdf_url": "https://cellandbioscience.biomedcentral.com/counter/pdf/10.1186/s13578-024-01286-6",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "W4401908039",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Posters",
+      "authors": "",
+      "year": 2024,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC11208286",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11208286/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11208286/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "PMC11208286",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Protocol for Allele-Specific Epigenome Editing Using CRISPR/dCas9",
+      "authors": "Nivethika Rajaram; Pavel Bashtrykov; Albert Jeltsch",
+      "year": 2024,
+      "doi": "10.1007/978-1-0716-4051-7_9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-0716-4051-7_9",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "10.1007/978-1-0716-4051-7_9",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulatory mechanisms of PD-1/PD-L1 in cancers",
+      "authors": "Xin Lin; Kuan Kang; Pan Chen; Zhaoyang Zeng; Guiyuan Li; Wei Xiong; Mei Yi; Bo Xiang",
+      "year": 2024,
+      "doi": "10.1186/s12943-024-02023-w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Immune evasion contributes to cancer growth and progression. Cancer cells have the ability to activate different immune checkpoint pathways that harbor immunosuppressive functions. The programmed death protein 1 (PD-1) and programmed cell death ligands (PD-Ls) are considered to be the major immune checkpoint molecules. The interaction of PD-1 and PD-L1 negatively regulates adaptive immune response mainly by inhibiting the activity of effector T cells while enhancing the function of immunosuppressive regulatory T cells (Tregs), largely contributing to the maintenance of immune homeostasis that prevents dysregulated immunity and harmful immune responses. However, cancer cells exploit the PD-1/PD-L1 axis to cause immune escape in cancer development and progression. Blockade of PD-1/PD-L1 by neutralizing antibodies restores T cells activity and enhances anti-tumor immunity, achieving remarkable success in cancer therapy. Therefore, the regulatory mechanisms of PD-1/PD-L1 in cancers have attracted an increasing attention. This article aims to provide a comprehensive review of the roles of the PD-1/PD-L1 signaling in human autoimmune diseases and cancers. We summarize all aspects of regulatory mechanisms underlying the expression and activity of PD-1 and PD-L1 in cancers, including genetic, epigenetic, post-transcriptional and post-translational regulatory mechanisms. In addition, we further summarize the progress in clinical research on the antitumor effects of targeting PD-1/PD-L1 antibodies alone and in combination with other therapeutic approaches, providing new strategies for finding new tumor markers and developing combined therapeutic approaches.",
+      "url": "https://doi.org/10.1186/s12943-024-02023-w",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-024-02023-w",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\xin_2024_regulatory_mechanisms_of_pd_1_pd_l1_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "W4397036883",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #3 (Public Review): Cell-type-specific cis-regulatory divergence in gene expression and chromatin accessibility revealed by human-chimpanzee hybrid cells",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.7554/elife.89594.3.sa2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.89594.3.sa2",
+      "pdf_url": "http://dx.doi.org/10.7554/elife.89594.3.sa2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "10.7554/elife.89594.3.sa2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of epigenetics in women’s reproductive health: the impact of environmental factors",
+      "authors": "Xinru Yu; Jiawei Xu; Bihan Song; Runhe Zhu; Jiaxin Liu; Yi Liu; Ying Jie",
+      "year": 2024,
+      "doi": "10.3389/fendo.2024.1399757",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "This paper explores the significant role of epigenetics in women's reproductive health, focusing on the impact of environmental factors. It highlights the crucial link between epigenetic modifications-such as DNA methylation and histones post-translational modifications-and reproductive health issues, including infertility and pregnancy complications. The paper reviews the influence of pollutants like PM2.5, heavy metals, and endocrine disruptors on gene expression through epigenetic mechanisms, emphasizing the need for understanding how dietary, lifestyle choices, and exposure to chemicals affect gene expression and reproductive health. Future research directions include deeper investigation into epigenetics in female reproductive health and leveraging gene editing to mitigate epigenetic changes for improving IVF success rates and managing reproductive disorders.",
+      "url": "https://doi.org/10.3389/fendo.2024.1399757",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1399757/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "W4402529016",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A lncRNA from the FTO locus acts as a suppressor of the m6A writer complex and p53 tumor suppression signaling",
+      "authors": "Jianong Zhang; Jiangbo Wei; Rui Sun; Haoyue Sheng; Kai Yin; Yunqian Pan; Rafael E. Jiménez; Sujun Chen; Xiao‐Long Cui; Zhongyu Zou; Zhiying Yue; Michael J. Emch; John R. Hawse; Liguo Wang; Housheng Hansen He; Shujie Xia; Bangmin Han; Chuan He; Haojie Huang",
+      "year": 2023,
+      "doi": "10.1016/j.molcel.2023.06.024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) of mRNAs modulated by the METTL3-METTL14-WTAP-RBM15 methyltransferase complex and m6A demethylases such as FTO play important roles in regulating mRNA stability, splicing, and translation. Here, we demonstrate that FTO-IT1 long noncoding RNA (lncRNA) was upregulated and positively correlated with poor survival of patients with wild-type p53-expressing prostate cancer (PCa). m6A RIP-seq analysis revealed that FTO-IT1 knockout increased mRNA m6A methylation of a subset of p53 transcriptional target genes (e.g., FAS, TP53INP1, and SESN2) and induced PCa cell cycle arrest and apoptosis. We further showed that FTO-IT1 directly binds RBM15 and inhibits RBM15 binding, m6A methylation, and stability of p53 target mRNAs. Therapeutic depletion of FTO-IT1 restored mRNA m6A level and expression of p53 target genes and inhibited PCa growth in mice. Our study identifies FTO-IT1 lncRNA as a bona fide suppressor of the m6A methyltransferase complex and p53 tumor suppression signaling and nominates FTO-IT1 as a potential therapeutic target of cancer.",
+      "url": "https://doi.org/10.1016/j.molcel.2023.06.024",
+      "pdf_url": "https://doi.org/10.1016/j.molcel.2023.06.024",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "W4384925761",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts from the 55th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+      "authors": "",
+      "year": 2023,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC10198255",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10198255/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10198255/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "PMC10198255",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Emerging insights into enhancer biology and function",
+      "authors": "Mirjam Arnold; Kristy R. Stengel",
+      "year": 2023,
+      "doi": "10.1080/21541264.2023.2222032",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cell type-specific gene expression is coordinated by DNA-encoded enhancers and the transcription factors (TFs) that bind to them in a sequence-specific manner. As such, these enhancers and TFs are critical mediators of normal development and altered enhancer or TF function is associated with the development of diseases such as cancer. While initially defined by their ability to activate gene transcription in reporter assays, putative enhancer elements are now frequently defined by their unique chromatin features including DNase hypersensitivity and transposase accessibility, bidirectional enhancer RNA (eRNA) transcription, CpG hypomethylation, high H3K27ac and H3K4me1, sequence-specific transcription factor binding, and co-factor recruitment. Identification of these chromatin features through sequencing-based assays has revolutionized our ability to identify enhancer elements on a genome-wide scale, and genome-wide functional assays are now capitalizing on this information to greatly expand our understanding of how enhancers function to provide spatiotemporal coordination of gene expression programs. Here, we highlight recent technological advances that are providing new insights into the molecular mechanisms by which these critical cis-regulatory elements function in gene control. We pay particular attention to advances in our understanding of enhancer transcription, enhancer-promoter syntax, 3D organization and biomolecular condensates, transcription factor and co-factor dependencies, and the development of genome-wide functional enhancer screens.",
+      "url": "https://doi.org/10.1080/21541264.2023.2222032",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/21541264.2023.2222032?needAccess=true",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "W4380577556",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic regulation in metabolic diseases: mechanisms and advances in clinical study.",
+      "authors": "Wu YL; Lin ZJ; Li CC; Lin X; Shan SK; Guo B; Zheng MH; Li F; Yuan LQ; Li ZH",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01333-7",
+      "pmid": "36864020",
+      "pmcid": "PMC9981733",
+      "abstract": "Epigenetics regulates gene expression and has been confirmed to play a critical role in a variety of metabolic diseases, such as diabetes, obesity, non-alcoholic fatty liver disease (NAFLD), osteoporosis, gout, hyperthyroidism, hypothyroidism and others. The term 'epigenetics' was firstly proposed in 1942 and with the development of technologies, the exploration of epigenetics has made great progresses. There are four main epigenetic mechanisms, including DNA methylation, histone modification, chromatin remodelling, and noncoding RNA (ncRNA), which exert different effects on metabolic diseases. Genetic and non-genetic factors, including ageing, diet, and exercise, interact with epigenetics and jointly affect the formation of a phenotype. Understanding epigenetics could be applied to diagnosing and treating metabolic diseases in the clinic, including epigenetic biomarkers, epigenetic drugs, and epigenetic editing. In this review, we introduce the brief history of epigenetics as well as the milestone events since the proposal of the term 'epigenetics'. Moreover, we summarise the research methods of epigenetics and introduce four main general mechanisms of epigenetic modulation. Furthermore, we summarise epigenetic mechanisms in metabolic diseases and introduce the interaction between epigenetics and genetic or non-genetic factors. Finally, we introduce the clinical trials and applications of epigenetics in metabolic diseases.",
+      "url": "https://europepmc.org/articles/PMC9981733",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01333-7.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/eb/06/PMC9981733.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\wu_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "PMID:36864020",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methyltransferase 3A-mediated promoter methylation represses retinoic acid receptor responder 3 expression in basal-like breast cancer",
+      "authors": "YOULIN TUO; XUBAO LIU",
+      "year": 2023,
+      "doi": "10.32604/biocell.2023.025250",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.32604/biocell.2023.025250",
+      "pdf_url": "https://file.techscience.com/ueditor/files/biocell/TSP_BIOCELL-47-2/TSP_BIOCELL_25250/TSP_BIOCELL_25250.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\youlin_2023_methyltransferase_3a_mediated_promoter_methylation_represses_retinoic_acid.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "10.32604/biocell.2023.025250",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oocyte Aging: A Multifactorial Phenomenon in A Unique Cell",
+      "authors": "Paweł Kordowitzki; Szymon Graczyk; Amin Haghani; Michael Klutstein",
+      "year": 2023,
+      "doi": "10.14336/ad.2023.0527",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The oocyte is considered to be the largest cell in mammalian species. Women hoping to become pregnant face a ticking biological clock. This is becoming increasingly challenging as an increase in life expectancy is accompanied by the tendency to conceive at older ages. With advancing maternal age, the fertilized egg will exhibit lower quality and developmental competence, which contributes to increased chances of miscarriage due to several causes such as aneuploidy, oxidative stress, epigenetics, or metabolic disorders. In particular, heterochromatin in oocytes and with it, the DNA methylation landscape undergoes changes. Further, obesity is a well-known and ever-increasing global problem as it is associated with several metabolic disorders. More importantly, both obesity and aging negatively affect female reproduction. However, among women, there is immense variability in age-related decline of oocytes' quantity, developmental competence, or quality. Herein, the relevance of obesity and DNA-methylation will be discussed as these aspects have a tremendous effect on female fertility, and it is a topic of continuous and widespread interest that has yet to be fully addressed for the mammalian oocyte.",
+      "url": "https://doi.org/10.14336/ad.2023.0527",
+      "pdf_url": "https://www.aginganddisease.org/EN/PDF/10.14336/AD.2023.0527",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\pawe_2023_oocyte_aging_a_multifactorial_phenomenon_in_a_unique.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "W4378908391",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modification: mechanisms and therapeutic targets",
+      "authors": "Lei Qiu; Jing Qian; Yanbo Li; Junhong Han",
+      "year": 2023,
+      "doi": "10.1186/s43556-023-00139-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "RNA modifications are dynamic and reversible chemical modifications on substrate RNA that are regulated by specific modifying enzymes. They play important roles in the regulation of many biological processes in various diseases, such as the development of cancer and other diseases. With the help of advanced sequencing technologies, the role of RNA modifications has caught increasing attention in human diseases in scientific research. In this review, we briefly summarized the basic mechanisms of several common RNA modifications, including m6A, m5C, m1A, m7G, Ψ, A-to-I editing and ac4C. Importantly, we discussed their potential functions in human diseases, including cancer, neurological disorders, cardiovascular diseases, metabolic diseases, genetic and developmental diseases, as well as immune disorders. Through the \"writing-erasing-reading\" mechanisms, RNA modifications regulate the stability, translation, and localization of pivotal disease-related mRNAs to manipulate disease development. Moreover, we also highlighted in this review all currently available RNA-modifier-targeting small molecular inhibitors or activators, most of which are designed against m6A-related enzymes, such as METTL3, FTO and ALKBH5. This review provides clues for potential clinical therapy as well as future study directions in the RNA modification field. More in-depth studies on RNA modifications, their roles in human diseases and further development of their inhibitors or activators are needed for a thorough understanding of epitranscriptomics as well as diagnosis, treatment, and prognosis of human diseases.",
+      "url": "https://doi.org/10.1186/s43556-023-00139-x",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s43556-023-00139-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "W4386089664",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #1 (Public Review): Cell type-specific cis-regulatory divergence in gene expression and chromatin accessibility revealed by human-chimpanzee hybrid cells",
+      "authors": "",
+      "year": 2023,
+      "doi": "10.7554/elife.89594.1.sa2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.89594.1.sa2",
+      "pdf_url": "https://doi.org/10.7554/elife.89594.1.sa2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "10.7554/elife.89594.1.sa2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #2 (Public Review): Cell type-specific cis-regulatory divergence in gene expression and chromatin accessibility revealed by human-chimpanzee hybrid cells",
+      "authors": "",
+      "year": 2023,
+      "doi": "10.7554/elife.89594.1.sa1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.89594.1.sa1",
+      "pdf_url": "https://elifesciences.org/reviewed-preprints/89594v1.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2023_reviewer_2_public_review_cell_type_specific_cis.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "10.7554/elife.89594.1.sa1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Crosstalk between epitranscriptomic and epigenetic mechanisms in gene regulation.",
+      "authors": "Kan RL; Chen J; Sallam T",
+      "year": 2022,
+      "doi": "10.1016/j.tig.2021.06.014",
+      "pmid": "34294427",
+      "pmcid": "PMC9093201",
+      "abstract": "Epigenetic modifications occur on genomic DNA and histones to influence gene expression. More recently, the discovery that mRNA undergoes similar chemical modifications that powerfully impact transcript turnover and translation adds another layer of dynamic gene regulation. Central to precise and synchronized regulation of gene expression is intricate crosstalk between multiple checkpoints involved in transcript biosynthesis and processing. There are more than 100 internal modifications of RNA in mammalian cells. The most common is N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) methylation. Although m<sup>6</sup>A is established to influence RNA stability dynamics and translation efficiency, rapidly accumulating evidence shows significant crosstalk between RNA methylation and histone/DNA epigenetic mechanisms. These interactions specify transcriptional outputs, translation, recruitment of chromatin modifiers, as well as the deployment of the m<sup>6</sup>A methyltransferase complex (MTC) at target sites. In this review, we dissect m<sup>6</sup>A-orchestrated feedback circuits that regulate histone modifications and the activity of regulatory RNAs, such as long noncoding (lnc)RNA and chromosome-associated regulatory RNA. Collectively, this body of evidence suggests that m<sup>6</sup>A acts as a versatile checkpoint that can couple different layers of gene regulation with one another.",
+      "url": "https://europepmc.org/articles/PMC9093201",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/07/58/nihms-1803823.PMC9093201.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/07/58/PMC9093201.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "PMID:34294427",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Highly efficient activation of endogenous gene in grape using CRISPR/dCas9-based transcriptional activators",
+      "authors": "Chong Ren; Huayang Li; Yanfei Liu; Shaohua Li; Zhenchang Liang",
+      "year": 2022,
+      "doi": "10.1093/hr/uhab037",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Overexpression and knockout (or knockdown) of gene of interest are two commonly used strategies for gene functional study. Clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9 system-mediated gene knockout has been applied in most plant species, including grapevine. However, CRISPR/dCas9 (deactivated Cas9)-based transcriptional activation is still unreported in fruit crops, although a few studies have been documented in Arabidopsis and rice. Here, we tested two transcriptional activators VP64 and TV for transcriptional activation of endogenous genes in grape. Both the dCas9-VP64 and dCas9-TV systems are efficient enough for transcriptional activation of the UDP-glucose flavonoid glycosyltransferases (UFGT) gene in grape cells. The effectiveness of the dCas9-VP64 system in UFGT activation was about 1.6- to 5.6-fold, while the efficiency of the dCas9-TV system was around 5.7- to 7.2-fold. Moreover, in grapevine plants, highly efficient activation of the cold-responsive transcription factor gene CBF4 was achieved by using the dCas9-TV system. The expression of CBF4 was increased 3.7- to 42.3-fold in transgenic plants. Compared with the wild-type plants, the CBF4-activated plants exhibited lower electrolyte leakage after cold treatment. Our results demonstrate the effectiveness of the dCas9-VP64 and dCas9-TV systems in gene activation in grape, which will facilitate application of transcriptional activation in this economically important species.</jats:p>",
+      "url": "https://doi.org/10.1093/hr/uhab037",
+      "pdf_url": "https://academic.oup.com/hr/advance-article-pdf/doi/10.1093/hr/uhab037/42226523/uhab037.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV"
+      ],
+      "paper_id": "10.1093/hr/uhab037",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review: Abnormal methylation in the NDUFA13 gene promoter of breast cancer cells breaks the cooperative DNA recognition by transcription factors — R0/PR1",
+      "authors": "",
+      "year": 2022,
+      "doi": "10.1017/qrd.2022.21.pr1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1017/qrd.2022.21.pr1",
+      "pdf_url": "https://doi.org/10.1017/qrd.2022.21.pr1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "10.1017/qrd.2022.21.pr1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts of the 79th Annual Meeting of the Japanese Cancer Association; 2020 Oct 1-3; Hiroshima, Japan as Cancer Science, Supplement 1, Vol 112 (2021).",
+      "authors": "",
+      "year": 2021,
+      "doi": "10.1111/cas.14823",
+      "pmid": "33590571",
+      "pmcid": "PMC7884285",
+      "abstract": "",
+      "url": "https://europepmc.org/articles/PMC7884285",
+      "pdf_url": "https://europepmc.org/articles/PMC7884285?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2021_abstracts_of_the_79th_annual_meeting_of_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV"
+      ],
+      "paper_id": "PMID:33590571",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas System and Factors Affecting Its Precision and Efficiency.",
+      "authors": "Javaid N; Choi S",
+      "year": 2021,
+      "doi": "10.3389/fcell.2021.761709",
+      "pmid": "34901007",
+      "pmcid": "PMC8652214",
+      "abstract": "The diverse applications of genetically modified cells and organisms require more precise and efficient genome-editing tool such as clustered regularly interspaced short palindromic repeats/CRISPR-associated protein (CRISPR/Cas). The CRISPR/Cas system was originally discovered in bacteria as a part of adaptive-immune system with multiple types. Its engineered versions involve multiple host DNA-repair pathways in order to perform genome editing in host cells. However, it is still challenging to get maximum genome-editing efficiency with fewer or no off-targets. Here, we focused on factors affecting the genome-editing efficiency and precision of CRISPR/Cas system along with its defense-mechanism, orthologues, and applications.",
+      "url": "https://europepmc.org/articles/PMC8652214",
+      "pdf_url": "https://europepmc.org/articles/PMC8652214?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/8c/PMC8652214.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\javaid_2021_crispr_cas_system_and_factors_affecting_its_precision.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "PMID:34901007",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Delivery Platforms for CRISPR/Cas9 Genome Editing of Glial Cells in the Central Nervous System.",
+      "authors": "Meneghini V; Peviani M; Luciani M; Zambonini G; Gritti A",
+      "year": 2021,
+      "doi": "10.3389/fgeed.2021.644319",
+      "pmid": "34713256",
+      "pmcid": "PMC8525379",
+      "abstract": "Glial cells (astrocytes, oligodendrocytes, and microglia) are emerging as key players in several physiological and pathological processes of the central nervous system (CNS). Astrocytes and oligodendrocytes are not only supportive cells that release trophic factors or regulate energy metabolism, but they also actively modulate critical neuronal processes and functions in the tripartite synapse. Microglia are defined as CNS-resident cells that provide immune surveillance; however, they also actively contribute to shaping the neuronal microenvironment by scavenging cell debris or regulating synaptogenesis and pruning. Given the many interconnected processes coordinated by glial cells, it is not surprising that both acute and chronic CNS insults not only cause neuronal damage but also trigger complex multifaceted responses, including neuroinflammation, which can critically contribute to the disease progression and worsening of symptoms in several neurodegenerative diseases. Overall, this makes glial cells excellent candidates for targeted therapies to treat CNS disorders. In recent years, the application of gene editing technologies has redefined therapeutic strategies to treat genetic and age-related neurological diseases. In this review, we discuss the advantages and limitations of clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9-based gene editing in the treatment of neurodegenerative disorders, focusing on the development of viral- and nanoparticle-based delivery methods for <i>in vivo</i> glial cell targeting.",
+      "url": "https://europepmc.org/articles/PMC8525379",
+      "pdf_url": "https://europepmc.org/articles/PMC8525379?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/84/2b/PMC8525379.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\meneghini_2021_delivery_platforms_for_crispr_cas9_genome_editing_of.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "PMID:34713256",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic mechanisms in breast cancer therapy and resistance",
+      "authors": "Liliana Garcia-Martinez; Yusheng Zhang; Yuichiro Nakata; Ho Lam Chan; Lluís Morey",
+      "year": 2021,
+      "doi": "10.1038/s41467-021-22024-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The majority of breast cancers express the estrogen receptor (ERα) and agents targeting this pathway represent the main treatment modality. Endocrine therapy has proven successful in the treatment of hormone-responsive breast cancer since its early adoption in the 1940s as an ablative therapy. Unfortunately, therapeutic resistance arises, leading to disease recurrence and relapse. Recent studies increased our understanding in how changes to the chromatin landscape and deregulation of epigenetic factors orchestrate the resistant phenotype. Here, we will discuss how the epigenome is an integral determinant in hormone therapy response and why epigenetic factors are promising targets for overcoming clinical resistance.",
+      "url": "https://doi.org/10.1038/s41467-021-22024-3",
+      "pdf_url": "https://www.nature.com/articles/s41467-021-22024-3.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\liliana_2021_epigenetic_mechanisms_in_breast_cancer_therapy_and_resistance.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "W3138977384",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Impacts of Epigenetic Processes on the Health and Productivity of Livestock",
+      "authors": "Mengqi Wang; Eveline M. Ibeagha‐Awemu",
+      "year": 2021,
+      "doi": "10.3389/fgene.2020.613636",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The dynamic changes in the epigenome resulting from the intricate interactions of genetic and environmental factors play crucial roles in individual growth and development. Numerous studies in plants, rodents, and humans have provided evidence of the regulatory roles of epigenetic processes in health and disease. There is increasing pressure to increase livestock production in light of increasing food needs of an expanding human population and environment challenges, but there is limited related epigenetic data on livestock to complement genomic information and support advances in improvement breeding and health management. This review examines the recent discoveries on epigenetic processes due to DNA methylation, histone modification, and chromatin remodeling and their impacts on health and production traits in farm animals, including bovine, swine, sheep, goat, and poultry species. Most of the reports focused on epigenome profiling at the genome-wide or specific genic regions in response to developmental processes, environmental stressors, nutrition, and disease pathogens. The bulk of available data mainly characterized the epigenetic markers in tissues/organs or in relation to traits and detection of epigenetic regulatory mechanisms underlying livestock phenotype diversity. However, available data is inadequate to support gainful exploitation of epigenetic processes for improved animal health and productivity management. Increased research effort, which is vital to elucidate how epigenetic mechanisms affect the health and productivity of livestock, is currently limited due to several factors including lack of adequate analytical tools. In this review, we (1) summarize available evidence of the impacts of epigenetic processes on livestock production and health traits, (2) discuss the application of epigenetics data in livestock production, and (3) present gaps in livestock epigenetics research. Knowledge of the epigenetic factors influencing livestock health and productivity is vital for the management and improvement of livestock productivity.",
+      "url": "https://doi.org/10.3389/fgene.2020.613636",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fgene.2020.613636/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\mengqi_2021_impacts_of_epigenetic_processes_on_the_health_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "W3131575142",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Implications of Enhancer Transcription and eRNAs in Cancer",
+      "authors": "Santanu Adhikary; Siddhartha Roy; Jessica Chacon; Shrikanth S. Gadad; Chandrima Das",
+      "year": 2021,
+      "doi": "10.1158/0008-5472.can-20-4010",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Despite extensive progress in developing anticancer therapies, therapy resistance remains a major challenge that promotes disease relapse. The changes that lead to therapy resistance can be intrinsically present or may be initiated during treatment. Genetic and epigenetic heterogeneity in tumors make it more challenging to deal with therapy resistance. Recent advances in genome-wide analyses have revealed that the deregulation of distal gene regulatory elements, such as enhancers, appears in several pathophysiological conditions, including cancer. Beyond the conventional function of enhancers in recruiting transcription factors to gene promoters, enhancer elements are also transcribed into noncoding RNAs known as enhancer RNAs (eRNA). Accumulating evidence suggests that uncontrolled enhancer activity with aberrant eRNA expression promotes oncogenesis. Interestingly, tissue-specific, transcribed eRNAs from active enhancers can serve as potential therapeutic targets or biomarkers in several cancer types. This review provides a comprehensive overview of the mechanisms of enhancer transcription and eRNAs as well as their potential roles in cancer and drug resistance.",
+      "url": "https://doi.org/10.1158/0008-5472.can-20-4010",
+      "pdf_url": "https://aacrjournals.org/cancerres/article-pdf/81/16/4174/3091523/4174.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "W3163235844",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Integration of Epigenetic Mechanisms into Non-Genotoxic Carcinogenicity Hazard Assessment: Focus on DNA Methylation and Histone Modifications.",
+      "authors": "Desaulniers D; Vasseur P; Jacobs A; Aguila MC; Ertych N; Jacobs MN",
+      "year": 2021,
+      "doi": "10.3390/ijms222010969",
+      "pmid": "34681626",
+      "pmcid": "PMC8535778",
+      "abstract": "Epigenetics involves a series of mechanisms that entail histone and DNA covalent modifications and non-coding RNAs, and that collectively contribute to programing cell functions and differentiation. Epigenetic anomalies and DNA mutations are co-drivers of cellular dysfunctions, including carcinogenesis. Alterations of the epigenetic system occur in cancers whether the initial carcinogenic events are from genotoxic (GTxC) or non-genotoxic (NGTxC) carcinogens. NGTxC are not inherently DNA reactive, they do not have a unifying mode of action and as yet there are no regulatory test guidelines addressing mechanisms of NGTxC. To fil this gap, the Test Guideline Programme of the Organisation for Economic Cooperation and Development is developing a framework for an integrated approach for the testing and assessment (IATA) of NGTxC and is considering assays that address key events of cancer hallmarks. Here, with the intent of better understanding the applicability of epigenetic assays in chemical carcinogenicity assessment, we focus on DNA methylation and histone modifications and review: (1) epigenetic mechanisms contributing to carcinogenesis, (2) epigenetic mechanisms altered following exposure to arsenic, nickel, or phenobarbital in order to identify common carcinogen-specific mechanisms, (3) characteristics of a series of epigenetic assay types, and (4) epigenetic assay validation needs in the context of chemical hazard assessment. As a key component of numerous NGTxC mechanisms of action, epigenetic assays included in IATA assay combinations can contribute to improved chemical carcinogen identification for the better protection of public health.",
+      "url": "https://europepmc.org/articles/PMC8535778",
+      "pdf_url": "https://www.mdpi.com/1422-0067/22/20/10969/pdf?version=1634109091",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f5/b9/PMC8535778.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "PMID:34681626",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Using CRISPR to understand and manipulate gene regulation.",
+      "authors": "Akinci E; Hamilton MC; Khowpinitchai B; Sherwood RI",
+      "year": 2021,
+      "doi": "10.1242/dev.182667",
+      "pmid": "33913466",
+      "pmcid": "PMC8126405",
+      "abstract": "Understanding how genes are expressed in the correct cell types and at the correct level is a key goal of developmental biology research. Gene regulation has traditionally been approached largely through observational methods, whereas perturbational approaches have lacked precision. CRISPR-Cas9 has begun to transform the study of gene regulation, allowing for precise manipulation of genomic sequences, epigenetic functionalization and gene expression. CRISPR-Cas9 technology has already led to the discovery of new paradigms in gene regulation and, as new CRISPR-based tools and methods continue to be developed, promises to transform our knowledge of the gene regulatory code and our ability to manipulate cell fate. Here, we discuss the current and future application of the emerging CRISPR toolbox toward predicting gene regulatory network behavior, improving stem cell disease modeling, dissecting the epigenetic code, reprogramming cell fate and treating diseases of gene dysregulation.",
+      "url": "https://europepmc.org/articles/PMC8126405",
+      "pdf_url": "https://journals.biologists.com/dev/article-pdf/148/9/dev182667/2068638/dev182667.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "PMID:33913466",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Circular RNA: metabolism, functions and interactions with proteins",
+      "authors": "Zhou Wei-yi; Zerong Cai; Jia Liu; De‐Shen Wang; Huai‐Qiang Ju; Rui‐Hua Xu",
+      "year": 2020,
+      "doi": "10.1186/s12943-020-01286-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Circular RNAs (CircRNAs) are single-stranded, covalently closed RNA molecules that are ubiquitous across species ranging from viruses to mammals. Important advances have been made in the biogenesis, regulation, localization, degradation and modification of circRNAs. CircRNAs exert biological functions by acting as transcriptional regulators, microRNA (miR) sponges and protein templates. Moreover, emerging evidence has revealed that a group of circRNAs can serve as protein decoys, scaffolds and recruiters. However, the existing research on circRNA-protein interactions is quite limited. Hence, in this review, we briefly summarize recent progress in the metabolism and functions of circRNAs and elaborately discuss the patterns of circRNA-protein interactions, including altering interactions between proteins, tethering or sequestering proteins, recruiting proteins to chromatin, forming circRNA-protein-mRNA ternary complexes and translocating or redistributing proteins. Many discoveries have revealed that circRNAs have unique expression signatures and play crucial roles in a variety of diseases, enabling them to potentially act as diagnostic biomarkers and therapeutic targets. This review systematically evaluates the roles and mechanisms of circRNAs, with the hope of advancing translational medicine involving circRNAs.",
+      "url": "https://doi.org/10.1186/s12943-020-01286-3",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01286-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "W3112047397",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Interrogation of enhancer function by enhancer-targeting CRISPR epigenetic editing",
+      "authors": "Kailong Li; Yuxuan Liu; Hui Cao; Yuannyu Zhang; Zhimin Gu; Xin Liu; Andy Yu; Pranita Kaphle; Kathryn E. Dickerson; Min Ni; Jian Xu",
+      "year": 2020,
+      "doi": "10.1038/s41467-020-14362-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Tissue-specific gene expression requires coordinated control of gene-proximal and -distal cis-regulatory elements (CREs), yet functional analysis of gene-distal CREs such as enhancers remains challenging. Here we describe CRISPR/dCas9-based enhancer-targeting epigenetic editing systems, enCRISPRa and enCRISPRi, for efficient analysis of enhancer function in situ and in vivo. Using dual effectors capable of re-writing enhancer-associated chromatin modifications, we show that enCRISPRa and enCRISPRi modulate gene transcription by remodeling local epigenetic landscapes at sgRNA-targeted enhancers and associated genes. Comparing with existing methods, the improved systems display more robust perturbations of enhancer activity and gene transcription with minimal off-targets. Allele-specific targeting of enCRISPRa to oncogenic TAL1 super-enhancer modulates TAL1 expression and cancer progression in xenotransplants. Single or multi-loci perturbations of lineage-specific enhancers using an enCRISPRi knock-in mouse establish in vivo evidence for lineage-restricted essentiality of developmental enhancers during hematopoiesis. Hence, enhancer-targeting CRISPR epigenetic editing provides opportunities for interrogating enhancer function in native biological contexts.",
+      "url": "https://doi.org/10.1038/s41467-020-14362-5",
+      "pdf_url": "https://www.nature.com/articles/s41467-020-14362-5.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\kailong_2020_interrogation_of_enhancer_function_by_enhancer_targeting_crispr.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "W3002468721",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Towards a comprehensive catalogue of validated and target-linked human enhancers.",
+      "authors": "Gasperini M; Tome JM; Shendure J",
+      "year": 2020,
+      "doi": "10.1038/s41576-019-0209-0",
+      "pmid": "31988385",
+      "pmcid": "PMC7845138",
+      "abstract": "The human gene catalogue is essentially complete, but we lack an equivalently vetted inventory of bona fide human enhancers. Hundreds of thousands of candidate enhancers have been nominated via biochemical annotations; however, only a handful of these have been validated and confidently linked to their target genes. Here we review emerging technologies for discovering, characterizing and validating human enhancers at scale. We furthermore propose a new framework for operationally defining enhancers that accommodates the heterogeneous and complementary results that are emerging from reporter assays, biochemical measurements and CRISPR screens.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7845138",
+      "pdf_url": "https://europepmc.org/articles/PMC7845138?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "PMID:31988385",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "\"Abstracts of the 78th Annual Meeting of the Japanese Cancer Association; 2019 Sept 26-28; Kyoto, Japan\" as Cancer Science, Supplement 1, Vol 110 (2019).",
+      "authors": "",
+      "year": 2019,
+      "doi": "10.1111/cas.14291",
+      "pmid": "31880058",
+      "pmcid": "PMC6933297",
+      "abstract": "",
+      "url": "https://europepmc.org/articles/PMC6933297",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cas.14291",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV"
+      ],
+      "paper_id": "PMID:31880058",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Distinct Contribution of DNA Methylation and Histone Acetylation to the Genomic Occupancy of Transcription Factors",
+      "authors": "Martin Cusack; Hamish W. King; Paolo Spingardi; Benedikt M. Kessler; Robert J. Klose; Skirmantas Kriaucionis",
+      "year": 2019,
+      "doi": "10.1101/670307",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Epigenetic modifications on chromatin play important roles in regulating gene expression. While chromatin states are often governed by multi-layered structure, how individual pathways contribute to gene expression remains poorly understood. For example, DNA methylation is known to regulate transcription factor binding but also to recruit methyl-CpG binding proteins that affect chromatin structure through the activity of histone deacetylase complexes (HDACs). Both of these mechanisms can potentially affect gene expression, but the importance of each, and whether these activities are integrated to achieve appropriate gene regulation, remains largely unknown. To address this important question, we measured gene expression, chromatin accessibility, and transcription factor occupancy in wild-type or DNA methylation-deficient mouse embryonic stem cells following HDAC inhibition. Interestingly, we observe widespread increases in chromatin accessibility at repeat elements when HDACs are inhibited, and this is magnified when cells also lack DNA methylation. A subset of these elements have elevated binding of the YY1 and GABPA transcription factors and increased expression. The pronounced additive effect of HDAC inhibition in DNA methylation deficient cells demonstrate that DNA methylation and histone deacetylation act largely independently to suppress transcription factor binding and gene expression.</jats:p>",
+      "url": "https://doi.org/10.1101/670307",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/06/13/670307.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\martin_2019_distinct_contribution_of_dna_methylation_and_histone_acetylation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "10.1101/670307",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Functions of N6-methyladenosine and its role in cancer",
+      "authors": "Liuer He; Huiyu Li; Anqi Wu; Yulong Peng; Guang Shu; Gang Yin",
+      "year": 2019,
+      "doi": "10.1186/s12943-019-1109-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) is methylation that occurs in the N6-position of adenosine, which is the most prevalent internal modification on eukaryotic mRNA. Accumulating evidence suggests that m6A modulates gene expression, thereby regulating cellular processes ranging from cell self-renewal, differentiation, invasion and apoptosis. M6A is installed by m6A methyltransferases, removed by m6A demethylases and recognized by reader proteins, which regulate of RNA metabolism including translation, splicing, export, degradation and microRNA processing. Alteration of m6A levels participates in cancer pathogenesis and development via regulating expression of tumor-related genes like BRD4, MYC, SOCS2 and EGFR. In this review, we elaborate on recent advances in research of m6A enzymes. We also highlight the underlying mechanism of m6A in cancer pathogenesis and progression. Finally, we review corresponding potential targets in cancer therapy.",
+      "url": "https://doi.org/10.1186/s12943-019-1109-9",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-019-1109-9",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "W2992958546",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Improved drought stress tolerance in Arabidopsis by CRISPR/dCas9 fusion with a Histone AcetylTransferase",
+      "authors": "Joaquin Felipe Roca Paixão; François‐Xavier Gillet; Thuanne Pires Ribeiro; Caroline Bournaud; Isabela Tristan Lourenço‐Tessutti; Daniel D. Noriega; Bruno Paes de Melo; Janice de Almeida Engler; Maria Fátima Grossi‐de‐Sá",
+      "year": 2019,
+      "doi": "10.1038/s41598-019-44571-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Drought episodes decrease plant growth and productivity, which in turn cause high economic losses. Plants naturally sense and respond to water stress by activating specific signalling pathways leading to physiological and developmental adaptations. Genetically engineering genes that belong to these pathways might improve the drought tolerance of plants. The abscisic acid (ABA)-responsive element binding protein 1/ABRE binding factor (AREB1/ABF2) is a key positive regulator of the drought stress response. We investigated whether the CRISPR activation (CRISPRa) system that targets AREB1 might contribute to improve drought stress tolerance in Arabidopsis. Arabidopsis histone acetyltransferase 1 (AtHAT1) promotes gene expression activation by switching chromatin to a relaxed state. Stable transgenic plants expressing chimeric dCas9 HAT were first generated. Then, we showed that the CRISPRa dCas9 HAT mechanism increased the promoter activity controlling the β-glucuronidase ( GUS ) reporter gene. To activate the endogenous promoter of AREB1 , the CRISPRa dCas9 HAT system was set up, and resultant plants showed a dwarf phenotype. Our qRT-PCR experiments indicated that both AREB1 and RD29A , a gene positively regulated by AREB1, exhibited higher gene expression than the control plants. The plants generated here showed higher chlorophyll content and faster stomatal aperture under water deficit, in addition to a better survival rate after drought stress. Altogether, we report that CRISPRa dCas9 HAT is a valuable biotechnological tool to improve drought stress tolerance through the positive regulation of AREB1.",
+      "url": "https://doi.org/10.1038/s41598-019-44571-y",
+      "pdf_url": "https://www.nature.com/articles/s41598-019-44571-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "W2947921650",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Sufficiency analysis of estrogen responsive enhancers using synthetic activators",
+      "authors": "Matthew Ginley-Hidinger; Julia B. Carleton; Adriana C. Rodriguez; Kristofer C. Berrett; Jason Gertz",
+      "year": 2019,
+      "doi": "10.26508/lsa.201900497",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Multiple regulatory regions bound by the same transcription factor have been shown to simultaneously control a single gene's expression. However, it remains unclear how these regulatory regions combine to regulate transcription. Here, we test the sufficiency of promoter-distal estrogen receptor α-binding sites (ERBSs) for activating gene expression by recruiting synthetic activators in the absence of estrogens. Targeting either dCas9-VP16(10x) or dCas9-p300(core) to ERBS induces H3K27ac and activates nearby expression in a manner similar to an estrogen induction, with dCas9-VP16(10x) acting as a stronger activator. The sufficiency of individual ERBSs is highly correlated with their necessity, indicating an inherent activation potential that is associated with the binding of RNA polymerase II and several transcription factors. By targeting ERBS combinations, we found that ERBSs work independently to control gene expression when bound by synthetic activators. The sufficiency results contrast necessity assays that show synergy between these ERBSs, suggesting that synergy occurs between ERBSs in terms of activator recruitment, whereas directly recruiting activators leads to independent effects on gene expression.",
+      "url": "https://doi.org/10.26508/lsa.201900497",
+      "pdf_url": "https://www.life-science-alliance.org/content/lsa/2/5/e201900497.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\matthew_2019_sufficiency_analysis_of_estrogen_responsive_enhancers_using_synthetic.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "W2978720426",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Decision letter: ASH1-catalyzed H3K36 methylation drives gene repression and marks H3K27me2/3-competent chromatin",
+      "authors": "",
+      "year": 2018,
+      "doi": "10.7554/elife.41497.022",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.41497.022",
+      "pdf_url": "https://doi.org/10.7554/elife.41497.022",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "10.7554/elife.41497.022",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR903PRV",
+      "authors": "G Yeo",
+      "year": 2018,
+      "doi": "10.17989/encsr903prv",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr903prv",
+      "pdf_url": "https://doi.org/10.17989/encsr903prv",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"Kachanov\" 2025 FTO dCas9-p300 HepG2 HBV endogenous activation"
+      ],
+      "paper_id": "10.17989/encsr903prv",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Gene editing in the context of an increasingly complex genome",
+      "authors": "Kevin Blighe; Larry DeDionisio; Kathleen A. Christie; Bo Chawes; Salar Shareef; Thomais Kakouli‐Duarte; Connie Chao-Shern; V Harding; Rachel S. Kelly; Leandro Castellano; Justin Stebbing; Jessica Lasky‐Su; M. Andrew Nesbit; Tara Moore",
+      "year": 2018,
+      "doi": "10.1186/s12864-018-4963-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The reporting of the first draft of the human genome in 2000 brought with it much hope for the future in what was felt as a paradigm shift toward improved health outcomes. Indeed, we have now mapped the majority of variation across human populations with landmark projects such as 1000 Genomes; in cancer, we have catalogued mutations across the primary carcinomas; whilst, for other diseases, we have identified the genetic variants with strongest association. Despite this, we are still awaiting the genetic revolution in healthcare to materialise and translate itself into the health benefits for which we had hoped. A major problem we face relates to our underestimation of the complexity of the genome, and that of biological mechanisms, generally. Fixation on DNA sequence alone and a 'rigid' mode of thinking about the genome has meant that the folding and structure of the DNA molecule -and how these relate to regulation- have been underappreciated. Projects like ENCODE have additionally taught us that regulation at the level of RNA is just as important as that at the spatiotemporal level of chromatin.In this review, we chart the course of the major advances in the biomedical sciences in the era pre- and post the release of the first draft sequence of the human genome, taking a focus on technology and how its development has influenced these. We additionally focus on gene editing via CRISPR/Cas9 as a key technique, in particular its use in the context of complex biological mechanisms. Our aim is to shift the mode of thinking about the genome to that which encompasses a greater appreciation of the folding of the DNA molecule, DNA- RNA/protein interactions, and how these regulate expression and elaborate disease mechanisms.Through the composition of our work, we recognise that technological improvement is conducive to a greater understanding of biological processes and life within the cell. We believe we now have the technology at our disposal that permits a better understanding of disease mechanisms, achievable through integrative data analyses. Finally, only with greater understanding of disease mechanisms can techniques such as gene editing be faithfully conducted.",
+      "url": "https://doi.org/10.1186/s12864-018-4963-8",
+      "pdf_url": "https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-018-4963-8",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\kevin_2018_gene_editing_in_the_context_of_an_increasingly.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "W2886380699",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "N6-methyladenosine RNA modification regulates embryonic neural stem cell self-renewal through histone modifications",
+      "authors": "Yang Wang; Yue Li; Minghui Yue; Jun Wang; Sandeep Kumar; Robert J. Wechsler‐Reya; Zhaolei Zhang; Yuya Ogawa; Manolis Kellis; Gregg Duester; Jing Zhao",
+      "year": 2018,
+      "doi": "10.1038/s41593-017-0057-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Internal N6-methyladenosine (m6A) modification is widespread in messenger RNAs (mRNAs) and is catalyzed by heterodimers of methyltransferase-like protein 3 (Mettl3) and Mettl14. To understand the role of m6A in development, we deleted Mettl14 in embryonic neural stem cells (NSCs) in a mouse model. Phenotypically, NSCs lacking Mettl14 displayed markedly decreased proliferation and premature differentiation, suggesting that m6A modification enhances NSC self-renewal. Decreases in the NSC pool led to a decreased number of late-born neurons during cortical neurogenesis. Mechanistically, we discovered a genome-wide increase in specific histone modifications in Mettl14 knockout versus control NSCs. These changes correlated with altered gene expression and observed cellular phenotypes, suggesting functional significance of altered histone modifications in knockout cells. Finally, we found that m6A regulates histone modification in part by destabilizing transcripts that encode histone-modifying enzymes. Our results suggest an essential role for m6A in development and reveal m6A-regulated histone modifications as a previously unknown mechanism of gene regulation in mammalian cells. Using a genetic approach, Wang et al. demonstrate an essential function for m6A mRNA modification in promoting neural stem cell proliferation and reveal interactions between m6A and histone modification as a novel gene regulatory mechanism.",
+      "url": "https://doi.org/10.1038/s41593-017-0057-1",
+      "pdf_url": "https://www.nature.com/articles/s41593-017-0057-1.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yang_2018_n6_methyladenosine_rna_modification_regulates_embryonic_neural_stem.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "W2783571957",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Promoter-intrinsic and local chromatin features determine gene repression in lamina-associated domains",
+      "authors": "Carmen Adriaens",
+      "year": 2018,
+      "doi": "10.1242/prelights.5890",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1242/prelights.5890",
+      "pdf_url": "https://doi.org/10.1242/prelights.5890",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "10.1242/prelights.5890",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The CRISPR tool kit for genome editing and beyond",
+      "authors": "Mazhar Adli",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-04252-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR is becoming an indispensable tool in biological research. Once known as the bacterial immune system against invading viruses, the programmable capacity of the Cas9 enzyme is now revolutionizing diverse fields of medical research, biotechnology, and agriculture. CRISPR-Cas9 is no longer just a gene-editing tool; the application areas of catalytically impaired inactive Cas9, including gene regulation, epigenetic editing, chromatin engineering, and imaging, now exceed the gene-editing functionality of WT Cas9. Here, we will present a brief history of gene-editing tools and describe the wide range of CRISPR-based genome-targeting tools. We will conclude with future directions and the broader impact of CRISPR technologies.",
+      "url": "https://doi.org/10.1038/s41467-018-04252-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-04252-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "W2803581084",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcriptional repression by FACT is linked to regulation of chromatin accessibility at the promoter of ES cells",
+      "authors": "Constantine Mylonas; Peter Tessarz",
+      "year": 2018,
+      "doi": "10.1101/251611",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>\n                  The conserved and essential histone chaperone FACT (\n                  <jats:underline>Fa</jats:underline>\n                  cilitates\n                  <jats:underline>C</jats:underline>\n                  hromatin\n                  <jats:underline>T</jats:underline>\n                  ranscription) reorganizes nucleosomes during DNA transcription, replication and repair and ensures both, efficient elongation of RNA Pol II and nucleosome integrity. In mammalian cells, FACT is a heterodimer, consisting of SSRP1 and SUPT16. Here, we show that in contrast to yeast, FACT accumulates at the transcription start site of genes reminiscent of RNA Polymerase II profile. Depletion of FACT in mouse embryonic stem cells leads to up-regulation of pro-proliferative genes and key pluripotency factors concomitant with hyper-proliferation of mES cells. Using MNase-, ATAC-, and\n                  <jats:underline>N</jats:underline>\n                  ascent\n                  <jats:underline>E</jats:underline>\n                  longating\n                  <jats:underline>T</jats:underline>\n                  ranscript Sequencing (NET-seq) we show that up-regulation of genes coincides with loss of nucleosomes upstream of the TSS and concomitant increase in antisense transcription, indicating that FACT impacts the promoter architecture to regulate expression of these genes. Finally, we demonstrate a role for FACT in cell fate determination and show that FACT depletion primes ES cells for the neuronal lineage.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/251611",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2018/03/15/251611.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\constantine_2018_transcriptional_repression_by_fact_is_linked_to_regulation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "10.1101/251611",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Deciphering causal genetic determinants of red blood cell traits",
+      "authors": "Samuel Lessard",
+      "year": 2017,
+      "doi": "10.71781/30117",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Les études d’association pan-génomiques ont révélé plusieurs variants génétiques associés à des traits complexes. Les mesures érythrocytaires ont souvent fait l’objet de ce genre d’études, étant mesurées de façon routinière et précise. Comprendre comment les variations génétiques influencent ces phénotypes est primordial étant donné leur importance comme marqueurs cliniques et leur influence sur la sévérité de plusieurs maladies. En particulier, des niveaux élevés d’hémoglobine fœtal chez les patients atteints d’anémie falciforme est associé à une réduction des complications et une augmentation de l’espérance de vie. Néanmoins, la majorité des variants génétiques identifiés par ces études tombent à l’intérieur de régions génétiques non-codantes, augmentant la difficulté d’identifier des gènes causaux. L’objectif premier de ce projet est l’identification et la caractérisation de gènes influençant les traits complexes, et tout particulièrement les traits sanguins. Pour y arriver, j’ai tout d’abord développé une méthode permettant d’identifier et de tester l’effet de gènes knockouts sur les traits anthropométriques. Malgré un échantillon de grande taille, cette approche n’a révélé aucune association. Ensuite, j’ai caractérisé le méthylome et le transcriptome d’érythroblastes différentiés à partir de cellules souches hématopoïétiques et identifié plusieurs gènes potentiellement impliqués dans les programmes érythroïdes fœtaux et adultes. Par ailleurs, j’ai identifié plusieurs micro-ARNs montrant des motifs d’expression spécifiques entre les stages fœtaux et adultes et qui sont enrichis pour des cibles exprimées de façon opposée. Finalement, j’ai identifié plusieurs variants génétiques associés à l’expression de gènes dans les érythroblastes (eQTL). Cette étude a permis d’identifier des variants associés à l’expression du gène ATP2B4, qui encode le principal transporteur de calcium des érythrocytes. Ces variants, qui sont également associés à des traits sanguins et à la susceptibilité à la malaria, tombent dans un élément d’ADN spécifique aux cellules érythroïdes. La délétion de cet élément par le système CRISPR/Cas9 induit une forte diminution de l’expression du gène et une augmentation des niveaux de calcium intracellulaires. En conclusion, des échantillons de génotypages exhaustifs seront nécessaires pour étudier l’effet de gènes knockouts sur les traits complexes. Les érythroblastes montrent de grandes différences au niveau de leur méthylome et transcriptome entre les différents stages développementaux. Ces différences influencent potentiellement la régulation de l’hémoglobine fœtale et impliquent de nombreux micro-ARNs et régions régulatrices non-codantes. Finalement, l’exemple d’ATP2B4 montre qu’intégrer des études épigénomiques, transcriptomiques et des expériences d’édition de génome est une approche puissante pour caractériser des variants génétiques non-codants. Par ailleurs, ces résultats impliquent ATP2B4 dans l’hydratation des érythroblastes, qui est associé à la susceptibilité à la malaria et la sévérité de l’anémie falciforme. Cibler ATP2B4 de façon thérapeutique pourrait avoir un impact majeur sur ces maladies qui affectent des millions d’individus à travers le monde.",
+      "url": "http://hdl.handle.net/1866/19329",
+      "pdf_url": "https://umontreal.scholaris.ca/bitstreams/159be445-cd48-4727-bce7-e156098ab240/download",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\samuel_2017_deciphering_causal_genetic_determinants_of_red_blood_cell.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "W2767152973",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR370SPA",
+      "authors": "Z Weng",
+      "year": 2017,
+      "doi": "10.17989/encsr370spa",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr370spa",
+      "pdf_url": "https://doi.org/10.17989/encsr370spa",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "10.17989/encsr370spa",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "dCas9: A Versatile Tool for Epigenome Editing",
+      "authors": "Daan J.W. Brocken; Mariliis Tark‐Dame; Remus T. Dame",
+      "year": 2017,
+      "doi": "10.21775/cimb.026.015",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The epigenome is a heritable layer of information not encoded in the DNA sequence of the genome, but in chemical modifications of DNA or histones. These chemical modifications, together with transcription factors, operate as spatiotemporal regulators of genome activity. Dissecting epigenome function requires controlled site-specific alteration of epigenetic information. Such control can be obtained using designed DNA-binding platforms associated with effector domains to function as targeted transcription factors or epigenetic modifiers. Here, we review the use of dCas9 as a novel and versatile tool for fundamental studies on epigenetic landscapes, chromatin structure and transcription regulation, and the potential of this approach in basic research in these fields.",
+      "url": "https://doi.org/10.21775/cimb.026.015",
+      "pdf_url": "https://www.caister.com/cimb/v/v26/15.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "W2564400416",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 in Genome Editing and Beyond",
+      "authors": "Haifeng Wang; Marie La Russa; Lei S. Qi",
+      "year": 2016,
+      "doi": "10.1146/annurev-biochem-060815-014607",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The Cas9 protein (CRISPR-associated protein 9), derived from type II CRISPR (clustered regularly interspaced short palindromic repeats) bacterial immune systems, is emerging as a powerful tool for engineering the genome in diverse organisms. As an RNA-guided DNA endonuclease, Cas9 can be easily programmed to target new sites by altering its guide RNA sequence, and its development as a tool has made sequence-specific gene editing several magnitudes easier. The nuclease-deactivated form of Cas9 further provides a versatile RNA-guided DNA-targeting platform for regulating and imaging the genome, as well as for rewriting the epigenetic status, all in a sequence-specific manner. With all of these advances, we have just begun to explore the possible applications of Cas9 in biomedical research and therapeutics. In this review, we describe the current models of Cas9 function and the structural and biochemical studies that support it. We focus on the applications of Cas9 for genome editing, regulation, and imaging, discuss other possible applications and some technical considerations, and highlight the many advantages that CRISPR/Cas9 technology offers.",
+      "url": "https://doi.org/10.1146/annurev-biochem-060815-014607",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060815-014607",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "W2182456467",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Erratum for Verzi et al., Intestinal Master Transcription Factor CDX2 Controls Chromatin Access for Partner Transcription Factor Binding",
+      "authors": "",
+      "year": 2015,
+      "doi": "10.1128/mcb.01396-14",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1128/mcb.01396-14",
+      "pdf_url": "https://journals.asm.org/doi/pdf/10.1128/MCB.01396-14",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"Kachanov et al\" 2025 FTO promoter chromatin H3K27ac methylation transcription factor"
+      ],
+      "paper_id": "10.1128/mcb.01396-14",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Making sense of GWAS: using epigenomics and genome engineering to understand the functional relevance of SNPs in non-coding regions of the human genome",
+      "authors": "Yu Gyoung Tak; Peggy Farnham",
+      "year": 2015,
+      "doi": "10.1186/s13072-015-0050-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Considerable progress towards an understanding of complex diseases has been made in recent years due to the development of high-throughput genotyping technologies. Using microarrays that contain millions of single-nucleotide polymorphisms (SNPs), Genome Wide Association Studies (GWASs) have identified SNPs that are associated with many complex diseases or traits. For example, as of February 2015, 2111 association studies have identified 15,396 SNPs for various diseases and traits, with the number of identified SNP-disease/trait associations increasing rapidly in recent years. However, it has been difficult for researchers to understand disease risk from GWAS results. This is because most GWAS-identified SNPs are located in non-coding regions of the genome. It is important to consider that the GWAS-identified SNPs serve only as representatives for all SNPs in the same haplotype block, and it is equally likely that other SNPs in high linkage disequilibrium (LD) with the array-identified SNPs are causal for the disease. Because it was hoped that disease-associated coding variants would be identified if the true casual SNPs were known, investigators have expanded their analyses using LD calculation and fine-mapping. However, such analyses also identified risk-associated SNPs located in non-coding regions. Thus, the GWAS field has been left with the conundrum as to how a single-nucleotide change in a non-coding region could confer increased risk for a specific disease. One possible answer to this puzzle is that the variant SNPs cause changes in gene expression levels rather than causing changes in protein function. This review provides a description of (1) advances in genomic and epigenomic approaches that incorporate functional annotation of regulatory elements to prioritize the disease risk-associated SNPs that are located in non-coding regions of the genome for follow-up studies, (2) various computational tools that aid in identifying gene expression changes caused by the non-coding disease-associated SNPs, and (3) experimental approaches to identify target genes of, and study the biological phenotypes conferred by, non-coding disease-associated SNPs.",
+      "url": "https://doi.org/10.1186/s13072-015-0050-4",
+      "pdf_url": "https://epigeneticsandchromatin.biomedcentral.com/track/pdf/10.1186/s13072-015-0050-4",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "W2202219635",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA methylation alone does not cause most cell-type selective transcription factor binding",
+      "authors": "Matthew T Maurano; Hao Wang; Anthony Shafer; Sam John; John A Stamatoyannopoulos",
+      "year": 2013,
+      "doi": "10.1186/1756-8935-6-s1-p103",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1186/1756-8935-6-s1-p103",
+      "pdf_url": "http://link.springer.com/content/pdf/10.1186/1756-8935-6-S1-P103.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\matthew_2013_dna_methylation_alone_does_not_cause_most_cell.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"Kachanov et al\" 2025 FTO promoter chromatin H3K27ac methylation transcription factor"
+      ],
+      "paper_id": "10.1186/1756-8935-6-s1-p103",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": 2010,
+      "doi": "10.35802/089957",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.35802/089957",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "10.35802/089957",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Nucleosome Surface Formed by Histone H4, H2A, and H3 Residues Is Needed for Proper Histone H3 Lys36 Methylation, Histone Acetylation, and Repression of Cryptic Transcription",
+      "authors": "Hai-Ning Du; Scott D. Briggs",
+      "year": 2010,
+      "doi": "10.1074/jbc.m109.085043",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1074/jbc.m109.085043",
+      "pdf_url": "https://doi.org/10.1074/jbc.m109.085043",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "10.1074/jbc.m109.085043",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dicer regulates Xist promoter methylation in ES cells indirectly through transcriptional control of Dnmt3a",
+      "authors": "Tatyana B Nesterova; Bilyana C Popova; Bradley S Cobb; Sara Norton; Claire E Senner; Y Amy Tang; Thomas Spruce; Tristan A Rodriguez; Takashi Sado; Matthias Merkenschlager; Neil Brockdorff",
+      "year": 2008,
+      "doi": "10.1186/1756-8935-1-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n          <jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>X chromosome inactivation is the mechanism used in mammals to achieve dosage compensation of X-linked genes in XX females relative to XY males. Chromosome silencing is triggered in <jats:italic>cis</jats:italic> by expression of the non-coding RNA <jats:italic>Xist</jats:italic>. As such, correct regulation of the <jats:italic>Xist</jats:italic> gene promoter is required to establish appropriate X chromosome activity both in males and females. Studies to date have demonstrated co-transcription of an antisense RNA <jats:italic>Tsix</jats:italic> and low-level sense transcription prior to onset of X inactivation. The balance of sense and antisense RNA is important in determining the probability that a given <jats:italic>Xist</jats:italic> allele will be expressed, termed the X inactivation choice, when X inactivation commences.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>Here we investigate further the mechanism of <jats:italic>Xist</jats:italic> promoter regulation. We demonstrate that both sense and antisense transcription modulate <jats:italic>Xist</jats:italic> promoter DNA methylation in undifferentiated embryonic stem (ES) cells, suggesting a possible mechanistic basis for influencing X chromosome choice. Given the involvement of sense and antisense RNAs in promoter methylation, we investigate a possible role for the RNA interference (RNAi) pathway. We show that the <jats:italic>Xist</jats:italic> promoter is hypomethylated in ES cells deficient for the essential RNAi enzyme Dicer, but that this effect is probably a secondary consequence of reduced levels of <jats:italic>de novo</jats:italic> DNA methyltransferases in these cells. Consistent with this we find that Dicer-deficient XY and XX embryos show appropriate <jats:italic>Xist</jats:italic> expression patterns, indicating that Xist gene regulation has not been perturbed.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusion</jats:title>\n            <jats:p>We conclude that <jats:italic>Xist</jats:italic> promoter methylation prior to the onset of random X chromosome inactivation is influenced by relative levels of sense and antisense transcription but that this probably occurs independent of the RNAi pathway. We discuss the implications for this data in terms of understanding <jats:italic>Xist</jats:italic> gene regulation and X chromosome choice in random X chromosome inactivation.</jats:p>\n          </jats:sec>",
+      "url": "https://doi.org/10.1186/1756-8935-1-2",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/1756-8935-1-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\tatyana_2008_dicer_regulates_xist_promoter_methylation_in_es_cells.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "10.1186/1756-8935-1-2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "GM-CSF promoter chromatin remodelling and gene transcription display distinct signal and transcription factor requirements",
+      "authors": "K. H. Brettingham-Moore",
+      "year": 2005,
+      "doi": "10.1093/nar/gki161",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/nar/gki161",
+      "pdf_url": "https://academic.oup.com/nar/article-pdf/33/1/225/7124879/gki161.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"Kachanov et al\" 2025 FTO promoter chromatin H3K27ac methylation transcription factor"
+      ],
+      "paper_id": "10.1093/nar/gki161",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Faculty Opinions recommendation of Promoter methylation inhibits APC gene expression by causing changes in chromatin conformation and interfering with the binding of transcription factor CCAAT-binding factor.",
+      "authors": "Inke Nathke",
+      "year": 2004,
+      "doi": "10.3410/f.1019787.224448",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.3410/f.1019787.224448",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"Kachanov et al\" 2025 FTO promoter chromatin H3K27ac methylation transcription factor"
+      ],
+      "paper_id": "10.3410/f.1019787.224448",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Promoter Methylation Inhibits <b>\n                     <i>APC</i>\n                  </b> Gene Expression by Causing Changes in Chromatin Conformation and Interfering with the Binding of Transcription Factor CCAAT-Binding Factor",
+      "authors": "Guoren Deng; Geun-Am Song; Erik Pong; Marvin Sleisenger; Young S. Kim",
+      "year": 2004,
+      "doi": "10.1158/0008-5472.can-03-3000",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>As an important regulator in Wnt-signaling pathway, the APC gene is involved in apoptosis and cell cycle arrest. The loss of APC function is observed in most familial adenomatous polyposis-associated and sporadic colorectal cancer. APC gene is frequently inactivated by DNA mutations. However, hypermethylation in APC gene promoter was also observed in different cancers. In this study, by analyzing the methylation status of APC promoter in 22 colorectal cancer cell lines with different APC expression levels, we identified Regions A and B in the promoter, where the methylation of CpG sites was invariably correlated with the loss of gene expression. By nuclease accessibility assay, we also observed a correlation between the closed chromatin conformation in APC promoter and loss of gene expression. When the nonexpressing cell lines were treated with a DNA methyltransferase inhibitor, 5-Aza-2′-Deoxycytidine, the APC expression in these cells was induced, CpG sites were demethylated, and closed chromatin conformation was opened. However, when these cell lines were treated with a histone deacetylase inhibitor, Trichostatin A, no significant changes in APC expression, methylation status, and chromatin conformation were observed. Using transient transfection assay, a CCAAT box located in Region B was identified, which was involved in up-regulation of APC expression. Methylation of CpG sites around the CCAAT box resulted in a significant inhibition in the gene expression. The specific binding of a transcription factor CCAAT-binding factor (CBF) to the CCAAT box was determined by electrophoretic mobility shift analysis. The binding was inhibited after CpG sites close to the CCAAT box were methylated, indicating that DNA methylation can silence gene expression through interfering with the binding of transcription factors to the promoter. The biological function of CBF in APC gene regulation was further indicated by the decrease of luciferase activities in cells cotransfected with a plasmid carrying APC promoter/luciferase gene and a plasmid expressing dominant negative CBF mutant. In summary, methylation of CpG sites around CCAAT box in APC promoter inhibits the gene expression by changing the chromatin conformation and interfering with the binding of transcription factor CBF to CCAAT box.</jats:p>",
+      "url": "https://doi.org/10.1158/0008-5472.can-03-3000",
+      "pdf_url": "https://aacrjournals.org/cancerres/article-pdf/64/8/2692/2529055/zch00804002692.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"Kachanov et al\" 2025 FTO promoter chromatin H3K27ac methylation transcription factor"
+      ],
+      "paper_id": "10.1158/0008-5472.can-03-3000",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Faculty Opinions recommendation of The barrier function of an insulator couples high histone acetylation levels with specific protection of promoter DNA from methylation.",
+      "authors": "Michael Lieber",
+      "year": 2002,
+      "doi": "10.3410/f.1007405.99055",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.3410/f.1007405.99055",
+      "pdf_url": "https://f1000.com/download/1007405",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "10.3410/f.1007405.99055",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Faculty Opinions recommendation of The barrier function of an insulator couples high histone acetylation levels with specific protection of promoter DNA from methylation.",
+      "authors": "Anjana Rao",
+      "year": 2002,
+      "doi": "10.3410/f.1007405.118658",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.3410/f.1007405.118658",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" promoter repression DNA methylation histone acetylation transcription factors"
+      ],
+      "paper_id": "10.3410/f.1007405.118658",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcriptional repression of BRCA1 by aberrant cytosine methylation, histone hypoacetylation and chromatin condensation of the BRCA1 promoter",
+      "authors": "J. C. Rice",
+      "year": 2000,
+      "doi": "10.1093/nar/28.17.3233",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/nar/28.17.3233",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/110706",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac",
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "10.1093/nar/28.17.3233",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of a positioned nucleosome in constitutive repression and hormone induction of the MMTV promoter",
+      "authors": "Miguel Beato; Reyes Candau; Sebastian Chávez; Christian Möws,; Mathias Truss",
+      "year": 1997,
+      "doi": "10.1093/oso/9780198549239.003.0002",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>It seems obvious that the packaging and condensation of eukaryotic DNA in chromatin within the cell nucleus should represent an obstacle for the protein machinery involved in replication, recombination, and transcription of the genetic message. This argument probably applies to all levels of chromatin organization, from the basic repeating unit, the nucleosome, over the solenoid superhelix or other condensed arrays of nucleosomes, to chromatin domains and loops. In the past this problem has been circumvented or eluded by invoking ad hoc hypothesis. For some years after the discovery of the nucleosomal organization of chromatin, the curious idea was favoured that the histones have evolved to packaged DNA into the cell nucleus in a ‘transparent’ way, which virtually would not interfere with the processes of replication and transcription. The prevailing opinion was that one could treat the genetic material of eukaryotic cells in very much the same way as that of bacteriophage lambda, ignoring the fact that it is tightly condensed into a regular structure. To make this assumption acceptable, it was claimed that the nucleosomes are randomly located along the DNA, and for this reason do not pose a problem for protein recognizing specific sequences or for enzymes involved in DNA metabolism. In recent years, however, this view has been challenged by the accumulation of experimental evidence demonstrating a precise nucleosomal organization in relevant DNA regions of many genes.</jats:p>",
+      "url": "https://doi.org/10.1093/oso/9780198549239.003.0002",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" basal expression repression promoter state chromatin methylation H3K27ac"
+      ],
+      "paper_id": "10.1093/oso/9780198549239.003.0002",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A cellular stress response induced by the CRISPR/dCas9 activation system is not heritable through cell divisions",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.37473//10.1101/2019.12.23.887224",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.37473//10.1101/2019.12.23.887224",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV"
+      ],
+      "paper_id": "10.37473//10.1101/2019.12.23.887224",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Chemically Controlled Epigenome Editing through an Inducible dCas9 System",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/jacs.7b06555.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jacs.7b06555.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/jacs.7b06555/suppl_file/ja7b06555_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "10.1021/jacs.7b06555.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Chromatin Remodeling and Histone Variants in Transcriptional Regulation and in Maintaining DNA Methylation",
+      "authors": "J.C. Reyes; J. Brzeski; A. Jerzmanowski",
+      "year": 1970,
+      "doi": "10.1002/9780470988886.ch5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/9780470988886.ch5",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" granulosa cells chromatin promoter H3K27ac methylation transcriptional regulation"
+      ],
+      "paper_id": "10.1002/9780470988886.ch5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Data S3: pPrA-dCas9 + gRNA-ARS305 GAL1 promoter plasmid",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.9442/supp-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.9442/supp-4",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "10.7717/peerj.9442/supp-4",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 2. Activation of an exogenous reporter gene ZsGreen under the control of a HNF4α promoter by the CRISPR-assisted trans enhancer in multiple cells.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.45973.003",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.45973.003",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "10.7554/elife.45973.003",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3. Changes in LTR5HS chromatin landscape upon CARGO-CRISPRa/CRISPRi.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.35989.008",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.35989.008",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "10.7554/elife.35989.008",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3. Transcriptional activation of endogenous genes by the CRISPR-assisted trans enhancer.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.45973.008",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.45973.008",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV",
+        "\"Kachanov\" 2025 FTO dCas9-p300 HepG2 HBV endogenous activation",
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "10.7554/elife.45973.008",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3: Specificity of dCas9/gRNA and edCas9 (1.1)/gRNA enrichment of\n                      <i>ARS305</i>\n                      chromatin.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.9442/fig-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.9442/fig-3",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats"
+      ],
+      "paper_id": "10.7717/peerj.9442/fig-3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3—figure supplement 2. Activation of endogenous HNF4α gene in 293 T cell with trans enhancers based on dCas9-VP64 and dCas9-VPR.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.45973.010",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.45973.010",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"Kachanov\" 2025 FTO dCas9-p300 HepG2 HBV endogenous activation",
+        "CRISPRa dCas9-p300 cell-type specificity chromatin accessibility promoter context endogenous gene activation caveats",
+        "dCas9-p300 epigenome editing enhancer promoter H3K27ac endogenous gene activation transferability"
+      ],
+      "paper_id": "10.7554/elife.45973.010",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 5. An increase in WT1 expression inhibits the proliferation of H3.3K27M mutant cells.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.36696.014",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.36696.014",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "10.7554/elife.36696.014",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 5—figure supplement 1. Forced expression of WT1 inhibits the proliferation of DIPG cells with H3.3K27M mutation.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.36696.015",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.36696.015",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" dCas9-p300 HepG2 promoter H3K27ac chromatin activation"
+      ],
+      "paper_id": "10.7554/elife.36696.015",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "PhiReX 2.0: A Programmable and Red Light-Regulated CRISPR-dCas9 System for the Activation of Endogenous Genes in Saccharomyces cerevisiae",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acssynbio.2c00517.s002",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acssynbio.2c00517.s002",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV",
+        "\"Kachanov\" 2025 FTO dCas9-p300 HepG2 HBV endogenous activation"
+      ],
+      "paper_id": "10.1021/acssynbio.2c00517.s002",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "PhiReX 2.0: A Programmable and Red Light-Regulated CRISPR-dCas9 System for the Activation of Endogenous Genes in Saccharomyces cerevisiae",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acssynbio.2c00517.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acssynbio.2c00517.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acssynbio.2c00517/suppl_file/sb2c00517_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "\"FTO\" CRISPR activation dCas9-p300 endogenous locus HepG2 HBV",
+        "\"Kachanov\" 2025 FTO dCas9-p300 HepG2 HBV endogenous activation"
+      ],
+      "paper_id": "10.1021/acssynbio.2c00517.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

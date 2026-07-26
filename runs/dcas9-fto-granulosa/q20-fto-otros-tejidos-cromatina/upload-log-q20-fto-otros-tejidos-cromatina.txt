@@ -1,0 +1,18 @@
+[18:22:36] Starting parallel upload: 16 PDFs, 4 workers
+[18:22:44] OK - chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf
+[18:22:45] OK - chen_2026_m_lt_sup_gt_6_lt_sup_gt.pdf
+[18:22:46] OK - emina_2020_the_role_of_oxidative_stress_in_the_development.pdf
+[18:22:46] OK - hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf
+[18:22:49] OK - huang_2026_targeting_glycolytic_plasticity_to_overcome_therapy_resistance_in.pdf
+[18:22:51] OK - li_2026_the_role_of_n_lt_sup_gt_6.pdf
+[18:22:51] OK - nady_2018_intravenous_nad_effectively_increased_the_nad_metabolome_reduced.pdf
+[18:22:52] OK - mengwei_2022_trends_in_insulin_resistance_insights_into_mechanisms_and.pdf
+[18:22:54] OK - rosngela_2016_oxidative_stress_and_disease.pdf
+[18:22:55] OK - shelley_2015_metabolic_signaling_to_chromatin.pdf
+[18:22:56] OK - wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf
+[18:22:57] OK - xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf
+[18:22:59] OK - yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf
+[18:22:59] OK - yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf
+[18:23:02] OK - zhao_2026_disulfidptosis_a_metabolic_cell_death_mechanism_with_therapeutic.pdf
+[18:23:02] OK - zhang_2026_ubiquitination_dependent_regulation_of_ferroptosis_in_ischemic_heart.pdf
+[18:23:02] DONE: 16 OK, 0 FAIL (of 16)

@@ -1,0 +1,725 @@
+﻿{
+    "date":  "2026-07-24",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.1158/1538-7445.am2026-1358",
+                        "title":  "Abstract 1358: Promoter methylation gains in aging and cancer are independent of replication.",
+                        "doi":  "10.1158/1538-7445.am2026-1358",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12930325",
+                        "title":  "Epigenetic crossroads in intervertebral disc degeneration: Unlocking novel therapeutic avenues (Review).",
+                        "doi":  "10.3892/mmr.2026.13823",
+                        "pmid":  "41685572",
+                        "pmcid":  "PMC12930325",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic deciphering of ovarian aging multilayer interactive mechanisms and targeted reversal strategies",
+                        "title":  "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+                        "doi":  "10.1186/s13072-026-00664-3",
+                        "pmid":  "42050634",
+                        "pmcid":  "PMC13274177",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13238957",
+                        "title":  "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+                        "doi":  "10.3892/mmr.2026.13913",
+                        "pmid":  "42169659",
+                        "pmcid":  "PMC13238957",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13068658",
+                        "title":  "Epigenetic transcriptional regulation of skeletal aging: The emerging role of m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A methylation.",
+                        "doi":  "10.1016/j.jot.2026.101088",
+                        "pmid":  "41969821",
+                        "pmcid":  "PMC13068658",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12967-026-07990-w",
+                        "title":  "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+                        "doi":  "10.1186/s12967-026-07990-w",
+                        "pmid":  "41832537",
+                        "pmcid":  "PMC13101344",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1080/17501911.2026.2637419",
+                        "title":  "Targeting epigenetic remodeling of the blood-brain barrier: current knowledge for drug therapy.",
+                        "doi":  "10.1080/17501911.2026.2637419",
+                        "pmid":  "41770019",
+                        "pmcid":  "PMC13097789",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of n lt sup gt 6 lt sup gt methyladenosine modification in health and disease",
+                        "title":  "The Role of N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-Methyladenosine Modification in Health and Disease.",
+                        "doi":  "10.1002/mco2.70767",
+                        "pmid":  "42164653",
+                        "pmcid":  "PMC13183813",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+                        "notebook_source_id":  "cd7b0d6a-44a3-41db-8100-72e159cb592b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13154011",
+                        "title":  "The role of epigenetic modifications in cancer-associated fibroblasts.",
+                        "doi":  "10.3389/fmed.2026.1780734",
+                        "pmid":  "42110420",
+                        "pmcid":  "PMC13154011",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+                        "notebook_source_id":  "29e29f6a-c8b3-403c-927a-2451bba7deb5",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13113650",
+                        "title":  "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+                        "doi":  "10.3390/biom16040571",
+                        "pmid":  "42072692",
+                        "pmcid":  "PMC13113650",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\kuai_2026_unravelling_multilayered_rna_modification_networks_in_female_reproduction.pdf",
+                        "notebook_source_id":  "2a05047f-5774-4c11-9666-c4df63a592fd",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.redox.2026.104178",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A epitranscriptomic remodeling links redox stress to mitochondrial quality control and programmed cell death in sepsis-induced myocardial dysfunction.",
+                        "doi":  "10.1016/j.redox.2026.104178",
+                        "pmid":  "42030647",
+                        "pmcid":  "PMC13125911",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\chen_2026_m_lt_sup_gt_6_lt_sup_gt.pdf",
+                        "notebook_source_id":  "7f0d2e39-3d9b-46ca-8f18-a9011506a07f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3892/mmr.2026.13908",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modification in skeletal system diseases (Review).",
+                        "doi":  "10.3892/mmr.2026.13908",
+                        "pmid":  "42169641",
+                        "pmcid":  "PMC13220071",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a rna methylation mirna crosstalk in cardiovascular remodeling",
+                        "title":  "m6A RNA Methylation-miRNA Crosstalk in Cardiovascular Remodeling",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC13296636",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.9734/ajbgmb/2025/v17i12507",
+                        "title":  "CpG Methylation in the 1F Promoter of the NR3C1 Gene and its Biomarker Potential in Post-Traumatic Stress Disorder",
+                        "doi":  "10.9734/ajbgmb/2025/v17i12507",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:pilot study on cpg methylation of the nrf2 promoter across different ages and sex in healthy and lung cancer prediagnostic individuals",
+                        "title":  "Pilot Study on CpG Methylation of the NRF2 Promoter Across Different Ages and Sex in Healthy and Lung Cancer Prediagnostic Individuals.",
+                        "doi":  "10.1016/j.freeradbiomed.2025.04.036",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for m6a methylation regulators mettl3 and alkbh5 are risk factors for egfr mutant nsclc",
+                        "title":  "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+                        "doi":  "10.1177/10732748251342685/v2/review1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1177/10732748251342685/v2/review2",
+                        "title":  "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+                        "doi":  "10.1177/10732748251342685/v2/review2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for m6a methylation regulators mettl3 and alkbh5 are risk factors for egfr mutant nsclc",
+                        "title":  "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+                        "doi":  "10.1177/10732748251342685/v1/review2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for m6a methylation regulators mettl3 and alkbh5 are risk factors for egfr mutant nsclc",
+                        "title":  "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+                        "doi":  "10.1177/10732748251342685/v1/review1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:smcle25 coordinates stress resistance and leaf senescence inhibition via transcriptional repression of rboh mediated oxidative burst",
+                        "title":  "Smcle25 Coordinates Stress Resistance and Leaf Senescence Inhibition Via Transcriptional Repression of Rboh-Mediated Oxidative Burst",
+                        "doi":  "10.2139/ssrn.5266931",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:astrocytic alkbh5 in stress response contributes to depressive like behaviors in mice",
+                        "title":  "Astrocytic ALKBH5 in stress response contributes to depressive-like behaviors in mice",
+                        "doi":  "10.1038/s41467-024-48730-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\fang_2024_astrocytic_alkbh5_in_stress_response_contributes_to_depressive.pdf",
+                        "notebook_source_id":  "55d9c10b-04aa-422a-b8b9-348cc7f684df",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcell.2024.1458716",
+                        "title":  "CHAC1: a master regulator of oxidative stress and ferroptosis in human diseases and cancers",
+                        "doi":  "10.3389/fcell.2024.1458716",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\jiasen_2024_chac1_a_master_regulator_of_oxidative_stress_and.pdf",
+                        "notebook_source_id":  "6c00df03-56cd-4cf5-aff4-a324f2c3349b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41413-024-00375-z",
+                        "title":  "Cross-talk of inflammation and cellular senescence: a new insight into the occurrence and progression of osteoarthritis",
+                        "doi":  "10.1038/s41413-024-00375-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\zeyu_2024_cross_talk_of_inflammation_and_cellular_senescence_a.pdf",
+                        "notebook_source_id":  "f9db0280-e965-4618-baf1-7f8bbd257957",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dna methylation as an epigenetic mechanism in the regulation of ledgf expression and biological response in aging and oxidative stress",
+                        "title":  "DNA methylation as an epigenetic mechanism in the regulation of LEDGF expression and biological response in aging and oxidative stress",
+                        "doi":  "10.1038/s41420-024-02076-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\biju_2024_dna_methylation_as_an_epigenetic_mechanism_in_the.pdf",
+                        "notebook_source_id":  "463b2162-7346-4e2a-bf3e-156a61e71858",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s11357-024-01360-4",
+                        "title":  "DNA methylation drives hematopoietic stem cell aging phenotypes after proliferative stress",
+                        "doi":  "10.1007/s11357-024-01360-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41419-024-06771-x",
+                        "title":  "Histone acetyltransferase Kat2a regulates ferroptosis via enhancing Tfrc and Hmox1 expression in diabetic cardiomyopathy",
+                        "doi":  "10.1038/s41419-024-06771-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\juan_2024_histone_acetyltransferase_kat2a_regulates_ferroptosis_via_enhancing_tfrc.pdf",
+                        "notebook_source_id":  "e2fe6d19-6193-4aaa-8295-0c6e79fcdeb5",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-023-01480-x",
+                        "title":  "Epigenetic regulation in the tumor microenvironment: molecular mechanisms and therapeutic targets",
+                        "doi":  "10.1038/s41392-023-01480-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\jing_2023_epigenetic_regulation_in_the_tumor_microenvironment_molecular_mechanisms.pdf",
+                        "notebook_source_id":  "a581b7a2-c138-4ede-9d06-25ab96b4718e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-023-01720-0",
+                        "title":  "Targeting epigenetic and posttranslational modifications regulating ferroptosis for the treatment of diseases",
+                        "doi":  "10.1038/s41392-023-01720-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\yumin_2023_targeting_epigenetic_and_posttranslational_modifications_regulating_ferroptosis_for.pdf",
+                        "notebook_source_id":  "f09ecd87-08a7-47e1-af8b-40392a392f31",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abnormal methylation caused by folic acid deficiency in neural tube defects",
+                        "title":  "Abnormal methylation caused by folic acid deficiency in neural tube defects",
+                        "doi":  "10.1515/biol-2022-0504",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:decision letter modeling single cell phenotypes links yeast stress acclimation to transcriptional repression and pre stress cellular states",
+                        "title":  "Decision letter: Modeling single-cell phenotypes links yeast stress acclimation to transcriptional repression and pre-stress cellular states",
+                        "doi":  "10.7554/elife.82017.sa1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:editor s evaluation modeling single cell phenotypes links yeast stress acclimation to transcriptional repression and pre stress cellular states",
+                        "title":  "Editor\u0027s evaluation: Modeling single-cell phenotypes links yeast stress acclimation to transcriptional repression and pre-stress cellular states",
+                        "doi":  "10.7554/elife.82017.sa0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12943-022-01500-4",
+                        "title":  "The role of m6A RNA methylation in cancer metabolism",
+                        "doi":  "10.1186/s12943-022-01500-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\yuanyuan_2022_the_role_of_m6a_rna_methylation_in_cancer.pdf",
+                        "notebook_source_id":  "2aa596fc-a55b-4bda-a66b-183780133bb1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:alkbh5 hoxa10 loop mediated jak2 m6a demethylation and cisplatin resistance in epithelial ovarian cancer",
+                        "title":  "ALKBH5-HOXA10 loop-mediated JAK2 m6A demethylation and cisplatin resistance in epithelial ovarian cancer",
+                        "doi":  "10.1186/s13046-021-02088-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\sipei_2021_alkbh5_hoxa10_loop_mediated_jak2_m6a_demethylation_and.pdf",
+                        "notebook_source_id":  "4360f604-ea8d-4c71-bc37-a31211eb8056",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13046-021-02035-0",
+                        "title":  "Cellular senescence or stemness: hypoxia flips the coin",
+                        "doi":  "10.1186/s13046-021-02035-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:small molecules in targeted cancer therapy advances challenges and future perspectives",
+                        "title":  "Small molecules in targeted cancer therapy: advances, challenges, and future perspectives",
+                        "doi":  "10.1038/s41392-021-00572-w",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\lei_2021_small_molecules_in_targeted_cancer_therapy_advances_challenges.pdf",
+                        "notebook_source_id":  "da907955-8c29-4c9d-b18a-0ce980bec03c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12943-020-01286-3",
+                        "title":  "Circular RNA: metabolism, functions and interactions with proteins",
+                        "doi":  "10.1186/s12943-020-01286-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+                        "notebook_source_id":  "7f47d67f-7e87-4200-9020-6bb218258d97",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1146/annurev-biochem-060713-035513",
+                        "title":  "Mechanism and Function of Oxidative Reversal of DNA and RNA Methylation",
+                        "doi":  "10.1146/annurev-biochem-060713-035513",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:sirt1 igfbp 3 and cav1 promoter dna methylation in aging",
+                        "title":  "SIRT1, IGFBP-3 and CAV1 Promoter DNA Methylation in Aging",
+                        "doi":  "10.4172/2161-1025.1000133",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-94-007-5787-5_14",
+                        "title":  "Role of Oxidative Stress in Aging",
+                        "doi":  "10.1007/978-94-007-5787-5_14",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1201/9781482292213-44",
+                        "title":  "Glycation as Oxidative Stress and Redox Regulation: Implications for Aging, Diabetes, and Familial Amyotrophic Lateral Sclerosis",
+                        "doi":  "10.1201/9781482292213-44",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:nfkb transcription factor activation importance of the redox regulation",
+                        "title":  "NFKB Transcription Factor Activation: Importance of the Redox Regulation",
+                        "doi":  "10.1201/9781482292213-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-3-0348-7337-6_1",
+                        "title":  "Oxidative stress, antioxidants, aging and disease",
+                        "doi":  "10.1007/978-3-0348-7337-6_1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.37473/dac/10.1101/2019.12.19.882225",
+                        "title":  "A novel IKK- and proteasome-independent mechanism of RelA activation triggers senescence associated secretome via transcriptional repression of NFKBIA",
+                        "doi":  "10.37473/dac/10.1101/2019.12.19.882225",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.31274/etd-20200902-17",
+                        "title":  "Analysis of transcription factor FOXO in the regulation of stress, aging, and neuromuscular tissue homeostasis in Drosophila melanogaster",
+                        "doi":  "10.31274/etd-20200902-17",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/9780470988855.ch4",
+                        "title":  "Oxidative Stress and Leaf Senescence",
+                        "doi":  "10.1002/9780470988855.ch4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

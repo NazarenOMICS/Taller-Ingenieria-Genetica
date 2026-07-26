@@ -1,0 +1,1174 @@
+{
+  "slug": "q17-metilacion-promotor-fto-otros-tejidos",
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "5mC and 6mA DNA Methylation in the Fungal Kingdom: From Genome Defense to Epigenetic Regulation",
+      "authors": "Daniil P. Malyshev; Vasiliy V. Belov; Elizaveta S. Gromova; Andrey A. Eremin; Maria I. Zvereva; Alexander V. Sergeev",
+      "year": 2026,
+      "doi": "10.20944/preprints202604.1155.v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>DNA methylation, the covalent addition of methyl groups to cytosine (5mC) or adenine (6mA) in DNA, is a fundamental mechanism of epigenetic inheritance conserved from bacteria to humans. Fungi provide a uniquely informative window into the evolutionary logic of methylation systems: spanning more than 1 billion years of diversification, the kingdom encompasses species that have lost cytosine methylation entirely, lineages that use 5mC to silence transposons and drive the irreversible genome-defense process known as repeat-induced point mutation (RIP), and early-diverging lineages in which 6mA has displaced 5mC as the dominant chromatin mark. The methyltransferases underlying these strategies (DIM-2, RID, DNMT1-RFD, DNMT5, and the MT-A70 complex) and the recently characterized demethylases Dmt1 and CcTet are structurally and mechanistically distinct from their mammalian counterparts. Here we review the mechanisms, targets, and biological functions of fungal DNA methyltransferases and demethylases, incorporating cryo-EM structural insights into DIM-2 and DNMT5 catalysis, analyses of DNMT gene loss as a continuous evolutionary process, the antiviral role of DIM-2 in vegetative hyphae, and the emerging model of 6mA as an essential, heritable regulatory mark in early-diverging lineages. By integrating these advances, this review offers the most current and comprehensive account of DNA methylation across fungi.</jats:p>",
+      "url": "https://doi.org/10.20944/preprints202604.1155.v1",
+      "pdf_url": "https://www.preprints.org/frontend/manuscript/6e14953254bf75ca275cd113e41bef59/download_pub",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "10.20944/preprints202604.1155.v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "5mC and 6mA DNA Methylation in the Fungal Kingdom: From Genome Defense to Epigenetic Regulation",
+      "authors": "Daniil P. Malyshev; Vasiliy V. Belov; Elizaveta S. Gromova; Andrey A. Eremin; Maria I. Zvereva; Alexander V. Sergeev",
+      "year": 2026,
+      "doi": "10.3390/epigenomes10020037",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>DNA methylation, the covalent addition of methyl groups to cytosine (5mC) or adenine (6mA) in DNA, is a fundamental mechanism of epigenetic inheritance conserved from bacteria to humans. Fungi provide a uniquely informative window into the evolutionary logic of methylation systems. Spanning more than 1 billion years of diversification, the kingdom encompasses species that have lost cytosine methylation entirely, lineages that use 5mC to silence transposons and drive the irreversible genome-defense process known as repeat-induced point mutation (RIP), and early-diverging lineages, in which 6mA has emerged as a prominent chromatin mark. The methyltransferases underlying these strategies (DIM-2, RID, DNMT1-RFD, DNMT5, and the MT-A70 complex) and the recently characterized demethylases Dmt1 and CcTet are structurally and mechanistically distinct from their mammalian counterparts. Here we review the mechanisms, targets, and biological functions of fungal DNA methyltransferases and demethylases, incorporating cryo-EM structural insights into DIM-2 and DNMT5 catalysis, analyses of DNMT gene loss as a continuous evolutionary process, the antiviral role of DIM-2 in vegetative hyphae, and the emerging model of 6mA as a heritable regulatory mark in early-diverging lineages. By integrating these advances, this review offers the updated and comprehensive account of DNA methylation across fungi.</jats:p>",
+      "url": "https://doi.org/10.3390/epigenomes10020037",
+      "pdf_url": "https://doi.org/10.3390/epigenomes10020037",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "10.3390/epigenomes10020037",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "5mC and 6mA DNA methylation in eukaryotic genomes",
+      "authors": "Bei Nan; Shan Gao",
+      "year": 2026,
+      "doi": "10.1016/j.tibs.2026.01.002",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tibs.2026.01.002",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "10.1016/j.tibs.2026.01.002",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA Methylation: A Key Epigenetic Regulator of Cardiovascular Diseases.",
+      "authors": "Chen W; Li X; Zhu L",
+      "year": 2026,
+      "doi": "10.31083/rcm46194",
+      "pmid": "42110184",
+      "pmcid": "PMC13155980",
+      "abstract": "CVDs arise from the interplay of multiple factors, with genetics and environmental exposures representing key drivers. Accumulating evidence over recent decades has unequivocally established that epigenetic modifications, most prominently DNA methylation, play a pivotal, non-redundant role in the initiation, development, and progression of CVDs. As a critical molecular bridge linking genetic predisposition, environmental insults, and the pathogenesis of CVDs, DNA methylation dynamically mediates crosstalk among these three components, thereby emerging as a core focus for dissecting the underlying pathological mechanisms of CVDs. Thus, this review summarizes the functional roles of DNA methylation in common CVDs, including coronary heart disease (CHD), hypertension, and heart failure (HF). Special emphasis is placed on the regulatory mechanisms of DNA methylation in driving disease pathogenesis, as well as the associated translational potential for preventing CVDs and for clinical management. Moreover, this review delineates the specific pathways through which DNA methylation modulates CVDs onset and progression-providing a novel perspective for in-depth investigation of disease etiologies-and offers a robust theoretical basis for identifying novel therapeutic targets for CVDs. Ultimately, these insights aim to lay a foundation for the optimization and innovation of clinical diagnostic and therapeutic strategies for CVDs.",
+      "url": "https://europepmc.org/articles/PMC13155980",
+      "pdf_url": "https://europepmc.org/articles/PMC13155980?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ef/b0/PMC13155980.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "PMID:42110184",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic orchestration of scar formation: Therapeutic potential of targeting DNA methylation and non‑coding RNAs in cutaneous fibrosis (Review).",
+      "authors": "Li J; Liu W; Yang J; Li Y",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13922",
+      "pmid": "42212370",
+      "pmcid": "PMC13261338",
+      "abstract": "Cutaneous fibrosis is sustained by epigenetic 'memory' rather than chronic inflammation. DNA hypermethylation, repressive histone marks and non‑coding RNA networks lock dermal fibroblasts into a collagen‑secretory state that can persist years after wounding. Single‑cell methylomes have identified DNA methyltransferase (DNMT)3B as the key epigenetic writer driving anti‑fibrotic gene silencing, whereas N6‑methyladenosine‑modified long non‑coding RNAs and reinforce these loops by tethering methylation machinery to chromatin. Local delivery of DNMT inhibitors, microRNA‑29 mimics or antisense oligonucleotides via dissolvable microneedles, metal‑organic framework patches or exosome arrays reproducibly reduces scar volume by 25‑55% in pre‑clinical models without systemic exposure of therapeutic agents. The present review integrates multi‑omic mechanistic data with emerging device platforms to chart a precision roadmap for converting scar‑forming repair into scar‑sparing regeneration.",
+      "url": "https://europepmc.org/articles/PMC13261338",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/ce/7f/mmr-34-01-13922.PMC13261338.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ce/7f/PMC13261338.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "PMID:42212370",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "LINE-1 retrotransposons: Multifaceted functions and regulatory mechanisms in health and disease.",
+      "authors": "Liu X; Zhong C; Wang S; Huang Q; Li Z",
+      "year": 2026,
+      "doi": "10.1016/j.omtn.2026.102934",
+      "pmid": "42100560",
+      "pmcid": "PMC13147398",
+      "abstract": "Long interspersed nuclear element-1 (LINE-1), a prominent class of retrotransposons, is abundantly distributed throughout mammalian genomes and plays critical roles in development, aging, and disease. In this review, we provide a comprehensive overview of the multifaceted functions of LINE-1, with a focus on its regulatory impact on gene transcription and cellular responses across the DNA, RNA, and protein levels. We highlight recent advances in understanding the transcriptional and epigenetic mechanisms controlling LINE-1 transcription. Furthermore, we explore the current challenges and future opportunities in LINE-1 research, emphasizing its potential as a novel therapeutic target. Continued investigation into LINE-1 biology holds promise for deepening our understanding of human health and disease.",
+      "url": "https://europepmc.org/articles/PMC13147398",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8d/ed/main.PMC13147398.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8d/ed/PMC13147398.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "PMID:42100560",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation-centric epigenetic regulation in dilated cardiomyopathy: mechanisms, metabolic interplay, and translational potential.",
+      "authors": "Wang Y; Zhang Y; Mao Z; Xu Z",
+      "year": 2026,
+      "doi": "10.3389/fcvm.2026.1785320",
+      "pmid": "42199200",
+      "pmcid": "PMC13199325",
+      "abstract": "Dilated cardiomyopathy (DCM) is one of the main causes of heart failure and heart transplantation, with complex causes involving multiple factors such as genetics, epigenetics, and environment. In recent years, methylation, as a key epigenetic regulatory approach, has increasingly garnered attention for its role in the mechanisms of DCM onset. This review comprehensively summarizes the mechanisms, functions, and metabolic regulatory characteristics of DNA methylation, histone methylation, and RNA N6-methyladenosine (m6A) modification in the occurrence and development of DCM. Literature was selected from PubMed and Web of Science, focusing on studies related to methylation and DCM published in recent years, as well as comprehensive and well-structured review articles. Studies have shown that these three methylation modifications collectively influence the phenotypic characteristics of DCM by regulating processes such as gene expression, metabolic homeostasis, inflammatory responses, fibrosis, and cell death in cardiomyocytes. Moreover, there is cross-regulation among these modifications, which is closely related to carbon metabolism and the tricarboxylic acid cycle. Further exploration of methylation regulatory mechanisms not only helps reveal the underlying basis of DCM but also opens new directions for targeted therapy and precision medicine. This article aims to summarize existing research advancements, explore the clinical translation potential of methylation-related mechanisms, and identify key questions and challenges for future studies.",
+      "url": "https://europepmc.org/articles/PMC13199325",
+      "pdf_url": "https://europepmc.org/articles/PMC13199325?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/19/66/PMC13199325.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "PMID:42199200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting epigenetic regulators to boost T cell immunotherapy against cancer.",
+      "authors": "Xiao T; Zhang YE",
+      "year": 2026,
+      "doi": "10.1186/s13578-026-01533-y",
+      "pmid": "41634788",
+      "pmcid": "PMC12958680",
+      "abstract": "Epigenetic regulation is crucial in directing T-cell differentiation, function, and fate, thereby influencing the success of T-cell-based immunotherapies. This review begins with an overview of the evolution of T-cell immunotherapies in cancer treatment. We then examine key epigenetic regulators-such as DNA methylation, mRNA methylation, and histone methylation-and their roles in shaping T-cell states during infection and tumorigenesis. The contributions of these regulators to T-cell exhaustion and lineage commitment are discussed in the context of immunotherapy efficacy. We highlight recent advances in targeting epigenetic pathways to enhance CAR-T and TCR-based therapies and conclude with current challenges and emerging strategies to improve the durability and effectiveness of adoptive T-cell therapies.",
+      "url": "https://europepmc.org/articles/PMC12958680",
+      "pdf_url": "https://europepmc.org/articles/PMC12958680?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/db/ac/PMC12958680.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\xiao_2026_targeting_epigenetic_regulators_to_boost_t_cell_immunotherapy.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "PMID:41634788",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Complex Role of Methylation in Regulating Vascular Smooth Muscle Cell Phenotypic States in Vascular Remodeling and Atherosclerosis",
+      "authors": "Basak S; Gomez D",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13296941",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13296941/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13296941/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7f/8e/PMC13296941.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "PMC13296941",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of epigenetic modifications in cancer-associated fibroblasts.",
+      "authors": "Yan B; Yang C; Liu X; Zuo Q; Wang J; Yang W; Chen H",
+      "year": 2026,
+      "doi": "10.3389/fmed.2026.1780734",
+      "pmid": "42110420",
+      "pmcid": "PMC13154011",
+      "abstract": "Cancer-associated fibroblasts (CAFs) constitute a heterogeneous population of stromal cells whose tumor-modulating activities are highly context-dependent. Unlike cancer cells, CAFs rarely harbor stable genetic mutations; instead, their phenotypic plasticity is largely driven by reversible epigenetic reprogramming. Within the tumor microenvironment (TME), CAFs function as key regulators by secreting extracellular matrix (ECM) components, paracrine growth factors, cytokines, and metabolic intermediates that collectively promote tumor growth, invasion, and therapeutic resistance. Recent advances in cancer biology have shifted attention from solely cataloging coding-sequence mutations toward understanding the epigenetic mechanisms that shape CAF identity and function. Major epigenetic regulatory mechanisms include DNA methylation, histone modifications, and RNA modifications, which dynamically regulate chromatin structure and gene expression without altering the underlying DNA sequence. Emerging evidence indicates that the activation and functional heterogeneity of CAFs are predominantly governed by these epigenetic alterations rather than by permanent genetic changes. Epigenetic reprogramming enables CAFs to acquire diverse tumor-promoting properties, including remodeling of the extracellular matrix, modulation of intercellular signaling pathways, and secretion of cytokines that influence gene expression in neighboring cancer and immune cells. These processes ultimately contribute to tumor initiation, progression, metastasis, and resistance to therapy. This review summarizes recent advances in understanding how epigenetic modifications regulate CAF activation and function within the tumor microenvironment. In addition, we discuss the potential of targeting CAF-associated epigenetic pathways as a promising therapeutic strategy for cancer treatment.",
+      "url": "https://europepmc.org/articles/PMC13154011",
+      "pdf_url": "https://europepmc.org/articles/PMC13154011?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/85/39/PMC13154011.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "PMID:42110420",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA methylation and demethylation in adipocyte biology: roles of DNMT and TET proteins in metabolic disorders",
+      "authors": "Lijiao Wu; Xiangjin Wang; Luling Wang; Shuyan Li; Qiu Chen",
+      "year": 2025,
+      "doi": "10.3389/fendo.2025.1591152",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>Adipocytes play a crucial role in regulating energy metabolism throughout the body. Dysfunctional adipocyte biology is a primary factor in the development of metabolic disorders associated with obesity and type 2 diabetes. Over the past decades, the role of epigenetic mechanisms, particularly DNA methylation, in the development and regulation of adipocytes has been extensively elucidated. These mechanisms influence numerous biological processes in adipose tissue and adipocytes, including lipogenesis and lipid metabolism. With the discovery of the active DNA demethylation mechanism centered on ten-eleven translocation (TET) proteins, a growing body of evidence sug-gests that DNA demethylation mechanisms also profoundly influence various aspects of adipocyte biology and regulate cellular differentiation and function by altering the methylation status of genes. Following the discovery of active DNA demethylation mechanisms mediated by TET proteins, a growing body of evidence indicates that these mechanisms profoundly influence multiple aspects of adipocyte biology. Specifically, these mechanisms regulate cellular differentiation and function by altering the methylation status of key genes involved in adipogenesis and metabolism. A precise and detailed understanding of the mechanisms underlying DNA demethylation in adipocyte biology is imperative for the identification of novel interventional therapies targeting adipocyte gene methylation and demethylation. This review examines the specific molecular mechanisms and significance of passive and active DNA demethylation in adipocyte biology, focusing on the DNA methyltransferase family and TET proteins. It summarizes crosstalk mechanisms involving DNA methyltransferases, highlights the multiple action pathways of TET proteins, and reveals the potential of additional intervention pathways. This review aims to provide an updated theoretical basis for promising therapeutic targets.</jats:p>",
+      "url": "https://doi.org/10.3389/fendo.2025.1591152",
+      "pdf_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1591152/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\lijiao_2025_dna_methylation_and_demethylation_in_adipocyte_biology_roles.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "10.3389/fendo.2025.1591152",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nutrition and DNA Methylation: How Dietary Methyl Donors Affect Reproduction and Aging",
+      "authors": "Fanny Cecília Dusa; Tibor Vellai; Miklós Sipos",
+      "year": 2025,
+      "doi": "10.3390/dietetics4030030",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Methylation is a biochemical process involving the addition of methyl groups to proteins, lipids, and nucleic acids (both DNA and RNA). DNA methylation predominantly occurs on cytosine and adenine nucleobases, and the resulting products—most frequently 5-methylcytosine and N6-methyladenine epigenetic marks—can significantly influence gene activity at the affected genomic sites without modifying the DNA sequence called nucleotide order. Various environmental factors can alter the DNA methylation pattern. Among these, methyl donor micronutrients, such as specific amino acids, choline, and several B vitamins (including folate, pyridoxine, thiamine, riboflavin, niacin, and cobalamin), primarily regulate one-carbon metabolism. This molecular pathway stimulates glutathione synthesis and recycles intracellular methionine. Glutathione plays a pivotal role during oocyte activation by protecting against oxidative stress, whereas methionine is crucial for the production of S-adenosyl-L-methionine, which serves as the universal direct methyl donor for cellular methylation reactions. Because local DNA methylation patterns at genes regulating fertility can be inherited by progeny for multiple generations even in the absence of the original disrupting factors to which the parent was exposed, and DNA methylation levels at specific genomic sites highly correlate with age and can also be passed to offspring, nutrition can influence reproduction and life span in a transgenerational manner.",
+      "url": "https://doi.org/10.3390/dietetics4030030",
+      "pdf_url": "https://www.mdpi.com/2674-0311/4/3/30/pdf?version=1752475150",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "W4412390362",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic control of skeletal muscle atrophy.",
+      "authors": "Liang W; Xu F; Li L; Peng C; Sun H; Qiu J; Sun J",
+      "year": 2024,
+      "doi": "10.1186/s11658-024-00618-1",
+      "pmid": "38978023",
+      "pmcid": "PMC11229277",
+      "abstract": "Skeletal muscular atrophy is a complex disease involving a large number of gene expression regulatory networks and various biological processes. Despite extensive research on this topic, its underlying mechanisms remain elusive, and effective therapeutic approaches are yet to be established. Recent studies have shown that epigenetics play an important role in regulating skeletal muscle atrophy, influencing the expression of numerous genes associated with this condition through the addition or removal of certain chemical modifications at the molecular level. This review article comprehensively summarizes the different types of modifications to DNA, histones, RNA, and their known regulators. We also discuss how epigenetic modifications change during the process of skeletal muscle atrophy, the molecular mechanisms by which epigenetic regulatory proteins control skeletal muscle atrophy, and assess their translational potential. The role of epigenetics on muscle stem cells is also highlighted. In addition, we propose that alternative splicing interacts with epigenetic mechanisms to regulate skeletal muscle mass, offering a novel perspective that enhances our understanding of epigenetic inheritance's role and the regulatory network governing skeletal muscle atrophy. Collectively, advancements in the understanding of epigenetic mechanisms provide invaluable insights into the study of skeletal muscle atrophy. Moreover, this knowledge paves the way for identifying new avenues for the development of more effective therapeutic strategies and pharmaceutical interventions.",
+      "url": "https://europepmc.org/articles/PMC11229277",
+      "pdf_url": "https://europepmc.org/articles/PMC11229277?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2f/40/PMC11229277.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\liang_2024_epigenetic_control_of_skeletal_muscle_atrophy.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "PMID:38978023",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic modifications of DNA and RNA in Alzheimer's disease.",
+      "authors": "Martinez-Feduchi P; Jin P; Yao B",
+      "year": 2024,
+      "doi": "10.3389/fnmol.2024.1398026",
+      "pmid": "38726308",
+      "pmcid": "PMC11079283",
+      "abstract": "Alzheimer's disease (AD) is a complex neurodegenerative disorder and the most common form of dementia. There are two main types of AD: familial and sporadic. Familial AD is linked to mutations in amyloid precursor protein (APP), presenilin-1 (PSEN1), and presenilin-2 (PSEN2). On the other hand, sporadic AD is the more common form of the disease and has genetic, epigenetic, and environmental components that influence disease onset and progression. Investigating the epigenetic mechanisms associated with AD is essential for increasing understanding of pathology and identifying biomarkers for diagnosis and treatment. Chemical covalent modifications on DNA and RNA can epigenetically regulate gene expression at transcriptional and post-transcriptional levels and play protective or pathological roles in AD and other neurodegenerative diseases.",
+      "url": "https://europepmc.org/articles/PMC11079283",
+      "pdf_url": "https://europepmc.org/articles/PMC11079283?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/61/47/PMC11079283.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\martinez_feduchi_2024_epigenetic_modifications_of_dna_and_rna_in_alzheimer.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "PMID:38726308",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetics of Homocystinuria, Hydrogen Sulfide, and Circadian Clock Ablation in Cardiovascular-Renal Disease.",
+      "authors": "Tyagi SC",
+      "year": 2024,
+      "doi": "10.3390/cimb46120824",
+      "pmid": "39727952",
+      "pmcid": null,
+      "abstract": "Morning-time heart attacks are associated with an ablation in the sleep-time dip in blood pressure, the mechanism of which is unknown. The epigenetic changes are the hallmark of sleep and circadian clock disruption and homocystinuria (HHcy). The homocystinuria causes ablation in the dip in blood pressure during sleep. Interestingly, HHcy is generated during the epigenetic gene turning off and turning on (i.e., imprinting) by methylation of the DNA promoter. The mitochondrial sulfur metabolism by 3-mercaptopyruvate sulfur transferase (3MST), ATP citrate lyase (ACYL), and epigenetic rhythmic methylation are regulated by folate 1-carbon metabolism (FOCM), i.e., the methionine (M)-SAM-SAH-Hcy, adenosine, and uric acid cycle. Epigenetic gene writer (DNMT), gene eraser (TET/FTO), and editor de-aminase (ADAR) regulate the rhythmic, i.e., reversible methylation/demethylation of H3K4, H3K9, H4K20, m6A, and m5C. The mitochondrial ATP citrate cycle and creatine kinase (CK) regulate chromatin transcription, maturation, and accessibility as well as muscle function. The transcription is regulated by methylation. The maturation and accessibility are controlled by acetylation. However, it is unclear whether a high fat dysbiotic diet (HFD) causes dysrhythmic expression of the gene writer, eraser, and editor, creating hyperuricemia and cardiac and renal dysfunction. We hypothesized that an HFD increases the gene writer (DNMT1) and editor (ADAR), decreases the eraser (TET/FTO), and increases uric acid to cause chronic diseases. This increases the levels of H3K4, H3K9, H4K20, m6A, and m5C. Interestingly, the DNMT1KO mitigates. Further, the DNMT1KO and ADAR inhibition attenuate HFD-induced NGAL/FGF23/TMPRSS2/MMP2, 9, 13, and uric acid levels and improve cardiac and renal remodeling. Although the novel role of nerve endings by the Piezo channels (i.e., the combination of ENaC, VDAC, TRPV, K+, and Mg2+ channels) in the interoception is suggested, interestingly, we and others have shown mechanisms independent of the nerve, by interoception, such as the cargo of the exosome in denervation models of heart failure. If proper and appropriate levels of these enzymes are available to covert homocysteine to hydrogen sulfide (H2S) during homocystinuria, then the H2S can potentially serve as a newer form of treatment for morning heart attacks and renal sulfur transsulfuration transport diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39727952/",
+      "pdf_url": "https://www.mdpi.com/1467-3045/46/12/824/pdf?version=1733372500",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "39727952",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Emerging Roles for DNA 6mA and RNA m6A Methylation in Mammalian Genome.",
+      "authors": "Xie L; Zhang X; Xie J; Xu Y; Li XJ; Lin L",
+      "year": 2023,
+      "doi": "10.3390/ijms241813897",
+      "pmid": "37762200",
+      "pmcid": "PMC10531503",
+      "abstract": "Epigenetic methylation has been shown to play an important role in transcriptional regulation and disease pathogenesis. Recent advancements in detection techniques have identified DNA N6-methyldeoxyadenosine (6mA) and RNA N6-methyladenosine (m6A) as methylation modifications at the sixth position of adenine in DNA and RNA, respectively. While the distributions and functions of 6mA and m6A have been extensively studied in prokaryotes, their roles in the mammalian brain, where they are enriched, are still not fully understood. In this review, we provide a comprehensive summary of the current research progress on 6mA and m6A, as well as their associated writers, erasers, and readers at both DNA and RNA levels. Specifically, we focus on the potential roles of 6mA and m6A in the fundamental biological pathways of the mammalian genome and highlight the significant regulatory functions of 6mA in neurodegenerative diseases.",
+      "url": "https://europepmc.org/articles/PMC10531503",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/18/13897/pdf?version=1694480540",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d1/ac/PMC10531503.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "PMID:37762200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic regulation in the tumor microenvironment: molecular mechanisms and therapeutic targets",
+      "authors": "Jing Yang; Jin Xu; Wei Wang; Bo Zhang; Xianjun Yu; Si Shi",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01480-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Over decades, researchers have focused on the epigenetic control of DNA-templated processes. Histone modification, DNA methylation, chromatin remodeling, RNA modification, and noncoding RNAs modulate many biological processes that are crucial to the development of cancers. Dysregulation of the epigenome drives aberrant transcriptional programs. A growing body of evidence suggests that the mechanisms of epigenetic modification are dysregulated in human cancers and might be excellent targets for tumor treatment. Epigenetics has also been shown to influence tumor immunogenicity and immune cells involved in antitumor responses. Thus, the development and application of epigenetic therapy and cancer immunotherapy and their combinations may have important implications for cancer treatment. Here, we present an up-to-date and thorough description of how epigenetic modifications in tumor cells influence immune cell responses in the tumor microenvironment (TME) and how epigenetics influence immune cells internally to modify the TME. Additionally, we highlight the therapeutic potential of targeting epigenetic regulators for cancer immunotherapy. Harnessing the complex interplay between epigenetics and cancer immunology to develop therapeutics that combine thereof is challenging but could yield significant benefits. The purpose of this review is to assist researchers in understanding how epigenetics impact immune responses in the TME, so that better cancer immunotherapies can be developed.",
+      "url": "https://doi.org/10.1038/s41392-023-01480-x",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01480-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\jing_2023_epigenetic_regulation_in_the_tumor_microenvironment_molecular_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "W4377292628",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic targeting of autophagy for cancer: DNA and RNA methylation.",
+      "authors": "Lin L; Zhao Y; Zheng Q; Zhang J; Li H; Wu W",
+      "year": 2023,
+      "doi": "10.3389/fonc.2023.1290330",
+      "pmid": "38148841",
+      "pmcid": "PMC10749975",
+      "abstract": "Autophagy, a crucial cellular mechanism responsible for degradation and recycling of intracellular components, is modulated by an intricate network of molecular signals. Its paradoxical involvement in oncogenesis, acting as both a tumor suppressor and promoter, has been underscored in recent studies. Central to this regulatory network are the epigenetic modifications of DNA and RNA methylation, notably the presence of N6-methyldeoxyadenosine (6mA) in genomic DNA and N6-methyladenosine (m6A) in eukaryotic mRNA. The 6mA modification in genomic DNA adds an extra dimension of epigenetic regulation, potentially impacting the transcriptional dynamics of genes linked to autophagy and, especially, cancer. Conversely, m6A modification, governed by methyltransferases and demethylases, influences mRNA stability, processing, and translation, affecting genes central to autophagic pathways. As we delve deeper into the complexities of autophagy regulation, the importance of these methylation modifications grows more evident. The interplay of 6mA, m6A, and autophagy points to a layered regulatory mechanism, illuminating cellular reactions to a range of conditions. This review delves into the nexus between DNA 6mA and RNA m6A methylation and their influence on autophagy in cancer contexts. By closely examining these epigenetic markers, we underscore their promise as therapeutic avenues, suggesting novel approaches for cancer intervention through autophagy modulation.",
+      "url": "https://europepmc.org/articles/PMC10749975",
+      "pdf_url": "https://europepmc.org/articles/PMC10749975?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0e/86/PMC10749975.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\lin_2023_epigenetic_targeting_of_autophagy_for_cancer_dna_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "PMID:38148841",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation across the central dogma in health and diseases: new therapeutic strategies",
+      "authors": "Ruochen Liu; Erhu Zhao; Huijuan Yu; Chaoyu Yuan; Muhammad Nadeem Abbas; Hongjuan Cui",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01528-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The proper transfer of genetic information from DNA to RNA to protein is essential for cell-fate control, development, and health. Methylation of DNA, RNAs, histones, and non-histone proteins is a reversible post-synthesis modification that finetunes gene expression and function in diverse physiological processes. Aberrant methylation caused by genetic mutations or environmental stimuli promotes various diseases and accelerates aging, necessitating the development of therapies to correct the disease-driver methylation imbalance. In this Review, we summarize the operating system of methylation across the central dogma, which includes writers, erasers, readers, and reader-independent outputs. We then discuss how dysregulation of the system contributes to neurological disorders, cancer, and aging. Current small-molecule compounds that target the modifiers show modest success in certain cancers. The methylome-wide action and lack of specificity lead to undesirable biological effects and cytotoxicity, limiting their therapeutic application, especially for diseases with a monogenic cause or different directions of methylation changes. Emerging tools capable of site-specific methylation manipulation hold great promise to solve this dilemma. With the refinement of delivery vehicles, these new tools are well positioned to advance the basic research and clinical translation of the methylation field.",
+      "url": "https://doi.org/10.1038/s41392-023-01528-y",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01528-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "W4386125701",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Retracted: ZNF354C Mediated by DNMT1 Ameliorates Lung Ischemia-Reperfusion Oxidative Stress Injury by Reducing TFPI Promoter Methylation to Upregulate TFPI",
+      "authors": "",
+      "year": 2023,
+      "doi": "10.1155/2023/9785630",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1155/2023/9785630",
+      "pdf_url": "http://downloads.hindawi.com/journals/omcl/2023/9785630.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "10.1155/2023/9785630",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "An Evaluation of Multitask Transfer Learning Methods in Identifying 6mA and 5mC Methylation Sites of Rice and Maize",
+      "authors": "Anthony Martin Navarez; Robert Roxas",
+      "year": 2022,
+      "doi": "10.2139/ssrn.4178244",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2139/ssrn.4178244",
+      "pdf_url": "https://doi.org/10.2139/ssrn.4178244",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "10.2139/ssrn.4178244",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comprehensive Analysis of DNA Methylation Regulator DNA Methyltransferase (DNMT) Family and Ten-Eleven-Translocation (TET) Enzymes Family in Pan-Cancer",
+      "authors": "Cheng Ouyang; Hao Li; Liping Sun",
+      "year": 2021,
+      "doi": "10.21203/rs.3.rs-154338/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p><bold>Background: </bold>DNA methyltransferase (DNMT) family and ten-eleven-translocation (TET) family enzymes play pivotal roles in regulating DNA methylation, and are closely related to diverse cancers. This study was designed to clarify the specific roles of DNMT and TET genes in pan-cancers.<bold>Methods: </bold>The expression, mutation, copy number variations (CNVs), cancer-related pathways, immune cell infiltration correlation, and prognostic potential of DNMT/TET genes were systematically investigated in 33 cancer types using next-generation sequence data from the Cancer Genome Atlas database. <bold>Results: </bold>DNMT3B was more highly expressed in the majority of tumors analyzed than in normal tissues. Most DNMT/TET genes were frequently mutated in uterine carcinosarcoma, and TET1 and TET2 showed higher mutation frequencies in various cancer types. DNMT3B exhibited inclusive copy number amplification in almost all cancers, such as stomach adenocarcinoma(STAD) and colon adenocarcinoma(COAD)l, while most DNMT/TET genes displayed highly copy number deletion in kidney chromophobe（KICH）. DNMT/TET genes were mainly involved in the following cancer-related pathways: UV response DN, mitotic spindle, cholesterol homeostasis, TGF beat signaling, xenobiotic metabolism, G2/M checkpoint, and E2F targets. DNMT/TET genes were significantly correlated with NK cells, CD4 positive T cells, and Tfh cells. Additionally, Most DNMT/TET genes were significantly associated with lower survival rates of adrenocortical carcinoma (ACC), mesothelioma, and liver hepatocellular carcinoma (LIHC), but played a protective role in thymoma (THYM). Furthermore, overexpression of most DNMT genes, except for DMAP1, was associated worse prognoses in pan-cancer. <bold>Conclusion: </bold>These results suggest that DNMT/TET genes can serve as potential predictors for prognosis and treatment in pan-cancer, providing new insight for future study.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-154338/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-154338/v1.pdf?c=1631886735000",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\cheng_2021_comprehensive_analysis_of_dna_methylation_regulator_dna_methyltransferase.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "10.21203/rs.3.rs-154338/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation multiplicity and its clinical values in cancer",
+      "authors": "Xiaofeng Dai; Tiejun Ren; Yuxin Zhang; Nan Nan",
+      "year": 2021,
+      "doi": "10.1017/erm.2021.4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Methylation at DNA, RNA and protein levels plays critical roles in many cellular processes and is associated with diverse differentiation events, physiological activities and human diseases. To aid in the diagnostic and therapeutic design for cancer treatment utilising methylation, this review provides a boutique yet comprehensive overview on methylation at different levels including the mechanisms, cross-talking and clinical implications with a particular focus on cancers. We conclude that DNA methylation is the sole type of methylation that has been largely translated into clinics and used for, mostly, early diagnosis. Translating the onco-therapeutic and prognostic values of RNA and protein methylations into clinical use deserves intensive efforts. Simultaneous examination of methylations at multiple levels or together with other forms of molecular markers represents an interesting research direction with profound clinical translational potential.",
+      "url": "https://doi.org/10.1017/erm.2021.4",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/22CFBF1C3CD77810CF43C4119E923948/S1462399421000041a.pdf/div-class-title-methylation-multiplicity-and-its-clinical-values-in-cancer-div.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\xiaofeng_2021_methylation_multiplicity_and_its_clinical_values_in_cancer.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "W3146709872",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Peer Review #1 of \"DNMT family induces down-regulation of NDRG1 via DNA methylation and clinicopathological significance in gastric cancer (v0.1)\"",
+      "authors": "",
+      "year": 2021,
+      "doi": "10.7287/peerj.12146v0.1/reviews/1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7287/peerj.12146v0.1/reviews/1",
+      "pdf_url": "https://peerj.com/articles/12146v0.3/submission",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "10.7287/peerj.12146v0.1/reviews/1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Peer Review #2 of \"DNMT family induces down-regulation of NDRG1 via DNA methylation and clinicopathological significance in gastric cancer (v0.1)\"",
+      "authors": "",
+      "year": 2021,
+      "doi": "10.7287/peerj.12146v0.1/reviews/2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7287/peerj.12146v0.1/reviews/2",
+      "pdf_url": "https://doi.org/10.7287/peerj.12146v0.1/reviews/2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "10.7287/peerj.12146v0.1/reviews/2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Peer Review #2 of \"DNMT family induces down-regulation of NDRG1 via DNA methylation and clinicopathological significance in gastric cancer (v0.2)\"",
+      "authors": "",
+      "year": 2021,
+      "doi": "10.7287/peerj.12146v0.2/reviews/2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7287/peerj.12146v0.2/reviews/2",
+      "pdf_url": "https://doi.org/10.7287/peerj.12146v0.2/reviews/2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "10.7287/peerj.12146v0.2/reviews/2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of RNA m<sup>5</sup>C modification in cancer metastasis",
+      "authors": "Qiaofeng Zhang; Furong Liu; Wei Chen; Hongrui Miao; Huifang Liang; Zhibin Liao; Zhanguo Zhang; Bixiang Zhang",
+      "year": 2021,
+      "doi": "10.7150/ijbs.61439",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetic modification plays a crucial regulatory role in the biological processes of eukaryotic cells. The recent characterization of DNA and RNA methylation is still ongoing. Tumor metastasis has long been an unconquerable feature in the fight against cancer. As an inevitable component of the epigenetic regulatory network, 5-methylcytosine is associated with multifarious cellular processes and systemic diseases, including cell migration and cancer metastasis. Recently, gratifying progress has been achieved in determining the molecular interactions between m 5 C writers (DNMTs and NSUNs), demethylases (TETs), readers (YTHDF2, ALYREF and YBX1) and RNAs. However, the underlying mechanism of RNA m 5 C methylation in cell mobility and metastasis remains unclear. The functions of m 5 C writers and readers are believed to regulate gene expression at the post-transcription level and are involved in cellular metabolism and movement. In this review, we emphatically summarize the recent updates on m 5 C components and related regulatory networks. The content will be focused on writers and readers of the RNA m 5 C modification and potential mechanisms in diseases. We will discuss relevant upstream and downstream interacting molecules and their associations with cell migration and metastasis.",
+      "url": "https://doi.org/10.7150/ijbs.61439",
+      "pdf_url": "https://www.ijbs.com/v17p3369.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\qiaofeng_2021_the_role_of_rna_m_sup_5_sup.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "W3191076214",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Aging mechanisms—A perspective mostly from <i>Drosophila</i>",
+      "authors": "Amy Tsurumi; Willis X. Li",
+      "year": 2020,
+      "doi": "10.1002/ggn2.10026",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract A mechanistic understanding of the natural aging process, which is distinct from aging‐related disease mechanisms, is essential for developing interventions to extend lifespan or healthspan. Here, we discuss current trends in aging research and address conceptual and experimental challenges in the field. We examine various molecular markers implicated in aging with an emphasis on the role of heterochromatin and epigenetic changes. Studies in model organisms have been advantageous in elucidating conserved genetic and epigenetic mechanisms and assessing interventions that affect aging. We highlight the use of Drosophila , which allows controlled studies for evaluating genetic and environmental contributors to aging conveniently. Finally, we propose the use of novel methodologies and future strategies using Drosophila in aging research.",
+      "url": "https://doi.org/10.1002/ggn2.10026",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ggn2.10026",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "W3020660075",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic regulation in human cancer: the potential role of epi-drug in cancer therapy",
+      "authors": "Yuanjun Lu; Yau-Tuen Chan; Hor‐Yue Tan; Sha Li; Ning Wang; Yibin Feng",
+      "year": 2020,
+      "doi": "10.1186/s12943-020-01197-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetics is dynamic and heritable modifications to the genome that occur independently of DNA sequence. It requires interactions cohesively with various enzymes and other molecular components. Aberrant epigenetic alterations can lead to inappropriate onset of genetic expressions and promote tumorigenesis. As the epigenetic modifiers are susceptible to extrinsic factors and reversible, they are becoming promising targets in multiple cancer therapies. Recently, various epi-drugs have been developed and implicated in clinical use. The use of epi-drugs alone, or in combination with chemotherapy or immunotherapy, has shown compelling outcomes, including augmentation of anti-tumoral effects, overcoming drug resistance, and activation of host immune response.",
+      "url": "https://doi.org/10.1186/s12943-020-01197-3",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01197-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\yuanjun_2020_epigenetic_regulation_in_human_cancer_the_potential_role.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "W3020424172",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mapping the epigenetic modifications of DNA and RNA",
+      "authors": "Lin-Yong Zhao; Jinghui Song; Yibin Liu; Chun‐Xiao Song; Chengqi Yi",
+      "year": 2020,
+      "doi": "10.1007/s13238-020-00733-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Over 17 and 160 types of chemical modifications have been identified in DNA and RNA, respectively. The interest in understanding the various biological functions of DNA and RNA modifications has lead to the cutting-edged fields of epigenomics and epitranscriptomics. Developing chemical and biological tools to detect specific modifications in the genome or transcriptome has greatly facilitated their study. Here, we review the recent technological advances in this rapidly evolving field. We focus on high-throughput detection methods and biological findings for these modifications, and discuss questions to be addressed as well. We also summarize third-generation sequencing methods, which enable long-read and single-molecule sequencing of DNA and RNA modification.",
+      "url": "https://doi.org/10.1007/s13238-020-00733-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13238-020-00733-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\lin_yong_2020_mapping_the_epigenetic_modifications_of_dna_and_rna.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter 5mC 6mA methylation oxidative stress aging"
+      ],
+      "paper_id": "W3027531807",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of DNA methylation in the pathogenesis of type 2 diabetes mellitus",
+      "authors": "Sanabil Ali Hassan Ahmed; Suraiya Anjum Ansari; E.P.K. Mensah‐Brown; Bright Starling Emerald",
+      "year": 2020,
+      "doi": "10.1186/s13148-020-00896-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Diabetes mellitus (DM) is a chronic condition characterised by β cell dysfunction and persistent hyperglycaemia. The disorder can be due to the absence of adequate pancreatic insulin production or a weak cellular response to insulin signalling. Among the three types of DM, namely, type 1 DM (T1DM), type 2 DM (T2DM), and gestational DM (GDM); T2DM accounts for almost 90% of diabetes cases worldwide.Epigenetic traits are stably heritable phenotypes that result from certain changes that affect gene function without altering the gene sequence. While epigenetic traits are considered reversible modifications, they can be inherited mitotically and meiotically. In addition, epigenetic traits can randomly arise in response to environmental factors or certain genetic mutations or lesions, such as those affecting the enzymes that catalyse the epigenetic modification. In this review, we focus on the role of DNA methylation, a type of epigenetic modification, in the pathogenesis of T2DM.",
+      "url": "https://doi.org/10.1186/s13148-020-00896-4",
+      "pdf_url": "https://clinicalepigeneticsjournal.biomedcentral.com/track/pdf/10.1186/s13148-020-00896-4",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\sanabil_2020_the_role_of_dna_methylation_in_the_pathogenesis.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "W3042113602",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Functional Implications of DNA Methylation in Adipose Biology",
+      "authors": "Xiang Ma; Sona Kang",
+      "year": 2019,
+      "doi": "10.2337/dbi18-0057",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The twin epidemics of obesity and type 2 diabetes (T2D) are a serious health, social, and economic issue. The dysregulation of adipose tissue biology is central to the development of these two metabolic disorders, as adipose tissue plays a pivotal role in regulating whole-body metabolism and energy homeostasis (1). Accumulating evidence indicates that multiple aspects of adipose biology are regulated, in part, by epigenetic mechanisms. The precise and comprehensive understanding of the epigenetic control of adipose tissue biology is crucial to identifying novel therapeutic interventions that target epigenetic issues. Here, we review the recent findings on DNA methylation events and machinery in regulating the developmental processes and metabolic function of adipocytes. We highlight the following points: 1) DNA methylation is a key epigenetic regulator of adipose development and gene regulation, 2) emerging evidence suggests that DNA methylation is involved in the transgenerational passage of obesity and other metabolic disorders, 3) DNA methylation is involved in regulating the altered transcriptional landscape of dysfunctional adipose tissue, 4) genome-wide studies reveal specific DNA methylation events that associate with obesity and T2D, and 5) the enzymatic effectors of DNA methylation have physiological functions in adipose development and metabolic function.",
+      "url": "https://doi.org/10.2337/dbi18-0057",
+      "pdf_url": "https://diabetes.diabetesjournals.org/content/diabetes/68/5/871.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "W2937666953",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulation of CpG methylation by Dnmt and Tet in pluripotent stem cells",
+      "authors": "Takuro HORII; Izuho HATADA",
+      "year": 2016,
+      "doi": "10.1262/jrd.2016-046",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1262/jrd.2016-046",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/jrd/62/4/62_2016-046/_pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\takuro_2016_regulation_of_cpg_methylation_by_dnmt_and_tet.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "10.1262/jrd.2016-046",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNMT inhibitors reverse a specific signature of aberrant promoter DNA methylation and associated gene silencing in AML",
+      "authors": "Kirstin Lund; John J Cole; Nathan D VanderKraats; Tony McBryan; Nikolay A Pchelintsev; William Clark; Mhairi Copland; John R Edwards; Peter D Adams",
+      "year": 2014,
+      "doi": "10.1186/s13059-014-0406-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                        <jats:title>Background</jats:title>\n                        <jats:p>Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) are neoplastic disorders of hematopoietic stem cells. DNA methyltransferase inhibitors, 5-azacytidine and 5-aza-2′-deoxycytidine (decitabine), benefit some MDS/AML patients. However, the role of DNA methyltransferase inhibitor-induced DNA hypomethylation in regulation of gene expression in AML is unclear.</jats:p>\n                     </jats:sec><jats:sec>\n                        <jats:title>Results</jats:title>\n                        <jats:p>We compared the effects of 5-azacytidine on DNA methylation and gene expression using whole-genome single-nucleotide bisulfite-sequencing and RNA-sequencing in OCI-AML3 cells. For data analysis, we used an approach recently developed for discovery of differential patterns of DNA methylation associated with changes in gene expression, that is tailored to single-nucleotide bisulfite-sequencing data (Washington University Interpolated Methylation Signatures). Using this approach, we find that a subset of genes upregulated by 5-azacytidine are characterized by 5-azacytidine-induced signature methylation loss flanking the transcription start site. Many of these genes show increased methylation and decreased expression in OCI-AML3 cells compared to normal hematopoietic stem and progenitor cells. Moreover, these genes are preferentially upregulated by decitabine in human primary AML blasts, and control cell proliferation, death, and development.</jats:p>\n                     </jats:sec><jats:sec>\n                        <jats:title>Conclusions</jats:title>\n                        <jats:p>Our approach identifies a set of genes whose methylation and silencing in AML is reversed by DNA methyltransferase inhibitors. These genes are good candidates for direct regulation by DNA methyltransferase inhibitors, and their reactivation by DNA methyltransferase inhibitors may contribute to therapeutic activity.</jats:p>\n                     </jats:sec>",
+      "url": "https://doi.org/10.1186/s13059-014-0406-2",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s13059-014-0406-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\kirstin_2014_dnmt_inhibitors_reverse_a_specific_signature_of_aberrant.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "10.1186/s13059-014-0406-2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanism and Function of Oxidative Reversal of DNA and RNA Methylation",
+      "authors": "Li Shen; Chun‐Xiao Song; Chuan He; Yi Zhang",
+      "year": 2014,
+      "doi": "10.1146/annurev-biochem-060713-035513",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The importance of eukaryotic DNA methylation [5-methylcytosine (5mC)] in transcriptional regulation and development was first suggested almost 40 years ago. However, the molecular mechanism underlying the dynamic nature of this epigenetic mark was not understood until recently, following the discovery that the TET proteins, a family of AlkB-like Fe(II)/α-ketoglutarate-dependent dioxygenases, can oxidize 5mC to generate 5-hydroxymethylcytosine (5hmC), 5-formylcytosine (5fC), and 5-carboxylcytosine (5caC). Since then, several mechanisms that are responsible for processing oxidized 5mC derivatives to achieve DNA demethylation have emerged. Our biochemical understanding of the DNA demethylation process has prompted new investigations into the biological functions of DNA demethylation. Characterization of two additional AlkB family proteins, FTO and ALKBH5, showed that they possess demethylase activity toward N(6)-methyladenosine (m(6)A) in RNA, indicating that members of this subfamily of dioxygenases have a general function in demethylating nucleic acids. In this review, we discuss recent advances in this emerging field, focusing on the mechanism and function of TET-mediated DNA demethylation.",
+      "url": "https://doi.org/10.1146/annurev-biochem-060713-035513",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060713-035513",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET"
+      ],
+      "paper_id": "W2171490882",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation of DNA (DNMT)",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1007/springerreference_100681",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/springerreference_100681",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA methylation of FTO promoter regulation DNMT TET",
+        "FTO promoter methylation silencing tissue DNMT TET"
+      ],
+      "paper_id": "10.1007/springerreference_100681",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

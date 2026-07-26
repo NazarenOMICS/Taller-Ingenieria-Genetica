@@ -1,0 +1,1141 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "TITLE:5 methylcytidine rna epitranscriptomics in women s health and disease mechanisms and clinical implications",
+                        "title":  "5-Methylcytidine RNA Epitranscriptomics in Women\u0027s Health and Disease: Mechanisms and Clinical Implications.",
+                        "doi":  "10.3390/cells15090847",
+                        "pmid":  "42121948",
+                        "pmcid":  "PMC13162702",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s11033-026-12270-3",
+                        "title":  "A novel method for the identification and quantification of N6-methyladenosine motifs in RNA transcripts",
+                        "doi":  "10.1007/s11033-026-12270-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\neha_2026_a_novel_method_for_the_identification_and_quantification.pdf",
+                        "notebook_source_id":  "c2ba7753-77e4-48ad-a27c-40db39a86ac6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42169659",
+                        "title":  "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+                        "doi":  "10.3892/mmr.2026.13913",
+                        "pmid":  "42169659",
+                        "pmcid":  "PMC13238957",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.psj.2026.106435",
+                        "title":  "METTL14-mediated RNA m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modifications of TET1 and TET2 in duck myoblast differentiation.",
+                        "doi":  "10.1016/j.psj.2026.106435",
+                        "pmid":  "41547168",
+                        "pmcid":  "PMC12856189",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42204714",
+                        "title":  "METTL3 inhibition attenuates AFB\u0026lt;sub\u0026gt;1\u0026lt;/sub\u0026gt;-induced hepatic fibrosis by suppressing m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A-mediated hepatic stellate cell activation.",
+                        "doi":  "10.1186/s40104-026-01380-4",
+                        "pmid":  "42204714",
+                        "pmcid":  "PMC13217767",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41571642",
+                        "title":  "Meta-unstable mRNAs in activated CD8\u0026lt;sup\u0026gt;+\u0026lt;/sup\u0026gt; T cells are defined by interlinked AU-rich elements and m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A mRNA methylation.",
+                        "doi":  "10.1038/s41467-025-67762-w",
+                        "pmid":  "41571642",
+                        "pmcid":  "PMC12827480",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s10565-026-10141-y",
+                        "title":  "RNA m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modification is a driver and therapeutic target in gastric cancer.",
+                        "doi":  "10.1007/s10565-026-10141-y",
+                        "pmid":  "41832397",
+                        "pmcid":  "PMC13102813",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13149314",
+                        "title":  "RNA modifications in cancer and their detection: a review.",
+                        "doi":  "10.1093/jjco/hyag018",
+                        "pmid":  "41615068",
+                        "pmcid":  "PMC13149314",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13272168",
+                        "title":  "Revisiting down syndrome through the lens of interferonopathy and innate immune dysregulation.",
+                        "doi":  "10.3389/fimmu.2026.1836558",
+                        "pmid":  "42317350",
+                        "pmcid":  "PMC13272168",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13113650",
+                        "title":  "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+                        "doi":  "10.3390/biom16040571",
+                        "pmid":  "42072692",
+                        "pmcid":  "PMC13113650",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13220071",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modification in skeletal system diseases (Review).",
+                        "doi":  "10.3892/mmr.2026.13908",
+                        "pmid":  "42169641",
+                        "pmcid":  "PMC13220071",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12747559",
+                        "title":  "Advances in Detecting RNA Modifications Using Direct RNA Nanopore Sequencing.",
+                        "doi":  "10.1002/ggn2.202500041",
+                        "pmid":  "41473688",
+                        "pmcid":  "PMC12747559",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/life15121888",
+                        "title":  "Advances in Quantitative Techniques for Mapping RNA Modifications.",
+                        "doi":  "10.3390/life15121888",
+                        "pmid":  "41465827",
+                        "pmcid":  "PMC12735358",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12816753",
+                        "title":  "Comprehensive discovery of m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A sites in the human transcriptome at single-molecule resolution.",
+                        "doi":  "10.1038/s41467-025-67417-w",
+                        "pmid":  "41398146",
+                        "pmcid":  "PMC12816753",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12296446",
+                        "title":  "Graft-seq precisely maps RNA modifications via site-specific chemical grafting strategy.",
+                        "doi":  "10.1016/j.crmeth.2025.101103",
+                        "pmid":  "40645188",
+                        "pmcid":  "PMC12296446",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fendo.2025.1665391",
+                        "title":  "Hypothalamic FTO upregulates BDNF to promote GnRH expression through the PI3K/Akt pathway, leading to precocious puberty.",
+                        "doi":  "10.3389/fendo.2025.1665391",
+                        "pmid":  "41244054",
+                        "pmcid":  "PMC12615161",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41146006",
+                        "title":  "KIAA1429-mediated M\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A methylation inhibits osteoclast differentiation via stabilizing Lrp4 mRNA and protects against osteoporosis.",
+                        "doi":  "10.1186/s11658-025-00800-z",
+                        "pmid":  "41146006",
+                        "pmcid":  "PMC12560588",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1080/15548627.2025.2493455",
+                        "title":  "METTL3-dependent m6A modification of SNAP29 induces “autophagy-mitochondrial crisis” in the ischemic microenvironment after soft tissue transplantation",
+                        "doi":  "10.1080/15548627.2025.2493455",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40359935",
+                        "title":  "Nanopore direct RNA sequencing of human transcriptomes reveals the complexity of mRNA modifications and crosstalk between regulatory features.",
+                        "doi":  "10.1016/j.xgen.2025.100872",
+                        "pmid":  "40359935",
+                        "pmcid":  "PMC12230237",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17504/protocols.io.q26g77rzqgwz/v1",
+                        "title":  "SELECT-based quantification of site-specific m6A modification v1",
+                        "doi":  "10.17504/protocols.io.q26g77rzqgwz/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\xin_2025_select_based_quantification_of_site_specific_m6a_modification.pdf",
+                        "notebook_source_id":  "99dcba01-13ea-418f-8fb6-9a4d90401cec",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41275001",
+                        "title":  "Systematic evaluation of tools used for single-cell m\u003csup\u003e6\u003c/sup\u003eA identification.",
+                        "doi":  "10.1038/s42003-025-09246-7",
+                        "pmid":  "41275001",
+                        "pmcid":  "PMC12749739",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the rna m6a modification is not associated with differential transcript expression during honeybee caste differentiation",
+                        "title":  "The Rna M6a Modification is Not Associated with Differential Transcript Expression During Honeybee Caste Differentiation",
+                        "doi":  "10.2139/ssrn.5205299",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.cell.2025.04.020",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A alters ribosome dynamics to initiate mRNA degradation.",
+                        "doi":  "10.1016/j.cell.2025.04.020",
+                        "pmid":  "40328256",
+                        "pmcid":  "PMC12255529",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a rna immunoprecipitation merip v1",
+                        "title":  "m6A RNA immunoprecipitation (MeRIP) v1",
+                        "doi":  "10.17504/protocols.io.rm7vzenmrvx1/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\xin_2025_m6a_rna_immunoprecipitation_merip_v1.pdf",
+                        "notebook_source_id":  "828f5ce6-2b84-4c56-8e79-16f97a168ec3",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.tranon.2025.102373",
+                        "title":  "m6A-induced DEAD-box RNA helicase 21 enhances lipid metabolism via 3‑hydroxy-3-methylglutaryl-CoA synthases 1 in colorectal cancer",
+                        "doi":  "10.1016/j.tranon.2025.102373",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:trna modifications tune m lt sup gt 6 lt sup gt a dependent mrna decay",
+                        "title":  "tRNA modifications tune m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A-dependent mRNA decay.",
+                        "doi":  "10.1016/j.cell.2025.04.013",
+                        "pmid":  "40311619",
+                        "pmcid":  "PMC12255531",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcell.2024.1392159",
+                        "title":  "Current progress in strategies to profile transcriptomic m\u003csup\u003e6\u003c/sup\u003eA modifications.",
+                        "doi":  "10.3389/fcell.2024.1392159",
+                        "pmid":  "39055651",
+                        "pmcid":  "PMC11269109",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12906-024-04431-3",
+                        "title":  "Ginger inhibits the invasion of ovarian cancer cells SKOV3 through CLDN7, CLDN11 and CD274 m6A methylation modifications",
+                        "doi":  "10.1186/s12906-024-04431-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\xiaoyu_2024_ginger_inhibits_the_invasion_of_ovarian_cancer_cells.pdf",
+                        "notebook_source_id":  "3bceb878-485e-42b4-99c4-20e4d5b40125",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:lamp ms for locus specific visual quantification of dna 5mc and rna m6a using ultra low input",
+                        "title":  "LAMP-MS for Locus-Specific Visual Quantification of DNA 5mC and RNA m6A Using Ultra-Low Input.",
+                        "doi":  "10.1002/anie.202413872",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.21203/rs.3.rs-4207910/v1",
+                        "title":  "METTL3 drives heart failure by regulating Spp1 and Fos m6A modification in myocardial infarction",
+                        "doi":  "10.21203/rs.3.rs-4207910/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\hao_2024_mettl3_drives_heart_failure_by_regulating_spp1_and.pdf",
+                        "notebook_source_id":  "0146ce5e-d922-48f3-a6f0-b6f6e04f39c7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/eurheartj/ehae666.3703",
+                        "title":  "METTL3 drives heart failure by regulating Spp1 and Fos m6A modification in myocardial infarction",
+                        "doi":  "10.1093/eurheartj/ehae666.3703",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s11658-024-00568-8",
+                        "title":  "Methylated lncRNAs suppress apoptosis of gastric cancer stem cells via the lncRNA-miRNA/protein axis.",
+                        "doi":  "10.1186/s11658-024-00568-8",
+                        "pmid":  "38600465",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\ci_2024_methylated_lncrnas_suppress_apoptosis_of_gastric_cancer_stem.pdf",
+                        "notebook_source_id":  "60199192-4f38-4273-9203-d11bcfdff339",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41593-024-01768-3",
+                        "title":  "Single-cell m6A profiling in the mouse brain uncovers cell type-specific RNA methylomes and age-dependent differential methylation",
+                        "doi":  "10.1038/s41593-024-01768-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:specific quantitative detection of n6 methyladenosine at single base resolution by extension based isothermal exponential amplification reaction e iexpar",
+                        "title":  "Specific quantitative detection of N6-methyladenosine at single-base resolution by extension-based isothermal exponential amplification reaction (E-IEXPAR).",
+                        "doi":  "10.1016/j.aca.2024.342474",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/anie.202420977",
+                        "title":  "Visualization and Quantification of Single-Base m6A Methylation.",
+                        "doi":  "10.1002/anie.202420977",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.14336/ad.2024.0132",
+                        "title":  "m6A Reader HNRNPC Facilitates Adipogenesis by Regulating Cytoskeletal Remodeling through Enhanced Lcp1 mRNA Stability",
+                        "doi":  "10.14336/ad.2024.0132",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\paper_2024_m6a_reader_hnrnpc_facilitates_adipogenesis_by_regulating_cytoskeletal.pdf",
+                        "notebook_source_id":  "b238a0b8-b71f-4a41-9e14-02f878de62b4",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:exclusion of m6a from splice site proximal regions by the exon junction complex dictates m6a topologies and mrna stability",
+                        "title":  "Exclusion of m6A from splice-site proximal regions by the exon junction complex dictates m6A topologies and mRNA stability",
+                        "doi":  "10.1016/j.molcel.2022.12.026",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\anna_2023_exclusion_of_m6a_from_splice_site_proximal_regions.pdf",
+                        "notebook_source_id":  "047ce909-242c-4805-98c4-719783fe6c50",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-023-39897-1",
+                        "title":  "Exon-intron boundary inhibits m6A deposition, enabling m6A distribution hallmark, longer mRNA half-life and flexible protein coding",
+                        "doi":  "10.1038/s41467-023-39897-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\zhiyuan_2023_exon_intron_boundary_inhibits_m6a_deposition_enabling_m6a.pdf",
+                        "notebook_source_id":  "bca2deb8-8dd9-4856-97dc-e60503425ec2",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41419-023-06263-4",
+                        "title":  "Exosome-targeted delivery of METTL14 regulates NFATc1 m6A methylation levels to correct osteoclast-induced bone resorption",
+                        "doi":  "10.1038/s41419-023-06263-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\jingang_2023_exosome_targeted_delivery_of_mettl14_regulates_nfatc1_m6a.pdf",
+                        "notebook_source_id":  "ae6a8a51-7931-4f3c-ab87-29449b391124",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:isothermal amplification based detection of single base rna n6 methyladenosine",
+                        "title":  "Isothermal Amplification-Based Detection of Single-Base RNA N6-Methyladenosine.",
+                        "doi":  "10.1021/acs.analchem.3c03961",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s43556-023-00139-x",
+                        "title":  "RNA modification: mechanisms and therapeutic targets",
+                        "doi":  "10.1186/s43556-023-00139-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+                        "notebook_source_id":  "22a2ed4b-52ef-4d46-8c0d-6eeed45313a7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the mrna methyltransferase mettl3 modulates cytokine mrna stability and limits functional responses in mast cells",
+                        "title":  "The mRNA methyltransferase Mettl3 modulates cytokine mRNA stability and limits functional responses in mast cells",
+                        "doi":  "10.1038/s41467-023-39614-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\cristina_2023_the_mrna_methyltransferase_mettl3_modulates_cytokine_mrna_stability.pdf",
+                        "notebook_source_id":  "2ece430f-f1cb-4515-8c75-d67c514d5be0",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a modified ripk4 facilitates proliferation and cisplatin resistance in epithelial ovarian cancer",
+                        "title":  "m6A-modified RIPK4 facilitates proliferation and cisplatin resistance in epithelial ovarian cancer.",
+                        "doi":  "10.1016/j.ygyno.2023.11.034",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:chronic corticosterone disrupts the circadian rhythm of crh expression and m6a rna methylation in the chicken hypothalamus",
+                        "title":  "Chronic corticosterone disrupts the circadian rhythm of CRH expression and m6A RNA methylation in the chicken hypothalamus",
+                        "doi":  "10.1186/s40104-022-00677-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yang_2022_chronic_corticosterone_disrupts_the_circadian_rhythm_of_crh.pdf",
+                        "notebook_source_id":  "6add2425-5da2-443e-8dc6-984b23851770",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41592-022-01666-1",
+                        "title":  "Detection of m6A from direct RNA sequencing using a multiple instance learning framework",
+                        "doi":  "10.1038/s41592-022-01666-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\christopher_2022_detection_of_m6a_from_direct_rna_sequencing_using.pdf",
+                        "notebook_source_id":  "99091614-e50d-4a39-a351-81257bc7596e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/2022.06.29.498130",
+                        "title":  "Exon-intron architecture determines mRNA stability by dictating m6A deposition",
+                        "doi":  "10.1101/2022.06.29.498130",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a neural m6a ythdf pathway is required for learning and memory in drosophila",
+                        "title":  "A neural m6A/Ythdf pathway is required for learning and memory in Drosophila",
+                        "doi":  "10.1038/s41467-021-21537-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\lijuan_2021_a_neural_m6a_ythdf_pathway_is_required_for.pdf",
+                        "notebook_source_id":  "55afc9cb-d63a-4027-afaa-8adf5d7cd00a",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:histone lactylation drives oncogenesis by facilitating m6a reader protein ythdf2 expression in ocular melanoma",
+                        "title":  "Histone lactylation drives oncogenesis by facilitating m6A reader protein YTHDF2 expression in ocular melanoma",
+                        "doi":  "10.1186/s13059-021-02308-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\jie_2021_histone_lactylation_drives_oncogenesis_by_facilitating_m6a_reader.pdf",
+                        "notebook_source_id":  "a3be13b8-923c-45ca-96cc-2c56961d33e6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mettl3 dependent m6a modification programs t follicular helper cell differentiation",
+                        "title":  "METTL3-dependent m6A modification programs T follicular helper cell differentiation",
+                        "doi":  "10.1038/s41467-021-21594-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yingpeng_2021_mettl3_dependent_m6a_modification_programs_t_follicular_helper.pdf",
+                        "notebook_source_id":  "77de25f4-b069-46a3-9774-0596a4653e76",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-1-0716-1374-0_12",
+                        "title":  "Relative Quantification of Residue-Specific m6A RNA Methylation Using m6A-RT-QPCR",
+                        "doi":  "10.1007/978-1-0716-1374-0_12",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:role of hakai in m6a modification pathway in drosophila",
+                        "title":  "Role of Hakai in m6A modification pathway in Drosophila",
+                        "doi":  "10.1038/s41467-021-22424-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yanhua_2021_role_of_hakai_in_m6a_modification_pathway_in.pdf",
+                        "notebook_source_id":  "e76ca422-412a-45db-bf23-b97abae5fbf6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12935-021-01868-1",
+                        "title":  "Role of m6A methyltransferase component VIRMA in multiple human cancers (Review)",
+                        "doi":  "10.1186/s12935-021-01868-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\wei_2021_role_of_m6a_methyltransferase_component_virma_in_multiple.pdf",
+                        "notebook_source_id":  "8391513e-f3d1-4904-97a6-fe928219fd2a",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.jbc.2021.100973",
+                        "title":  "The detection and functions of RNA modification m6A based on m6A writers and erasers",
+                        "doi":  "10.1016/j.jbc.2021.100973",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41419-021-04016-9",
+                        "title":  "The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging",
+                        "doi":  "10.1038/s41419-021-04016-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+                        "notebook_source_id":  "99a8e0d1-298b-4820-8e21-b6673aee2b6e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:an oncopeptide regulates m6a recognition by the m6a reader igf2bp1 and tumorigenesis",
+                        "title":  "An oncopeptide regulates m6A recognition by the m6A reader IGF2BP1 and tumorigenesis",
+                        "doi":  "10.1038/s41467-020-15403-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\song_2020_an_oncopeptide_regulates_m6a_recognition_by_the_m6a.pdf",
+                        "notebook_source_id":  "538a80f1-8397-4568-9c46-a0e4d2fcc330",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41598-020-63355-3",
+                        "title":  "Limits in the detection of m6A changes using MeRIP/m6A-seq",
+                        "doi":  "10.1038/s41598-020-63355-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\alexa_2020_limits_in_the_detection_of_m6a_changes_using.pdf",
+                        "notebook_source_id":  "3a4cd8a7-a845-4922-8770-87ca95b34162",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the emerging roles of n6 methyladenosine m6a deregulation in liver carcinogenesis",
+                        "title":  "The emerging roles of N6-methyladenosine (m6A) deregulation in liver carcinogenesis",
+                        "doi":  "10.1186/s12943-020-01172-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\mengnuo_2020_the_emerging_roles_of_n6_methyladenosine_m6a_deregulation.pdf",
+                        "notebook_source_id":  "b2c66f91-da70-42b0-a9df-2eef81920bc8",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.canlet.2020.01.021",
+                        "title":  "Writers, readers and erasers of RNA modifications in cancer",
+                        "doi":  "10.1016/j.canlet.2020.01.021",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41422-020-0279-8",
+                        "title":  "m6A-dependent biogenesis of circular RNAs in male germ cells",
+                        "doi":  "10.1038/s41422-020-0279-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a in mrna coding regions promotes translation via the rna helicase containing ythdc2",
+                        "title":  "m6A in mRNA coding regions promotes translation via the RNA helicase-containing YTHDC2",
+                        "doi":  "10.1038/s41467-019-13317-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yuanhui_2019_m6a_in_mrna_coding_regions_promotes_translation_via.pdf",
+                        "notebook_source_id":  "4faebeb5-e42d-4d9c-8c97-a69e647360e4",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/anie.201807942",
+                        "title":  "An Elongation- and Ligation-Based qPCR Amplification Method for the Radiolabeling-Free Detection of Locus-Specific N6 -Methyladenosine Modification.",
+                        "doi":  "10.1002/anie.201807942",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-1-4939-6807-7_5",
+                        "title":  "Mapping m6A at Individual-Nucleotide Resolution Using Crosslinking and Immunoprecipitation (miCLIP)",
+                        "doi":  "10.1007/978-1-4939-6807-7_5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:half life in the fos lane mechanisms underlying rapid decay of c fos proto oncogene transcript",
+                        "title":  "Half-life in the fos lane: mechanisms underlying rapid decay of c-fos proto-oncogene transcript",
+                        "doi":  "10.1042/bst030a116c",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:biological sciences stability of hela cell mrna in actinomycin",
+                        "title":  "Biological Sciences: Stability of HeLa Cell mRNA in Actinomycin",
+                        "doi":  "10.1038/240100a0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:antibody free and highly sensitive detection of site specific m6a modification via terminal mediated m6a pcr",
+                        "title":  "Antibody-Free and Highly Sensitive Detection of Site-Specific m6A Modification via Terminal-Mediated m6A PCR",
+                        "doi":  "10.1021/acs.analchem.6c01426.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 1 3 utr binding site of i hsp90b2 i mrna and ssa mir 301a 3p",
+                        "title":  "Figure 1: 3′-UTR binding site of\n                      \u003ci\u003ehsp90b2\u003c/i\u003e\n                      mRNA and ssa-miR-301a-3p.",
+                        "doi":  "10.7717/peerj.13476/fig-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.34042.011",
+                        "title":  "Figure 3—figure supplement 3. qPCR validation of 3’UTR isoform abundance differences between P0 and P21 granule cells.",
+                        "doi":  "10.7554/elife.34042.011",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acs.analchem.0c03307.s001",
+                        "title":  "Full-Range Profiling of tRNA Modifications Using LCMS/MS at Single-Base Resolution through a Site-Specific Cleavage Strategy",
+                        "doi":  "10.1021/acs.analchem.0c03307.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acsnano.4c08407.s001",
+                        "title":  "Multiplexed In Situ Imaging of Site-Specific m6A Methylation with Proximity Hybridization Followed by Primer Exchange Amplification (m6A-PHPEA)",
+                        "doi":  "10.1021/acsnano.4c08407.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.16023/table-2",
+                        "title":  "Table 2: The adjustment of mRNA stability\n                      \u003ci\u003evia\u003c/i\u003e\n                      m6A modification and related m6A regulators.",
+                        "doi":  "10.7717/peerj.16023/table-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acschembio.1c00895.s001",
+                        "title":  "Targeted Manipulation of Cellular RNA m6A Methylation at the Single-Base Level",
+                        "doi":  "10.1021/acschembio.1c00895.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

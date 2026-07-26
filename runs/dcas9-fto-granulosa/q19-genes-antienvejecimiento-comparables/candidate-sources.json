@@ -1,0 +1,1515 @@
+{
+  "slug": "q19-genes-antienvejecimiento-comparables",
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "A New Complexity Layer: DNA Methylation and the Predictive Impact of Epigenetic Tests.",
+      "authors": "Ladisa G; Montenegro F; Picerno A; Nigro A; Cicirelli A; Stasi A; Fiorentino M; Pontrelli P; Gesualdo L; Sallustio F",
+      "year": 2026,
+      "doi": "10.3390/ijms27031611",
+      "pmid": "41684028",
+      "pmcid": "PMC12897665",
+      "abstract": "The increasing complexity of disease mechanisms challenges accurate diagnosis, prevention, and early risk stratification. Beyond genetic predisposition, epigenetic regulation-particularly DNA methylation-represents a dynamic molecular interface linking environmental exposures, metabolic imbalance, inflammation, and disease development. DNA methylation is the most extensively studied epigenetic mechanism and plays a central role in controlling gene expression across physiological and pathological conditions. In this review, we provide an integrated overview of DNA methylation biology and its involvement in inflammatory, metabolic, and oncological diseases, with a specific focus on pathways related to chronic inflammation and oxidative stress. We summarize evidence demonstrating how aberrant methylation patterns contribute to disease initiation and progression, highlighting recurrent epigenetic signatures affecting key regulatory genes. In parallel, we discuss current and emerging technologies for DNA methylation analysis, ranging from targeted methylation-specific assays to next-generation sequencing-based approaches, including nanopore adaptive sampling. Finally, we explore the translational potential of DNA methylation-based tests as predictive and preventive tools, emphasizing their ability to identify disease-associated molecular alterations before clinical onset. Overall, this evidence supports the integration of epigenetic profiling into future precision medicine strategies aimed at early risk assessment, prognosis refinement, and personalized prevention.",
+      "url": "https://europepmc.org/articles/PMC12897665",
+      "pdf_url": "https://europepmc.org/articles/PMC12897665?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/72/39/PMC12897665.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\ladisa_2026_a_new_complexity_layer_dna_methylation_and_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "PMID:41684028",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Chromatin remodeling and epigenetic regulation in chronic kidney disease.",
+      "authors": "Liang J; Wan C",
+      "year": 2026,
+      "doi": "10.3389/fgene.2026.1781322",
+      "pmid": "41607591",
+      "pmcid": "PMC12844562",
+      "abstract": "The progression of chronic kidney disease (CKD) stems from persistent maladaptive alterations in renal cellular gene expression, processes governed by dynamic epigenetic regulation. The dynamic regulation of chromatin encompasses structural changes, condensation, altered accessibility, and ATP-dependent remodeling, playing a pivotal role in CKD progression. Dysregulation of these processes is increasingly implicated in key pathogenic events such as fibroblast activation and inflammatory responses. Recent advances in multi-omics approaches have provided crucial insights into the composition, mechanisms, and dysregulation of chromatin states within diseased kidneys. In this review, we summarize the current understanding of chromatin dynamics and remodeling in CKD, emphasizing their role in disease progression and their interplay with other epigenetic layers. We further discuss how these mechanisms contribute to establishing pathogenic transcriptional memory and highlight emerging therapeutic opportunities.",
+      "url": "https://europepmc.org/articles/PMC12844562",
+      "pdf_url": "https://europepmc.org/articles/PMC12844562?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1d/7b/PMC12844562.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\liang_2026_chromatin_remodeling_and_epigenetic_regulation_in_chronic_kidney.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "PMID:41607591",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "From Longevity Genetics to Precision Interventions: Integrating Nutrigenomics and Epigenetic Mechanisms of Ageing",
+      "authors": "Pîrlog L; Cătană A; Pitforodeschi A; Pilatec A; Băilă R; Rusu I; Militaru M; Iordănescu I; Belbe A",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13300023",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13300023/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13300023/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/08/PMC13300023.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "PMC13300023",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Integrative Approaches to Treating Cellular Senescence in Kidney Disease.",
+      "authors": "Misawa T; A A; Hickson LJ; Wolfram J",
+      "year": 2026,
+      "doi": "10.1002/advs.202519392",
+      "pmid": "41831318",
+      "pmcid": "PMC13073271",
+      "abstract": "Cellular senescence in the kidney plays a crucial role in the progression of acute kidney injury and chronic kidney disease. Therapeutic approaches targeting senescent cells, such as small molecule senolytic and senomorphic drugs, display efficacy in preclinical models. However, such drugs pose a risk of adverse effects and only partially mitigate disease progression, highlighting the need for new therapeutic approaches that more comprehensively and safely address disease pathways in aging kidney disease. This review discusses the potential of extracellular vesicles and longevity proteins, such as α-klotho and silencing information regulator 2-related enzyme 1 (SIRT1), in regulating cellular senescence and alleviating kidney fibrosis. Particularly, combination therapy that simultaneously targets inflammation, tissue damage, and senescence is promising for kidney disease, given the potential to synergistically overcome the limitations of current unimodular treatment modalities and pave the way for more effective management of kidney disease. This review highlights the mechanisms of cellular senescence in kidney disease, particularly in diabetic kidney disease, the latest knowledge on senotherapy, and the potential and challenges of new therapeutic strategies, including combining extracellular vesicles and longevity proteins.",
+      "url": "https://europepmc.org/articles/PMC13073271",
+      "pdf_url": "https://europepmc.org/articles/PMC13073271?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/53/e8/PMC13073271.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\misawa_2026_integrative_approaches_to_treating_cellular_senescence_in_kidney.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "PMID:41831318",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nature's Bioactives in Cardiorenal Syndrome: Polyphenols at the Crossroads-Preclinical Insights into Redox, Inflammation, and Mitochondrial Protection.",
+      "authors": "Carollo C; Ciuppa ME; Sorce A; Evola S; Cirafici E; Vario MG; Scimeca R; Presti RL; Mulè G; Caimi G",
+      "year": 2026,
+      "doi": "10.3390/nu18060955",
+      "pmid": "41901130",
+      "pmcid": "PMC13028789",
+      "abstract": "<h4>Background</h4>Cardiorenal syndrome (CRS) represents a complex clinical entity characterized by the bidirectional dysfunction of the heart and kidneys. Despite advances in pharmacological therapy, CRS remains associated with high morbidity and mortality. Pathophysiological drivers, including oxidative stress, chronic inflammation, and mitochondrial derangements, create a self-perpetuating cycle of organ damage that necessitates multitarget therapeutic approaches.<h4>Objective</h4>This review synthesizes current preclinical evidence regarding the protective roles of plant-derived polyphenols-specifically bergamot, curcumin, quercetin, catechins, and resveratrol-in mitigating the cardiorenal continuum.<h4>Methods</h4>An analysis of recent literature was conducted, focusing on the molecular mechanisms by which these bioactives modulate redox balance, inflammatory signaling, and mitochondrial homeostasis in experimental models of CRS.<h4>Results</h4>Polyphenols act at the crossroads of several stress-response pathways. Key mechanisms include the activation of the Nrf2/HO-1 axis to enhance endogenous antioxidant defenses, the suppression of the NLRP3 inflammasome to attenuate systemic \"inflammaging\", and the preservation of mitochondrial quality through SIRT1/PINK1/Parkin-mediated mitophagy. Furthermore, emerging evidence highlights the role of polyphenols in modulating the gut-kidney-heart axis by reducing microbiota-derived uremic toxins.<h4>Conclusions</h4>Preclinical data suggest that polyphenols are potent multifunctional agents capable of breaking the feedback loops of cardiorenal injury. While bioavailability remains a significant translational challenge, novel nano-delivery systems and synthetic analogs offer promising strategies for clinical application. Integrating these bioactives into CRS management could provide a decisive adjunctive strategy to improve metabolic homeostasis and prevent end-stage organ failure.",
+      "url": "https://europepmc.org/articles/PMC13028789",
+      "pdf_url": "https://europepmc.org/articles/PMC13028789?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/00/0f/PMC13028789.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\carollo_2026_nature_s_bioactives_in_cardiorenal_syndrome_polyphenols_at.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "PMID:41901130",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Overview of the Zinc Functional Interactome Through Health Hallmarks and Medical Conditions.",
+      "authors": "Pavić Vulinović M; Micek V; Breljak D; Vrhovac Madunić I; Madunić J; Ljubojević M",
+      "year": 2026,
+      "doi": "10.3390/nu18020336",
+      "pmid": "41599949",
+      "pmcid": "PMC12844856",
+      "abstract": "Zinc is an essential micronutrient involved in structural, catalytic, and regulatory functions across all levels of biological organization. Despite substantial advances over the past two decades, the zinc literature remains highly fragmented, with mechanistic, nutritional, and clinical findings often reported in isolation. Additionally, the synergistic interactions between zinc and other micronutrients-particularly minerals and vitamins-are dispersed across multiple research domains, complicating efforts to understand their integrated roles in maintaining homeostasis. Recent developments in artificial intelligence (AI) present new opportunities to consolidate these data, enabling multi-scale analyses of zinc-dependent processes and the broader zinc interactome. Although a complete map of the zinc interactome is not yet feasible, an integrative perspective is needed to contextualize zinc's contributions within the framework of the hallmarks of health. This narrative review highlights zinc's involvement in cellular maintenance, metabolic regulation, stress response, and systemic physiological function. It further examines how disruptions in zinc status, alone or in combination with other nutrient imbalances, contribute to clinically relevant disorders. By combining current knowledge across molecular, cellular, and systems biology levels, this review illustrates zinc's pleiotropic effects on physiological resilience and healthspan, with particular emphasis on its role in nutritional status, homeostatic regulation, and overall human health.",
+      "url": "https://europepmc.org/articles/PMC12844856",
+      "pdf_url": "https://europepmc.org/articles/PMC12844856?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/21/f4/PMC12844856.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\pavi_2026_overview_of_the_zinc_functional_interactome_through_health.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "PMID:41599949",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "SIRT1 Activators as Geroprotective Agents in Brain Aging: Mechanisms and Therapeutic Potential.",
+      "authors": "Alameen AAM; Al-Kuraishy HM; Al-Gareeb AI; Alexiou A; Papadakis M; Faheem SA; El-Saber Batiha G",
+      "year": 2026,
+      "doi": "10.1007/s12017-026-08923-y",
+      "pmid": "41934491",
+      "pmcid": "PMC13050347",
+      "abstract": "The brain undergoes profound molecular and structural changes during the aging process, resulting in the development of neurodegeneration, cognitive impairment, and increased vulnerability to chronic diseases. At the cellular level, brain aging is characterized by oxidative damage, genomic instability, and chronic low-grade inflammation known as inflammaging. Central to this process is Sirtuin 1 (SIRT1), a NAD<sup>+</sup>-dependent class III histone deacetylase, known for its regulatory role in chromatin remodeling, oxidative stress responses, mitochondrial biogenesis, and neuroplasticity. Recent research has identified SIRT1 as a molecular target capable of reversing or attenuating several hallmarks of aging, particularly within the central nervous system (CNS). This narrative review critically evaluates the emerging evidence surrounding the geroprotective effects of SIRT1 activators, which exert dual actions, senomorphic and senolytic, via modulation of signaling pathways, thereby reducing neuronal senescence, enhancing autophagy, and mitigating inflammatory responses. The discussion also addresses the region-specific role of SIRT1 across the brain, particularly in the hippocampus and hypothalamus, which are essential for memory, energy homeostasis, and resilience to stress. Additionally, this review explores how SIRT1 depletion during aging contributes to the development of synaptic dysfunction, impaired cognitive function, and susceptibility to neurodegenerative diseases such as Alzheimer's disease (AD) and Parkinson's disease (PD). The therapeutic potential of SIRT1 activators is supported by preclinical and early clinical studies, suggesting their value in preventing or delaying brain aging. Thus, SIRT1 could be a promising pharmacological target for age-associated brain disorders, warranting more robust translational studies to validate these findings in humans.",
+      "url": "https://europepmc.org/articles/PMC13050347",
+      "pdf_url": "https://europepmc.org/articles/PMC13050347?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/75/26/PMC13050347.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\alameen_2026_sirt1_activators_as_geroprotective_agents_in_brain_aging.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "PMID:41934491",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Sirtuin 1 as an emerging exerkine in the aging process: unveiling its multifaceted biological roles.",
+      "authors": "de Araújo Leite PL; Maciel LA; Patricio RCB; Pereira GLC; de Oliveira Lamounier AS; da Silva Aguiar S; Sousa CV; de Sousa Neto IV; Simões HG",
+      "year": 2026,
+      "doi": "10.1007/s10522-026-10442-z",
+      "pmid": "42047745",
+      "pmcid": "PMC13124835",
+      "abstract": "Sirtuin 1 (SIRT1) was initially identified as an enzyme that deacetylates histones and suppresses gene activity. Since then, its roles have expanded considerably, and it is now recognized as a multifunctional protein conserved across various organisms. Despite increasing interest, it remains essential to clarify how exercise-induced changes in SIRT1 counteract multiple hallmarks of aging, as well as the full scope of SIRT1's impact on different physiological systems. This review highlights recent findings on the short- and long-term effects of exercise on SIRT1 signaling in both rodents and humans during aging. We explore the molecular pathways activated in various tissues, providing insight into the specific biological functions of SIRT1 within aging cells. Optimal levels of SIRT1 help maintain homeostasis and a biochemical environment conducive to healthspan, influencing biological processes such as mitochondrial dynamics, metabolic pathways, tissue remodeling, autophagy, inflammatory responses, and redox balance. This indicates that SIRT1, a pleiotropic molecule, orchestrates multiple responses throughout aging. SIRT1 may act as a dynamic sensor for exercise benefits and protect against aging by maintaining genomic integrity. Different exercise protocols (acute and chronic) and modalities (aerobic, resistance, and combined training) can increase mRNA levels, activity, or protein levels of SIRT1 in various vital organs (adipose tissue, hippocampus, heart, liver, bone, and skeletal muscle) of aged animals and older adults, promoting health. Taken together, these observations support the notion that SIRT1 functions as a potential exerkine, and understanding its role in exercise-induced adaptations offers new insights into non-pharmacological strategies to enhance longevity.",
+      "url": "https://europepmc.org/articles/PMC13124835",
+      "pdf_url": "https://europepmc.org/articles/PMC13124835?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2a/49/PMC13124835.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\de_2026_sirtuin_1_as_an_emerging_exerkine_in_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "PMID:42047745",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Atrial myocyte senescence as a driver of atrial fibrillation: mechanisms and therapeutic implications.",
+      "authors": "Wei Z; Li Z; Quan N",
+      "year": 2025,
+      "doi": "10.3389/fcell.2025.1702207",
+      "pmid": "41613943",
+      "pmcid": "PMC12846991",
+      "abstract": "Atrial fibrillation (AF) is the most common type of arrhythmia encountered in the clinical setting, and its occurrence is influenced by various factors, particularly aging. Senescence of atrial myocytes plays an important role in the development of AF, although the precise mechanisms underlying this association remain unclear. This review explores the pivotal role of atrial myocyte senescence in AF pathogenesis, moving beyond chronological age. It provides evidence that aging creates a pro-arrhythmic substrate via three interconnected mechanisms: 1) inflammatory activation (mitochondrial ROS, NLRP3, and SASP), 2) dysregulated calcium handling (RyR2 and SERCA2), and 3) cell cycle disruption (p16, p21, and p53). These pathways, compounded by epigenetic changes and SIRT1/mTOR signaling dysregulation, drive the electrical and structural remodeling that triggers and sustains AF. The review highlights promising therapeutic targets such as SIRT1 activators and NLRP3 inhibitors, proposing an integrated \"senescence-AF axis\" model, while identifying key research gaps in cell-type specificity and clinical translation. This comprehensive review outlines current progress in research in this area and future research directions and provides valuable references for forthcoming studies.",
+      "url": "https://europepmc.org/articles/PMC12846991",
+      "pdf_url": "https://europepmc.org/articles/PMC12846991?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9c/f7/PMC12846991.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\wei_2025_atrial_myocyte_senescence_as_a_driver_of_atrial.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "PMID:41613943",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Emerging epigenetic modifications in renal fibrosis: From mechanisms to treatments.",
+      "authors": "Suo X; Ge Q; Peng L; Zhu Q; Zhang M; Cheng X; Wang F; Jin J; Wang J; Meng X",
+      "year": 2025,
+      "doi": "10.1016/j.apsb.2025.09.012",
+      "pmid": "41477330",
+      "pmcid": "PMC12750170",
+      "abstract": "Chronic kidney disease (CKD) has emerged as a formidable global health challenge, with a marked increase in its incidence, prevalence, and mortality rates. Renal fibrosis is a central pathophysiological process that drives the progression of CKD to end-stage renal disease. Despite its crucial role in CKD progression, effective clinical interventions to delay or mitigate renal fibrosis remain limited. A deeper understanding of the molecular mechanisms underlying renal fibrosis, along with the identification of potential drug targets and the development of novel therapeutics, holds immense research significance and clinical value for the prevention and treatment of CKD. In recent years, epigenetic research has garnered widespread attention and plays a pivotal role in various disease processes. Against this backdrop, the mechanisms by which epigenetic modifications exert their effects on renal fibrosis are gradually being elucidated, offering novel insights into the understanding of CKD. In this review, we summarize and analyze the intricate regulatory network of epigenetic modifications in renal fibrosis. We explore the promising antifibrotic effects demonstrated by various epigenetically modified drugs in fibrotic kidney models and discuss the challenges and opportunities in current research. These findings provide crucial insights for a deeper understanding of the molecular mechanisms underlying renal fibrosis and the development of novel therapeutic approaches.",
+      "url": "https://europepmc.org/articles/PMC12750170",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/40/13/main.PMC12750170.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/40/13/PMC12750170.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "PMID:41477330",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulation of stem cell aging and cellular proliferation by Klotho-Sirt1 pathways in heart, kidney and small intestine",
+      "authors": "Dao-Fu Dai; Nastaran Daneshgar; Kaihao Wang; Pei-Ing Liang; Dustin Bosch; Chad Grueter",
+      "year": 2025,
+      "doi": "10.1038/s41514-025-00286-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41514-025-00286-1",
+      "pdf_url": "https://www.nature.com/articles/s41514-025-00286-1.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\dao_fu_2025_regulation_of_stem_cell_aging_and_cellular_proliferation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "10.1038/s41514-025-00286-1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #1 (Public Review): Mediator Subunit MED16 Collaborates with UBP1-TFCP2 to Control Transcriptional Activation or Repression via Promoter Positional Specificity",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.7554/elife.108806.1.sa2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.108806.1.sa2",
+      "pdf_url": "https://doi.org/10.7554/elife.108806.1.sa2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "10.7554/elife.108806.1.sa2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #2 (Public Review): Mediator Subunit MED16 Collaborates with UBP1-TFCP2 to Control Transcriptional Activation or Repression via Promoter Positional Specificity",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.7554/elife.108806.1.sa1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.108806.1.sa1",
+      "pdf_url": "https://doi.org/10.7554/elife.108806.1.sa1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "10.7554/elife.108806.1.sa1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #3 (Public Review): Mediator Subunit MED16 Collaborates with UBP1-TFCP2 to Control Transcriptional Activation or Repression via Promoter Positional Specificity",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.7554/elife.108806.1.sa0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.108806.1.sa0",
+      "pdf_url": "https://doi.org/10.7554/elife.108806.1.sa0",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "10.7554/elife.108806.1.sa0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "SIRT1 as a masterful reciprocal regulator of molecular mechanisms and signaling pathways involved in tumor growth and expansion.",
+      "authors": "Hashemi M; Zali N; Ghafarzadeh Dastjerdi SZ; Pakshad B; Aliahmadi M; Sharifi N; Esfahani KS; Kohandani FS; Chamanian S; Abbasi F; Jamshidian F; Taheriazam A; Alimohammadi M; Rahimzadeh P; Farahani N; Entezari M",
+      "year": 2025,
+      "doi": "10.1007/s10238-025-01759-z",
+      "pmid": "40591009",
+      "pmcid": "PMC12213863",
+      "abstract": "Sirtuin 1, which is more commonly identified as SIRT1, is a well-recognized NAD<sup>+</sup>-dependent histone and/or protein deacetylase that operates a wide range of cellular and molecular mechanisms involved in carcinogenic processes. SIRT1 not only regulates the primary mechanisms involved in tumorigenesis but also is responsible for controlling other processes, such as cell migration and metastasis, autophagy, and apoptotic flux, as well as chemotherapeutic resistance. It is well established that SIRT1 works at the upstream of signal transduction pathways, such as p53 signaling, together with FOXO mechanism, as well as the others. Indeed, SIRT1 by its deacetylase activity deacetylates different molecules in those signaling pathways and mostly causes a kind of blockade in the signaling of interest. Nonetheless, many aspects of SIRT1-cancer relationship are ambiguous, and more experiments should be performed for further uncovering of the concept. In the current review, we first highlight the major regulators of SIRT1 in cancer and then underscore key signal transduction pathways regulated by SIRT1. In the following, the role of SIRT1 will be discussed in tumor progression, from tumorigenesis to chemotherapeutic resistance, and at last, the contribution of SIRT1 to human cancers will be exemplified by some studies conducted in the field.",
+      "url": "https://europepmc.org/articles/PMC12213863",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/d4/5c/10238_2025_Article_1759.PMC12213863.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d4/5c/PMC12213863.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "PMID:40591009",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Insulin Sensitizers as Anti-Aging Agents: Unveiling Synergies with Albumin, GLP-1RA, Klotho Protein, and Metformin in the Quest to Combat Aging",
+      "authors": "Amr Ahmed",
+      "year": 2024,
+      "doi": "10.23880/cclsj-16000200",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>This study delves into the synergistic interplay among albumin, insulin, Klotho protein, and relevant medications in the pursuit of a concerted approach to halt aging. Emphasizing albumin's pivotal role in various physiological functions, including transportation and drug distribution, the research underscores its decline's correlation with aging-related cognitive implications. The intricate relationship between insulin and albumin, modulated by Foxo1, underscores its crucial significance. Groundbreaking experiments, utilizing unmodified serum albumin, demonstrate a remarkable increase in lifespan and enhanced physical capabilities, highlighting the potential of an integrative approach. The investigation extends to insulin sensitizers, Klotho protein, metformin, and SGLT2 inhibitors, collectively revealing promising anti-aging effects. The association between Klotho protein and albumin suggests a collaborative mechanism with implications for efficient transport and distribution. This research offers insights into a comprehensive, synergistic strategy harnessing the potential of these elements to counteract aging processes.</jats:p>",
+      "url": "https://doi.org/10.23880/cclsj-16000200",
+      "pdf_url": "https://medwinpublishers.com/CCLSJ/insulin-sensitizers-as-anti-aging-agents-unveiling-synergies-with-albumin-glp-1ra-klotho-protein-and-metformin-in-the-quest-to-combat-aging.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\amr_2024_insulin_sensitizers_as_anti_aging_agents_unveiling_synergies.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "10.23880/cclsj-16000200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcending frontiers in prostate cancer: the role of oncometabolites on epigenetic regulation, CSCs, and tumor microenvironment to identify new therapeutic strategies.",
+      "authors": "Ambrosini G; Cordani M; Zarrabi A; Alcon-Rodriguez S; Sainz RM; Velasco G; Gonzalez-Menendez P; Dando I",
+      "year": 2024,
+      "doi": "10.1186/s12964-023-01462-0",
+      "pmid": "38216942",
+      "pmcid": "PMC10790277",
+      "abstract": "Prostate cancer, as one of the most prevalent malignancies in males, exhibits an approximate 5-year survival rate of 95% in advanced stages. A myriad of molecular events and mutations, including the accumulation of oncometabolites, underpin the genesis and progression of this cancer type. Despite growing research demonstrating the pivotal role of oncometabolites in supporting various cancers, including prostate cancer, the root causes of their accumulation, especially in the absence of enzymatic mutations, remain elusive. Consequently, identifying a tangible therapeutic target poses a formidable challenge. In this review, we aim to delve deeper into the implications of oncometabolite accumulation in prostate cancer. We center our focus on the consequential epigenetic alterations and impacts on cancer stem cells, with the ultimate goal of outlining novel therapeutic strategies.",
+      "url": "https://europepmc.org/articles/PMC10790277",
+      "pdf_url": "https://europepmc.org/articles/PMC10790277?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/cd/15/PMC10790277.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\ambrosini_2024_transcending_frontiers_in_prostate_cancer_the_role_of.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "PMID:38216942",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Metadichol ; An agonist that expresses  anti-aging gene Klotho in various cell lines",
+      "authors": "Palayakotai R Raghavan",
+      "year": 2023,
+      "doi": "10.21203/rs.3.rs-2635049/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p>Klotho is a well-known tumor suppressor hormone that exhibits anti-cancer and anti-aging properties. Klotho levels are low or non-existent in cancer patients. Klotho protein levels decrease with aging; maintaining consistent levels may prevent disease and promote healthier aging. Metadichol is a nano emulsion of long-chain alcohols C26, C28, and C30, of which C-28 constitutes over 85%. Any small molecule that can elevate Klotho can, in principle, help reverse many diseases in which Klotho levels are low. Previously, we showed that treatment of the pancreatic cancer cell lines PANC1, MIA-PACA, and COLO-205, combined with Metadichol, a lipid emulsion consisting of long-chain alcohols at 1-100 pg/mL concentrations, resulted in a 4- to 10-fold increase in Klotho expression as determined by qRT-PCR, This study aimed to demonstrate that Metadichol promotes Klotho expression in a wide variety of cell lines, such as primary cancer, stem, and somatic cell lines. Cells were treated with various concentrations of Metadichol ranging from 1 pg to 1 µg. Three to fifteen fold increase in Klotho expression was observed compared with baseline, as measured by qRT-PCR and qualified by western blot analysis. Metadichol is a natural agonist of Klotho expression and is non-toxic at levels up to 5000 mg/kg in rats. and has a potential therapeutic role in cancer and reversing aging.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-2635049/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-2635049/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\palayakotai_2023_metadichol_an_agonist_that_expresses_anti_aging_gene.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "10.21203/rs.3.rs-2635049/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of primary aging hallmarks in Alzheimer´s disease.",
+      "authors": "Zhao J; Huai J",
+      "year": 2023,
+      "doi": "10.7150/thno.79535",
+      "pmid": "36593969",
+      "pmcid": "PMC9800733",
+      "abstract": "Alzheimer's disease (AD) is the most common neurodegenerative disease, which severely threatens the health of the elderly and causes significant economic and social burdens. The causes of AD are complex and include heritable but mostly aging-related factors. The primary aging hallmarks include genomic instability, telomere wear, epigenetic changes, and loss of protein stability, which play a dominant role in the aging process. Although AD is closely associated with the aging process, the underlying mechanisms involved in AD pathogenesis have not been well characterized. This review summarizes the available literature about primary aging hallmarks and their roles in AD pathogenesis. By analyzing published literature, we attempted to uncover the possible mechanisms of aberrant epigenetic markers with related enzymes, transcription factors, and loss of proteostasis in AD. In particular, the importance of oxidative stress-induced DNA methylation and DNA methylation-directed histone modifications and proteostasis are highlighted. A molecular network of gene regulatory elements that undergoes a dynamic change with age may underlie age-dependent AD pathogenesis, and can be used as a new drug target to treat AD.",
+      "url": "https://europepmc.org/articles/PMC9800733",
+      "pdf_url": "https://europepmc.org/articles/PMC9800733?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c3/1e/PMC9800733.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\zhao_2023_role_of_primary_aging_hallmarks_in_alzheimer_s.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "PMID:36593969",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Aging and aging-related diseases: from molecular mechanisms to interventions and treatments",
+      "authors": "Jun Guo; Xiuqing Huang; Lin Dou; Mingjing Yan; Tao Shen; Weiqing Tang; Jian Li",
+      "year": 2022,
+      "doi": "10.1038/s41392-022-01251-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Aging is a gradual and irreversible pathophysiological process. It presents with declines in tissue and cell functions and significant increases in the risks of various aging-related diseases, including neurodegenerative diseases, cardiovascular diseases, metabolic diseases, musculoskeletal diseases, and immune system diseases. Although the development of modern medicine has promoted human health and greatly extended life expectancy, with the aging of society, a variety of chronic diseases have gradually become the most important causes of disability and death in elderly individuals. Current research on aging focuses on elucidating how various endogenous and exogenous stresses (such as genomic instability, telomere dysfunction, epigenetic alterations, loss of proteostasis, compromise of autophagy, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, deregulated nutrient sensing) participate in the regulation of aging. Furthermore, thorough research on the pathogenesis of aging to identify interventions that promote health and longevity (such as caloric restriction, microbiota transplantation, and nutritional intervention) and clinical treatment methods for aging-related diseases (depletion of senescent cells, stem cell therapy, antioxidative and anti-inflammatory treatments, and hormone replacement therapy) could decrease the incidence and development of aging-related diseases and in turn promote healthy aging and longevity.",
+      "url": "https://doi.org/10.1038/s41392-022-01251-0",
+      "pdf_url": "https://www.nature.com/articles/s41392-022-01251-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\jun_2022_aging_and_aging_related_diseases_from_molecular_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression",
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "W4311744984",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Pathobiology of the Klotho Antiaging Protein and Therapeutic Considerations",
+      "authors": "Gérald J. Prud’homme; Mervé Kurt; Qinghua Wang",
+      "year": 2022,
+      "doi": "10.3389/fragi.2022.931331",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "). These mice have a shortened lifespan, stunted growth, renal disease, hyperphosphatemia, hypercalcemia, vascular calcification, cardiac hypertrophy, hypertension, pulmonary disease, cognitive impairment, multi-organ atrophy and fibrosis. Overexpression of Klotho has opposite effects, extending lifespan. In humans, Klotho levels decline with age, chronic kidney disease, diabetes, Alzheimer's disease and other conditions. Low Klotho levels correlate with an increase in the death rate from all causes. Klotho acts either as an obligate coreceptor for fibroblast growth factor 23 (FGF23), or as a soluble pleiotropic endocrine hormone (s-Klotho). It is mainly produced in the kidneys, but also in the brain, pancreas and other tissues. On renal tubular-cell membranes, it associates with FGF receptors to bind FGF23. Produced in bones, FGF23 regulates renal excretion of phosphate (phosphaturic effect) and vitamin D metabolism. Lack of Klotho or FGF23 results in hyperphosphatemia and hypervitaminosis D. With age, human renal function often deteriorates, lowering Klotho levels. This appears to promote age-related pathology. Remarkably, Klotho inhibits four pathways that have been linked to aging in various ways: Transforming growth factor β (TGF-β), insulin-like growth factor 1 (IGF-1), Wnt and NF-κB. These can induce cellular senescence, apoptosis, inflammation, immune dysfunction, fibrosis and neoplasia. Furthermore, Klotho increases cell-protective antioxidant enzymes through Nrf2 and FoxO. In accord, preclinical Klotho therapy ameliorated renal, cardiovascular, diabetes-related and neurodegenerative diseases, as well as cancer. s-Klotho protein injection was effective, but requires further investigation. Several drugs enhance circulating Klotho levels, and some cross the blood-brain barrier to potentially act in the brain. In clinical trials, increased Klotho was noted with renin-angiotensin system inhibitors (losartan, valsartan), a statin (fluvastatin), mTOR inhibitors (rapamycin, everolimus), vitamin D and pentoxifylline. In preclinical work, antidiabetic drugs (metformin, GLP-1-based, GABA, PPAR-γ agonists) also enhanced Klotho. Several traditional medicines and/or nutraceuticals increased Klotho in rodents, including astaxanthin, curcumin, ginseng, ligustilide and resveratrol. Notably, exercise and sport activity increased Klotho. This review addresses molecular, physiological and therapeutic aspects of Klotho.",
+      "url": "https://doi.org/10.3389/fragi.2022.931331",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fragi.2022.931331/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\g_rald_2022_pathobiology_of_the_klotho_antiaging_protein_and_therapeutic.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "W4285020331",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulation of SIRT1 and Its Roles in Inflammation",
+      "authors": "Yunshu Yang; Yang Liu; Yunwei Wang; Yongyi Chao; Jinxin Zhang; Yanhui Jia; Jun Tie; Dahai Hu",
+      "year": 2022,
+      "doi": "10.3389/fimmu.2022.831168",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The silent information regulator sirtuin 1 (SIRT1) protein, a highly conserved NAD + -dependent deacetylase belonging to the sirtuin family, is a post-translational regulator that plays a role in modulating inflammation. SIRT1 affects multiple biological processes by deacetylating a variety of proteins including histones and non-histone proteins. Recent studies have revealed intimate links between SIRT1 and inflammation, while alterations to SIRT1 expression and activity have been linked to inflammatory diseases. In this review, we summarize the mechanisms that regulate SIRT1 expression, including upstream activators and suppressors that operate on the transcriptional and post-transcriptional levels. We also summarize factors that influence SIRT1 activity including the NAD + /NADH ratio, SIRT1 binding partners, and post-translational modifications. Furthermore, we underscore the role of SIRT1 in the development of inflammation by commenting on the proteins that are targeted for deacetylation by SIRT1. Finally, we highlight the potential for SIRT1-based therapeutics for inflammatory diseases.",
+      "url": "https://doi.org/10.3389/fimmu.2022.831168",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2022.831168/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\yunshu_2022_regulation_of_sirt1_and_its_roles_in_inflammation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "W4220897376",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of protein acetylation in carcinogenesis and targeted drug discovery.",
+      "authors": "Yang J; Song C; Zhan X",
+      "year": 2022,
+      "doi": "10.3389/fendo.2022.972312",
+      "pmid": "36171897",
+      "pmcid": "PMC9510633",
+      "abstract": "Protein acetylation is a reversible post-translational modification, and is involved in many biological processes in cells, such as transcriptional regulation, DNA damage repair, and energy metabolism, which is an important molecular event and is associated with a wide range of diseases such as cancers. Protein acetylation is dynamically regulated by histone acetyltransferases (HATs) and histone deacetylases (HDACs) in homeostasis. The abnormal acetylation level might lead to the occurrence and deterioration of a cancer, and is closely related to various pathophysiological characteristics of a cancer, such as malignant phenotypes, and promotes cancer cells to adapt to tumor microenvironment. Therapeutic modalities targeting protein acetylation are a potential therapeutic strategy. This article discussed the roles of protein acetylation in tumor pathology and therapeutic drugs targeting protein acetylation, which offers the contributions of protein acetylation in clarification of carcinogenesis, and discovery of therapeutic drugs for cancers, and lays the foundation for precision medicine in oncology.",
+      "url": "https://europepmc.org/articles/PMC9510633",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2022.972312/pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e9/10/PMC9510633.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\yang_2022_the_role_of_protein_acetylation_in_carcinogenesis_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "PMID:36171897",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The sirtuin family in health and disease.",
+      "authors": "Wu QJ; Zhang TN; Chen HH; Yu XF; Lv JL; Liu YY; Liu YS; Zheng G; Zhao JQ; Wei YF; Guo JY; Liu FH; Chang Q; Zhang YX; Liu CG; Zhao YH",
+      "year": 2022,
+      "doi": "10.1038/s41392-022-01257-8",
+      "pmid": "36581622",
+      "pmcid": "PMC9797940",
+      "abstract": "Sirtuins (SIRTs) are nicotine adenine dinucleotide(+)-dependent histone deacetylases regulating critical signaling pathways in prokaryotes and eukaryotes, and are involved in numerous biological processes. Currently, seven mammalian homologs of yeast Sir2 named SIRT1 to SIRT7 have been identified. Increasing evidence has suggested the vital roles of seven members of the SIRT family in health and disease conditions. Notably, this protein family plays a variety of important roles in cellular biology such as inflammation, metabolism, oxidative stress, and apoptosis, etc., thus, it is considered a potential therapeutic target for different kinds of pathologies including cancer, cardiovascular disease, respiratory disease, and other conditions. Moreover, identification of SIRT modulators and exploring the functions of these different modulators have prompted increased efforts to discover new small molecules, which can modify SIRT activity. Furthermore, several randomized controlled trials have indicated that different interventions might affect the expression of SIRT protein in human samples, and supplementation of SIRT modulators might have diverse impact on physiological function in different participants. In this review, we introduce the history and structure of the SIRT protein family, discuss the molecular mechanisms and biological functions of seven members of the SIRT protein family, elaborate on the regulatory roles of SIRTs in human disease, summarize SIRT inhibitors and activators, and review related clinical studies.",
+      "url": "https://europepmc.org/articles/PMC9797940",
+      "pdf_url": "https://www.nature.com/articles/s41392-022-01257-8.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7d/23/PMC9797940.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\wu_2022_the_sirtuin_family_in_health_and_disease.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "PMID:36581622",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "An aging and p53 related marker: HOXA5 promoter methylation negatively correlates with mRNA and protein expression in old age",
+      "authors": "Laura-Kim Feiner; Sascha Tierling; Sebastian Holländer; Matthias Glanemann; Claudia Rubie",
+      "year": 2021,
+      "doi": "10.18632/aging.202621",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.202621",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7950283",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "10.18632/aging.202621",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Effect of extracts and isolated compounds derived from Retama monosperma (L.) Boiss. on anti-aging gene expression in human keratinocytes.",
+      "authors": "M. Zefzoufi; R. Fdil; H. Bouamama; C. Gadhi; Yoshinori Kartakura; A. Mouzdahir; K. Sraidi",
+      "year": 2021,
+      "doi": "10.1016/j.jep.2021.114451",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/ccdd342eb231f8fede6ef745a724665b74aa7433",
+      "pdf_url": "https://www.sciencedirect.com/science/article/am/pii/S0378874121006802",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "ccdd342eb231f8fede6ef745a724665b74aa7433",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Klotho: An Elephant in Aging Research",
+      "authors": "Amin Cheikhi; Aaron Barchowsky; Amrita Sahu; Sunita N. Shinde; Abish Pius; Zachary Clemens; Hua Li; Charles A. Kennedy; Joerg D. Hoeck; Michael Franti; Fabrisia Ambrosio",
+      "year": 2019,
+      "doi": "10.1093/gerona/glz061",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The year 2017 marked the 20th anniversary of the first publication describing Klotho. This single protein was and is remarkable in that its absence in mice conferred an accelerated aging, or progeroid, phenotype with a dramatically shortened life span. On the other hand, genetic overexpression extended both health span and life span by an impressive 30%. Not only has Klotho deficiency been linked to a number of debilitating age-related illnesses but many subsequent reports have lent credence to the idea that Klotho can compress the period of morbidity and extend the life span of both model organisms and humans. This suggests that Klotho functions as an integrator of organ systems, making it both a promising tool for advancing our understanding of the biology of aging and an intriguing target for interventional studies. In this review, we highlight advances in our understanding of Klotho as well as key challenges that have somewhat limited our view, and thus translational potential, of this potent protein.",
+      "url": "https://doi.org/10.1093/gerona/glz061",
+      "pdf_url": "https://academic.oup.com/biomedgerontology/article-pdf/74/7/1031/33455118/glz061.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "W2921468732",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "SIRT1 in the Development and Treatment of Hepatocellular Carcinoma",
+      "authors": "Marius Fărcaş; Andrei-Alexandru Gavrea; Diana Gulei; Călin Ionescu; Alexandru Irimie; Cristina-Sorina Cătană; Ioana Berindan‐Neagoe",
+      "year": 2019,
+      "doi": "10.3389/fnut.2019.00148",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Hepatocellular carcinoma (HCC) is one of the most common causes of cancer-related death worldwide. Current treatment options for inoperable HCCs have decreased therapeutic efficacy and are associated with systemic toxicity and chemoresistance. Sirtuin 1 (SIRT1) is a nicotinamide adenine dinucleotide-dependent enzyme that is frequently overexpressed in HCC, where it promotes tumorigenicity, metastasis, and chemoresistance. SIRT1 also maintains the tumorigenic and self-renewal proprieties of liver cancer stem cells. Multiple tumor-suppressive microRNAs (miRNAs) are downregulated in HCC and, as a consequence, permit SIRT1-induced tumorigenicity. However, either directly targeting SIRT1, combining conventional chemotherapy with SIRT1 inhibitors, or upregulating tumor-suppressive miRNAs may improve therapeutic efficacy and patient outcomes. Here, we present the interaction between SIRT1, miRNAs, and liver cancer stem cells and discuss the consequences of their interplay for the development and treatment of HCC.",
+      "url": "https://doi.org/10.3389/fnut.2019.00148",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnut.2019.00148/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\marius_2019_sirt1_in_the_development_and_treatment_of_hepatocellular.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "W2971014548",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Age-related declines in α-Klotho drive progenitor cell mitochondrial dysfunction and impaired muscle regeneration",
+      "authors": "Amrita Sahu; Hikaru Mamiya; Sunita N. Shinde; Amin Cheikhi; Leabah Winter; Nam V. Vo; Donna B. Stolz; Vera Roginskaya; Wan‐Yee Tang; Claudette M. St. Croix; Laurie H. Sanders; Michael Franti; Bennett Van Houten; Thomas A. Rando; Aaron Barchowsky; Fabrisia Ambrosio",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-07253-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "While young muscle is capable of restoring the original architecture of damaged myofibers, aged muscle displays a markedly reduced regeneration. We show that expression of the \"anti-aging\" protein, α-Klotho, is up-regulated within young injured muscle as a result of transient Klotho promoter demethylation. However, epigenetic control of the Klotho promoter is lost with aging. Genetic inhibition of α-Klotho in vivo disrupted muscle progenitor cell (MPC) lineage progression and impaired myofiber regeneration, revealing a critical role for α-Klotho in the regenerative cascade. Genetic silencing of Klotho in young MPCs drove mitochondrial DNA (mtDNA) damage and decreased cellular bioenergetics. Conversely, supplementation with α-Klotho restored mtDNA integrity and bioenergetics of aged MPCs to youthful levels in vitro and enhanced functional regeneration of aged muscle in vivo in a temporally-dependent manner. These studies identify a role for α-Klotho in the regulation of MPC mitochondrial function and implicate α-Klotho declines as a driver of impaired muscle regeneration with age.",
+      "url": "https://doi.org/10.1038/s41467-018-07253-3",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-07253-3.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\amrita_2018_age_related_declines_in_klotho_drive_progenitor_cell.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "W2901183439",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of klotho in chronic kidney disease",
+      "authors": "Di Zou; Wen Wu; Yan He; Sichao Ma; Ji Gao",
+      "year": 2018,
+      "doi": "10.1186/s12882-018-1094-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Chronic kidney disease (CKD) is an inherently systemic disease that refers to a long-term loss of kidney function. The progression of CKD has repercussions for other organs, leading to many kinds of extrarenal complications. Intensive studies are now being undertaken to reveal the risk factors and pathophysiological mechanism of this disease. During the past 20 years, increasing evidence from clinical and basic studies has indicated that klotho, which was initially known as an anti-aging gene and is mainly expressed in the kidney, is significantly correlated with the development and progression of CKD and its complications. Here, we discuss in detail the role and pathophysiological implications of klotho in ion disorders, the inflammation response, vascular calcification, mineral bone disorders, and renal fibrosis in CKD. Based on the pathogenic mechanism of klotho deficiency and klotho decline in urine early in CKD stage 2 and even earlier in CKD stage 1, it is not difficult to understand that soluble klotho can serve as an early and sensitive marker of CKD. Moreover, the prevention of klotho decline by several mechanisms can attenuate renal injuries, retard CKD progression, ameliorate extrarenal complications, and improve renal function. In this review, we focus on the functions and pathophysiological implications of klotho in CKD and its extrarenal complications as well as its potential applications as a diagnostic and/or prognostic biomarker for CKD and as a novel treatment strategy to improve and decrease the burden of comorbidity in CKD.",
+      "url": "https://doi.org/10.1186/s12882-018-1094-z",
+      "pdf_url": "https://bmcnephrol.biomedcentral.com/track/pdf/10.1186/s12882-018-1094-z",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\di_2018_the_role_of_klotho_in_chronic_kidney_disease.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "W2896060548",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "17β-Estradiol via SIRT1/Acetyl-p53/NF-kB Signaling Pathway Rescued Postnatal Rat Brain Against Acute Ethanol Intoxication",
+      "authors": "Mehtab Khan; Shahid Ali Shah; Myeong Ok Kim",
+      "year": 2017,
+      "doi": "10.1007/s12035-017-0520-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s12035-017-0520-8",
+      "pdf_url": "http://link.springer.com/content/pdf/10.1007/s12035-017-0520-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "10.1007/s12035-017-0520-8",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic suppression of the anti-aging gene KLOTHO in human prostate cancer cell lines",
+      "authors": "M.-J. Seo; Min Su Kim; Ara Jang; H. Chung; Y. Noh; Do-Hee Kim; Jaehyouk Lee; K. Ko; S. Myung",
+      "year": 2017,
+      "doi": "10.1080/19768354.2017.1336112",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "ABSTRACT KLOTHO was originally identified as an aging-suppressor gene that causes a human aging-like phenotype when tested in KLOTHO-deficient-mice. Recent evidence suggests that KLOTHO functions as a tumor suppressor by inhibiting Wnt signaling. KLOTHO gene silencing, including DNA methylation, has been observed in some human cancers. Aberrant activation of Wnt signaling plays a significant role in aging, and its silencing may be related to prostate cancer and other types of cancers. Thus, we investigated whether the expression of the anti-aging gene KLOTHO was associated with epigenetic changes in prostate cancer cell lines. KLOTHO mRNA was detected in the 22Rv1 cell line while it was not detected in DU145 and PC-3 cell lines. The restoration of KLOTHO mRNA in the DU145 and PC-3 cell lines was induced with a DNA methyltransferase inhibitor. Methylation-specific PCR was performed to determine the specific CpG sites in the KLOTHO promoter responsible for expression. In addition, the level of methylation was assessed in each CpG by performing bisulfite sequencing and quantitative pyrosequencing analysis. The results suggested a remarkable inverse relationship between KLOTHO expression and promoter methylation in prostate cancer cell lines.",
+      "url": "https://www.semanticscholar.org/paper/3223c5fd2ece1493aefaf107e45ffb1307e30a34",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19768354.2017.1336112?needAccess=true",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "3223c5fd2ece1493aefaf107e45ffb1307e30a34",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Induction of anti-aging gene klotho with a small chemical compound that demethylates CpG islands.",
+      "authors": "Jung D; Xu Y; Sun Z",
+      "year": 2017,
+      "doi": "10.18632/oncotarget.18608",
+      "pmid": "28657902",
+      "pmcid": null,
+      "abstract": "Klotho (KL) is described as an anti-aging gene because mutation of Kl gene leads to multiple pre-mature aging phenotypes and shortens lifespan in mice. Growing evidence suggests that an increase in KL expression may be beneficial for age-related diseases such as arteriosclerosis and diabetes. It remains largely unknown, however, how Kl expression could be induced. Here we discovered novel molecular mechanism for induction of Kl expression with a small molecule 'Compound H', N-(2-chlorophenyl)-1H-indole-3-caboxamide. Compound H was originally identified through a high-throughput screening of small molecules for identifying Kl inducers. However, how Compound H induces Kl expression has never been investigated. We found that Compound H increased Kl expression via demethylation in CpG islands of the Kl gene. The demethylation was accomplished by activating demethylases rather than inhibiting methylases. Due to demethylation, Compound H enhanced binding of transcription factors, Pax4 and Kid3, to the promoter of the Kl gene. Pax4 and Kid3 regulated Kl promoter activity positively and negatively, respectively. Thus, our results show that demethylation is an important molecular mechanism that mediates Compound H-induced Kl expression. Further investigation is warranted to determine whether Compound H demethylates the Kl gene in vivo and whether it can serve as a therapeutic agent for repressing or delaying the onset of age-related diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28657902/",
+      "pdf_url": "http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=18608&path%5B%5D=59792",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed",
+        "semantic"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression",
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "28657902",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulation of S-formylglutathione hydrolase by the anti-aging gene klotho",
+      "authors": "Yuechi Xu; Zhongjie Sun",
+      "year": 2017,
+      "doi": "10.18632/oncotarget.19111",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Klotho is an aging-suppressor gene. The purpose of this study is to investigate the binding sites (receptors) and function of short-form Klotho (Skl). We showed that Skl physically bound to multiple proteins. We found physical and functional interactions between Skl and S-formylglutathione hydrolase (FGH), a key enzyme in the generation of the major cellular anti-oxidant GSH, using co-immunoprecipitation-coupled mass spectrometry. We further confirmed the colocalization of Skl and FGH around the nucleus in kidney cells using immunofluorescent staining. Skl positively regulated FGH gene expression via Kid3 transcription factor. Overexpression of Skl increased FGH mRNA and protein expression while silencing of Skl attenuated FGH mRNA and protein expression. Klotho gene mutation suppressed FGH expression in red blood cells and kidneys resulting in anemia and kidney damage in mice. Overexpression of Skl increased total GSH production and the GSH/GSSG ratio, an index of anti-oxidant capacity, leading to a decrease in intracellular H2O2 and superoxide levels. The antioxidant activity of Skl was eliminated by silencing of FGH, indicating that Skl increased GSH via FGH. Interestingly, Skl directly interacted with FGH and regulated its function. Site-directed mutagenesis of the N-glycan-modified residues in Skl abolished its antioxidant activity, suggesting that these N-glycan moieties are important features that interact with FGH. Specific mutation of Asp to Ala at site 285 resulted in a loss of anti-oxidant activity of Skl, suggesting that N-glycosylation at site 285 is the key mechanism that determines Skl activity. Therefore, this study demonstrates, for the first time, that Skl regulates anti-oxidant GSH generation via interaction with FGH through N-glycosylation.",
+      "url": "https://www.semanticscholar.org/paper/e305ee875f31156116f651810756a5eb9a281b45",
+      "pdf_url": "http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=19111&path%5B%5D=61237",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref",
+        "semantic"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "e305ee875f31156116f651810756a5eb9a281b45",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "An Update on Inflamm-Aging: Mechanisms, Prevention, and Treatment",
+      "authors": "Shijin Xia; Xinyan Zhang; Songbai Zheng; Ramin Khanabdali; Bill Kalionis; Junzhen Wu; Wenbin Wan; Xiantao Tai",
+      "year": 2016,
+      "doi": "10.1155/2016/8426874",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Inflamm-aging is a challenging and promising new branch of aging-related research fields that includes areas such as immunosenescence. Increasing evidence indicates that inflamm-aging is intensively associated with many aging diseases, such as Alzheimer's disease, atherosclerosis, heart disease, type II diabetes, and cancer. Mounting studies have focused on the role of inflamm-aging in disease progression and many advances have been made in the last decade. However, the underlying mechanisms by which inflamm-aging affects pathological changes and disease development are still unclear. Here, we review studies of inflamm-aging that explore the concept, pathological features, mechanisms, intervention, and the therapeutic strategies of inflamm-aging in disease progression.",
+      "url": "https://doi.org/10.1155/2016/8426874",
+      "pdf_url": "https://downloads.hindawi.com/journals/jir/2016/8426874.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "W2462347288",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Anti-Aging Genes Improve Appetite Regulation and Reverse Cell Senescence and Apoptosis in Global Populations",
+      "authors": "Ian Martins",
+      "year": 2016,
+      "doi": "10.4236/aar.2016.51002",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Appetite regulation by nutritional intervention is required early in life that involves the anti-aging gene Sirtuin 1 (Sirt 1) with Sirt 1 maintenance of other cellular anti-aging genes involved in cell circadian rhythm, senescence and apoptosis. Interests in anti-aging therapy with appetite regulation improve an individual’s survival to metabolic disease induced by gene-environment interactions by maintenance of the anti-aging genes connected to the metabolism of bacterial lipopolysaccharides, drugs and xenobiotics. Interventions to the aging process involve early calorie restriction with appetite regulation connected to appropriate genetic mechanisms that involve mitochondrial biogenesis and DNA repair in neurons. In the aging process as the anti-aging genes are suppressed as a result of transcriptional dysregulation chronic disease accelerations and connected to insulin resistance, non-alcoholic fatty liver disease (NAFLD) and neurodegenerative diseases such as Parkinson’s disease and Alzheimer’s disease. Interests in the gene-environment interaction indicate that the anti-aging gene Sirt 1that regulates food intake has been repressed early in the aging process in various global populations. The connections between Sirt 1 and other anti-aging genes such as Klotho, p66Shc (longevity protein) and Forkhead box proteins (FOXO1/ FOXO3a) have been associated with programmed cell death and alterations in these anti-aging genesregulate glucose, lipid and amyloid beta metabolism that are important to various chronic diseases.",
+      "url": "https://doi.org/10.4236/aar.2016.51002",
+      "pdf_url": "http://www.scirp.org/journal/PaperDownload.aspx?paperID=63098",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "W2264124860",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic Determinants of Cancer",
+      "authors": "Stephen B. Baylin; Peter A. Jones",
+      "year": 2016,
+      "doi": "10.1101/cshperspect.a019505",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetic changes are present in all human cancers and are now known to cooperate with genetic alterations to drive the cancer phenotype. These changes involve DNA methylation, histone modifiers and readers, chromatin remodelers, microRNAs, and other components of chromatin. Cancer genetics and epigenetics are inextricably linked in generating the malignant phenotype; epigenetic changes can cause mutations in genes, and, conversely, mutations are frequently observed in genes that modify the epigenome. Epigenetic therapies, in which the goal is to reverse these changes, are now one standard of care for a preleukemic disorder and form of lymphoma. The application of epigenetic therapies in the treatment of solid tumors is also emerging as a viable therapeutic route. Outline 1 The biological basis of cancer 2 The importance of chromatin to cancer 3 The role of DNA methylation in cancer 4 Hypermethylated gene promoters in cancer 5 The importance of epigenetic gene silencing in early tumor progression 6 The molecular anatomy of epigenetically silenced cancer genes 7 Summary of major research issues for understanding epigenetic gene silencing in cancer 8 DNA methylation abnormalities as biomarkers for cancer detection and monitoring cancer prognosis 9 Epigenetic therapy",
+      "url": "https://doi.org/10.1101/cshperspect.a019505",
+      "pdf_url": "http://cshperspectives.cshlp.org/content/8/9/a019505.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\stephen_2016_epigenetic_determinants_of_cancer.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "W2403874820",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Histone Modifications and Cancer",
+      "authors": "James E. Audia; Robert M. Campbell",
+      "year": 2016,
+      "doi": "10.1101/cshperspect.a019521",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Histone posttranslational modifications represent a versatile set of epigenetic marks involved not only in dynamic cellular processes, such as transcription and DNA repair, but also in the stable maintenance of repressive chromatin. In this article, we review many of the key and newly identified histone modifications known to be deregulated in cancer and how this impacts function. The latter part of the article addresses the challenges and current status of the epigenetic drug development process as it applies to cancer therapeutics.",
+      "url": "https://doi.org/10.1101/cshperspect.a019521",
+      "pdf_url": "http://cshperspectives.cshlp.org/content/8/4/a019521.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\james_2016_histone_modifications_and_cancer.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "W2323939601",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Hypermethylation of the HIC1 promoter and aberrant expression of HIC1/SIRT1 contribute to the development of thyroid papillary carcinoma",
+      "authors": "Wenyi Wu; Liting Zhang; Jianqing Lin; Hanwei Huang; Bai Shi; Xingong Lin; Zhongxin Huang; Chaoyang Wang; Jianlong Qiu; Xiaolong Wei",
+      "year": 2016,
+      "doi": "10.18632/oncotarget.12936",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/oncotarget.12936",
+      "pdf_url": "https://doi.org/10.18632/oncotarget.12936",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "10.18632/oncotarget.12936",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ROS, Cell Senescence, and Novel Molecular Mechanisms in Aging and Age‐Related Diseases",
+      "authors": "Pierpaola Davalli; Tijana Mitić; Andrea Caporali; Angela Lauriola; Domenico D’Arca",
+      "year": 2016,
+      "doi": "10.1155/2016/3565127",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The aging process worsens the human body functions at multiple levels, thus causing its gradual decrease to resist stress, damage, and disease. Besides changes in gene expression and metabolic control, the aging rate has been associated with the production of high levels of Reactive Oxygen Species (ROS) and/or Reactive Nitrosative Species (RNS). Specific increases of ROS level have been demonstrated as potentially critical for induction and maintenance of cell senescence process. Causal connection between ROS, aging, age-related pathologies, and cell senescence is studied intensely. Senescent cells have been proposed as a target for interventions to delay the aging and its related diseases or to improve the diseases treatment. Therapeutic interventions towards senescent cells might allow restoring the health and curing the diseases that share basal processes, rather than curing each disease in separate and symptomatic way. Here, we review observations on ROS ability of inducing cell senescence through novel mechanisms that underpin aging processes. Particular emphasis is addressed to the novel mechanisms of ROS involvement in epigenetic regulation of cell senescence and aging, with the aim to individuate specific pathways, which might promote healthy lifespan and improve aging.",
+      "url": "https://doi.org/10.1155/2016/3565127",
+      "pdf_url": "http://downloads.hindawi.com/journals/omcl/2016/3565127.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "W2350256796",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ligand-activated peroxisome proliferator-activated receptor-δ and -γ inhibit lipopolysaccharide-primed release of high mobility group box 1 through upregulation of SIRT1",
+      "authors": "J.S. Hwang; Won Jin Lee; Eun Sil Kang; Sun Ah Ham; T. Yoo; Kyung Shin Paek; Dae‐Seog Lim; J T Do; Han Geuk Seo",
+      "year": 2014,
+      "doi": "10.1038/cddis.2014.406",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Peroxisome proliferator-activated receptors (PPARs) inhibit lipopolysaccharide (LPS)-primed release of high mobility group box 1 (HMGB1), a late proinflammatory mediator, but the underlying molecular mechanism is not completely understood. In this study, we demonstrated that the inhibition of HMGB1 release by PPAR-δ and -γ is associated with the deacetylase activity of SIRT1. Ligand-activated PPAR-δ and -γ inhibited LPS-primed release of HMGB1, concomitant with elevation in SIRT1 expression and promoter activity. These effects were significantly reduced in the presence of small interfering (si)RNAs against PPAR, indicating that PPAR-δ and -γ are involved in both HMGB1 release and SIRT1 expression. In addition, modulation of SIRT1 expression and activity by siRNA or chemicals correspondingly influenced the effects of PPARs on HMGB1 release, suggesting a mechanism in which SIRT1 modulates HMGB1 release. Furthermore, we showed for the first time that HMGB1 acetylated in response to LPS or p300/CBP-associated factor (PCAF) is an effective substrate for SIRT1, and that deacetylation of HMGB1 is responsible for blockade of HMGB1 release in macrophages. Finally, acetylation of HMGB1 was elevated in mouse embryonic fibroblasts from SIRT1-knockout mice, whereas this increase was completely reversed by ectopic expression of SIRT1. These results indicate that PPAR-mediated upregulation of SIRT1 modulates the status of HMGB1 acetylation, which, in turn, has a critical role in the cellular response to inflammation through deacetylation-mediated regulation of HMGB1 release.",
+      "url": "https://doi.org/10.1038/cddis.2014.406",
+      "pdf_url": "https://www.nature.com/articles/cddis2014406.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\j_s_2014_ligand_activated_peroxisome_proliferator_activated_receptor_and_inhibit.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "W2087401845",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "SIRT1, IGFBP-3 and CAV1 Promoter DNA Methylation in Aging",
+      "authors": "Carolina Oliveira Gigek",
+      "year": 2014,
+      "doi": "10.4172/2161-1025.1000133",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.4172/2161-1025.1000133",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "10.4172/2161-1025.1000133",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Hypermethylation of HIC1 Promoter and Aberrant Expression of HIC1/SIRT1 Might Contribute to the Carcinogenesis of Pancreatic Cancer",
+      "authors": "Gang Zhao; Qi Qin; Jungang Zhang; Yang Liu; Shichang Deng; Lin Liu; Bo Wang; Kui Tian; Chunyou Wang",
+      "year": 2012,
+      "doi": "10.1245/s10434-012-2364-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1245/s10434-012-2364-9",
+      "pdf_url": "http://link.springer.com/content/pdf/10.1245/s10434-012-2364-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SIRT1 promoter repression NF-kB HIC1 p53 methylation aging"
+      ],
+      "paper_id": "10.1245/s10434-012-2364-9",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The anti-aging gene KLOTHO is a novel target for epigenetic silencing in human cervical carcinoma",
+      "authors": "Jaehyouk Lee; Dongjun Jeong; Jin‐Sun Kim; Soonduck Lee; Jin-Hwa Park; Boogi Chang; Samil Jung; Lisha Yi; Young‐Soo Han; Young Yang; Keun Tae Kim; Jong‐Seok Lim; Inchul Yang; Seob Jeon; Dong Ho Bae; Chang‐Jin Kim; Myeong‐Sok Lee",
+      "year": 2010,
+      "doi": "10.1186/1476-4598-9-109",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: Klotho was originally characterized as an anti-aging gene that predisposed Klotho-deficient mice to a premature aging-like syndrome. Recently, KLOTHO was reported to function as a secreted Wnt antagonist and as a tumor suppressor. Epigenetic gene silencing of secreted Wnt antagonists is considered a common event in a wide range of human malignancies. Abnormal activation of the canonical Wnt pathway due to epigenetic deregulation of Wnt antagonists is thought to play a crucial role in cervical tumorigenesis. In this study, we examined epigenetic silencing of KLOTHO in human cervical carcinoma. RESULTS: Loss of KLOTHO mRNA was observed in several cervical cancer cell lines and in invasive carcinoma samples, but not during the early, preinvasive phase of primary cervical tumorigenesis. KLOTHO mRNA was restored after treatment with either the DNA demethylating agent 2'-deoxy-5-azacytidine or histone deacetylase inhibitor trichostatin A. Methylation-specific PCR and bisulfite genomic sequencing analysis of the promoter region of KLOTHO revealed CpG hypermethylation in non-KLOTHO-expressing cervical cancer cell lines and in 41% (9/22) of invasive carcinoma cases. Histone deacetylation was also found to be the major epigenetic silencing mechanism for KLOTHO in the SiHa cell line. Ectopic expression of the secreted form of KLOTHO restored anti-Wnt signaling and anti-clonogenic activity in the CaSki cell line including decreased active beta-catenin levels, suppression of T-cell factor/beta-catenin target genes, such as c-MYC and CCND1, and inhibition of colony growth. CONCLUSIONS: Epigenetic silencing of KLOTHO may occur during the late phase of cervical tumorigenesis, and consequent functional loss of KLOTHO as the secreted Wnt antagonist may contribute to aberrant activation of the canonical Wnt pathway in cervical carcinoma.",
+      "url": "https://doi.org/10.1186/1476-4598-9-109",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/1476-4598-9-109",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\\jaehyouk_2010_the_anti_aging_gene_klotho_is_a_novel.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex",
+        "semantic"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression",
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "W2137484110",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Anti-aging protein SIRT1: A role in cervical cancer?",
+      "authors": "Christopher L. Brooks; Wei Gu",
+      "year": 2009,
+      "doi": "10.18632/aging.100031",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.100031",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2806011",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "anti-aging gene promoter silencing aging Klotho SIRT1"
+      ],
+      "paper_id": "10.18632/aging.100031",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcriptional repression of BRCA1 by aberrant cytosine methylation, histone hypoacetylation and chromatin condensation of the BRCA1 promoter",
+      "authors": "J. C. Rice",
+      "year": 2000,
+      "doi": "10.1093/nar/28.17.3233",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/nar/28.17.3233",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/110706",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "10.1093/nar/28.17.3233",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A novel region in the collagenase promoter is involved in transcriptional activation and repression.",
+      "authors": "Stephen H. Chamberlain",
+      "year": 1970,
+      "doi": "10.1349/ddlp.3007",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1349/ddlp.3007",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Klotho promoter methylation aging transcriptional repression"
+      ],
+      "paper_id": "10.1349/ddlp.3007",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "q02-h3k27ac-reversibilidad",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q02-h3k27ac-reversibilidad",
+  "goal": "Determinar la magnitud y persistencia de la marca H3K27ac depositada por dCas9-p300, y cuanto dura la activacion transcripcional una vez retirado el editor (reversibilidad y control temporal).",
+  "dashboard": "dCas9-p300 H3K27ac reversibility",
+  "notebook_id": "cc690df9-1e9b-4c72-873c-91e915a72f5d",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, what magnitude of H3K27ac enrichment (relative to baseline) does dCas9-p300 deposit at targeted loci, and by which method (e.g., ChIP-seq, ChIP-qPCR) was it measured?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/answers/2026-07-24 Q01 - according-to-these-sources-what-magnitude.md"
+    },
+    {
+      "id": 2,
+      "theme": "core-evidence",
+      "question": "How far does the H3K27ac deposited by dCas9-p300 spread from the targeted site, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/answers/2026-07-24 Q02 - how-far-does-h3k27ac-deposited-by.md"
+    },
+    {
+      "id": 3,
+      "theme": "reversibility",
+      "question": "According to these sources, once the dCas9-p300 effector is withdrawn or inactivated (e.g., via inducible/degron systems), how long does the induced gene activation persist before returning to baseline?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/answers/2026-07-24 Q03 - according-to-these-sources-once-dcas9.md"
+    },
+    {
+      "id": 4,
+      "theme": "reversibility",
+      "question": "What systems (e.g., drug-inducible, degron, optogenetic) have been used in these sources to achieve temporal control of dCas9-p300 activity, and how precisely can activation be turned on and off?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/answers/2026-07-24 Q04 - what-systems-e-g-drug-inducible.md"
+    },
+    {
+      "id": 5,
+      "theme": "mechanisms",
+      "question": "According to these sources, does the H3K27ac mark itself decay at the same rate as the transcriptional activation once dCas9-p300 is removed, or can epigenetic memory persist after expression returns to baseline?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/answers/2026-07-24 Q05 - according-to-these-sources-does-h3k27ac.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps or limitations remain in these sources regarding quantitative kinetics of H3K27ac persistence and decay after dCas9-p300 withdrawal?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/answers/2026-07-24 Q06 - what-gaps-or-limitations-remain-these.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/summaries/2026-07-24 dCas9-p300 H3K27ac reversibility - NotebookLM block summary.md"
+}

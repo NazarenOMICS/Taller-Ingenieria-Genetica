@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q09-marcadores-senescencia",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q09-marcadores-senescencia",
+    "goal":  "Determinar que marcadores de senescencia y de daño al ADN (SA-beta-galactosidasa, gammaH2AX, p21, p16) son estandar en modelos de envejecimiento de la granulosa, y cual es su lectura esperable ante una reversion parcial.",
+    "notebook_title":  "Senescence markers granulosa (q09)",
+    "dashboard":  "Senescence markers granulosa",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T17:59:02",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q09-marcadores-senescencia",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q09-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\questions-q09-marcadores-senescencia.json",
+    "notebook_id":  "c93512be-32e2-4343-a469-9c294ffc840b",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\tmp-sources-q09-marcadores-senescencia.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q09-marcadores-senescencia\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q09-marcadores-senescencia\" -Goal \"Determinar que marcadores de senescencia y de daño al ADN (SA-beta-galactosidasa, gammaH2AX, p21, p16) son estandar en modelos de envejecimiento de la granulosa, y cual es su lectura esperable ante una reversion parcial.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q09-queries.json\" -NotebookTitle \"Senescence markers granulosa (q09)\" -Dashboard \"Senescence markers granulosa\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"c93512be-32e2-4343-a469-9c294ffc840b\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q09-marcadores-senescencia/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

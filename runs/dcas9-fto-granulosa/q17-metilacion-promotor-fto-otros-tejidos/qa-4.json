@@ -1,0 +1,92 @@
+{
+  "answer": "According to the sources, the experimental approaches used to demonstrate ***FTO* promoter methylation** and its associated **transcriptional silencing** are primarily **clinical population studies** and **environmental modeling** in metabolic contexts. The evidence ranges from strong correlations to mechanistic inferences based on genomic location.\n\n### Experimental Approaches\nThe sources detail several key methodologies used to investigate these epigenetic changes:\n\n*   **Stepwise Genome-Scale Screening:** Researchers have employed **pool-based genome-scale screens** to identify differentially methylated risk loci in blood samples [1]. This is typically followed by **in-depth analysis of top-ranking regions** to isolate specific sites, such as the **first intron** of the *FTO* gene (e.g., site rs1121980), which functions as a distant regulator of transcription [1, 2].\n*   **Longitudinal Cohort Studies:** To determine the timing of these changes, researchers utilized **prospective longitudinal studies** [2, 3]. By following young individuals who were initially healthy but later developed metabolic conditions, they identified that *FTO* hypomethylation was present **prior to disease onset**, suggesting it is a predisposing factor rather than a consequence [2].\n*   **Subgroup Comparative Analysis:** Studies analyzed **peripheral blood leukocytes** from specific analytical subgroups (e.g., patients with T2DM and Metabolic Syndrome vs. healthy controls) to identify significant differences in DNA methylation at specific **CpG loci within the *FTO* promoter** [4, 5].\n*   **Environmental Stimuli Modeling:** Experimental models have been used to observe the effects of lifestyle factors. Specifically, **high-fat diets** and **physical inactivity** were used to induce **hypomethylation** of the *FTO* promoter, which was then linked to the upregulation of its expression [6].\n*   **Genomic Colocalization Analysis:** To establish a functional link, researchers used genomic analyses to show that identified CpG sites (like rs1121980) **colocalize with binding sites** for **methylation-sensitive transcriptional regulators** and enhancers [2].\n\n### Directness of the Evidence\nThe directness of the evidence for *FTO* silencing via methylation is characterized in the sources as follows:\n\n*   **Causal Inference:** The sources explicitly state that **hypermethylation of the *FTO* promoter silences its expression**, while hypomethylation \"markedly upregulates\" it [6, 7]. \n*   **Predisposition vs. Consequence:** The evidence is considered \"direct\" in terms of risk prediction because longitudinal data shows these methylation patterns appear in **young individuals** before they develop clinical symptoms, characterizing them as **early risk markers** rather than secondary effects of disease [2].\n*   **Functional/Mechanistic Directness:** While many findings are based on associations in blood samples, the evidence is bolstered by the identified **colocalization with transcription factor binding sites**, providing a direct biological mechanism for how the methylation status at these specific loci controls gene activity [2]. \n*   **Candidate Gene Approach:** *FTO* has been specifically selected as a **candidate gene** in investigations into the role of epigenetic variations in metabolic risk, further focusing the evidence on its promoter as a primary regulatory node [4].",
+  "conversation_id": "f45677eb-d8fd-4dbb-b31d-28efcacd82a8",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "e8144c6d-41fe-45fa-b95f-dedf7737b3f8",
+      "citation_number": 1,
+      "cited_text": null,
+      "start_char": 74163,
+      "end_char": 74164,
+      "chunk_id": "5f44cc6c-fe8d-4df8-8d5e-d50c59ca097b",
+      "passage_id": null,
+      "answer_start_char": 74163,
+      "answer_end_char": 75130,
+      "score": 0.7882209902563626
+    },
+    {
+      "source_id": "e8144c6d-41fe-45fa-b95f-dedf7737b3f8",
+      "citation_number": 2,
+      "cited_text": "FTO (rs1121980) DNA methylation and BMI as this locus was hypomethylated in obese and non-obese T2DM patients compared with controls, suggesting that the association between FTO (rs1121980) DNA methylation and T2DM may not be mediated through obesity. A follow-up prospective study found a significant hypomethylation of FTO (rs1121980) in young individuals that were later diagnosed with T2DM compared with those who remained T2DM-free. This finding not only confirms the initial finding of FTO (rs1121980) hypomethylation in patients with T2DM but also suggests that this hypomethylation may represent an early T2DM risk factor rather than a consequence of T2DM. Further genomic analyses demonstrated that FTO (rs1121980) colocalises with the binding sites for methylation-sensitive transcriptional regulators and gene enhancers. Taken together, these findings suggest that the T2DM-associated differential methylation of FTO (rs1121980) may function as an early T2DM marker. It also suggests that it may function as a distant regulator of gene expression (transcription). However, whether the gene under regulation is FTO itself or another (neighbouring or distant) gene remains to be determined [103].",
+      "start_char": 75130,
+      "end_char": 76336,
+      "chunk_id": "94d0fd5f-2979-48db-ba23-887ea68873f6",
+      "passage_id": null,
+      "answer_start_char": 75130,
+      "answer_end_char": 76336,
+      "score": 0.8110416587608824
+    },
+    {
+      "source_id": "e8144c6d-41fe-45fa-b95f-dedf7737b3f8",
+      "citation_number": 3,
+      "cited_text": "SLC2A2 Human Pancreatic islets Non-diabetic = 8, T2DM = 6 Hypermethylation [95]",
+      "start_char": 90089,
+      "end_char": 90169,
+      "chunk_id": "845a313c-cac4-4157-b52f-b5f491deb22a",
+      "passage_id": null,
+      "answer_start_char": 90089,
+      "answer_end_char": 90666,
+      "score": 0.7411825042309137
+    },
+    {
+      "source_id": "e8144c6d-41fe-45fa-b95f-dedf7737b3f8",
+      "citation_number": 4,
+      "cited_text": "lation of certain candidate genes and whether differential levels of DNA methylation in the blood could be used as biomarkers for T2DM and/or MetS. The candidate genes were fat mass and obesity-associated (FTO), KCNJ11, potassium voltage-gated channel subfamily Q",
+      "start_char": 49547,
+      "end_char": 49811,
+      "chunk_id": "e72f02ff-6c49-44b5-b364-d26b93e9eba0",
+      "passage_id": null,
+      "answer_start_char": 49547,
+      "answer_end_char": 50740,
+      "score": 0.736499750595284
+    },
+    {
+      "source_id": "e8144c6d-41fe-45fa-b95f-dedf7737b3f8",
+      "citation_number": 5,
+      "cited_text": "PEG3, the study did not detect any significant differential gene-specific DNA methylation between the patients and controls for any of the other candidate genes. How-ever, a trend toward a positive correlation was detected between HDL cholesterol levels, which can be downregulated by p53 and the methylation of the p53 mediator PEG3. When the patients were divided into T2DM and MetS subgroups and single CpG loci were analysed, differential DNA methylation levels between the groups were observed for 4 out of the 42 loci tested. The four CpG loci were found to be located within the promoters of FTO, KCNJ11, PDK4, and PPARG [73]. The authors of this study also found that the CpG",
+      "start_char": 50740,
+      "end_char": 51424,
+      "chunk_id": "929dec6f-6ffc-4aed-9c11-ff9307a5f90c",
+      "passage_id": null,
+      "answer_start_char": 50740,
+      "answer_end_char": 51424,
+      "score": 0.7621680463908609
+    },
+    {
+      "source_id": "4532c491-9e8d-4838-91bf-154d10224296",
+      "citation_number": 6,
+      "cited_text": "in T2DM liver, reducing its mRNA by 40%–60%, upregulating gluconeogenic genes (G6PC, PCK1), and elevating fasting blood glucose.",
+      "start_char": 22027,
+      "end_char": 22156,
+      "chunk_id": "16f123fe-92aa-4f7f-bfbe-49c5088dca3b",
+      "passage_id": null,
+      "answer_start_char": 22027,
+      "answer_end_char": 22937,
+      "score": 0.7526537756864805
+    },
+    {
+      "source_id": "4532c491-9e8d-4838-91bf-154d10224296",
+      "citation_number": 7,
+      "cited_text": "FTO Hypomethylation of the FTO promoter markedly upregulates FTO expression, which modulates the downstream IRX3/IRX5 gene network, impacts energy expenditure and adipocyte differentiation, and increases individual obesity risk.",
+      "start_char": 15890,
+      "end_char": 16119,
+      "chunk_id": "1dba7115-7221-455b-b25a-058e64cdd101",
+      "passage_id": null,
+      "answer_start_char": 15890,
+      "answer_end_char": 16398,
+      "score": 0.7814998741810038
+    }
+  ]
+}

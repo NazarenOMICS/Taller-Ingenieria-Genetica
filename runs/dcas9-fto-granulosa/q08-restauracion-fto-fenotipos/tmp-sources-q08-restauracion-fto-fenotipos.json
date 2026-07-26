@@ -1,0 +1,247 @@
+{
+  "notebook_id": "361a29b3-7eda-4a7a-83e5-bc7b8e4c1524",
+  "notebook_title": "FTO restoration phenotypes (q08)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "627d9f19-8b80-4323-ab8f-0ae8326edbb0",
+      "title": "bodo_2015_milk_an_epigenetic_amplifier_of_fto_mediated_transcription.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:13"
+    },
+    {
+      "index": 2,
+      "id": "5084f8c0-6a03-497a-9f39-8df3e7db9287",
+      "title": "chuan_2023_bone_marrow_mesenchymal_stem_cells_reversed_ovarian_aging.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:14"
+    },
+    {
+      "index": 3,
+      "id": "bc197e68-1265-4f98-9939-916ee9822780",
+      "title": "chunhong_2025_cellular_senescence_from_homeostasis_to_pathological_implications_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:14"
+    },
+    {
+      "index": 4,
+      "id": "b3155f99-7d2a-4d5c-a635-3963d12c8951",
+      "title": "gustavo_2021_reproductive_senescence_impairs_the_energy_metabolism_of_human.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:15"
+    },
+    {
+      "index": 5,
+      "id": "6acfff22-f3bb-4872-b6ad-17bf610bd1bc",
+      "title": "jin_2026_fto_mediated_m6a_demethylation_regulates_pgc_1_dependent.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:18"
+    },
+    {
+      "index": 6,
+      "id": "d511821e-d081-4872-a993-c11e223498fc",
+      "title": "jun_2022_aging_and_aging_related_diseases_from_molecular_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:20"
+    },
+    {
+      "index": 7,
+      "id": "9ff6b866-8cc2-4572-801f-ce8a1f106891",
+      "title": "jun_2024_drug_tolerant_persister_cell_plasticity_in_cancer_a.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:21"
+    },
+    {
+      "index": 8,
+      "id": "c217e1dc-e143-43b1-8ed6-e45044c23909",
+      "title": "kachanov_2025.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T16:38:50"
+    },
+    {
+      "index": 9,
+      "id": "849d09ed-6e74-4251-b4b2-3383ca35df31",
+      "title": "linshuang_2024_fat_mass_and_obesity_associated_protein_regulates_granulosa.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:22"
+    },
+    {
+      "index": 10,
+      "id": "1ffc2618-e0f9-40e9-b657-7b60e4e01679",
+      "title": "michal_2007_partial_reversal_of_transformed_fusiform_phenotype_by_overexpression.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:24"
+    },
+    {
+      "index": 11,
+      "id": "bc95eb8d-3c7a-480a-aaaf-be7b1aacb71f",
+      "title": "quetsia_1970_senescence_and_the_senescence_associated_secretory_phenotype_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:26"
+    },
+    {
+      "index": 12,
+      "id": "614b5d0d-476d-4a20-9d32-2c8f5679b68c",
+      "title": "rongli_2021_overexpression_of_fto_protects_human_granulosa_cells_from.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:27"
+    },
+    {
+      "index": 13,
+      "id": "06a2fc49-f120-493b-a886-c49d3610aab1",
+      "title": "ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:29"
+    },
+    {
+      "index": 14,
+      "id": "abae144a-0f6c-408f-aa4a-dc8d56c2810d",
+      "title": "sheng_2022_fto_stabilizes_mis12_and_counteracts_senescence.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:30"
+    },
+    {
+      "index": 15,
+      "id": "7a431cfa-183e-4f43-a052-29798bd486e5",
+      "title": "tasnim_2014_genome_wide_dna_methylation_analysis_of_human_pancreatic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:33"
+    },
+    {
+      "index": 16,
+      "id": "e5f7dc35-b0bc-42e1-a30d-432e870e83da",
+      "title": "taylor_2019_reprogramming_the_epigenome_with_vitamin_c.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:33"
+    },
+    {
+      "index": 17,
+      "id": "e9d79878-11e7-4921-b94c-f5790187f314",
+      "title": "tian_ping_2022_impact_of_m6a_demethylase_alkbh5_fto_genetic_polymorphism.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:35"
+    },
+    {
+      "index": 18,
+      "id": "361d8f4c-bab4-41bd-9ec1-d3cd940e43e1",
+      "title": "tongyue_2024_an_update_on_chronic_complications_of_diabetes_mellitus.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:37"
+    },
+    {
+      "index": 19,
+      "id": "ae9c7c2b-a763-4a01-bf87-5936480a5cd3",
+      "title": "xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:38"
+    },
+    {
+      "index": 20,
+      "id": "c06c0648-d8cd-4f4d-bbad-0bff36233bc4",
+      "title": "xiaotong_2023_mettl3_mediated_m6a_modification_of_sirt1_mrna_inhibits.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:41"
+    },
+    {
+      "index": 21,
+      "id": "6162da10-76df-4095-9b7c-1cc41eb1be82",
+      "title": "xiaoyao_2024_klotho_derived_peptide_1_inhibits_cellular_senescence_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:42"
+    },
+    {
+      "index": 22,
+      "id": "8657d6e5-0793-42b1-bedb-42e0dcc2639d",
+      "title": "xuetao_2023_rna_m6a_demethylase_alkbh5_drives_emergency_granulopoiesis_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:43"
+    },
+    {
+      "index": 23,
+      "id": "256f6716-0887-4c97-be18-5319cedcfd3f",
+      "title": "yuanyuan_2022_the_role_of_m6a_rna_methylation_in_cancer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:45"
+    },
+    {
+      "index": 24,
+      "id": "f11f61e4-7feb-4173-891a-954a3663eccb",
+      "title": "zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:41:48"
+    }
+  ],
+  "count": 24
+}

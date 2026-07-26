@@ -1,0 +1,97 @@
+{
+  "notebook_id": "c93512be-32e2-4343-a469-9c294ffc840b",
+  "notebook_title": "Senescence markers granulosa (q09)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "8528fc02-df88-4a18-af0c-83a91295f160",
+      "title": "dimitra_2015_aberrant_dna_damage_response_pathways_may_predict_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:34"
+    },
+    {
+      "index": 2,
+      "id": "0f6aa423-d025-4084-80c9-0d53e1d88b17",
+      "title": "emanuela_2017_overactive_type_2_cannabinoid_receptor_induces_meiosis_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:35"
+    },
+    {
+      "index": 3,
+      "id": "74a5543c-7bfe-4541-9b0c-31a906a413ef",
+      "title": "in_s_2024_nlrp1_inflammasome_promotes_senescence_and_senescence_associated_secretory.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:35"
+    },
+    {
+      "index": 4,
+      "id": "e519b55e-663d-4805-b779-559572ff0104",
+      "title": "jae_2023_radiation_induced_senescence_therapeutic_opportunities.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:36"
+    },
+    {
+      "index": 5,
+      "id": "136047d3-f2e9-4cbc-bb58-247bdc301f95",
+      "title": "manabu_2014_melatonin_protects_the_integrity_of_granulosa_cells_by.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:41"
+    },
+    {
+      "index": 6,
+      "id": "6d52aa69-7ddb-4cb4-a14d-5b6cac7c2d12",
+      "title": "quetsia_1970_senescence_and_the_senescence_associated_secretory_phenotype_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:39"
+    },
+    {
+      "index": 7,
+      "id": "141d6b84-96a2-4fc9-868f-44585b32b06b",
+      "title": "raquel_2020_suppression_of_p16_alleviates_the_senescence_associated_secretory.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:40"
+    },
+    {
+      "index": 8,
+      "id": "b7f6d32b-8588-4df6-8238-8d71c620f933",
+      "title": "xia_2017_mir_22_suppresses_tumorigenesis_and_improves_radiosensitivity_of.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:42"
+    },
+    {
+      "index": 9,
+      "id": "4cf5f702-b90d-4e7c-848b-e104f7cbd8e2",
+      "title": "xia_2023_inflammation_and_aging_signaling_pathways_and_intervention_therapies.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:52:46"
+    }
+  ],
+  "count": 9
+}

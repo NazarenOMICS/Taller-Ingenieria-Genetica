@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q10-sistemas-entrega",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q10-sistemas-entrega",
+    "goal":  "Determinar que sistemas de entrega (transfeccion transitoria, lentivirus, nanoparticulas, ARN mensajero o ribonucleoproteina) son viables y menos perturbadores para dCas9-p300 en KGN, COV434 y granulosa primaria.",
+    "notebook_title":  "dCas9-p300 delivery systems (q10)",
+    "dashboard":  "dCas9-p300 delivery systems",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T18:09:23",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q10-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\questions-q10-sistemas-entrega.json",
+    "notebook_id":  "c260e72e-2999-41de-a676-fa883c7298a5",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\tmp-sources-q10-sistemas-entrega.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q10-sistemas-entrega\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q10-sistemas-entrega\" -Goal \"Determinar que sistemas de entrega (transfeccion transitoria, lentivirus, nanoparticulas, ARN mensajero o ribonucleoproteina) son viables y menos perturbadores para dCas9-p300 en KGN, COV434 y granulosa primaria.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q10-queries.json\" -NotebookTitle \"dCas9-p300 delivery systems (q10)\" -Dashboard \"dCas9-p300 delivery systems\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"c260e72e-2999-41de-a676-fa883c7298a5\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

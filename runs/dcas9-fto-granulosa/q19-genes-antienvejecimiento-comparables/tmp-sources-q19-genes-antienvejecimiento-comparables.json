@@ -1,0 +1,257 @@
+{
+  "notebook_id": "d2eb1950-e358-4754-92e9-5768e8c28354",
+  "notebook_title": "Comparable anti-aging promoter silencing (q19)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "a1696c5a-a05f-410e-86a0-92e62c0c28d3",
+      "title": "alameen_2026_sirt1_activators_as_geroprotective_agents_in_brain_aging.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:26"
+    },
+    {
+      "index": 2,
+      "id": "184d019b-ade2-4771-8ac2-873af6c73854",
+      "title": "ambrosini_2024_transcending_frontiers_in_prostate_cancer_the_role_of.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:27"
+    },
+    {
+      "index": 3,
+      "id": "202bb4e4-5b36-47d5-b47f-f681bf778eb5",
+      "title": "amr_2024_insulin_sensitizers_as_anti_aging_agents_unveiling_synergies.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:28"
+    },
+    {
+      "index": 4,
+      "id": "ddec27c4-aceb-4b9a-8cdd-511c8a17a25e",
+      "title": "amrita_2018_age_related_declines_in_klotho_drive_progenitor_cell.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:28"
+    },
+    {
+      "index": 5,
+      "id": "44e79835-5eec-4adb-ba04-04e53ae0ae2c",
+      "title": "carollo_2026_nature_s_bioactives_in_cardiorenal_syndrome_polyphenols_at.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:31"
+    },
+    {
+      "index": 6,
+      "id": "2af9b059-54ee-40a9-be37-8e746a1ccba4",
+      "title": "dao_fu_2025_regulation_of_stem_cell_aging_and_cellular_proliferation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:32"
+    },
+    {
+      "index": 7,
+      "id": "00b56d58-88fa-4f31-a109-d467f6b16e5f",
+      "title": "de_2026_sirtuin_1_as_an_emerging_exerkine_in_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:33"
+    },
+    {
+      "index": 8,
+      "id": "40b88ab8-f286-435a-8fbc-0811a56b476c",
+      "title": "di_2018_the_role_of_klotho_in_chronic_kidney_disease.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:34"
+    },
+    {
+      "index": 9,
+      "id": "39a0d188-fcab-4127-9773-a2cb3b9cf456",
+      "title": "g_rald_2022_pathobiology_of_the_klotho_antiaging_protein_and_therapeutic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:36"
+    },
+    {
+      "index": 10,
+      "id": "0965faf8-cca0-4052-ab37-14ef1d86be3b",
+      "title": "j_s_2014_ligand_activated_peroxisome_proliferator_activated_receptor_and_inhibit.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:42"
+    },
+    {
+      "index": 11,
+      "id": "1dafd1fa-991b-4e25-b8f0-1c12a25786cb",
+      "title": "jaehyouk_2010_the_anti_aging_gene_klotho_is_a_novel.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:38"
+    },
+    {
+      "index": 12,
+      "id": "8c7e41f6-c5ce-4cb2-b093-48d987d5da07",
+      "title": "james_2016_histone_modifications_and_cancer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:38"
+    },
+    {
+      "index": 13,
+      "id": "6fc5d5fc-d167-41d9-8cf7-f893bbbabfb4",
+      "title": "jun_2022_aging_and_aging_related_diseases_from_molecular_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:38"
+    },
+    {
+      "index": 14,
+      "id": "4e9bdbf3-19b5-4599-8d46-a39b7a0d6e92",
+      "title": "ladisa_2026_a_new_complexity_layer_dna_methylation_and_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:44"
+    },
+    {
+      "index": 15,
+      "id": "9cf29e1a-9104-4f25-a31e-7277639a805d",
+      "title": "liang_2026_chromatin_remodeling_and_epigenetic_regulation_in_chronic_kidney.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:44"
+    },
+    {
+      "index": 16,
+      "id": "c09a25df-0eec-4b2e-b84c-7aef57b88550",
+      "title": "marius_2019_sirt1_in_the_development_and_treatment_of_hepatocellular.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:44"
+    },
+    {
+      "index": 17,
+      "id": "8bf06596-5df9-4772-8ec5-9acc6a2ab859",
+      "title": "misawa_2026_integrative_approaches_to_treating_cellular_senescence_in_kidney.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:47"
+    },
+    {
+      "index": 18,
+      "id": "48aac0f2-2803-4d16-818a-a60eb2b2a7ac",
+      "title": "palayakotai_2023_metadichol_an_agonist_that_expresses_anti_aging_gene.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:49"
+    },
+    {
+      "index": 19,
+      "id": "8f519b8e-24a9-4f3c-83f4-993a84b640af",
+      "title": "pavi_2026_overview_of_the_zinc_functional_interactome_through_health.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:49"
+    },
+    {
+      "index": 20,
+      "id": "62be4c18-927d-4b25-9281-04cf7de16771",
+      "title": "stephen_2016_epigenetic_determinants_of_cancer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:50"
+    },
+    {
+      "index": 21,
+      "id": "ea679e9b-22f8-40a0-a64a-5189009dada2",
+      "title": "wei_2025_atrial_myocyte_senescence_as_a_driver_of_atrial.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:53"
+    },
+    {
+      "index": 22,
+      "id": "9a6d627e-1071-4752-8f60-30d2ec5f8881",
+      "title": "wu_2022_the_sirtuin_family_in_health_and_disease.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "processing",
+      "status_id": 1,
+      "created_at": "2026-07-24T18:13:53"
+    },
+    {
+      "index": 23,
+      "id": "16f5ec59-d7fd-46e8-bc89-c73c667f2e0e",
+      "title": "yang_2022_the_role_of_protein_acetylation_in_carcinogenesis_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:55"
+    },
+    {
+      "index": 24,
+      "id": "f73dd82c-5ee0-4d5b-87b5-1163a88dfd3c",
+      "title": "yunshu_2022_regulation_of_sirt1_and_its_roles_in_inflammation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:55"
+    },
+    {
+      "index": 25,
+      "id": "f939d318-3297-4088-8889-bea48a3fee68",
+      "title": "zhao_2023_role_of_primary_aging_hallmarks_in_alzheimer_s.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:13:59"
+    }
+  ],
+  "count": 25
+}

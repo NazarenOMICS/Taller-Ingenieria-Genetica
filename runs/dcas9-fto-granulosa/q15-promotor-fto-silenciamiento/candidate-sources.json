@@ -1,0 +1,1583 @@
+{
+  "slug": "q15-promotor-fto-silenciamiento",
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "Emerging roles of RNA N5-methylcytosine modification in reproductive physiology and gynecological diseases.",
+      "authors": "Lv F; Jin Y; Yu S; Yang X; Xia S; Ye X; Zhao Q; Hu Y; Zheng A; Wu Y; Tong J",
+      "year": 2026,
+      "doi": "10.1080/15592294.2026.2629068",
+      "pmid": "41778387",
+      "pmcid": "PMC12962712",
+      "abstract": "The epitranscriptome, comprising post-transcriptional RNA modifications, has emerged as a pivotal regulator of gene expression in the female reproductive system. Among these modifications, 5-methylcytosine (m5C) stands out as a widespread and highly conserved mark whose roles in female reproductive health and disease are increasingly recognized but have not yet been systematically summarized. This review aims to synthesize current knowledge on the functions and regulatory mechanisms of m5C in female reproductive physiology and associated pathologies. We begin with a foundational overview of m5C, detailing its definition, biological functions, and the dynamic regulatory network of 'writers,' 'readers,' and 'erasers.' We then examine the critical roles of m5C in key physiological processes, including oogenesis and early embryonic development. Furthermore, we provide an in-depth analysis of the mechanistic involvement and clinical implications of m5C dysregulation in various gynecological diseases. By consolidating recent advances, this review seeks to establish a comprehensive framework for understanding m5C in the female reproductive system and to offer a valuable reference and theoretical basis for future research and therapeutic exploration.",
+      "url": "https://europepmc.org/articles/PMC12962712",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/cf/20/KEPI_21_2629068.PMC12962712.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/cf/20/PMC12962712.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "PMID:41778387",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+      "authors": "Zhang Y; Yang Y; Liao Q; Chen X; Wang K; Zhang R; Li J; Liu H",
+      "year": 2026,
+      "doi": "10.1186/s13072-026-00664-3",
+      "pmid": "42050634",
+      "pmcid": "PMC13274177",
+      "abstract": "Ovarian aging leads to the progressive loss of reproductive and endocrine functions. As an upstream regulatory hub, epigenetic modifications synergistically impair these two functions through multi-dimensional mechanisms, collectively contributing to the occurrence of clinical phenotypes. Current therapies (e.g., hormone replacement therapy) are difficult to reverse functional decline and carry long-term risks. This review systematically elaborates on the core roles of three major epigenetic mechanisms in ovarian aging: DNA methylation (mediated by DNMTs/TET), histone modification (dynamic balance of HATs/HDACs), and non-coding RNA (miRNA/lncRNA/circRNA network). Dysregulation of DNA methylation reprogramming drives the imbalance between dormancy and activation of primordial follicles and impairs steroidogenesis. Dysregulated histone modification induces spindle assembly defects, meiotic arrest, and a vicious cycle of apoptosis and autophagy in granulosa cells. ncRNAs regulate oocyte maturation through the ceRNA mechanism and epitranscriptomic reprogramming (e.g., m6A). These mechanisms synergistically accelerate ovarian aging through multiple pathways, including interfering with the HPG axis, aggravating oxidative stress-mitochondrial dysfunction, and disrupting apoptosis/autophagy homeostasis. Although epigenetic interventions still face potential transgenerational genetic safety risks, against the backdrop of high incidence and global population aging, the development of novel therapies that specifically target somatic cells or can avoid such risks has become an urgent need. In the future, targeting key epigenetic nodes is still expected to open up new avenues for extending female reproductive lifespan and alleviating long-term health risks associated with ovarian aging.",
+      "url": "https://europepmc.org/articles/PMC13274177",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/77/3d/13072_2026_Article_664.PMC13274177.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/77/3d/PMC13274177.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging",
+        "FTO promoter oxidative stress granulosa transcription repression",
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "PMID:42050634",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epitranscriptomic modifications in embryonic development: insights into natural and ART-induced mechanisms and implications.",
+      "authors": "Volsa AM; Hoffmann ER; Ross PJ; Canovas S",
+      "year": 2026,
+      "doi": "10.1093/humupd/dmaf032",
+      "pmid": "41445111",
+      "pmcid": "PMC13017785",
+      "abstract": "<h4>Background</h4>Mammalian embryo development involves a complex process governed by multiple layers of cellular and molecular regulation mechanisms. ART is widely used around the world to assist fertility in humans, with ∼12 million babies being born by ART in the last 40 years. These technologies are also used extensively for reproductive purposes in other mammalian species that have many analogies with human reproductive biology. Epitranscriptomic marks, including RNA modifications such as N6-methyladenosine (m6A) and N1-methyladenosine (m1A), modulate gene expression during gametogenesis and embryo development, and their dynamics are regulated by genes encoding m6A writers (METTL3, METTL14, and WTAP), readers (YTHDF2, YTHDC1-2, and PRRC2A), and erasers (ALKBH5 and FTO). However, the impact of ART on these epigenetic modifications remains poorly understood.<h4>Objective and rationale</h4>This narrative review explores the role of epitranscriptomic modifications in both naturally and ART-conceived embryos. It examines how RNA modifications regulate gametogenesis and early embryonic development and how ART-induced cellular stress might perturb these regulatory layers, potentially affecting gametogenesis, embryo competence, and offspring health. Understanding the interaction between ART and epitranscriptomic regulation is crucial for optimizing ART procedures and safeguarding offspring health.<h4>Search methods</h4>The PubMed and Scopus literature databases were utilized to search for peer-reviewed articles and reviews using terms such as 'epitranscriptomic', 'RNA modification', 'gametogenesis', 'embryo development', 'mammalian development', 'in vitro fertilization', 'ART', and 'assisted reproductive technologies' in combination or individually. All relevant publications until the current year have been critically evaluated and discussed.<h4>Outcomes</h4>Epitranscriptomic modifications, particularly m6A, have emerged as key regulators of RNA metabolism during gametogenesis and early embryo development. Evidence from both human and animal studies indicates that ART-related stressors, such as oxidative imbalance, hormonal stimulation, and cryopreservation, can disturb RNA methylation at the epitranscriptomic marks m1A and 5-methylcytosine by modulating the expression and activity of m6A writers, erasers, and readers, independently of global transcriptional changes. These alterations can affect embryo competence, placental function, lineage specification, and subsequent offspring development. Moreover, m6A-associated factors participate in stress adaptation and developmental signalling beyond their canonical methylation activity. Collectively, these findings underscore the remarkable sensitivity of the embryonic transcriptome to in vitro manipulation and highlight epitranscriptomic marks as both predictive biomarkers and mechanistic targets for improving the safety, efficacy, and long-term outcomes of assisted reproduction.<h4>Wider implications</h4>Understanding how ARTs influence the epitranscriptome and its downstream effects is crucial for improving reproductive outcomes. In vitro manipulation, fertilization, and embryo culture can influence RNA regulation in gametes, causing reduced cell differentiation, and, in early embryos, contributing to recurrent implantation failure, decidualization failure, and pregnancy loss. This review aims to share with the scientific community insights into the critical role of epitranscriptomic modifications during gametogenesis and embryogenesis, as well as the potential consequences of in vitro procedures, to guide safer and more effective ART practices.<h4>Registration number</h4>N/A.",
+      "url": "https://europepmc.org/articles/PMC13017785",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/4e/ea/dmaf032.PMC13017785.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4e/ea/PMC13017785.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression",
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "PMID:41445111",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "LINE-1 retrotransposons: Multifaceted functions and regulatory mechanisms in health and disease.",
+      "authors": "Liu X; Zhong C; Wang S; Huang Q; Li Z",
+      "year": 2026,
+      "doi": "10.1016/j.omtn.2026.102934",
+      "pmid": "42100560",
+      "pmcid": "PMC13147398",
+      "abstract": "Long interspersed nuclear element-1 (LINE-1), a prominent class of retrotransposons, is abundantly distributed throughout mammalian genomes and plays critical roles in development, aging, and disease. In this review, we provide a comprehensive overview of the multifaceted functions of LINE-1, with a focus on its regulatory impact on gene transcription and cellular responses across the DNA, RNA, and protein levels. We highlight recent advances in understanding the transcriptional and epigenetic mechanisms controlling LINE-1 transcription. Furthermore, we explore the current challenges and future opportunities in LINE-1 research, emphasizing its potential as a novel therapeutic target. Continued investigation into LINE-1 biology holds promise for deepening our understanding of human health and disease.",
+      "url": "https://europepmc.org/articles/PMC13147398",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8d/ed/main.PMC13147398.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8d/ed/PMC13147398.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "PMID:42100560",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #1 (Public review): The CLAMP GA-binding transcription factor regulates heat stress-induced transcriptional repression",
+      "authors": "",
+      "year": 2026,
+      "doi": "10.7554/elife.110960.1.sa2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.110960.1.sa2",
+      "pdf_url": "https://doi.org/10.7554/elife.110960.1.sa2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "10.7554/elife.110960.1.sa2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #2 (Public review): The CLAMP GA-binding transcription factor regulates heat stress-induced transcriptional repression",
+      "authors": "",
+      "year": 2026,
+      "doi": "10.7554/elife.110960.1.sa1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.110960.1.sa1",
+      "pdf_url": "https://doi.org/10.7554/elife.110960.1.sa1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "10.7554/elife.110960.1.sa1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #3 (Public review): The CLAMP GA-binding transcription factor regulates heat stress-induced transcriptional repression",
+      "authors": "",
+      "year": 2026,
+      "doi": "10.7554/elife.110960.1.sa0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.110960.1.sa0",
+      "pdf_url": "https://doi.org/10.7554/elife.110960.1.sa0",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "10.7554/elife.110960.1.sa0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of N&lt;sup&gt;6&lt;/sup&gt;-Methyladenosine Modification in Health and Disease.",
+      "authors": "Li L; Sun Y; Zheng W; Li L; Feng Y; Qi M; Li H",
+      "year": 2026,
+      "doi": "10.1002/mco2.70767",
+      "pmid": "42164653",
+      "pmcid": "PMC13183813",
+      "abstract": "Emerging evidence highlights that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most prevalent internal RNA modification in eukaryotes, serves as a critical epitranscriptomic regulator of RNA metabolism. This posttranscriptional modification modulates alternative splicing, nuclear export, stability, and translation, thereby regulating various physiological processes. Notably, dysregulation of m<sup>6</sup>A-associated modifiers (writers/erasers/readers) is implicated in a variety of diseases, such as metabolic disorders and cancer. Despite the rapid progress of m<sup>6</sup>A-mediated emerging therapeutic strategies, there remains an imperative to bridge the gap between basic epitranscriptomics and clinical application. This review systematically depicts recent advances in understanding m<sup>6</sup>A-mediated epitranscriptomic regulation, with particular focus on its dual role in maintaining cellular homeostasis and driving disease progression upon dysregulation, provides a dedicated exploration of m<sup>6</sup>A-regulated mitochondrial remodeling, and outlines cutting-edge technologies for m<sup>6</sup>A mapping and inhibitors targeting m<sup>6</sup>A modifiers. Furthermore, we conduct an in-depth exploration of the existing limitations and therapeutic potential associated with targeting m<sup>6</sup>A modification. Acting as a pivotal link between epitranscriptomics and medicine, m<sup>6</sup>A modification provides novel perspectives for developing precision interventions in complex human diseases.",
+      "url": "https://europepmc.org/articles/PMC13183813",
+      "pdf_url": "https://europepmc.org/articles/PMC13183813?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/04/PMC13183813.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "PMID:42164653",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+      "authors": "Kuai Y; Yi Y; Li X; Wang Z; Zheng Y; Li Y; Li Y",
+      "year": 2026,
+      "doi": "10.3390/biom16040571",
+      "pmid": "42072692",
+      "pmcid": "PMC13113650",
+      "abstract": "<b>Background/Objective:</b> RNA modifications, including N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), 5-methylcytosine (m<sup>5</sup>C), 7-methylguanosine (m<sup>7</sup>G), N<sup>1</sup>-methyladenosine (m<sup>1</sup>A), pseudouridine (Ψ), N<sup>4</sup>-acetylcytidine (ac<sup>4</sup>C), 5-methoxycarbonylmethyl-2-thiouridine (mcm<sup>5</sup>s<sup>2</sup>U) and adenosine-to-inosine (A-to-I) editing, constitute a critical layer of post-transcriptional regulation that influences RNA stability, splicing, translation and degradation. This review aims to systematically summarise the current understanding of the molecular mechanisms and regulatory networks of RNA modifications in the female reproductive physiology and to evaluate their pathological implications in obstetric and gynaecologic disorders. <b>Methods:</b> We conducted a comprehensive literature review, synthesising findings from high-throughput sequencing studies, functional experiments and clinical investigations. The review integrates evidence across multiple RNA modification types, their regulatory enzymes (writers, erasers and readers) and their roles in physiological processes (germ cell development, oocyte maturation, embryogenesis and endometrial function) and pathological conditions (gynaecologic cancers, preeclampsia, endometriosis, polycystic ovary syndrome and premature ovarian insufficiency). <b>Results:</b> RNA modifications function as dynamic and reversible regulators that orchestrate key reproductive events, including primordial germ cell differentiation, oocyte meiosis, the maternal-to-zygotic transition, the establishment of uterine receptivity, and placental development. These modifications operate through coordinated writer-eraser-reader networks that fine tune transcripts' stability, translation efficiency and RNA decay. The dysregulation of these epitranscriptomic networks is strongly implicated in the pathogenesis of gynaecologic malignancies (cervical, ovarian, endometrial cancers and choriocarcinoma), pregnancy-related disorders (preeclampsia, gestational diabetes mellitus and recurrent miscarriage), reproductive endocrine disorders (polycystic ovary syndrome and premature ovarian insufficiency) and benign gynaecological conditions (endometriosis and adenomyosis). Emerging evidence also reveals complex crosstalk among RNA modifications, such as cooperative interactions between m<sup>6</sup>A and m<sup>5</sup>C in translation regulation and antagonistic relationships between m<sup>6</sup>A and A-to-I editing. <b>Conclusions:</b> RNA modifications represent an essential and multifaceted regulatory layer in female reproduction, with broad implications for disease pathogenesis. Their unique reversibility and context-dependent functions offer promising opportunities for the development of diagnostic biomarkers and targeted therapeutic interventions. Future researchers should prioritise integrated multi-omics approaches, enhanced human-relevant models and clinical translation to fully realise the potential of epitranscriptomic medicine in reproductive health.",
+      "url": "https://europepmc.org/articles/PMC13113650",
+      "pdf_url": "https://europepmc.org/articles/PMC13113650?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/23/PMC13113650.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\kuai_2026_unravelling_multilayered_rna_modification_networks_in_female_reproduction.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "PMID:42072692",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Effects of Liraglutide on Leptin Promoter Methylation in Ovarian Granulosa Cells of Obese Polycystic Ovary Syndrome Patients",
+      "authors": "Lina Su; Xiaoxia Hao; Wenhong Lu",
+      "year": 2025,
+      "doi": "10.1620/tjem.2025.j009",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1620/tjem.2025.j009",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/tjem/266/3/266_2025.J009/_pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\lina_2025_effects_of_liraglutide_on_leptin_promoter_methylation_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "10.1620/tjem.2025.j009",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic impact of endocrine-disrupting chemicals on atherosclerosis",
+      "authors": "Ting‐An Lin; Changcheng Zhou",
+      "year": 2025,
+      "doi": "10.1042/ebc20253022",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Atherosclerotic cardiovascular disease (CVD) is the leading cause of mortality and morbidity worldwide. Recent studies have implicated a novel link between exposures to endocrine-disrupting chemicals (EDCs) and CVD. EDCs are a group of persistent compounds that can interfere with the body's natural hormonal processes, posing significant risks to both environment and human health. However, the impact and underlying mechanisms of EDC exposures on atherosclerosis are poorly understood, making it difficult to conduct rational exposure assessments. EDCs can affect CVD risk through multiple mechanisms, and epigenetic mechanisms are key mechanisms for environmental factor-elicited chronic diseases. Further, EDC-elicited epigenetic alterations may not only affect atherosclerosis development in exposed individuals but also lead to increased CVD risk in their descendants. In this review, we mainly focus on the current understanding of EDC-mediated epigenetic regulation and epigenetic inheritance of CVD. In addition, EDC-carrying microplastics and nanoplastics have emerged as significant environmental pollutants, and humans are ubiquitously exposed to these particles. We also discuss the potential impact of co-exposures of EDCs and small plastic particles on atherosclerosis and CVD.",
+      "url": "https://doi.org/10.1042/ebc20253022",
+      "pdf_url": "https://portlandpress.com/essaysbiochem/article-pdf/doi/10.1042/EBC20253022/976949/ebc-2025-3022.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "W4413638277",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "HNRNPA2B1-mediated m6A modification enhances lncRNA NORHA stability to control granulosa cell functions.",
+      "authors": "Zhou CX; Wang SQ; Zhang JY; Du X; Li QF",
+      "year": 2025,
+      "doi": "10.24272/j.issn.2095-8137.2024.378",
+      "pmid": "40407136",
+      "pmcid": "PMC12361897",
+      "abstract": "NORHA, a long non-coding RNA (lncRNA), serves as a key inducer of follicular atresia in sows by triggering granulosa cells (GCs) apoptosis. However, its regulation by N6-methyladenosine (m6A)-the most abundant RNA modification-remains unresolved. This study identified NORHA as a functional target of the m6A reader HNRNPA2B1 in sow GCs (sGCs). Transcriptome-wide mapping of RNA modification sites revealed extensive m6A enrichment on NORHA, with HNRNPA2B1 binding directly to the transcript and enhancing its stability via modification of multiple m6A sites, including A261, A441, and A919. HNRNPA2B1 suppressed 17β-estradiol (E2) biosynthesis and promoted sGC apoptosis by activating the NORHA-FoxO1 axis. FoxO1 subsequently repressed expression of cytochrome P450 family 19 subfamily A member 1 (CYP19A1), which encodes the enzyme essential for E2 biosynthesis. Additionally, HNRNPA2B1 functioned as a critical mediator of METTL3-dependent m6A modification, modulating NORHA expression and activity in sGCs. This study highlights an important m6A-dependent regulatory mechanism governing NORHA expression in sGCs.",
+      "url": "https://europepmc.org/articles/PMC12361897",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/dd/42/zr-46-3-722.PMC12361897.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/dd/42/PMC12361897.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "PMID:40407136",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Implications of gut microbiota-mediated epigenetic modifications in intestinal diseases",
+      "authors": "Qihong Zhang; Yun Liu; Yuheng Li; Guangdong Bai; Jiaman Pang; Miaomiao Wu; Jiawei Li; Xuan Zhao; Yaoyao Xia",
+      "year": 2025,
+      "doi": "10.1080/19490976.2025.2508426",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Intestinal diseases are highly prevalent, affecting millions worldwide and significantly contributing to global morbidity. The treatment of complex disorders, such as inflammatory bowel disease (IBD) and colorectal cancer (CRC), remains challenging due to multifactorial etiologies, diverse patient responses, and the limitations of current therapeutic strategies. Although the gut microbiota clearly plays a role in regulating the onset of intestinal diseases, few studies have explored the epigenetic factors by which the microbiota contributes to disease development. Here, the latest insights into the molecular mechanisms underlying the bidirectional influence between gut microbiota and epigenetic modifications are discussed, including DNA methylation, histone modifications, non-coding RNAs, and N6-methyladenosine (m6A). Importantly, mechanistic studies based on animal models or human cells have demonstrated that the gut microbiota, and other environmental factors, influence targeted gene expression and activate immune pathways through host epigenetic dysregulation, which are closely associated with the development of IBD and CRC. Furthermore, potential microbiome interventions, including probiotics, prebiotics and postbiotics, fecal microbiota transplantation (FMT), dietary modifications, and phage therapy, have been proposed as innovative therapeutic strategies to correct these abnormal epigenetic patterns associated with the diseases. Overall, addressing microbiome dysbiosis and its epigenetic consequences presents a promising frontier in the treatment of intestinal diseases, offering the potential to not only restore microbial balance but also provide more targeted and personalized therapeutic strategies for better patient outcomes.",
+      "url": "https://doi.org/10.1080/19490976.2025.2508426",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19490976.2025.2508426?needAccess=true",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "W4411025997",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Interplay of Oxidative Stress, Autophagy, and Rubicon in Ovarian Follicle Dynamics: Orchestrating Ovarian Aging.",
+      "authors": "Yamada K; Ito M; Nunomura H; Nishigori T; Furuta A; Yoshida M; Yamaki A; Shozu K; Yasuda I; Tsuda S; Shima T; Nakashima A",
+      "year": 2025,
+      "doi": "10.3390/antiox14080919",
+      "pmid": "40867818",
+      "pmcid": "PMC12383119",
+      "abstract": "Organ functions generally decline with age, but the ovary is a prototypical organ that undergoes functional loss over time. Autophagy plays a crucial role in maintaining organ homeostasis, and age-related upregulation of the autophagy inhibitor protein, Rubicon, has been linked to cellular and tissue dysfunction. This review describes how granulosa cell autophagy supports follicular growth and oocyte selection and maturation by regulating cellular energy metabolism and protein quality control. We then introduce the role of selective autophagy, including mitophagy or lipophagy, in steroidogenesis and cellular remodeling during luteinization. In aged ovaries, Rubicon accumulation suppresses autophagic flux, leading to diminished oxidative-stress resilience and enhanced DNA damage. Moreover, impaired autophagy drives the accumulation of ATP citrate lyase, which correlates with poor oocyte quality and reduced ovarian reserve. Following fertilization, oocytes further upregulate autophagy to provide the energy required for blastocyst transition. Conversely, in infertility-related disorders, such as premature ovarian insufficiency, endometriosis, and polycystic ovary syndrome, either deficient or excessive autophagy contributes to disease pathogenesis. Both autophagy inhibitors (e.g., Rubicon) and activators (e.g., Beclin1) could be emerging as promising biomarkers for assessing ovarian autophagy status. Therapeutically, Rubicon inhibition by trehalose in aged ovaries and autophagy suppression by agents such as hydroxychloroquine in polycystic ovary syndrome and endometriosis hold potential. Establishing robust methods to evaluate ovarian autophagy will be essential for translating these insights into targeted treatments.",
+      "url": "https://europepmc.org/articles/PMC12383119",
+      "pdf_url": "https://europepmc.org/articles/PMC12383119?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/55/dc/PMC12383119.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\yamada_2025_interplay_of_oxidative_stress_autophagy_and_rubicon_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression",
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "PMID:40867818",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanism of crosstalk between DNA methylation and histone acetylation and related advances in diagnosis and treatment of premature ovarian failure.",
+      "authors": "Li J; Liao Q; Guo Y; Zhang J; Zhang R; Liu Q; Liu H",
+      "year": 2025,
+      "doi": "10.1080/15592294.2025.2528563",
+      "pmid": "40620015",
+      "pmcid": "PMC12239803",
+      "abstract": "Premature ovarian failure (POF) affects 1-3.5% of women under 40 years of age, characterized by irreversible depletion of the follicular pool and decline in oocyte quality, with its pathogenesis remaining incompletely understood. Current mainstream therapies, such as hormone replacement therapy, only alleviate symptoms, fail to reverse the underlying functional decline, and carry long-term risks, necessitating the exploration of novel strategies targeting the etiology. This review systematically dissects the central role of epigenetic regulation in POF. First, DNA methylation governs female reproductive lifespan by reprogramming the dormant-activation balance of primordial follicles and maintaining epigenetic memory in oocytes. Second, histone modification homeostasis determines ovarian endocrine function by influencing granulosa cell senescence and steroid hormone synthesis. Additionally, non-coding RNAs form regulatory hubs by constructing competing endogenous RNA networks that integrate oxidative stress and developmental signaling pathways. These mechanisms provide new insights into the pathological basis of POF, identify potential biomarkers, and offer a theoretical framework for deciphering targeted intervention strategies and developing precision epigenetic therapies to delay POF progression.",
+      "url": "https://europepmc.org/articles/PMC12239803",
+      "pdf_url": "https://europepmc.org/articles/PMC12239803?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f4/aa/PMC12239803.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\li_2025_mechanism_of_crosstalk_between_dna_methylation_and_histone.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging",
+        "FTO promoter oxidative stress granulosa transcription repression",
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "PMID:40620015",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oxidative stress response protein delays ovarian aging by promoting stress granule clearance",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1038/s43587-025-00960-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s43587-025-00960-9",
+      "pdf_url": "https://www.nature.com/articles/s43587-025-00960-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "10.1038/s43587-025-00960-9",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Smcle25 Coordinates Stress Resistance and Leaf Senescence Inhibition Via Transcriptional Repression of Rboh-Mediated Oxidative Burst",
+      "authors": "Wei Zhao; Yuna Sun; Jingjing Li; Yangli Tian; Junwei Wei; Yinshuai Tian",
+      "year": 2025,
+      "doi": "10.2139/ssrn.5266931",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2139/ssrn.5266931",
+      "pdf_url": "https://doi.org/10.2139/ssrn.5266931",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "10.2139/ssrn.5266931",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts from the 56th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+      "authors": "",
+      "year": 2024,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC10772074",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10772074/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10772074/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "PMC10772074",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+      "authors": "",
+      "year": 2024,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC11627200",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11627200/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11627200/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "PMC11627200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Effects of Liraglutide on Leptin Promoter Methylation in Ovarian Granulosa Cells of Patients with Polycystic Ovary Syndrome and Obesity",
+      "authors": "Hongli Zhao; Yanying Guo",
+      "year": 2024,
+      "doi": "10.1159/000539039",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>&lt;b&gt;&lt;i&gt;Objective:&lt;/i&gt;&lt;/b&gt; The aim of the study was to explore the impacts of liraglutide on leptin (LEP) promoter methylation in ovarian granulosa cells of patients with polycystic ovary syndrome and obesity. &lt;b&gt;&lt;i&gt;Methods:&lt;/i&gt;&lt;/b&gt; A total of 30 patients with polycystic ovary syndrome and obesity were retrospectively analyzed. According to the method of random grouping, the patients were divided into an observation group and a control group. The control group received metformin, and the observation group received a subcutaneous injection of liraglutide. The therapeutic effects of patients in the two groups were compared. &lt;b&gt;&lt;i&gt;Results:&lt;/i&gt;&lt;/b&gt; After therapy, the levels of glucose metabolism, lipid metabolism-related indicators, body mass index, LEP, and visfatin of patients were less than those before therapy, and the levels in the observation group were less than the control group (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). After therapy, the FSH, E2 and LH levels of patients in the two groups were less than those before therapy, and those in the observation one were less than the control group (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). After therapy, the LEP promoter methylation in luteinized granulosa cells in the observation group was less than the control group (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). The menstrual cycle establishment ratio, normal ovulation rate, and natural pregnancy ratio of the observation group were greater than the control group (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). &lt;b&gt;&lt;i&gt;Conclusion:&lt;/i&gt;&lt;/b&gt; Liraglutide has a therapeutic effect on patients with polycystic ovary syndrome and obesity by reducing the methylation of LEP promoter in luteinized granulosa cells and improving the natural pregnancy rate. </jats:p>",
+      "url": "https://doi.org/10.1159/000539039",
+      "pdf_url": "https://karger.com/goi/article-pdf/doi/10.1159/000539039/4261567/000539039.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "10.1159/000539039",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic remodeling under oxidative stress: Mechanisms driving tumor metastasis",
+      "authors": "Peilan Peng; Siyuan Qin; Lei Li; Zhijun He; Bowen Li; Edouard C. Nice; Li Zhou; Yunlong Lei",
+      "year": 2024,
+      "doi": "10.1002/mog2.70000",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Tumor metastasis is a multistep, inefficient process orchestrated by diverse signaling pathways. Compared to primary tumor cells, disseminated tumor cells inevitably encounter higher oxidative stress in foreign environments. The levels of reactive oxygen species (ROS) fluctuate dynamically during different metastatic stages, adding complexity to the regulation of metastatic progression. Numerous studies suggest that epigenetic remodeling, a key reversible mechanism of gene regulation, plays a critical role in responding to oxidative stress and controlling gene expression profiles that drive metastasis. Despite extensive research, a comprehensive understanding of how oxidative stress impacts metastasis through epigenetic modifications remains elusive, such as DNA methylation, histone modification, ncRNAs, and m 6 A modification. Epigenetic therapeutic strategies, such as DNMT inhibitors, HDAC inhibitors (HDACis), and miRNA mimics, have shown promise, yet challenges related to immunogenicity, specificity, and delivery also exist. Furthermore, due to limited understanding, some drugs targeting m 6 A modification have yet to be explored. In this review, we provided an overview of how oxidative stress influences tumor metastatic behavior, summarized the epigenetic mechanisms involved in these processes, and reviewed the latest advancements in epigenetic‐targeted therapies, which may pave the way to develop novel strategy for preventing or treating tumor metastasis.",
+      "url": "https://doi.org/10.1002/mog2.70000",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mog2.70000",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression",
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "W4404371768",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis",
+      "authors": "Xiaolan Zhu; Wenxin Li; Minjun Lu; Junyu Shang; Jiamin Zhou; Li Lin; Yueqin Liu; Jie Xing; Mengxue Zhang; Shijie Zhao; Jingjing Lu; Xuyan Shi",
+      "year": 2024,
+      "doi": "10.21203/rs.3.rs-3894773/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p><jats:bold>Background:</jats:bold> Premature ovarian insufficiency (POI) is an important cause of female infertility and seriously impacts the physical and psychological health of patients. Human umbilical cord mesenchymal stem cell-derived exosomes (HucMSCs-Exs, H-Exs) have exhibited protective effects on ovarian function with unclear mechanisms. \n<jats:bold>Methods: </jats:bold>A comprehensive analysis of the Gene Expression Omnibus (GEO) database were used to identify POI-associated circRNAs and miRNAs. The relationship between HucMSC-derived exosomal circBRCA1/miR-642a-5p/FOXO1 axis and POI was examined by RT-qPCR, Western blotting, reactive oxygen species (ROS) staining, senescence-associated β-gal (SA-β-gal) staining, JC-1 staining, TEM, oxygen consumption rate (OCR) measurements and ATP assay in <jats:italic>vivo</jats:italic> and in <jats:italic>vitro</jats:italic>. RT-qPCR detected the expression of circBRCA1 in GCs and serum of patients with normal ovarian reserve function (n=50) and patients with POI (n=50); then, the correlation of circBRCA1 with ovarian reserve function indexes was analyzed.\n<jats:bold>Results:</jats:bold> Herein, we found that circBRCA1 was decreased in the serum and ovarian granulosa cells (GCs) of patients with POI and was associated with decreased ovarian reserve. H-Exs improved the disorder of the estrous cycles and reproductive hormone levels, reduced the number of atretic follicles, and alleviated the apoptosis and senescence of GCs in rats with POI. Moreover, H-Exs mitigated mitochondrial damage and reversed the reduced circBRCA1 expression induced by oxidative stress in GCs. Mechanistically, FTO served as an eraser to increase the stability and expression of circBRCA1 by mediating the m<jats:sup>6</jats:sup>A demethylation of circBRCA1, and exosomal circBRCA1 sponged miR-642a-5p to block its interaction with FOXO1. CircBRCA1 insufficiency aggravated mitochondrial dysfunction, mimicking FTO or FOXO1 depletion effects, which was counteracted by miR-642a-5p inhibition.\n<jats:bold>Conclusion:</jats:bold> H-Exs secreted circBRCA1 regulated by m<jats:sup>6</jats:sup>A modification, directly sponged miR-642a-5p to upregulate FOXO1, resisted oxidative stress injuries in GCs and protected ovarian function in rats with POI. Exosomal circBRCA1 supplementation may be a general prospect for the prevention and treatment of POI.</jats:p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-3894773/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-3894773/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "10.21203/rs.3.rs-3894773/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oocyte Aging: A Multifactorial Phenomenon in A Unique Cell.",
+      "authors": "Kordowitzki P; Graczyk S; Haghani A; Klutstein M",
+      "year": 2024,
+      "doi": "10.14336/ad.2023.0527",
+      "pmid": "37307833",
+      "pmcid": "PMC10796106",
+      "abstract": "The oocyte is considered to be the largest cell in mammalian species. Women hoping to become pregnant face a ticking biological clock. This is becoming increasingly challenging as an increase in life expectancy is accompanied by the tendency to conceive at older ages. With advancing maternal age, the fertilized egg will exhibit lower quality and developmental competence, which contributes to increased chances of miscarriage due to several causes such as aneuploidy, oxidative stress, epigenetics, or metabolic disorders. In particular, heterochromatin in oocytes and with it, the DNA methylation landscape undergoes changes. Further, obesity is a well-known and ever-increasing global problem as it is associated with several metabolic disorders. More importantly, both obesity and aging negatively affect female reproduction. However, among women, there is immense variability in age-related decline of oocytes' quantity, developmental competence, or quality. Herein, the relevance of obesity and DNA-methylation will be discussed as these aspects have a tremendous effect on female fertility, and it is a topic of continuous and widespread interest that has yet to be fully addressed for the mammalian oocyte.",
+      "url": "https://europepmc.org/articles/PMC10796106",
+      "pdf_url": "https://www.aginganddisease.org/EN/PDF/10.14336/AD.2023.0527",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/20/bc/PMC10796106.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\kordowitzki_2024_oocyte_aging_a_multifactorial_phenomenon_in_a_unique.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "PMID:37307833",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modifications: emerging players in the regulation of reproduction and development.",
+      "authors": "Wen J; Zhu Q; Liu Y; Gou LT",
+      "year": 2024,
+      "doi": "10.3724/abbs.2024201",
+      "pmid": "39574165",
+      "pmcid": "PMC11802351",
+      "abstract": "The intricate world of RNA modifications, collectively termed the epitranscriptome, covers over 170 identified modifications and impacts RNA metabolism and, consequently, almost all biological processes. In this review, we focus on the regulatory roles and biological functions of a panel of dominant RNA modifications (including m <sup>6</sup>A, m <sup>5</sup>C, Ψ, ac <sup>4</sup>C, m <sup>1</sup>A, and m <sup>7</sup>G) on three RNA types-mRNA, tRNA, and rRNA-in mammalian development, particularly in the context of reproduction as well as embryonic development. We discuss in detail how those modifications, along with their regulatory proteins, affect RNA processing, structure, localization, stability, and translation efficiency. We also highlight the associations among dysfunctions in RNA modification-related proteins, abnormal modification deposition and various diseases, emphasizing the roles of RNA modifications in critical developmental processes such as stem cell self-renewal and cell fate transition. Elucidating the molecular mechanisms by which RNA modifications influence diverse developmental processes holds promise for developing innovative strategies to manage developmental disorders. Finally, we outline several unexplored areas in the field of RNA modification that warrant further investigation.",
+      "url": "https://europepmc.org/articles/PMC11802351",
+      "pdf_url": "https://europepmc.org/articles/PMC11802351?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/cf/8a/PMC11802351.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\wen_2024_rna_modifications_emerging_players_in_the_regulation_of.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "PMID:39574165",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of epigenetics in women’s reproductive health: the impact of environmental factors",
+      "authors": "Xinru Yu; Jiawei Xu; Bihan Song; Runhe Zhu; Jiaxin Liu; Yi Liu; Ying Jie",
+      "year": 2024,
+      "doi": "10.3389/fendo.2024.1399757",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "This paper explores the significant role of epigenetics in women's reproductive health, focusing on the impact of environmental factors. It highlights the crucial link between epigenetic modifications-such as DNA methylation and histones post-translational modifications-and reproductive health issues, including infertility and pregnancy complications. The paper reviews the influence of pollutants like PM2.5, heavy metals, and endocrine disruptors on gene expression through epigenetic mechanisms, emphasizing the need for understanding how dietary, lifestyle choices, and exposure to chemicals affect gene expression and reproductive health. Future research directions include deeper investigation into epigenetics in female reproductive health and leveraging gene editing to mitigate epigenetic changes for improving IVF success rates and managing reproductive disorders.",
+      "url": "https://doi.org/10.3389/fendo.2024.1399757",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1399757/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "W4402529016",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanisms of and Potential Medications for Oxidative Stress in Ovarian Granulosa Cells: A Review.",
+      "authors": "Liu S; Jia Y; Meng S; Luo Y; Yang Q; Pan Z",
+      "year": 2023,
+      "doi": "10.3390/ijms24119205",
+      "pmid": "37298157",
+      "pmcid": "PMC10252376",
+      "abstract": "Granulosa cells are essential for follicle initiation and development, and their abnormal function or apoptosis is a crucial factor leading to follicular atresia. A state of oxidative stress occurs when the balance between the production of reactive oxygen species and the regulation of the antioxidant system is disturbed. Oxidative stress is one of the most important causes of the abnormal function and apoptosis of granulosa cells. Oxidative stress in granulosa cells causes female reproductive system diseases, such as polycystic ovary syndrome and premature ovarian failure. In recent years, studies have confirmed that the mechanism of oxidative stress in granulosa cells is closely linked to the PI3K-AKT signaling pathway, MAPK signaling pathway, FOXO axis, Nrf2 pathway, NF-κB signaling pathway, and mitophagy. It has been found that drugs such as sulforaphane, <i>Periplaneta americana</i> peptide, and resveratrol can mitigate the functional damage caused by oxidative stress on granulosa cells. This paper reviews some of the mechanisms involved in oxidative stress in granulosa cells and describes the mechanisms underlying the pharmacological treatment of oxidative stress in granulosa cells.",
+      "url": "https://europepmc.org/articles/PMC10252376",
+      "pdf_url": "https://europepmc.org/articles/PMC10252376?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/50/71/PMC10252376.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\liu_2023_mechanisms_of_and_potential_medications_for_oxidative_stress.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "PMID:37298157",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation across the central dogma in health and diseases: new therapeutic strategies",
+      "authors": "Ruochen Liu; Erhu Zhao; Huijuan Yu; Chaoyu Yuan; Muhammad Nadeem Abbas; Hongjuan Cui",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01528-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The proper transfer of genetic information from DNA to RNA to protein is essential for cell-fate control, development, and health. Methylation of DNA, RNAs, histones, and non-histone proteins is a reversible post-synthesis modification that finetunes gene expression and function in diverse physiological processes. Aberrant methylation caused by genetic mutations or environmental stimuli promotes various diseases and accelerates aging, necessitating the development of therapies to correct the disease-driver methylation imbalance. In this Review, we summarize the operating system of methylation across the central dogma, which includes writers, erasers, readers, and reader-independent outputs. We then discuss how dysregulation of the system contributes to neurological disorders, cancer, and aging. Current small-molecule compounds that target the modifiers show modest success in certain cancers. The methylome-wide action and lack of specificity lead to undesirable biological effects and cytotoxicity, limiting their therapeutic application, especially for diseases with a monogenic cause or different directions of methylation changes. Emerging tools capable of site-specific methylation manipulation hold great promise to solve this dilemma. With the refinement of delivery vehicles, these new tools are well positioned to advance the basic research and clinical translation of the methylation field.",
+      "url": "https://doi.org/10.1038/s41392-023-01528-y",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01528-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "W4386125701",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Molecular mechanisms of environmental exposures and human disease",
+      "authors": "Haotian Wu; C. Eckhardt; Andrea Baccarelli",
+      "year": 2023,
+      "doi": "10.1038/s41576-022-00569-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41576-022-00569-3",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10562207/pdf/nihms-1932786.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression",
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "W4318483908",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "PGC-1α Is a Master Regulator of Mitochondrial Lifecycle and ROS Stress Response",
+      "authors": "Othman Abu Shelbayeh; Tasnim Arroum; Silke Morris; Karin B. Busch",
+      "year": 2023,
+      "doi": "10.3390/antiox12051075",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Mitochondria play a major role in ROS production and defense during their life cycle. The transcriptional activator PGC-1α is a key player in the homeostasis of energy metabolism and is therefore closely linked to mitochondrial function. PGC-1α responds to environmental and intracellular conditions and is regulated by SIRT1/3, TFAM, and AMPK, which are also important regulators of mitochondrial biogenesis and function. In this review, we highlight the functions and regulatory mechanisms of PGC-1α within this framework, with a focus on its involvement in the mitochondrial lifecycle and ROS metabolism. As an example, we show the role of PGC-1α in ROS scavenging under inflammatory conditions. Interestingly, PGC-1α and the stress response factor NF-κB, which regulates the immune response, are reciprocally regulated. During inflammation, NF-κB reduces PGC-1α expression and activity. Low PGC-1α activity leads to the downregulation of antioxidant target genes resulting in oxidative stress. Additionally, low PGC-1α levels and concomitant oxidative stress promote NF-κB activity, which exacerbates the inflammatory response.",
+      "url": "https://doi.org/10.3390/antiox12051075",
+      "pdf_url": "https://www.mdpi.com/2076-3921/12/5/1075/pdf?version=1683715134",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "W4376138860",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Polycystic Ovary Syndrome: Etiology, Current Management, and Future Therapeutics",
+      "authors": "Samradhi Singh; Namrata Pal; Swasti Shubham; Devojit Kumar Sarma; Vinod Verma; Francesco Marotta; Manoj Kumar",
+      "year": 2023,
+      "doi": "10.3390/jcm12041454",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polycystic ovary syndrome (PCOS) is a complex endocrine and metabolic disorder, typically characterized by anovulation, infertility, obesity, insulin resistance, and polycystic ovaries. Lifestyle or diet, environmental pollutants, genetics, gut dysbiosis, neuroendocrine alterations, and obesity are among the risk factors that predispose females to PCOS. These factors might contribute to upsurging metabolic syndrome by causing hyperinsulinemia, oxidative stress, hyperandrogenism, impaired folliculogenesis, and irregular menstrual cycles. Dysbiosis of gut microbiota may play a pathogenic role in the development of PCOS. The restoration of gut microbiota by probiotics, prebiotics, or a fecal microbiota transplant (FMT) might serve as an innovative, efficient, and noninvasive way to prevent and mitigate PCOS. This review deliberates on the variety of risk factors potentially involved in the etiology, prevalence, and modulation of PCOS, in addition to plausible therapeutic interventions, including miRNA therapy and the eubiosis of gut microbiota, that may help treat and manage PCOS.",
+      "url": "https://doi.org/10.3390/jcm12041454",
+      "pdf_url": "https://www.mdpi.com/2077-0383/12/4/1454/pdf?version=1676262817",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "W4320494004",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Premature ovarian insufficiency: a review on the role of oxidative stress and the application of antioxidants",
+      "authors": "Yuqian Shi; Xi-Ting Zhu; Zhang Su-na; Yifu Ma; Yanhua Han; Jiang Yue; Yuehui Zhang",
+      "year": 2023,
+      "doi": "10.3389/fendo.2023.1172481",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Normal levels of reactive oxygen species (ROS) play an important role in regulating follicular growth, angiogenesis and sex hormone synthesis in ovarian tissue. When the balance between ROS and antioxidants is disrupted, however, it can cause serious consequences of oxidative stress (OS), and the quantity and quality of oocytes will decline. Therefore, this review discusses the interrelationship between OS and premature ovarian insufficiency (POI), the potential mechanisms and the methods by which antioxidants can improve POI through controlling the level of OS. We found that OS can mediate changes in genetic materials, signal pathways, transcription factors and ovarian microenvironment, resulting in abnormal apoptosis of ovarian granulosa cells (GCs) and abnormal meiosis as well as decreased mitochondrial Deoxyribonucleic Acid(mtDNA) and other changes, thus accelerating the process of ovarian aging. However, antioxidants, mesenchymal stem cells (MSCs), biological enzymes and other antioxidants can delay the disease process of POI by reducing the ROS level in vivo .",
+      "url": "https://doi.org/10.3389/fendo.2023.1172481",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1172481/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "W4385454266",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "miR-143-3p Promotes Ovarian Granulosa Cell Senescence and Inhibits Estradiol Synthesis by Targeting UBE2E3 and LHCGR",
+      "authors": "Jingxian Deng; Yan Tang; Lu Li; Rufei Huang; Zhaoyang Wang; Ye Tao; Ziyan Xiao; Meirong Hu; Siying Wei; Yuxin Wang; Yang Yan; Yadong Huang",
+      "year": 2023,
+      "doi": "10.3390/ijms241612560",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The ovary is a highly susceptible organ to senescence, and granulosa cells (GCs) have a crucial role in oocyte development promotion and overall ovarian function maintenance. As age advances, GCs apoptosis and dysfunction escalate, leading to ovarian aging. However, the molecular mechanisms underpinning ovarian aging remain poorly understood. In this study, we observed a correlation between the age-related decline of fertility and elevated expression levels of miR-143-3p in female mice. Moreover, miR-143-3p was highly expressed in senescent ovarian GCs. The overexpression of miR-143-3p in GCs not only hindered their proliferation and induced senescence-associated secretory phenotype (SASP) but also impeded steroid hormone synthesis by targeting ubiquitin-conjugating enzyme E2 E3 (Ube2e3) and luteinizing hormone and human chorionic gonadotropin receptor (Lhcgr). These findings suggest that miR-143-3p plays a substantial role in senescence and steroid hormone synthesis in GCs, indicating its potential as a therapeutic target for interventions in the ovarian aging process.",
+      "url": "https://doi.org/10.3390/ijms241612560",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/16/12560/pdf?version=1691485085",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "W4385665777",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts from the 54<sup>th</sup> European Society of Human Genetics (ESHG) Conference: e-Posters.",
+      "authors": "",
+      "year": 2022,
+      "doi": "10.1038/s41431-021-01026-1",
+      "pmid": "35393538",
+      "pmcid": "PMC9063679",
+      "abstract": "",
+      "url": "https://europepmc.org/articles/PMC9063679",
+      "pdf_url": "https://www.nature.com/articles/s41431-021-01026-1.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\paper_2022_abstracts_from_the_54_sup_th_sup_european.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "PMID:35393538",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Plumbagin rescues the granulosa cell's pyroptosis by reducing WTAP-mediated N6-methylation in polycystic ovary syndrome",
+      "authors": "Zhaowei Cai; Shaojuan He; Rongju Liu; Liling Zhou; Li Zhao",
+      "year": 2022,
+      "doi": "10.21203/rs.3.rs-1816507/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p>The survival of ovary granulosa cells (GC) is critical in the initiation and progression of polycystic ovary syndrome (PCOS) in females. Here, we found that the PCOS process is accompanied by massive GC pyroptosis resulting from Caspase-1 inflammasome activation. Administration of plumbagin, an effective compound isolated from plant medicine, can prevent the pyroptosis of GC and the onset of PCOS. Mechanistic study indicates the over activation of inflammasome in GC is due to the upregulation of WTAP, a key regulator of the RNA N6-methylase complex. WTAP mediates the mRNA N6-methylation of NLRP3 inflammasome component ASC and enhances ASC RNA stability, which results in the overactivation of the inflammasome in GCs from the PCOS model. Plumbagin treatment suppresses the WTAP-mediated N6-methylation of ASC mRNA and reduces the pyroptosis of GCs. This study supports the profound potential of plumbagin in PCOS treatment.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-1816507/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-1816507/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\zhaowei_2022_plumbagin_rescues_the_granulosa_cell_s_pyroptosis_by.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "10.21203/rs.3.rs-1816507/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetics of Aging and Aging-Associated Diseases",
+      "authors": "Dominik Saul; Robyn Laura Kosinsky",
+      "year": 2021,
+      "doi": "10.3390/ijms22010401",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Aging represents the multifactorial decline in physiological function of every living organism. Over the past decades, several hallmarks of aging have been defined, including epigenetic deregulation. Indeed, multiple epigenetic events were found altered across different species during aging. Epigenetic changes directly contributing to aging and aging-related diseases include the accumulation of histone variants, changes in chromatin accessibility, loss of histones and heterochromatin, aberrant histone modifications, and deregulated expression/activity of miRNAs. As a consequence, cellular processes are affected, which results in the development or progression of several human pathologies, including cancer, diabetes, osteoporosis, and neurodegenerative disorders. In this review, we focus on epigenetic mechanisms underlying aging-related processes in various species and describe how these deregulations contribute to human diseases.",
+      "url": "https://doi.org/10.3390/ijms22010401",
+      "pdf_url": "https://www.mdpi.com/1422-0067/22/1/401/pdf?version=1609568120",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "W3117221748",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Overexpression of FTO Protects Human Granulosa Cells From Cisplatin-Induced Injury",
+      "authors": "Rongli Wang; Xinyuan Yang",
+      "year": 2021,
+      "doi": "10.21203/rs.3.rs-929583/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p><bold>Background: </bold>Premature ovarian failure (POF) is a serious problem for young women who received chemotherapy, and its pathophysiological basis is the dysfunction of granulosa cells. The RNA methylation on the sixth Natom of adenylate (m<sup>6</sup>A) plays an important role in epigenetic regulation, and previous studies have demonstrated that the fat mass- and obesity-associated (FTO) was decreased in POF and may be a biomarker for the occurrence of POF. Furthermore, to preserve the fertility of these young females, various approaches have been used to prevent chemotherapy-induced ovarian failure, and menstrual-derived stem cells (MenSCs) have been considered as a promising treatment strategy. Here, we aimed to explore the role of FTO in the MenSCs recovering the function of injured granulosa cells.<bold>Method: </bold>First, the cisplatin was used to make a granulosa cell injury model. Then, the menstrual-derived stem cells (MenSCs)-injured granulosa cells co-culture model and POF mouse model were established in this study to explore the role of FTO. Human ovarian granulosa cell lines (KGN) were used to explore the effect of FTO on cell proliferation and apoptosis. Furthermore, gain- and loss-of-function studies, small interfering RNA transfection, and  meclofenamic acid (MA), a highly selective inhibitor of FTO, were also conducted to clarified the regulation mechanism of FTO in granulosa.<bold>Results: </bold>MenSCs co-culture could improve the function of injured granulosa cells by increasing the expression of FTO. MenSCs transplantation could restore the expression of FTO in the ovary of POF mice. Overexpression of FTO could restore the injured cells’ proliferation and decrease its apoptosis through regulating the expression of BNIP3. Down-regulation of FTO got the opposite results.<bold>Conclusion: </bold>FTO has a protective effect, which could improve the viability of granulosa cells after cisplatin treatment by decreasing the expression of BNIP3, and it may provide new insight into the therapeutic targets for the cisplatin-induced POF.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-929583/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-929583/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\rongli_2021_overexpression_of_fto_protects_human_granulosa_cells_from.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "10.21203/rs.3.rs-929583/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Circular RNA: metabolism, functions and interactions with proteins",
+      "authors": "Zhou Wei-yi; Zerong Cai; Jia Liu; De‐Shen Wang; Huai‐Qiang Ju; Rui‐Hua Xu",
+      "year": 2020,
+      "doi": "10.1186/s12943-020-01286-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Circular RNAs (CircRNAs) are single-stranded, covalently closed RNA molecules that are ubiquitous across species ranging from viruses to mammals. Important advances have been made in the biogenesis, regulation, localization, degradation and modification of circRNAs. CircRNAs exert biological functions by acting as transcriptional regulators, microRNA (miR) sponges and protein templates. Moreover, emerging evidence has revealed that a group of circRNAs can serve as protein decoys, scaffolds and recruiters. However, the existing research on circRNA-protein interactions is quite limited. Hence, in this review, we briefly summarize recent progress in the metabolism and functions of circRNAs and elaborately discuss the patterns of circRNA-protein interactions, including altering interactions between proteins, tethering or sequestering proteins, recruiting proteins to chromatin, forming circRNA-protein-mRNA ternary complexes and translocating or redistributing proteins. Many discoveries have revealed that circRNAs have unique expression signatures and play crucial roles in a variety of diseases, enabling them to potentially act as diagnostic biomarkers and therapeutic targets. This review systematically evaluates the roles and mechanisms of circRNAs, with the hope of advancing translational medicine involving circRNAs.",
+      "url": "https://doi.org/10.1186/s12943-020-01286-3",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01286-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "W3112047397",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The potential role of RNA N6-methyladenosine in Cancer progression",
+      "authors": "Tianyi Wang; Shan Kong; Mei Tao; Shaoqing Ju",
+      "year": 2020,
+      "doi": "10.1186/s12943-020-01204-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) is considered the most common, abundant, and conserved internal transcript modification, especially in eukaryotic messenger RNA (mRNA). m6A is installed by m6A methyltransferases (METTL3/14, WTAP, RBM15/15B, VIRMA and ZC3H13, termed \"writers\"), removed by demethylases (FTO, ALKBH5, and ALKBH3, termed \"erasers\"), and recognized by m6A-binding proteins (YTHDC1/2, YTHDF1/2/3, IGF2BP1/2/3, HNRNP, and eIF3, termed \"readers\"). Accumulating evidence suggests that m6A RNA methylation greatly impacts RNA metabolism and is involved in the pathogenesis of many kinds of diseases, including cancers. In this review, we focus on the physiological functions of m6A modification and its related regulators, as well as on the potential biological roles of these elements in human tumors.",
+      "url": "https://doi.org/10.1186/s12943-020-01204-7",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01204-7",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\tianyi_2020_the_potential_role_of_rna_n6_methyladenosine_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "W3028187297",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetics in disease etiopathogenesis",
+      "authors": "Mila Glavaški; Karmen Stankov",
+      "year": 2019,
+      "doi": "10.2298/gensr1903975g",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The term epigenetics refers to heritable changes in gene expression that are not caused by modifications in DNA sequence. Epigenetic changes are DNA methylation, histone modifications, nucleosome positioning, and non-coding RNA (including microRNA) mediated modifications. Epigenetic mechanisms are involved in malignant diseases, imprinting defects, and some hereditary diseases. Recent research explained the role of epigenetic disorders in infections, autoimmune, neurodegenerative and bone diseases, as well as in psoriasis, endometriosis, and polycystic ovary syndrome. Epigenetic modifications have a potential clinical application as diagnostic and prognostic biomarkers, and also as therapeutic targets in oncology, endocrinology, cardiology, and neuropsychiatry. Stress, anxiety, depression, emotions and many other psychological factors may affect epigenetic mechanisms. Influence of preconception parental stress exposure transmits to the next generation through epigenetic changes, as direct results of prenatal and postnatal environmental factors. Epigenetic changes identify environmental factors which affect health and cause disease onset. Milk is the sophisticated system of communication between mother and infant, operating via epigenetic mechanisms. Lifelong consumption of bovine milk causes epigenetic disorders. Recent studies provide important information about the role of bioactive dietary nutrients which modify epigenome in malignancy prevention and therapy. Any interruption in the balance of intestinal microbiota initiates aberrant epigenetic modifications. Epigenetic patterns act as the ?molecular watches? and they play the central role in the establishment of biological rhythms. Epigenetic mechanisms can determine the result of assisted reproductive technology and genetic engineering. The extensive research about the association of epigenetics and pharmacology led to the development of pharmacoepigenetics. All these results emphasize the importance of further research which will take into account all factors that may affect epigenetic mechanisms.",
+      "url": "https://doi.org/10.2298/gensr1903975g",
+      "pdf_url": "http://www.doiserbia.nb.rs/ft.aspx?id=0534-00121903975G",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\mila_2019_epigenetics_in_disease_etiopathogenesis.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "W3005710293",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Psychological and oxidative stress induce apoptosis through TRPV1 channel activation in granulosa cells of oocyte during in vitro fertilization",
+      "authors": "Dilek Ulusoy Karatopuk",
+      "year": 2019,
+      "doi": "10.37212/jcnos.584712",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p xml:lang=\"en\">Several physiological and pathophysiological functions such as mitochondria and phagocytosis induce oxidative stress. Oxidative stress results in excessive production of reactive oxygen species (ROS). There is a high amount of psychologically and chemically stress in in vitro fertilization (IVF), because of presence stressful permanent infertility and treatment procedures (An et al. 2013). Oocytes are surrounded by granulosa cells. It is well-known that there is a direct relationship between oxidative stress contents of granulosa cells and oocyte quality (Tola et al 2013). Excessive Ca2+ influx induces excessive mitochondrial ROS production and apoptosis through activation of caspase activations. Involvement of voltage gated Ca2+ channels on oocyte quality and apoptosis in the granulosa cells has been clarified by results of several studies (Platano et al. 2013; Tola et al 2013). Transient receptor potential vanilloid 1 (TRPV1) channel is a calcium permeable and non-selective cation channel. The similar effects of voltage gated calcium channels may present between oxidative stress and TRPV1 channel activation in the oocyte, because the TRPV1 channel is activated by excessive production of ROS. The importance of TRPV1 channel on the oocyte maturation was recently reported (Cecconi et al. 2019).&amp;nbsp; In the oral presentation, I will review recent studies on apoptosis through TRPV1 channel activation in granulosa cells of oocyte during IVF.&amp;nbsp; In conclusion, current literature data indicated that&amp;nbsp;psychological and oxidative stress-induced ROS, apoptosis and Ca2+ contents of oocyte and granulosa cells have very important roles on the oocyte maturation in patients with infertility during the IVF. There are some involvement clues of TRPV1 channels on the oocyte maturation and apoptosis, but the subject needs future studies.&amp;nbsp;</jats:p>",
+      "url": "https://doi.org/10.37212/jcnos.584712",
+      "pdf_url": "https://dergipark.org.tr/tr/download/article-file/749219",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\dilek_2019_psychological_and_oxidative_stress_induce_apoptosis_through_trpv1.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "10.37212/jcnos.584712",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA methylation of the androgen receptor gene promoter in the granulosa cells of polycystic ovary syndrome patients",
+      "authors": "Desmawati; Ririn Rahmala Febri; Andon Hestiantoro; Asmarinah",
+      "year": 2018,
+      "doi": "10.1088/1742-6596/1073/3/032078",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1088/1742-6596/1073/3/032078",
+      "pdf_url": "http://stacks.iop.org/1742-6596/1073/i=3/a=032078/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\desmawati_2018_dna_methylation_of_the_androgen_receptor_gene_promoter.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "10.1088/1742-6596/1073/3/032078",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Sumoylation-deficient Prdx6 repairs aberrant Sumoylation-mediated Sp1 dysregulation-dependent Prdx6 repression and cell injury in aging and oxidative stress",
+      "authors": "Bhavana Chhunchha; Eri Kubo; Prerna Singh; Dhirendra P. Singh",
+      "year": 2018,
+      "doi": "10.18632/aging.101547",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.101547",
+      "pdf_url": "http://europepmc.org/pmc/articles/PMC6188488",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "10.18632/aging.101547",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comprehensive analysis of genome-wide DNA methylation across human polycystic ovary syndrome ovary granulosa cell",
+      "authors": "Jiawei Xu; Xiao Bao; Zhaofeng Peng; Linlin Wang; Linqing Du; Wenbin Niu; Yingpu Sun",
+      "year": 2016,
+      "doi": "10.18632/oncotarget.8544",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/oncotarget.8544",
+      "pdf_url": "http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=8544&path%5B%5D=25429",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter methylation H3K27ac HDAC granulosa ovary aging"
+      ],
+      "paper_id": "10.18632/oncotarget.8544",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oxidative Stress Is a Driver of Normal and Pathological Ovarian Aging",
+      "authors": "Ulrike Luderer",
+      "year": 2016,
+      "doi": "10.1007/978-3-319-33486-8_12",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-319-33486-8_12",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "10.1007/978-3-319-33486-8_12",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dominant Repression by Arabidopsis Transcription Factor MYB44 Causes Oxidative Damage and Hypersensitivity to Abiotic Stress",
+      "authors": "Helene Persak; Andrea Pitzschke",
+      "year": 2014,
+      "doi": "10.3390/ijms15022517",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>In any living species, stress adaptation is closely linked with major changes of  the gene expression profile. As a substrate protein of the rapidly stress-induced  mitogen-activated protein kinase MPK3, Arabidopsis transcription factor MYB44 likely acts at the front line of stress-induced re-programming. We recently characterized MYB44 as phosphorylation-dependent positive regulator of salt stress signaling. Molecular events downstream of MYB44 are largely unknown. Although MYB44 binds to the MBSII element in vitro, it has no discernible effect on MBSII-driven reporter gene expression in plant co-transfection assays. This may suggest limited abundance of a synergistic  co-regulator. MYB44 carries a putative transcriptional repression (Ethylene responsive element binding factor-associated Amphiphilic Repression, EAR) motif. We employed a dominant repressor strategy to gain insights into MYB44-conferred stress resistance. Overexpression of a MYB44-REP fusion markedly compromised salt and drought stress tolerance—the opposite was seen in MYB44 overexpression lines. MYB44-mediated resistance likely results from induction of tolerance-enhancing, rather than from repression of tolerance-diminishing factors. Salt stress-induced accumulation of destructive reactive oxygen species is efficiently prevented in transgenic MYB44, but accelerated in MYB44-REP lines. Furthermore, heterologous overexpression of MYB44-REP caused tissue collapse  in Nicotiana. A mechanistic model of MAPK-MYB-mediated enhancement in the antioxidative capacity and stress tolerance is proposed. Genetic engineering of MYB44 variants with higher trans-activating capacity may be a means to further raise stress resistance in crops.</jats:p>",
+      "url": "https://doi.org/10.3390/ijms15022517",
+      "pdf_url": "https://www.mdpi.com/1422-0067/15/2/2517/pdf?version=1403148443",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter oxidative stress granulosa transcription repression"
+      ],
+      "paper_id": "10.3390/ijms15022517",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Novel Three-Dimensional Follicle Culture System Decreases Oxidative Stress and Promotes the Prolonged Culture of Human Granulosa Cells",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsami.2c18734.s002",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsami.2c18734.s002",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "10.1021/acsami.2c18734.s002",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Novel Three-Dimensional Follicle Culture System Decreases Oxidative Stress and Promotes the Prolonged Culture of Human Granulosa Cells",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsami.2c18734.s003",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsami.2c18734.s003",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "10.1021/acsami.2c18734.s003",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A novel region in the collagenase promoter is involved in transcriptional activation and repression.",
+      "authors": "Stephen H. Chamberlain",
+      "year": 1970,
+      "doi": "10.1349/ddlp.3007",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1349/ddlp.3007",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO transcriptional repression promoter oxidative stress ovarian aging"
+      ],
+      "paper_id": "10.1349/ddlp.3007",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Deoxynivalenol Impairs Ovarian Function by Triggering Ferroptosis in Granulosa Cells through GPX2 Inhibition and Oxidative Stress",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.jafc.6c02013.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jafc.6c02013.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.jafc.6c02013/suppl_file/jf6c02013_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter repressor granulosa cells oxidative stress"
+      ],
+      "paper_id": "10.1021/acs.jafc.6c02013.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

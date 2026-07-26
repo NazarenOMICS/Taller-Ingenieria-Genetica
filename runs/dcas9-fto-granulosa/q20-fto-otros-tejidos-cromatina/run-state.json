@@ -1,0 +1,35 @@
+{
+    "slug":  "q20-fto-otros-tejidos-cromatina",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina",
+    "goal":  "Buscar si en otros tejidos con caída de FTO por estrés oxidativo existe evidencia a nivel de cromatina o unión de factores de transcripción que explique esa disminución.",
+    "notebook_title":  "FTO downregulation chromatin evidence in other tissues (q20)",
+    "dashboard":  "FTO downregulation chromatin evidence in other tissues",
+    "stage":  "qa",
+    "status":  "ok",
+    "updated_at":  "2026-07-25T18:06:30",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers",
+    "queries_file":  "C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q20-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\questions-q20-fto-otros-tejidos-cromatina.json",
+    "notebook_id":  "c8863563-1f8a-4836-929a-3e22dd7d61a0",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\tmp-sources-q20-fto-otros-tejidos-cromatina.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q20-fto-otros-tejidos-cromatina\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina\" -Goal \"Buscar si en otros tejidos con caída de FTO por estrés oxidativo existe evidencia a nivel de cromatina o unión de factores de transcripción que explique esa disminución.\" -QueriesFile \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q20-queries.json\" -NotebookTitle \"FTO downregulation chromatin evidence in other tissues (q20)\" -Dashboard \"FTO downregulation chromatin evidence in other tissues\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"c8863563-1f8a-4836-929a-3e22dd7d61a0\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass",
+                    "local_repair_note":  "Source-note links repaired locally after refresh-existing import; wrapper rerun blocked by transient NotebookLM/DNS failure (getaddrinfo failed)."
+                }
+}

@@ -1,0 +1,187 @@
+{
+  "notebook_id": "44e0bea6-2947-4802-810a-c140ba64ed5c",
+  "notebook_title": "FTO promoter methylation in other tissues (q17)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "4532c491-9e8d-4838-91bf-154d10224296",
+      "title": "chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:22"
+    },
+    {
+      "index": 2,
+      "id": "c748fc65-9f84-4bf3-a359-e7b78a4ac756",
+      "title": "cheng_2021_comprehensive_analysis_of_dna_methylation_regulator_dna_methyltransferase.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:21"
+    },
+    {
+      "index": 3,
+      "id": "2c33e7e6-e974-4c07-a4df-36dfd9d1ce77",
+      "title": "jing_2023_epigenetic_regulation_in_the_tumor_microenvironment_molecular_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:22"
+    },
+    {
+      "index": 4,
+      "id": "dae84bbd-bf32-488d-a970-58fe1db8df62",
+      "title": "kirstin_2014_dnmt_inhibitors_reverse_a_specific_signature_of_aberrant.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:23"
+    },
+    {
+      "index": 5,
+      "id": "602d122e-7f48-485d-9e25-c0a07e39d679",
+      "title": "liang_2024_epigenetic_control_of_skeletal_muscle_atrophy.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:28"
+    },
+    {
+      "index": 6,
+      "id": "49f4c626-d87b-4aa8-9034-d777f5fe7803",
+      "title": "lijiao_2025_dna_methylation_and_demethylation_in_adipocyte_biology_roles.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:27"
+    },
+    {
+      "index": 7,
+      "id": "afb679bc-67cc-4b30-900e-bf65b4cbeab9",
+      "title": "lin_2023_epigenetic_targeting_of_autophagy_for_cancer_dna_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:29"
+    },
+    {
+      "index": 8,
+      "id": "f4bce619-5f46-43d3-86b7-2614771e16c1",
+      "title": "lin_yong_2020_mapping_the_epigenetic_modifications_of_dna_and_rna.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:29"
+    },
+    {
+      "index": 9,
+      "id": "6ad513c1-2578-4673-b7bd-f55e8c0a1bdb",
+      "title": "martinez_feduchi_2024_epigenetic_modifications_of_dna_and_rna_in_alzheimer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:34"
+    },
+    {
+      "index": 10,
+      "id": "a77a170c-5ec9-4819-ba37-3e670e36761c",
+      "title": "qiaofeng_2021_the_role_of_rna_m_sup_5_sup.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:32"
+    },
+    {
+      "index": 11,
+      "id": "15ba78d4-fe61-4dcb-84dc-a87dcb774807",
+      "title": "ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:34"
+    },
+    {
+      "index": 12,
+      "id": "e8144c6d-41fe-45fa-b95f-dedf7737b3f8",
+      "title": "sanabil_2020_the_role_of_dna_methylation_in_the_pathogenesis.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:35"
+    },
+    {
+      "index": 13,
+      "id": "032bf1ca-22e5-492e-bb56-dc4378b278d6",
+      "title": "takuro_2016_regulation_of_cpg_methylation_by_dnmt_and_tet.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:41"
+    },
+    {
+      "index": 14,
+      "id": "ade7df9b-7b9a-47fe-8690-9d3afa892e77",
+      "title": "wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:38"
+    },
+    {
+      "index": 15,
+      "id": "e5757b17-e054-4213-80e3-764b801f2cd3",
+      "title": "xiao_2026_targeting_epigenetic_regulators_to_boost_t_cell_immunotherapy.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:41"
+    },
+    {
+      "index": 16,
+      "id": "e2f25cde-c766-4edc-a410-b4645d0ad4ba",
+      "title": "xiaofeng_2021_methylation_multiplicity_and_its_clinical_values_in_cancer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:41"
+    },
+    {
+      "index": 17,
+      "id": "08423cc7-f996-4140-89f2-313c58efa845",
+      "title": "yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:45"
+    },
+    {
+      "index": 18,
+      "id": "2d6b839a-e477-47a7-9d9c-ea7a1c819a66",
+      "title": "yuanjun_2020_epigenetic_regulation_in_human_cancer_the_potential_role.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:59:43"
+    }
+  ],
+  "count": 18
+}

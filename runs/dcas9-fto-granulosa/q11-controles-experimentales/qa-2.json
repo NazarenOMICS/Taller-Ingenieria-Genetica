@@ -1,0 +1,104 @@
+{
+  "answer": "In CRISPRa and epigenome editing experiments, a **catalytically dead or inactive effector domain** (such as a dead p300 core or dead TET1 catalytic domain) serves as a critical control to prove that observed gene activation is specifically caused by the **enzymatic activity** of the effector and not by the mere physical binding of the dCas9 complex to the target locus [1, 2].\n\nAccording to the sources, these inactive controls play the following specific roles:\n\n### 1. Distinguishing Catalytic Activity from Physical Binding\nThe primary role of an inactive effector is to demonstrate that the epigenetic changes (e.g., histone acetylation or DNA demethylation) are the direct result of the effector’s enzymatic function. \n*   **p300 Core:** Researchers used a catalytic inactive mutant of the p300 catalytic domain (**p300CD D1398Y**) to show that the activation of the *Foxp3* gene was strictly dependent on p300’s **autoacetylation activity** [2, 3]. The inactive mutant failed to induce the small but significant fraction of endogenous *Foxp3* expression observed with the wild-type p300 core [2, 4].\n*   **TET1 Domain:** Similarly, inactive mutants of the TET1 catalytic domain (**TET1CD H1620Y** and **D1622A**) were used to confirm that DNA demethylation at the *Foxp3* CNS2 locus was dependent on **TET enzyme activity** [1, 3].\n\n### 2. Identifying Non-Specific Steric Interference (CRISPRi Effects)\nThe use of dead effectors helps researchers identify unintended negative effects on transcription caused by the dCas9 protein itself. The sources note that dCas9 can physically block the transcriptional apparatus, a process used intentionally in CRISPR interference (CRISPRi) [5, 6]. \n*   In one study, the **TET1CD catalytic inactive mutant** actually decreased *Foxp3* expression, revealing that the dCas9-effector complex can have a **negative/repressive effect** on transcription simply by remaining at the targeted locus and impeding the interaction of endogenous transcription factors [6].\n*   Comparing the active effector to this inactive baseline allows researchers to measure the \"net\" activation after accounting for this inherent binding interference [6].\n\n### 3. Proving Necessity of the Effector for the Phenotype\nInactive controls establish that the dCas9-DNA binding event alone is insufficient to produce the desired biological outcome.\n*   Experiments targeting the *MSI1* gene showed that while dCas9 fused to an activation domain (VP48) induced expression, **dCas9 lacking an activation domain** entirely failed to activate the gene [7].\n*   This confirms that the recruitment of the transcriptional machinery or the modification of the chromatin state—rather than just the localization of the dCas9 protein—is the driver of the genuine epigenetic activation [7, 8].",
+  "conversation_id": "8a99bb79-cdfb-49e4-b7b3-1867ac3ac256",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "df245a76-925b-460e-be23-c1a54e53aee3",
+      "citation_number": 1,
+      "cited_text": "Page 7 of 17Okada et al. Epigenetics & Chromatin  (2017) 10:24",
+      "start_char": 27922,
+      "end_char": 27985,
+      "chunk_id": "28cd5b9d-b91d-4806-8f52-d658ac1330e4",
+      "passage_id": null,
+      "answer_start_char": 27922,
+      "answer_end_char": 28723,
+      "score": 0.7560294495324305
+    },
+    {
+      "source_id": "df245a76-925b-460e-be23-c1a54e53aee3",
+      "citation_number": 2,
+      "cited_text": "DNMT3a to the CNS2 locus after stimulation, leading to Foxp3 loss even in nTregs [46]. We speculated that dCas9-TET1CD targeted to the CNS2 locus competes with methyltransferases under inflammatory conditions, resulting in earlier loss of demethylation function than under iTreg conditions. In fact, Foxp3 mean fluorescence intensity (MFI) was greater in dCas9-TET1CD than in TET1CD catalytic inactive mutant under iTreg conditions (Fig. 3c), but was weakened by inflammatory stimuli.",
+      "start_char": 30828,
+      "end_char": 31313,
+      "chunk_id": "61940d9d-17bf-4658-b1cc-674f398bdd80",
+      "passage_id": null,
+      "answer_start_char": 30828,
+      "answer_end_char": 32498,
+      "score": 0.7530434999134787
+    },
+    {
+      "source_id": "df245a76-925b-460e-be23-c1a54e53aee3",
+      "citation_number": 3,
+      "cited_text": "Statistical analysis All values are presented as the means ± standard devia- tions (SDs). Unpaired Student’s t tests were used, and p < 0.05 was defined as statistically significant.",
+      "start_char": 24182,
+      "end_char": 24364,
+      "chunk_id": "be7a61af-b7c4-4f67-81dc-7700a82c57d4",
+      "passage_id": null,
+      "answer_start_char": 24182,
+      "answer_end_char": 25000,
+      "score": 0.7757073197494702
+    },
+    {
+      "source_id": "df245a76-925b-460e-be23-c1a54e53aee3",
+      "citation_number": 4,
+      "cited_text": "Then, we examined the maintenance of Foxp3 by dCas9-p300CD in iTregs. The stability of Foxp3 under inflammatory cytokines was investigated (same as Addi-tional file  3: Figure  S1). We observed that iTregs cotransduced with dCas9-p300CD and #P-4 retained a high amount of Foxp3 compared with #P-3 under inflammatory conditions (Fig. 6a). We confirmed this maintenance is actually dependent on p300CD autoacetylation activity by co-transduction with p300 catalytic inactive mutant (Fig. 6b). Moreover, the Treg signature genes CD25 and CTLA-4 were slightly but significantly upregulated under IL-12 conditions in #P-4 transduced iTregs (Fig.  6c). Finally, we examined the iTreg suppression activity in  vitro. iTregs co-transduced with dCas9-p300CD and gRNA were sorted (Additional file 3: Figure S4a). Splenic DCs were used as antigen-presenting cells, and the proliferation of effector T cells was further suppressed by #P-4 transduced iTregs, which correlated with Foxp3 stabilization (Fig. 6d). Similar tendency was observed in comparison with catalytic activity (Additional file 3: Figure S4b). These data showed that applying dCas9-p300CD to primary T cells, especially iTregs, could modify both transcription and cell function. These data also clarified one aspect of the Foxp3 transcriptional activation mechanisms (Fig. 7b).",
+      "start_char": 40928,
+      "end_char": 42263,
+      "chunk_id": "cd894654-b570-4c14-934b-c77ad455f8c5",
+      "passage_id": null,
+      "answer_start_char": 40928,
+      "answer_end_char": 42263,
+      "score": 0.7609349775307579
+    },
+    {
+      "source_id": "8bdb836c-d04c-4b22-b56d-418fe4481173",
+      "citation_number": 5,
+      "cited_text": null,
+      "start_char": 12910,
+      "end_char": 12911,
+      "chunk_id": "329cc039-770b-4a01-aab1-8b80b83a4fd5",
+      "passage_id": null,
+      "answer_start_char": 12910,
+      "answer_end_char": 14978,
+      "score": 0.7477803931009877
+    },
+    {
+      "source_id": "df245a76-925b-460e-be23-c1a54e53aee3",
+      "citation_number": 6,
+      "cited_text": null,
+      "start_char": 49156,
+      "end_char": 49157,
+      "chunk_id": "2f719f96-c22e-45a2-ab93-d41afc653a9a",
+      "passage_id": null,
+      "answer_start_char": 49156,
+      "answer_end_char": 50033,
+      "score": 0.7557414464725485
+    },
+    {
+      "source_id": "8bdb836c-d04c-4b22-b56d-418fe4481173",
+      "citation_number": 7,
+      "cited_text": "We tested whether CRISPR-on can activate a sin-gle-copy transgene in mouse embryonic stem cells (mESCs). For this, dCas9VP48 was co-transfected with sgTetO into KH2MSI1 ESCs carrying a Tet- inducible Musashi1 (MSI1) transgene at the Col1A1 locus and the rtTA-M2 in the Rosa26 locus [23] (Supplementary information, Figure S3). Transient transfection of dCas9VP48 alone did not activate MSI1 expression (Supplementary information, Figure S3 Lane 1), while co-transfection of dCas9VP48 with sgTetO or addition of doxycycline (positive control) activated MSI1 expression (Supplementary information, Figure S3 Lane 2 and 7). Neither expression of dCas9VP48 with a mutant TetO sgRNA (sgTetO-mut) carrying mismatches to the TetO binding sites (Supplementary information, Figure S3 Lane 3) nor expression of sgTetO with dCas9 lacking an activation domain activated MSI1 expression (Supplementary information, Figure S3 Lane 4).",
+      "start_char": 7303,
+      "end_char": 8223,
+      "chunk_id": "e3102fc9-a83b-4179-9e2d-9446f936b344",
+      "passage_id": null,
+      "answer_start_char": 7303,
+      "answer_end_char": 8223,
+      "score": 0.7451411243351973
+    },
+    {
+      "source_id": "674f0049-b475-4395-9b8d-d5cc7fab1f10",
+      "citation_number": 8,
+      "cited_text": null,
+      "start_char": 12311,
+      "end_char": 12312,
+      "chunk_id": "04137884-75fc-4045-b4c0-6d50307e97c6",
+      "passage_id": null,
+      "answer_start_char": 12311,
+      "answer_end_char": 15092,
+      "score": 0.7645650481831288
+    }
+  ]
+}

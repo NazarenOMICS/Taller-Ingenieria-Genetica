@@ -1,0 +1,64 @@
+{
+  "slug": "q16-cebpa-promotor-fto",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q16-cebpa-promotor-fto",
+  "goal": "Determinar cómo se regula la ocupación de C/EBPα sobre el promotor de FTO y si el estrés oxidativo modula esa ocupación en algún tipo celular relevante.",
+  "dashboard": "C/EBPα occupancy at FTO promoter",
+  "notebook_id": "e1e63fca-378c-4d40-8517-608d3cf815cc",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "direct-binding",
+      "question": "According to these sources, is C/EBPα directly reported to bind the FTO promoter, and in which cell types or tissues was that binding demonstrated?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/answers/2026-07-24 Q01 - according-to-these-sources-c-ebp.md"
+    },
+    {
+      "id": 2,
+      "theme": "mechanism",
+      "question": "What molecular mechanisms regulate C/EBPα occupancy at the FTO promoter, including chromatin accessibility, co-factors, DNA methylation, or histone acetylation?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/answers/2026-07-24 Q02 - what-molecular-mechanisms-regulate-c-ebp.md"
+    },
+    {
+      "id": 3,
+      "theme": "oxidative-stress",
+      "question": "Is there evidence that oxidative stress changes C/EBPα occupancy, activity, or promoter binding at FTO or analogous loci in any cell type?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/answers/2026-07-24 Q03 - there-evidence-that-oxidative-stress-changes.md"
+    },
+    {
+      "id": 4,
+      "theme": "granulosa-relevance",
+      "question": "Is any C/EBPα-to-FTO regulatory mechanism shown directly in granulosa or ovarian cells, or is the evidence only indirect or from other tissues?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/answers/2026-07-24 Q04 - any-c-ebp-to-fto-regulatory.md"
+    },
+    {
+      "id": 5,
+      "theme": "best-supported-model",
+      "question": "What is the best-supported model linking C/EBPα regulation to FTO transcriptional control, and how strong is the evidence for extrapolating that model to oxidative-stress-induced FTO loss in granulosa?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/answers/2026-07-24 Q05 - what-best-supported-model-linking-c.md"
+    },
+    {
+      "id": 6,
+      "theme": "gaps",
+      "question": "What key experimental gaps remain before concluding that oxidative stress modulates C/EBPα occupancy at the FTO promoter in granulosa cells?",
+      "status": "error",
+      "qa_file": null
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q16-cebpa-promotor-fto/QA/summaries/2026-07-24 C/EBPα occupancy at FTO promoter - NotebookLM block summary.md"
+}

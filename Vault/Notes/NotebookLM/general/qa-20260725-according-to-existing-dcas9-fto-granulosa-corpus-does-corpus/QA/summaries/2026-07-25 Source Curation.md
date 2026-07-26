@@ -1,0 +1,67 @@
+---
+type: source-curation
+status: current
+date: 2026-07-25
+source: "notebooklm:general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus:source-curation"
+related:
+  - "[[Notes/Dashboards/Hermes QA - qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does]]"
+---
+
+# Source Curation - general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus
+
+Reporte local para corpus grande. Resume que fuentes ya demostraron valor real en QA y cuales conviene revisar o descartar.
+
+## Core sources (cited in QA)
+
+- daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf - cited_in_count=1 - type=pdf
+- li_2025_mechanism_of_crosstalk_between_dna_methylation_and_histone.pdf - cited_in_count=1 - type=pdf
+- matthew_2019_sufficiency_analysis_of_estrogen_responsive_enhancers_using_synthetic.pdf - cited_in_count=1 - type=pdf
+- xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf - cited_in_count=1 - type=pdf
+- zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf - cited_in_count=1 - type=pdf
+- zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf - cited_in_count=1 - type=pdf
+- zheng_2026_histone_modifications_in_cardiovascular_disease_mechanisms_and_therapeutic.pdf - cited_in_count=1 - type=pdf
+
+## Review queue (ready but not yet cited)
+
+- constantine_2018_transcriptional_repression_by_fact_is_linked_to_regulation.pdf
+- javaid_2021_crispr_cas_system_and_factors_affecting_its_precision.pdf
+- joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf
+- kailong_2020_interrogation_of_enhancer_function_by_enhancer_targeting_crispr.pdf
+- kevin_2018_gene_editing_in_the_context_of_an_increasingly.pdf
+- lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf
+- lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf
+- liang_2026_chromatin_remodeling_and_epigenetic_regulation_in_chronic_kidney.pdf
+- liliana_2021_epigenetic_mechanisms_in_breast_cancer_therapy_and_resistance.pdf
+- liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf
+- martin_2019_distinct_contribution_of_dna_methylation_and_histone_acetylation.pdf
+- matthew_2013_dna_methylation_alone_does_not_cause_most_cell.pdf
+- mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf
+- meneghini_2021_delivery_platforms_for_crispr_cas9_genome_editing_of.pdf
+- mengqi_2021_impacts_of_epigenetic_processes_on_the_health_and.pdf
+- paper_2021_abstracts_of_the_79th_annual_meeting_of_the.pdf
+- paper_2023_reviewer_2_public_review_cell_type_specific_cis.pdf
+- paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf
+- pawe_2023_oocyte_aging_a_multifactorial_phenomenon_in_a_unique.pdf
+- samuel_2017_deciphering_causal_genetic_determinants_of_red_blood_cell.pdf
+- srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf
+- tatyana_2008_dicer_regulates_xist_promoter_methylation_in_es_cells.pdf
+- turna_2026_epigenetic_alterations_in_cancer_metastasis_molecular_mechanisms_and.pdf
+- wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf
+- wu_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf
+- xin_2024_regulatory_mechanisms_of_pd_1_pd_l1_in.pdf
+- yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf
+- yang_2018_n6_methyladenosine_rna_modification_regulates_embryonic_neural_stem.pdf
+- yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf
+- youlin_2023_methyltransferase_3a_mediated_promoter_methylation_represses_retinoic_acid.pdf
+- yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf
+- zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf
+
+## Noisy / failed sources
+
+- No noisy/error sources
+
+## Regla practica de depuracion
+
+- conservar primero las fuentes de `Core sources`
+- revisar manualmente `Review queue` antes de descartarlas
+- eliminar o ignorar `Noisy / failed sources` salvo que se reparen y vuelvan a entrar limpias

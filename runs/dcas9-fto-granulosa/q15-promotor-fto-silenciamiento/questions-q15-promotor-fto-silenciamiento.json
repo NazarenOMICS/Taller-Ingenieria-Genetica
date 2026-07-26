@@ -1,0 +1,65 @@
+{
+  "slug": "q15-promotor-fto-silenciamiento",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q15-promotor-fto-silenciamiento",
+  "goal": "Determinar qué mecanismo promotor explica la disminución transcripcional de FTO en granulosa humana bajo estrés oxidativo o envejecimiento: metilación de ADN, pérdida de H3K27ac/HDAC, represores específicos o alteraciones del promotor.",
+  "dashboard": "FTO promoter silencing mechanism",
+  "notebook_id": "94a0c438-1289-4298-8dd5-65b4049413e7",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "dna-methylation",
+      "question": "According to these sources, is there direct evidence that DNA methylation at the FTO promoter (or promoter-proximal CpG island) explains decreased FTO transcription under oxidative stress, aging, or ovarian aging/granulosa contexts?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/answers/2026-07-24 Q01 - according-to-these-sources-there-direct.md"
+    },
+    {
+      "id": 2,
+      "theme": "histone-acetylation",
+      "question": "According to these sources, is reduced H3K27ac or HDAC-mediated deacetylation at the FTO promoter proposed or demonstrated as a mechanism for FTO downregulation, especially in granulosa or oxidative-stress models?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/answers/2026-07-24 Q02 - according-to-these-sources-reduced-h3k27ac.md"
+    },
+    {
+      "id": 3,
+      "theme": "transcription-factors",
+      "question": "Which transcription factors or promoter-bound repressors are reported to regulate FTO transcription directly, and is any of them linked to oxidative stress, senescence, or ovarian aging?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/answers/2026-07-24 Q03 - which-transcription-factors-or-promoter-bound.md"
+    },
+    {
+      "id": 4,
+      "theme": "promoter-genetics",
+      "question": "Do these sources report promoter-region mutations, cis-regulatory variants, or structural alterations that silence or reduce FTO transcription in any relevant tissue, and are any such findings applicable to granulosa biology?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/answers/2026-07-24 Q04 - do-these-sources-report-promoter-region.md"
+    },
+    {
+      "id": 5,
+      "theme": "synthesis",
+      "question": "Across these candidate mechanisms—DNA methylation, H3K27ac/HDAC changes, promoter-bound repressors, or promoter sequence alterations—which is best supported for explaining FTO downregulation, and how strong is the evidence specifically in granulosa versus only by extrapolation from other tissues?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/answers/2026-07-24 Q05 - across-these-candidate-mechanisms-dna-methylation.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What key evidence gaps remain before concluding the promoter-level mechanism of FTO downregulation in human granulosa cells under oxidative stress or ovarian aging?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/answers/2026-07-24 Q06 - what-key-evidence-gaps-remain-before.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/summaries/2026-07-24 FTO promoter silencing mechanism - NotebookLM block summary.md"
+}

@@ -1,0 +1,2103 @@
+{
+  "slug": "q03-especificidad-off-target",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "A Drug–Target Specificity Foundation Model for Off-target Prediction, Repurposing, and Generative Design",
+      "authors": "Sai T. Reddy",
+      "year": 2026,
+      "doi": "10.64898/2026.06.08.730844",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Molecular recognition - which small molecule binds which protein, and with what selectivity - governs the efficacy, safety, and discovery of every therapeutic, yet binding specificity is still determined by experimental screening or by computational methods that first predict three-dimensional structure. Transformer softmax attention is mathematically isomorphic to the Boltzmann distribution governing molecular binding at thermal equilibrium\n                  <jats:sup>1</jats:sup>\n                  , an identity that prescribes a single sequence-native architecture: the Specificity Foundation Model (SFM), which computes molecular binding compatibility as a thermodynamic quantity directly from sequence\n                  <jats:sup>2</jats:sup>\n                  . The framework was recently realized as prototype encoders across six molecular-recognition domains\n                  <jats:sup>3</jats:sup>\n                  . Here we report the small molecule drug-target protein SFM (dtSFM) as the first instance to pair a full-scale encoder with a generative decoder, trained on publicly available data consisting of 714,747 measured drug–protein interactions spanning 522,776 compounds and 22,964 proteins. Throughout, we verify binding predictions with AlphaFold 3\n                  <jats:sup>4</jats:sup>\n                  as an orthogonal structural verifier that shares no architecture, training data, or representational basis with dtSFM. From this single dtSFM model we demonstrate the three sequence-native applications of drug discovery: off-target prediction, repurposing, and generative design. The dtSFM encoder retrieves a drug’s target, and a target’s drug, at 95% and 89% recall-at-10 in distribution, respectively. In the drug→target direction it screens off-targets at proteome scale, ranking the documented off-targets of clinical kinase inhibitors at a median of 30th out of 4,910 genes - the top 0.6% of the screen - when validated against a chemoproteomic panel\n                  <jats:sup>5</jats:sup>\n                  . In the target→drug direction it ranks the full 522,776-compound library against three immunology targets, identifying 46 novel candidates that pass AlphaFold-3 structural gating. The dtSFM cross-attentive decoder generates novel molecules for 16 targets, 850 of 1,200 (71%) designed candidates match the AlphaFold 3 structural confidence of the approved drug (iPTM ≥ 0.9 and interface PAE ≤ 1.67 Å), with the best candidates reaching iPTM 0.95–0.99 and interface PAE 0.79–1.37 Å. dtSFM brings computational thermodynamics to every stage where molecular recognition shapes drug discovery; experimental wet-lab validation is the immediate next step.\n                </jats:p>",
+      "url": "https://doi.org/10.64898/2026.06.08.730844",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "10.64898/2026.06.08.730844",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A systematic guide for identifying transcription factors that directly regulate the expression of a gene of interest.",
+      "authors": "Bates AD; Grzela D; Studzian M; Brennan L; Williams M; Fawcett C; Hammond B; Grewal M; Ratajewski M; Pulaski L; McClurg UL",
+      "year": 2026,
+      "doi": "10.1101/gr.281154.125",
+      "pmid": "41702709",
+      "pmcid": "PMC12951958",
+      "abstract": "Transcriptional regulation lies at the heart of cellular identity and function, hinging on the precise binding of transcription factors (TFs) and cofactors to gene regulatory elements such as promoters and enhancers. Although it is relatively routine to profile genome-wide DNA binding landscapes of proteins, identifying the specific proteins that bind to, and regulate the transcription of, a particular gene of interest (GOI) remains a persistent experimental and conceptual challenge. This gene-centric question is complicated by the multilayered regulatory environment in which each gene resides, comprising 3D chromatin structure, enhancer-promoter looping, DNA accessibility, histone modifications, and cell state-dependent protein dynamics. In this review, we dissect the strengths, limitations, and biological relevance of current approaches for studying direct protein-DNA interactions, distinguishing between protein-centric and DNA-centric methodologies. We introduce a conceptual matrix of biological relevance, integrating the origin of DNA and protein elements (<i>cis</i> and <i>trans</i>) to evaluate false-positive and false-negative risks across experimental systems. Moreover, we explore how perturbation strategies-gain and loss of function-can complement steady-state profiling to establish causality in gene regulation. By critically examining both established tools and emerging techniques such as genome editing, synthetic chromosomes, and high-resolution imaging, we provide a practical framework for investigators seeking to uncover direct regulators of specific genes. Our goal is to guide the design of experiments that balance biological relevance, sensitivity, and interpretability to ultimately answer a deceptively simple question: What TFs directly regulate the expression of my GOI?",
+      "url": "https://europepmc.org/articles/PMC12951958",
+      "pdf_url": "https://europepmc.org/articles/PMC12951958?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a6/7d/PMC12951958.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "PMID:41702709",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Application of extracellular vesicles in the CRISPR-based diagnosis and treatment: possibilities and challenges.",
+      "authors": "Cho E; Lee J; Kim J; Choi J; Kang M; Song J",
+      "year": 2026,
+      "doi": "10.1186/s13036-026-00673-6",
+      "pmid": "41992329",
+      "pmcid": "PMC13202827",
+      "abstract": "The CRISPR–Cas system has revolutionized molecular diagnostics and gene editing, yet its clinical translation is hindered by delivery barriers, off-target activity, immunogenicity, and manufacturing challenges. Compared with viral vectors and synthetic non-viral carriers such as lipid nanoparticles, extracellular vesicles (EVs) offer a biologically derived delivery platform with superior biocompatibility, reduced immunogenicity, intrinsic cargo protection, and natural barrier-crossing capability. Engineered EVs can further achieve cell- or tissue-specific targeting. In diagnostics, endogenous EV proteins and nucleic acids provide disease-informative signatures that can interface with CRISPR nuclease readouts for highly sensitive detection. This review summarizes the therapeutic and diagnostic potential of EV-CRISPR platforms, covering strategies for loading CRISPR cargos (producer-cell engineering, post-isolation methods), cargo formats, and surface targeting approaches. We evaluate preclinical performance with attention to biodistribution, safety, innate and adaptive immune responses, and genomic integrity, as well as analytical assays and scalable manufacturing considerations essential for clinical translation. Finally, we discuss emerging opportunities, including AI-guided optimization of EV-CRISPR design and integrated EV platforms that combine disease detection with therapeutic intervention, highlighting their promise for advancing precision medicine.",
+      "url": "https://europepmc.org/articles/PMC13202827",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/09/99/13036_2026_Article_673.PMC13202827.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/09/99/PMC13202827.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "PMID:41992329",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Beyond CRISPR: next-gen precision engineering of CAR-NK cells for enhanced persistence, trafficking, and tumor eradication.",
+      "authors": "Dong A; Soleimani Samarkhazan H; Tavakoli F",
+      "year": 2026,
+      "doi": "10.1186/s12935-026-04219-0",
+      "pmid": "41645252",
+      "pmcid": "PMC12964733",
+      "abstract": "Chimeric antigen receptor natural killer (CAR-NK) cells represent a promising \"off-the-shelf\" alternative to CAR-T cells, offering a superior safety profile and inherent multi-antigen targeting capabilities. However, their clinical potential is constrained by the \"CRISPR ceiling\", a set of practical limitations of DSB-based CRISPR-Cas9 such as DNA double-strand break (DSB)-associated chromosomal rearrangements and p53-mediated fitness loss, low efficiency for safe, large, multicistronic knock-ins, and rigid promoter-driven transgene expression that can cause tonic signaling. Importantly, next-generation, DSB-free base and prime editors reduce or eliminate the DSB-associated genotoxic stress observed with nuclease cutting, CRISPR-associated transposases now enable programmable, targeted insertion strategies that can accommodate larger cassettes, and synthetic/epigenetic circuits provide dynamic, context-dependent transgene control that avoids constitutive promoter-driven tonic signaling. This review explores technological approaches beyond conventional CRISPR, highlighting next-generation precision engineering tools that may enable improved CAR-NK therapies and represent potential advances in safety and efficacy. We detail how base editing, epigenetic reprogramming, targeted transposon systems, and synthetic biology circuits can be synergistically integrated to overcome critical clinical challenges. These advanced technologies enable the precise enhancement of three fundamental pillars of efficacy: Persistence through endogenous cytokine armoring and metabolic engineering; Trafficking via chemokine receptor matching and stromal barrier degradation; and Tumor Eradication using logic-gated targeting, immunomodulatory payloads, and bispecific engagers. By synthesizing these cutting-edge advances, we provide a roadmap for developing next-generation CAR-NK cells capable of durable, potent, and safe antitumor responses against both hematological and solid malignancies, ultimately forging a new frontier in accessible cellular immunotherapy.",
+      "url": "https://europepmc.org/articles/PMC12964733",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/d4/15/12935_2026_Article_4219.PMC12964733.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d4/15/PMC12964733.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "PMID:41645252",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR and the Future of Cardiac Disease Therapy: A New Genetic Frontier.",
+      "authors": "Sterckel S; Chávez Martínez IL; Schwach V",
+      "year": 2026,
+      "doi": "10.3390/ijms27083641",
+      "pmid": "42074279",
+      "pmcid": "PMC13116973",
+      "abstract": "CRISPR technologies are transforming cardiovascular therapy development by creating an increasingly seamless pipeline from potential target discovery to clinical translation. What began as a genome-editing tool has evolved into a versatile platform that enables researchers to precisely interrogate and modulate cardiac biology with tools such as base- and prime-editors, and CRISPR inhibition and activation. In this review, we follow the use of CRISPR across the stages of biomedical research through to bench-to-bedside application. This review begins by addressing how genome-wide and focused CRISPR screens discover developmental regulators, disease drivers, and drug-response pathways, making the first steps in identifying therapeutic targets. We then explore how CRISPR engineering creates progressively more relevant disease model systems to validate mechanisms of disease and test interventions, helping bridge the translational gaps between the lab and the clinic. Finally, we consider how CRISPR technologies are beginning to enter cardiovascular clinical trials, while highlighting the key challenges that still limit this translation. By linking the latest advances of modern CRISPR platforms to the stages of therapeutic development, this review highlights how CRISPR technology is reshaping the pipeline from molecular insight to clinical innovation in cardiac disease.",
+      "url": "https://europepmc.org/articles/PMC13116973",
+      "pdf_url": "https://europepmc.org/articles/PMC13116973?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1d/0c/PMC13116973.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "PMID:42074279",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Delivering the future of immunotherapy: A state-of-the-art review of gene editing in immune cells with lipid nanoparticles.",
+      "authors": "Ciganek I; Delehedde C; Galy A; Cogné M; Rameix N; Bordeianu C; Pichon C",
+      "year": 2026,
+      "doi": "10.1016/j.mtbio.2026.103334",
+      "pmid": "42326077",
+      "pmcid": "PMC13276603",
+      "abstract": "CRISPR-based genome editing has rapidly advanced immune cell engineering, creating opportunities to enhance functionality, persistence, and specificity in cancer, infectious, and autoimmune diseases. The translation of these strategies depends critically on safe and efficient delivery systems. Viral vectors achieve high efficiency, but face limitations related to immunogenicity, genomic integration, and manufacturing scalability. Non-viral methods such as electroporation are effective for <i>ex vivo</i> editing yet remain unsuitable for <i>in vivo</i> use. Lipid nanoparticles (LNPs) have emerged as a clinically validated, scalable, and biocompatible alternative capable of delivering CRISPR cargo in the form of DNA, mRNA, or ribonucleoproteins. Recent innovations, including selective organ targeting, ligand conjugation, and sequence-level translational control are expanding their precision and versatility in immune cell engineering. Despite these advances, major challenges remain, including suboptimal endosomal escape, extrahepatic targeting, and immune trade-offs such as the PEG dilemma. By critically synthesizing current progress and limitations, this review highlights the central role of LNPs in enabling CRISPR-based immune engineering and outlines future directions for clinical translation<b>.</b>",
+      "url": "https://europepmc.org/articles/PMC13276603",
+      "pdf_url": "https://europepmc.org/articles/PMC13276603?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/51/d9/PMC13276603.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "PMID:42326077",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Enhancer Dynamics for Gene Regulation in the Cardiovascular System.",
+      "authors": "Wang Z; Gan P",
+      "year": 2026,
+      "doi": "10.1161/atvbaha.125.323110",
+      "pmid": "41503698",
+      "pmcid": "PMC13160219",
+      "abstract": "Enhancers are regulatory DNA sequences that increase the transcription of a target gene when bound by transcription factors. Decades of research endeavors have shed light on the crucial roles of enhancers in cardiovascular development and disease. Besides working as cis-regulatory elements, enhancers also play critical roles in transactivating mechanisms such as enhancer RNA transcription and transcriptional condensates. Technological advances, such as single-cell multiomics, CRISPR (clustered regularly interspaced short palindromic repeats)-based enhancer perturbation screens, and machine learning technologies, provide us with unprecedented opportunities to gain novel insights into the dynamic function of cardiovascular enhancers. In this brief review, we discuss cutting-edge techniques that are being or can be leveraged to fill knowledge gaps in studying cardiovascular enhancers. Like gene expression, enhancers display functional dynamics in concordance with specific cellular stress. We summarize the findings of inducible enhancer functions in the cardiovascular system. We also discuss several recent studies that are advancing our understanding of cardiovascular enhancer functions and are potentially paradigm-shifting. These insights have great potential to inform novel therapeutic strategies targeting enhancer-mediated gene dysregulation in cardiovascular disease.",
+      "url": "https://europepmc.org/articles/PMC13160219",
+      "pdf_url": "https://europepmc.org/articles/PMC13160219?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "PMID:41503698",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic and Transcriptomic Pathways Underlying Animal Models of Cognitive and Psychiatric Disorders: A Scoping Review.",
+      "authors": "Rathored J; Pal A; Sai Painkra D",
+      "year": 2026,
+      "doi": "10.3390/cimb48040425",
+      "pmid": "42042085",
+      "pmcid": "PMC13115134",
+      "abstract": "<b>Background:</b> Cognitive and psychiatric disorders are caused by a complex interplay between genetic predisposition, environmental exposures, and dynamic molecular regulation in the brain. Animal models provide a controlled environment for examining these mechanisms, and advances in transcriptome and epigenomic technologies have greatly expanded our knowledge of disease-relevant pathways. <b>Objective:</b> This scoping review systematically maps and synthesizes the epigenetic and transcriptomic findings from the established animal models of four neuropsychiatric conditions-autism spectrum disorder (ASD), schizophrenia, depression, and Rett syndrome-drawing on a PRISMA-ScR-guided literature search. The review characterizes the breadth of evidence, identifies convergent and divergent molecular pathways, and highlights the translational gaps and therapeutic implications. <b>Methods:</b> Research employing chromatin accessibility testing, genome-wide DNA methylation mapping, single-cell and bulk RNA sequencing, histone modification profiling, and multi-omics integration in mouse and other validated animal models was thoroughly reviewed. A quality appraisal of the primary experimental studies (n = 63) was performed using a modified CAMARADES checklist. <b>Results:</b> Beyond generalized cellular stress responses, multi-omics analysis emphasizes the cell-type- and context-dependent nature of epigenetic changes in animal models, including isoform-specific histone modifications and model-dependent binding of HDAC/MeCP2 complexes to genes involved in synaptic plasticity. Single-cell RNA sequencing analyses have uniformly shown transcriptional changes in parvalbumin-positive (PV+) interneurons. <b>Conclusions:</b> The specific convergence of epigenetic disruptions in neural circuits involved in synaptic structure and inhibitory function could play a role in the generation of neuropsychiatric phenotypes in animal models, highlighting the importance of circuit- and cell-type-specific epigenetics while pointing to potential therapeutic avenues.",
+      "url": "https://europepmc.org/articles/PMC13115134",
+      "pdf_url": "https://europepmc.org/articles/PMC13115134?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/70/PMC13115134.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9",
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "PMID:42042085",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic editing of marine medaka ( &lt;i&gt;Oryzias&lt;/i&gt; &lt;i&gt;melastigma&lt;/i&gt;) &lt;i&gt;fgf2&lt;/i&gt; using CRISPR/dCas9-Tet1CD.",
+      "authors": "Lin L; Zhang JJ; Liu BH; Du S; Zhang YQ; Yang Y; Li C; Dong CC; He YB; Wang Q; Wang HY; Shao CW",
+      "year": 2026,
+      "doi": "10.24272/j.issn.2095-8137.2025.089",
+      "pmid": "41633939",
+      "pmcid": "PMC13276642",
+      "abstract": "CRISPR/dCas9-mediated epigenetic editing offers a versatile approach for transcriptional regulation without introducing DNA strand breaks. Although this strategy has been explored in a limited number of species, its application in aquatic vertebrates remains largely uncharacterized. In this study, ten-eleven translocation methylcytosine dioxygenase 1 ( <i>tet1</i>) was cloned and molecularly characterized in marine medaka ( <i>Oryzias</i> <i>melastigma</i>). Decitabine treatment identified fibroblast growth factor 2 ( <i>fgf2</i>) as a methylation-sensitive gene, with a regulatory CpG island located within its promoter region. Subsequently, a CRISPR/dCas9-Tet1CD activation system was constructed by fusing the catalytic domain of Tet1 (Tet1CD, Ala1352-Thr2034) to dCas9, enabling locus-specific DNA demethylation. Targeting <i>fgf2</i>, this CRISPR/dCas9-Tet1CD system induced efficient and selective demethylation of the CpG island, resulting in a maximal 2.41-fold increase in <i>fgf2</i> transcript levels. Whole-genome bisulfite sequencing and transcriptomic analysis confirmed high on-target precision with minimal off-target effects. Epigenetic activation of <i>fgf2</i> further modulated downstream gene networks associated with growth, promoting durable transcriptional enhancement and increased cellular proliferation. Collectively, these results establish a robust and highly specific epigenetic editing platform in marine medaka, providing a powerful tool for functional genomics studies and regulatory element analysis in aquatic models.",
+      "url": "https://europepmc.org/articles/PMC13276642",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/35/c1/zr-47-1-263.PMC13276642.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/35/c1/PMC13276642.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "PMID:41633939",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Inducible CRISPR/Cas systems in precision oncology: Current applications and future perspectives.",
+      "authors": "Ding Z; Wei Y; Han Y; Gu P",
+      "year": 2026,
+      "doi": "10.1002/ctm2.70720",
+      "pmid": "42298891",
+      "pmcid": "PMC13269835",
+      "abstract": "<h4>Background</h4>Inducible CRISPR/Cas systems enable spatiotemporal control of genome editing in response to chemical, optical, biological, or physical stimuli. By restricting genome-editing activity to defined conditions, these systems may reduce off-target exposure and immune burden while improving tumor-selective control, making them attractive tools for precision oncology.<h4>Main body</h4>This review summarizes the molecular mechanisms, design principles, and current applications of inducible CRISPR/Cas systems in cancer research and therapy. These platforms are classified into chemically inducible, optogenetic, tumor microenvironment-responsive, physically triggered, and logic-gated systems. Regulatory strategies are discussed at multiple levels, including transcriptional control, post-translational regulation, guide RNA engineering, and stimulus-responsive delivery. Key applications include functional genomic screening, cancer modeling, therapeutic gene editing, immunotherapy enhancement, and combinatorial treatment strategies. We also examine current delivery approaches, including viral vectors, lipid nanoparticles, stimulus-responsive nanocarriers, and biomimetic platforms.<h4>Conclusion</h4>Inducible CRISPR/Cas systems represent a promising platform for next-generation precision cancer therapy. However, substantial optimization and rigorous preclinical validation remain necessary to address challenges related to leaky expression, induction efficiency, tissue penetration, immunogenicity, and long-term safety before clinical translation can be realized.<h4>Key points</h4>Inducible CRISPR/Cas systems enable conditional genome editing in precision oncology. Chemical, optical, TME-responsive, physical, and logic-gated systems offer distinct control features. Delivery, leakiness, immunogenicity, and safety remain key translational barriers. Ex vivo immune-cell engineering and locoregional delivery may offer nearer-term clinical routes.",
+      "url": "https://europepmc.org/articles/PMC13269835",
+      "pdf_url": "https://europepmc.org/articles/PMC13269835?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/98/1a/PMC13269835.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "PMID:42298891",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Isoform-specific single-cell perturb-seq reveals distinct functions of alternative promoters in drug response.",
+      "authors": "King HE; O'Connell S; Kavanagh D; Mason S; McCool C; Fernandez-Chamorro J; Chaffer CL; Clark SJ; Vieira HGS; Sterne-Weiler T; Weatheritt RJ",
+      "year": 2026,
+      "doi": "10.1093/nar/gkag118",
+      "pmid": "41728950",
+      "pmcid": "PMC12926921",
+      "abstract": "CRISPR interference (CRISPRi) screens have emerged as powerful tools for dissecting gene function, yet their application to genes with multiple promoters, which comprise over 60% of human genes, remains poorly understood. Here, we demonstrate that CRISPR-dCas9-based screens exhibit widespread promoter specificity, with untargeted promoters often showing compensatory upregulation to maintain gene expression. Leveraging this selective targeting of individual promoters within the same gene, we developed Isoform-Specific single-cell Perturb-Seq to systematically analyse alternative promoter function. Our analysis revealed that alternative promoters in 51.6% of targeted genes drive distinct transcriptional programs. This suggests that promoter selection represents a fundamental mechanism for generating cellular diversity rather than mere transcriptional redundancy. In breast cancer models, this promoter-specific targeting revealed differential effects on drug sensitivity, where distinct estrogen receptor (ESR1) promoters showed opposing influences on tamoxifen response and patient survival. These findings demonstrate the necessity of promoter-level analysis in functional genomics and suggest new strategies for therapeutic intervention through promoter-specific targeting.",
+      "url": "https://europepmc.org/articles/PMC12926921",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/35/7e/gkag118.PMC12926921.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/35/7e/PMC12926921.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "PMID:41728950",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "KLF5 controls subtype-independent highly interactive enhancers in pancreatic cancer to regulate cell survival.",
+      "authors": "Ekstrom TL; Dai Z; Thiel J; Kanakan A; Saha BJ; Manjunath M; Schacherer N; Bousounis P; Siegler EL; Abdelrahman AM; Souto Y; Essmann F; Najafova Z; Beyes S; Truty MJ; Dong M; Johnsen SA",
+      "year": 2026,
+      "doi": "10.1126/sciadv.aea2106",
+      "pmid": "41849608",
+      "pmcid": "PMC12998525",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains a highly lethal cancer with a 5-year survival rate of 13%. Despite recent molecular stratification of tumors into distinct classical and basal-like cell states, most tumors are heterogeneous and contain both subtypes. Therefore, therapeutic approaches targeting only one subtype are unlikely to be effective as standalone PDAC treatments. Here, we integrated chromatin accessibility [assay for transposase-accessible chromatin with sequencing (ATAC-seq)], genome-wide occupancy [chromatin immunoprecipitation sequencing (ChIP-seq)] for epigenetic status (H3K27ac), and H3K4me3-anchored chromatin topology (HiChIP) to uncover subtype-independent highly interactive enhancers that interact with essential genes in PDAC. Motif analysis revealed that these common enhancers were bound by KLF5 with subsequent depletion leading to decreased cell viability via induction of apoptosis. To elucidate the transcriptional and epigenetic mechanisms by which KLF5 functions in PDAC, we used rapid depletion of KLF5 with dTAG technology and profiled the effects on the open and active chromatin landscape and transcription with nascent RNA and messenger RNA sequencing over time. Enhancer inactivation via KRAB domain Zim3-dCas9 fusion protein confirmed KLF5-bound enhancers regulate target genes, including the anti-apoptotic gene <i>BCL2L1</i>. Multiplex immunofluorescence confirmed costaining of KLF5 and Bcl-xL in patient samples and overexpression of Bcl-xL rescued the induction of apoptosis after KLF5 depletion. Together, this study provides insights into common mechanisms to target highly heterogeneous PDAC tumors.",
+      "url": "https://europepmc.org/articles/PMC12998525",
+      "pdf_url": "https://europepmc.org/articles/PMC12998525?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3f/ea/PMC12998525.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "PMID:41849608",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Multilayer regulation of CRISPR systems: integrating anti-CRISPR proteins, CRISPRi/a, and quorum sensing networks.",
+      "authors": "Shan C; Liu C; Jin C; Tian D",
+      "year": 2026,
+      "doi": "10.3389/fcimb.2026.1844116",
+      "pmid": "42272755",
+      "pmcid": "PMC13246641",
+      "abstract": "The CRISPR-Cas system has evolved into a highly efficient platform for genome editing and programmable gene regulation, demonstrating broad application potential in microbiology, biotechnology, and medicine. However, traditional CRISPR tools typically rely on constitutively active nuclease activity; this constant activation state is prone to off-target effects and cytotoxicity, and lacks precise spatiotemporal regulation in complex biological environments. Therefore, developing strategies to achieve fine-tuned and context-dependent regulation of CRISPR activity has become a critical issue in this field that urgently needs to be addressed. Recent studies have demonstrated that various endogenous and exogenous regulatory modules can modulate the activity of the CRISPR-Cas system at different biological levels. Among these, anti-CRISPR proteins (Acr), which are natural inhibitory factors derived from bacteriophages, can suppress the nuclease activity of Cas proteins at the protein level by directly interfering with their function; The CRISPR interference/activation (CRISPRi/a) system, on the other hand, relies on catalytically inactivated Cas proteins to achieve sequence-specific regulation of target gene transcription; furthermore, quorum sensing (QS) networks dynamically regulate the expression of relevant genes by sensing cell density and environmental signals, thereby influencing the functional state of the CRISPR system at the population level. Based on the aforementioned regulatory mechanisms, this paper provides a comprehensive, literature-based overview of the molecular basis and recent advances in the applications of Acr proteins, the CRISPRi/a system, and QS networks in CRISPR-Cas regulation. Building on this, we propose a hierarchical regulatory framework: QS networks serve as upstream environmental sensing modules that drive CRISPRi/a-mediated programmable transcriptional regulation, while Acr proteins act as downstream rapid-response elements that finely tune CRISPR activity. This multi-tiered regulatory system holds promise for the dynamic optimization and precise control of CRISPR systems, offering new design concepts for constructing adaptive, programmable genetic regulatory networks, and demonstrating significant application potential in fields such as microbial engineering, anti-infective strategies, and precision gene regulation. The regulatory mechanism of Acr proteins on CRISPR activity has been experimentally validated in several studies. Nevertheless, the integration of Acr proteins with other regulatory modules such as CRISPRi/a systems or QS networks remains in the exploratory stage and requires further empirical research to confirm their functionality in complex biological systems.",
+      "url": "https://europepmc.org/articles/PMC13246641",
+      "pdf_url": "https://europepmc.org/articles/PMC13246641?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/df/0f/PMC13246641.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "PMID:42272755",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Next generation technologies for CRISPR-based epigenome and transcriptional modulation.",
+      "authors": "Pattali RK; Divekar NS; Nuñez JK",
+      "year": 2026,
+      "doi": "10.1016/j.cobme.2026.100654",
+      "pmid": "42266835",
+      "pmcid": "PMC13246158",
+      "abstract": "Technologies for editing epigenetic modifications and controlling transcription in mammalian cells have revolutionized targeted gene perturbation, functional genomics, and basic research. By avoiding the generation of DNA breaks, epigenome editing serves as a safe and precise approach for altering gene expression and has emerged as a promising platform for therapeutic applications. The advent of CRISPR has contributed significantly to the expansion of the existing toolkit for programmable modulation of epigenetic and transcriptional states. This review highlights recent discoveries in engineering novel tools for epigenome editing and transcriptional modulation through rational design, high throughput screening methods, and mutational scans, which leverage the endogenous reservoir of chromatin and transcriptional effectors for targeted gene repression and activation. We also discuss the therapeutic potential of epigenome modulators and highlight the key challenges that need to be addressed to improve their safety and efficacy. Advancing our understanding of the complex mechanisms driving gene expression and overcoming current limitations will pave the way for the development of novel technologies that advance fundamental research and translational applications.",
+      "url": "https://europepmc.org/articles/PMC13246158",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/e5/cf/nihms-2182105.PMC13246158.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e5/cf/PMC13246158.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq",
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "PMID:42266835",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "POCKET-seq enables genome-wide profiling of on- and off-target transcriptional regulation events by dCas9-KRAB during CRISPR interference experiments",
+      "authors": "Christine M. Joyce; Griffin D. Kramer; Jonathan T. Vu; Katherine U. Tavasoli; Brooke M. Gardner; Chris D. Richardson",
+      "year": 2026,
+      "doi": "10.64898/2026.06.01.729390",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>CRISPR interference screens use catalytically inactive dCas9 fused to a repressor domain to enable genetic perturbations at the transcriptomic level. Interpretation of results involves identification of guide RNAs associated with the screen phenotype, followed by secondary analysis. During validation of a genetic screen, we observed different phenotypes from non-overlapping guide RNAs targeting one gene. Here, we developed POCKET-seq to map the binding of dCas9 genome-wide. We show that off-target binding occurs frequently and can generate false-positive interactions when it occurs near the promoter of genes associated with the screen phenotype. POCKET-seq classifies these false-positive and true-positive interactions using gene ontology.</jats:p>",
+      "url": "https://doi.org/10.64898/2026.06.01.729390",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9",
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "10.64898/2026.06.01.729390",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Perturbation of BRD4 and p300 activity suppresses super enhancer‑driven &lt;i&gt;KLF6&lt;/i&gt; expression in renal carcinoma.",
+      "authors": "Zamberi NNM; Abuhamad AY; Yusuf SNHM; Rahman NQAA; Mohtar MA; Syafruddin SE",
+      "year": 2026,
+      "doi": "10.3892/or.2026.9118",
+      "pmid": "41992978",
+      "pmcid": "PMC13107101",
+      "abstract": "Super enhancers (SEs) are involved in regulating cell identity and lineage‑specific gene expression, and drive cancer‑associated gene expression. The transcription factor Kruppel‑like factor 6 (KLF6) promotes the growth and progression of clear cell renal cell carcinoma (ccRCC), with its high expression driven by one of the strongest SEs in ccRCC. However, the mechanisms that establish and maintain <i>KLF6</i> SE activity, particularly the roles of epigenetic regulators bromodomain-containing 4 (BRD4) and p300, remain poorly understood. This study investigated the roles of BRD4 and p300 in modulating <i>KLF6</i> SE activity. The effects of JQ1‑mediated BRD4 and A‑485‑mediated p300 inhibition were assessed using cell viability and colony formation assays. Reverse transcription‑quantitative (q)PCR and ChIP‑qPCR were employed to evaluate the impact of BRD4 and p300 inhibition, as well as CRISPR‑mediated deacetylation of individual constituent enhancers, on <i>KLF6</i> expression and SE activity. Chemical inhibition of BRD4 and p300 significantly reduced ccRCC cell viability and colony formation, and decreased KLF6 expression and levels of acetylation at lysine 27 of histone H3 (H3K27ac) at <i>KLF6</i> enhancer regions SE_1, SE_2 and SE_3, suggesting decreased chromatin accessibility. On the other hand, deacetylation of SE_1 using dead Cas9 fused to histone deacetylase 3, led to <i>KLF6</i> downregulation, which was associated with decreased H3K27ac signals at this region. The present results demonstrated that BRD4 and p300 are key for maintaining <i>KLF6</i> SE activity and driving high <i>KLF6</i> expression in ccRCC. However, deacetylation of  individual enhancer regions using CRISPR was insufficient to fully suppress <i>KLF6</i> transcription, emphasizing the robustness of the KLF6 SE and its modular role in sustaining high <i>KLF6</i> expression. Overall, the present study deepens the understanding of growth‑promoting KLF6 transcriptional networks in ccRCC and offers insights to support the development of diagnostic or therapeutic strategies.",
+      "url": "https://europepmc.org/articles/PMC13107101",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/6f/45/or-55-06-09118.PMC13107101.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6f/45/PMC13107101.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "PMID:41992978",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Predicting the effect of CRISPR-Cas9-based epigenome editing.",
+      "authors": "Batra SS; Cabrera A; Spence JP; Goell J; Anand SS; Hilton IB; Song YS",
+      "year": 2026,
+      "doi": "10.7554/elife.92991",
+      "pmid": "41524535",
+      "pmcid": "PMC12795505",
+      "abstract": "Epigenetic regulation orchestrates mammalian transcription, but functional links between them remain elusive. To tackle this problem, we use epigenomic and transcriptomic data from 13 ENCODE cell types to train machine learning models to predict gene expression from histone post-translational modifications (PTMs), achieving transcriptome-wide correlations of ∼0.70-0.79 for most cell types. Our models recapitulate known associations between histone PTMs and expression patterns, including predicting that acetylation of histone subunit H3 lysine residue 27 (H3K27ac) near the transcription start site (TSS) significantly increases expression levels. To validate this prediction experimentally and investigate how natural vs. engineered deposition of H3K27ac might differentially affect expression, we apply the synthetic dCas9-p300 histone acetyltransferase system to 8 genes in the HEK293T cell line and to 5 genes in the K562 cell line. Further, to facilitate model building, we perform MNase-seq to map genome-wide nucleosome occupancy levels in HEK293T. We observe that our models perform well in accurately ranking relative fold-changes among genes in response to the dCas9-p300 system; however, their ability to rank fold-changes within individual genes is noticeably diminished compared to predicting expression across cell types from their native epigenetic signatures. Our findings highlight the need for more comprehensive genome-scale epigenome editing datasets, better understanding of the actual modifications made by epigenome editing tools, and improved causal models that transfer better from endogenous cellular measurements to perturbation experiments. Together, these improvements would facilitate the ability to understand and predictably control the dynamic human epigenome with consequences for human health.",
+      "url": "https://europepmc.org/articles/PMC12795505",
+      "pdf_url": "https://europepmc.org/articles/PMC12795505?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/5a/44/PMC12795505.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "PMID:41524535",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Research progress and applications of gene activation editing technology in crops.",
+      "authors": "Lv J; He X; Wu Q; Sun Y; Pu W; Dai C",
+      "year": 2026,
+      "doi": "10.3389/fpls.2026.1787461",
+      "pmid": "41937789",
+      "pmcid": "PMC13047105",
+      "abstract": "In recent years, CRISPR/Cas gene editing technology has become a fundamental method in biological breeding. As a vital tool for overcoming technological obstacles, it is currently widely used in functional gene research and genetic enhancement across a variety of organisms. Currently, CRISPR activation (CRISPRa) technology based on dCas9 fusion transcription activation domains has emerged as a powerful tool for expanding the application of CRISPR/Cas systems in improving traits in plants, animals, and microorganisms. This overview starts by going over the underlying principles and components of gene activation editing technology, as well as the phases of development of its three generations. It summarises the present difficulties and potential directions in this field while concentrating on the use of gene activation editing in important crop traits including growth and development regulation, stress resistance, and quality regulation. The objective is to offer valuable insights for the research and development of crop breeding.",
+      "url": "https://europepmc.org/articles/PMC13047105",
+      "pdf_url": "https://europepmc.org/articles/PMC13047105?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/73/0b/PMC13047105.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "PMID:41937789",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Single-Cell CRISPR: An Efficient Strategy for Decoding Plant Cis-Regulatory Complexity.",
+      "authors": "Zhang Y; Luo X; Li H; Jin S; Zhang X; Wang M",
+      "year": 2026,
+      "doi": "10.1111/pbi.70647",
+      "pmid": "41854240",
+      "pmcid": "PMC13278549",
+      "abstract": "The generation of complex traits involves the coordinated interplay of multiple gene networks. Elucidating the function of transcriptional cis-regulatory elements (CREs) in regulating gene expression is crucial for understanding complex regulatory pathways and improving our ability to modify macro-phenotypes. While traditional bulk sequencing approaches rely on tissue or cell population aggregates, single-cell transcriptomics provides a more precise perspective by capturing cell-type-specific information. The integration of single-cell technology with genome-wide genetic screening, particularly through the single-cell CRISPR (scCRISPR) system, enables the identification of critical regulatory elements and provides novel insights into gene-expression control mechanisms. Here, we summarise recent advances in diverse strategies for functional genome analysis using the scCRISPR system, with an emphasis on its potential to revolutionise single-cell genetic screening of CREs. We also explore the challenges and opportunities for applying these approaches in plant research.",
+      "url": "https://europepmc.org/articles/PMC13278549",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/09/f7/PBI-24-4454.PMC13278549.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/09/f7/PMC13278549.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "PMID:41854240",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeted Epigenetic Activation of &lt;i&gt;CTLA4&lt;/i&gt; in Haploinsufficiency Cellular Models by CRISPRa.",
+      "authors": "Griazeva E; Radion EI; Kobyzeva P; Ulasova N; Zelenova E; Bolashova E; Vladimirov I; Makarov VV; Keskinov A; Yudin V",
+      "year": 2026,
+      "doi": "10.3390/biomedicines14040793",
+      "pmid": "42072337",
+      "pmcid": "PMC13113370",
+      "abstract": "<b>Background/Objectives</b>: <i>CTLA4</i> (Cytotoxic T-Lymphocyte Antigen 4) is a key immune checkpoint that plays a principal part in controlling T-cell activation and maintaining immune homeostasis. <i>CTLA4</i> haploinsufficiency (<i>CTLA4</i><sup>+/-</sup>) results in severe autoimmune disorders and increased susceptibility to infections, often associated with dysregulated T cell activity. <i>CTLA4</i><sup>+/-</sup> patients experience life-threatening complications and exhibit moderate survival rates that can vary significantly, depending on the treatment of associated autoimmune phenotypes. Current therapeutic approaches primarily use immunosuppressives and monoclonal antibodies to modulate the immune response; however, their effectiveness and specificity are often limited. In this study, we aimed to develop a novel therapy approach for <i>CTLA4</i> haploinsufficiency utilizing the CRISPR activation system (CRISPRa) to enhance wild-type <i>CTLA4</i> allele expression. <b>Methods</b>: The CRISPR/Cas9 system has become a widely used method for precise genome editing, allowing for targeted gene regulation. We applied a CRISPRa-based strategy to induce endogenous <i>CTLA4</i> expression using appropriate cellular models and evaluated transcriptomic changes. <b>Results</b>: CRISPRa-mediated activation enabled increased <i>CTLA4</i> expression, suggesting the feasibility of restoring physiological expression levels. <b>Conclusions</b>: This approach may provide a basis for developing CRISPRa-based strategies to restore immune regulation and improve clinical outcomes in <i>CTLA4</i><sup>+/-</sup> patients.",
+      "url": "https://europepmc.org/articles/PMC13113370",
+      "pdf_url": "https://europepmc.org/articles/PMC13113370?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3e/78/PMC13113370.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "PMID:42072337",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Manual for Genome and Transcriptome Engineering.",
+      "authors": "Doctor Y; Sanghvi M; Mali P",
+      "year": 2025,
+      "doi": "10.1109/rbme.2024.3494715",
+      "pmid": "39514364",
+      "pmcid": "PMC11875898",
+      "abstract": "Genome and transcriptome engineering have emerged as powerful tools in modern biotechnology, driving advancements in precision medicine and novel therapeutics. In this review, we provide a comprehensive overview of the current methodologies, applications, and future directions in genome and transcriptome engineering. Through this, we aim to provide a guide for tool selection, critically analyzing the strengths, weaknesses, and best use cases of these tools to provide context on their suitability for various applications. We explore standard and recent developments in genome engineering, such as base editors and prime editing, and provide insight into tool selection for change of function (knockout, deletion, insertion, substitution) and change of expression (repression, activation) contexts. Advancements in transcriptome engineering are also explored, focusing on established technologies like antisense oligonucleotides (ASOs) and RNA interference (RNAi), as well as recent developments such as CRISPR-Cas13 and adenosine deaminases acting on RNA (ADAR). This review offers a comparison of different approaches to achieve similar biological goals, and consideration of high-throughput applications that enable the probing of a variety of targets. This review elucidates the transformative impact of genome and transcriptome engineering on biological research and clinical applications that will pave the way for future innovations in the field.",
+      "url": "https://europepmc.org/articles/PMC11875898",
+      "pdf_url": "https://europepmc.org/articles/PMC11875898?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "PMID:39514364",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Enhancing Specificity, Precision, Accessibility, Flexibility, and Safety to Overcome Traditional CRISPR/Cas Editing Challenges and Shape Future Innovations.",
+      "authors": "Alariqi M; Ramadan M; Yu L; Hui F; Hussain A; Zhou X; Yu Y; Zhang X; Jin S",
+      "year": 2025,
+      "doi": "10.1002/advs.202416331",
+      "pmid": "40548648",
+      "pmcid": "PMC12302564",
+      "abstract": "Derived from the bacterial immune system, CRISPR/Cas9 induces DSBs at specific DNA sequences, which are repaired by the cell's endogenous mechanisms, leading to gene insertions, deletions, or substitutions. Despite its transformative potential, several challenges remain in optimizing of CRISPR/Cas systems, including off-target effects, delivery methods, PAM restrictions, and the limitations of traditional editing approaches. This review focuses on the interplay between these challenges and their contributions to gene editing precision, specificity, accessibility, flexibility, and safety. How reducing off-target effects enhances specificity and safety is explored, while discussing the role of HDR-based editing in achieving precise gene modifications, alongside alternative methods such as base editing and prime editing. Improved delivery mechanisms are examined for their impact on accessibility and efficiency, while the reduction of PAM restrictions is highlighted for its contributions to flexibility. Lastly, emerging cleavage-free editing technologies are evaluated as they relate to safety and accessibility. This focused review aims to clarify the connections among these aspects and outline future research directions for advancing CRISPR-based applications.",
+      "url": "https://europepmc.org/articles/PMC12302564",
+      "pdf_url": "https://europepmc.org/articles/PMC12302564?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/d5/PMC12302564.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "PMID:40548648",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "LINE-1 retrotransposons mediate cis-acting transcriptional control in human pluripotent stem cells and regulate early brain development.",
+      "authors": "Adami A; Garza R; Gerdes P; Johansson PA; Dorazehi F; Koutounidou S; Castilla-Vallmanya L; Atacho DAM; Sharma Y; Johansson JG; Tam O; Kirkeby A; Barker RA; Hammell MG; Douse CH; Jakobsson J",
+      "year": 2025,
+      "doi": "10.1016/j.xgen.2025.100979",
+      "pmid": "40848716",
+      "pmcid": "PMC12791003",
+      "abstract": "Long interspersed nuclear element 1 (L1) retrotransposons represent a vast source of genetic variability. However, mechanistic analysis of whether and how L1s contribute to human developmental programs is lacking, in part due to the challenges associated with specific profiling and manipulation of human L1 expression. Here, we show that thousands of hominoid-specific L1 integrants are expressed in human induced pluripotent stem cells and cerebral organoids. The activity levels of individual L1 promoters vary widely and correlate with an active epigenetic state. Efficient on-target CRISPR interference (CRISPRi) silencing of L1s revealed nearly a hundred co-opted L1-derived chimeric transcripts, and L1 silencing resulted in changes in neural differentiation programs and reduced cerebral organoid size. Together, these data implicate L1s and L1-derived transcripts in hominoid-specific CNS developmental processes.",
+      "url": "https://europepmc.org/articles/PMC12791003",
+      "pdf_url": "https://europepmc.org/articles/PMC12791003?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/71/56/PMC12791003.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "PMID:40848716",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Versatile molecular tools enabling customizable DNA methylation editing in Arabidopsis.",
+      "authors": "He L; Yao Y; You Y; Wei X; Ma Y; Yuan W; Lang Z; Zhu JK",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-66933-z",
+      "pmid": "41353342",
+      "pmcid": "PMC12783717",
+      "abstract": "Tools to edit DNA methylation in a targeted manner are vital for establishing causal relationships between DNA methylation and its function, as well as for plant breeding and gene therapy. Here, by constructing dCas9 fusions to a panel of effectors and cofactors, we develop a range of highly effective tools for editing DNA methylation in Arabidopsis, including five tools for DNA methylation and six tools for DNA demethylation. Our tools show a diversity of performance features in terms of specificity and efficiency, offering either the capacity to edit DNA methylation in a target-specific manner or the ability to edit DNA methylation genome-wide due to potent off-target effect. Importantly, DNA methylation edited by these tools is inherited in the absence of transgene. These versatile tools pave the way for diverse applications of DNA methylation editing in not only research but also epigenetic breeding of crops.",
+      "url": "https://europepmc.org/articles/PMC12783717",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/e1/b0/41467_2025_Article_66933.PMC12783717.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e1/b0/PMC12783717.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "PMID:41353342",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-Cas-mediated transcriptional modulation: The therapeutic promises of CRISPRa and CRISPRi",
+      "authors": "Louise Bendixen; Trine I. Jensen; Rasmus O. Bak",
+      "year": 2023,
+      "doi": "10.1016/j.ymthe.2023.03.024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The CRISPR-Cas system is commonly known for its ability to cleave DNA in a programmable manner, which has democratized gene editing and facilitated recent breakthroughs in gene therapy. However, newer iterations of the technology using nuclease-disabled Cas enzymes have spurred a variety of different types of genetic engineering platforms such as transcriptional modulation using the CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi) systems. This review introduces the creation of these programmable transcriptional modulators, various methods of delivery utilized for these systems, and recent technological developments. CRISPRa and CRISPRi have also been implemented in genetic screens for interrogating gene function and discovering genes involved in various biological pathways. We describe recent compelling examples of how these tools have become powerful means to unravel genetic networks and uncovering important information about devastating diseases. Finally, we provide an overview of preclinical studies in which transcriptional modulation has been used therapeutically, and we discuss potential future directions of these novel modalities. The CRISPR-Cas system is commonly known for its ability to cleave DNA in a programmable manner, which has democratized gene editing and facilitated recent breakthroughs in gene therapy. However, newer iterations of the technology using nuclease-disabled Cas enzymes have spurred a variety of different types of genetic engineering platforms such as transcriptional modulation using the CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi) systems. This review introduces the creation of these programmable transcriptional modulators, various methods of delivery utilized for these systems, and recent technological developments. CRISPRa and CRISPRi have also been implemented in genetic screens for interrogating gene function and discovering genes involved in various biological pathways. We describe recent compelling examples of how these tools have become powerful means to unravel genetic networks and uncovering important information about devastating diseases. Finally, we provide an overview of preclinical studies in which transcriptional modulation has been used therapeutically, and we discuss potential future directions of these novel modalities.",
+      "url": "https://doi.org/10.1016/j.ymthe.2023.03.024",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10362391/pdf/main.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "W4360604655",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 Landscape: Current State and Future Perspectives.",
+      "authors": "Tyumentseva M; Tyumentsev A; Akimkin V",
+      "year": 2023,
+      "doi": "10.3390/ijms242216077",
+      "pmid": "38003266",
+      "pmcid": "PMC10671331",
+      "abstract": "CRISPR (clustered regularly interspaced short palindromic repeats)/Cas9 is a unique genome editing tool that can be easily used in a wide range of applications, including functional genomics, transcriptomics, epigenetics, biotechnology, plant engineering, livestock breeding, gene therapy, diagnostics, and so on. This review is focused on the current CRISPR/Cas9 landscape, e.g., on Cas9 variants with improved properties, on Cas9-derived and fusion proteins, on Cas9 delivery methods, on pre-existing immunity against CRISPR/Cas9 proteins, anti-CRISPR proteins, and their possible roles in CRISPR/Cas9 function improvement. Moreover, this review presents a detailed outline of CRISPR/Cas9-based diagnostics and therapeutic approaches. Finally, the review addresses the future expansion of genome editors' toolbox with Cas9 orthologs and other CRISPR/Cas proteins.",
+      "url": "https://europepmc.org/articles/PMC10671331",
+      "pdf_url": "https://europepmc.org/articles/PMC10671331?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c5/17/PMC10671331.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "PMID:38003266",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 therapeutics: progress and prospects",
+      "authors": "Tianxiang Li; Yanyan Yang; Hongzhao Qi; Weigang Cui; Lin Zhang; Xiuxiu Fu; Xiangqin He; Meixin Liu; Peifeng Li; Tao Yu",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01309-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) gene-editing technology is the ideal tool of the future for treating diseases by permanently correcting deleterious base mutations or disrupting disease-causing genes with great precision and efficiency. A variety of efficient Cas9 variants and derivatives have been developed to cope with the complex genomic changes that occur during diseases. However, strategies to effectively deliver the CRISPR system to diseased cells in vivo are currently lacking, and nonviral vectors with target recognition functions may be the focus of future research. Pathological and physiological changes resulting from disease onset are expected to serve as identifying factors for targeted delivery or targets for gene editing. Diseases are both varied and complex, and the choice of appropriate gene-editing methods and delivery vectors for different diseases is important. Meanwhile, there are still many potential challenges identified when targeting delivery of CRISPR/Cas9 technology for disease treatment. This paper reviews the current developments in three aspects, namely, gene-editing type, delivery vector, and disease characteristics. Additionally, this paper summarizes successful examples of clinical trials and finally describes possible problems associated with current CRISPR applications.",
+      "url": "https://doi.org/10.1038/s41392-023-01309-7",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01309-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9",
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "W4316466738",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/dCas9 Tools: Epigenetic Mechanism and Application in Gene Transcriptional Regulation",
+      "authors": "Ruijie Cai; Runyu Lv; Xin’e Shi; Gongshe Yang; Jianjun Jin",
+      "year": 2023,
+      "doi": "10.3390/ijms241914865",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR/Cas9-mediated cleavage of DNA, which depends on the endonuclease activity of Cas9, has been widely used for gene editing due to its excellent programmability and specificity. However, the changes to the DNA sequence that are mediated by CRISPR/Cas9 affect the structures and stability of the genome, which may affect the accuracy of results. Mutations in the RuvC and HNH regions of the Cas9 protein lead to the inactivation of Cas9 into dCas9 with no endonuclease activity. Despite the loss of endonuclease activity, dCas9 can still bind the DNA strand using guide RNA. Recently, proteins with active/inhibitory effects have been linked to the end of the dCas9 protein to form fusion proteins with transcriptional active/inhibitory effects, named CRISPRa and CRISPRi, respectively. These CRISPR tools mediate the transcription activity of protein-coding and non-coding genes by regulating the chromosomal modification states of target gene promoters, enhancers, and other functional elements. Here, we highlight the epigenetic mechanisms and applications of the common CRISPR/dCas9 tools, by which we hope to provide a reference for future related gene regulation, gene function, high-throughput target gene screening, and disease treatment.",
+      "url": "https://doi.org/10.3390/ijms241914865",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/19/14865/pdf?version=1696326703",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq",
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "W4387302569",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Off-target effects in CRISPR/Cas9 gene editing",
+      "authors": "Congting Guo; Xiaoteng Ma; Fei Gao; Yuxuan Guo",
+      "year": 2023,
+      "doi": "10.3389/fbioe.2023.1143157",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Gene editing stands for the methods to precisely make changes to a specific nucleic acid sequence. With the recent development of the clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9 system, gene editing has become efficient, convenient and programmable, leading to promising translational studies and clinical trials for both genetic and non-genetic diseases. A major concern in the applications of the CRISPR/Cas9 system is about its off-target effects, namely the deposition of unexpected, unwanted, or even adverse alterations to the genome. To date, many methods have been developed to nominate or detect the off-target sites of CRISPR/Cas9, which laid the basis for the successful upgrades of CRISPR/Cas9 derivatives with enhanced precision. In this review, we summarize these technological advancements and discuss about the current challenges in the management of off-target effects for future gene therapy.",
+      "url": "https://doi.org/10.3389/fbioe.2023.1143157",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fbioe.2023.1143157/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\congting_2023_off_target_effects_in_crispr_cas9_gene_editing.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "W4323666400",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"The prolactin receptor: A cross‐species comparison of gene structure, transcriptional regulation, tissue‐specificity, and genetic variation\"",
+      "authors": "",
+      "year": 2023,
+      "doi": "10.1111/jne.13385/v1/review3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1111/jne.13385/v1/review3",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "10.1111/jne.13385/v1/review3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"The prolactin receptor: A cross‐species comparison of gene structure, transcriptional regulation, tissue‐specificity, and genetic variation\"",
+      "authors": "",
+      "year": 2023,
+      "doi": "10.1111/jne.13385/v1/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1111/jne.13385/v1/review2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "10.1111/jne.13385/v1/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas13 effectors have differing extents of off-target effects that limit their utility in eukaryotic cells",
+      "authors": "Yuxi Ai; Dongming Liang; Jeremy E. Wilusz",
+      "year": 2021,
+      "doi": "10.1101/2021.11.04.467323",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>\n                  CRISPR/Cas13 effectors have garnered increasing attention as easily customizable tools for detecting and depleting RNAs of interest. Near perfect complementarity between a target RNA and the Cas13-associated guide RNA is required for activation of Cas13 ribonuclease activity. Nonetheless, the specificity of Cas13 effectors in eukaryotic cells has been debated as the Cas13 nuclease domains can be exposed on the enzyme surface, providing the potential for promiscuous cleavage of nearby RNAs (so-called collateral damage). Here, using co-transfection assays in\n                  <jats:italic>Drosophila</jats:italic>\n                  and human cells, we found that the off-target effects of RxCas13d, a commonly used Cas13 effector, can be as strong as the level of on-target RNA knockdown. The extent of off-target effects is positively correlated with target RNA expression levels, and collateral damage can be observed even after reducing RxCas13d/guide RNA levels. The PspCas13b effector showed improved specificity and, unlike RxCas13d, can be used to deplete a\n                  <jats:italic>Drosophila</jats:italic>\n                  circular RNA without affecting the expression of the associated linear RNA. PspCas13b nonetheless still can have off-target effects and we notably found that the extent of off-target effects for Cas13 effectors differs depending on the cell type and target RNA examined. In total, these results highlight the need for caution when designing and interpreting Cas13-based knockdown experiments.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/2021.11.04.467323",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "10.1101/2021.11.04.467323",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/dCas9-based Systems: Mechanisms and Applications in Plant Sciences",
+      "authors": "Chou Khai Soong Karlson; Siti Nurfadhlina Mohd Noor; Nadja Nolte; Boon Chin Tan",
+      "year": 2021,
+      "doi": "10.20944/preprints202102.0033.v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "RNA-guided genomic transcriptional regulation tools, namely Clustered Regularly Interspaced Short Palindromic Repeats interference (CRISPRi) and CRISPR-mediated gene activation (CRISPRa), are a powerful technology for the field of functional genomics. Deriving from the CRISPR/Cas9 system, both systems comprise a catalytically dead Cas9 (dCas9) and a single guide RNA (sgRNA). This type of dCas9 is incapable of cleaving DNA but retains its ability to specifically bind to DNA. The binding of the dCas9/sgRNA complex to a target gene results in transcriptional interference. The CRISPR/dCas9 system has been explored as a tool for transcriptional modulation and genome imaging. Despite its potential applications and benefits, the challenges and limitations faced by the CRISPR/dCas9 system include the off-target effects, PAM sequence requirement, efficient delivery methods, and the CRISPR/dCas9-interfered crops being labeled as genetically modified organisms in several countries. This review highlights the progression of CRISPR/dCas9 technology as well as its applications and potential challenges in crop improvement.",
+      "url": "https://doi.org/10.20944/preprints202102.0033.v1",
+      "pdf_url": "https://www.preprints.org/manuscript/202102.0033/v1/download",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "W3128560444",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeted regulation of transcription in primary cells using CRISPRa and CRISPRi",
+      "authors": "Trine I. Jensen; Nanna S. Mikkelsen; Zongliang Gao; Johannes Foßelteder; Gabriel Pabst; Esben Axelgaard; Anders Laustsen; Saskia König; Andreas Reinisch; Rasmus O. Bak",
+      "year": 2021,
+      "doi": "10.1101/gr.275607.121",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Targeted transcriptional activation or interference can be induced with the CRISPR-Cas9 system (CRISPRa/CRISPRi) using nuclease-deactivated Cas9 fused to transcriptional effector molecules. These technologies have been used in cancer cell lines, particularly for genome-wide functional genetic screens using lentiviral vectors. However, CRISPRa and CRISPRi have not yet been widely applied to ex vivo cultured primary cells with therapeutic relevance owing to a lack of effective and nontoxic delivery modalities. Here we develop CRISPRa and CRISPRi platforms based on RNA or ribonucleoprotein (RNP) delivery by electroporation and show transient, programmable gene regulation in primary cells, including human CD34 + hematopoietic stem and progenitor cells (HSPCs) and human CD3 + T cells. We show multiplex and orthogonal gene modulation using multiple sgRNAs and CRISPR systems from different bacterial species, and we show that CRISPRa can be applied to manipulate differentiation trajectories of HSPCs. These platforms constitute simple and effective means to transiently control transcription and are easily adopted and reprogrammed to new target genes by synthetic sgRNAs. We believe these technologies will find wide use in engineering the transcriptome for studies of stem cell biology and gene function, and we foresee that they will be implemented to develop and enhance cellular therapeutics.",
+      "url": "https://doi.org/10.1101/gr.275607.121",
+      "pdf_url": "https://genome.cshlp.org/content/31/11/2120.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "W3194597727",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Applications of genome editing technology in the targeted therapy of human diseases: mechanisms, advances and prospects",
+      "authors": "Hongyi Li; Yang Yang; Weiqi Hong; Mengyuan Huang; Min Wu; Xia Zhao",
+      "year": 2020,
+      "doi": "10.1038/s41392-019-0089-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Based on engineered or bacterial nucleases, the development of genome editing technologies has opened up the possibility of directly targeting and modifying genomic sequences in almost all eukaryotic cells. Genome editing has extended our ability to elucidate the contribution of genetics to disease by promoting the creation of more accurate cellular and animal models of pathological processes and has begun to show extraordinary potential in a variety of fields, ranging from basic research to applied biotechnology and biomedical research. Recent progress in developing programmable nucleases, such as zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs) and clustered regularly interspaced short palindromic repeat (CRISPR)-Cas-associated nucleases, has greatly expedited the progress of gene editing from concept to clinical practice. Here, we review recent advances of the three major genome editing technologies (ZFNs, TALENs, and CRISPR/Cas9) and discuss the applications of their derivative reagents as gene editing tools in various human diseases and potential future therapies, focusing on eukaryotic cells and animal models. Finally, we provide an overview of the clinical trials applying genome editing platforms for disease treatment and some of the challenges in the implementation of this technology.",
+      "url": "https://doi.org/10.1038/s41392-019-0089-y",
+      "pdf_url": "https://www.nature.com/articles/s41392-019-0089-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "W2998881619",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR RNA-guided integrases for high-efficiency, multiplexed bacterial genome engineering",
+      "authors": "Phuc Leo H. Vo; Carlotta Ronda; Sanne E. Klompe; Ethan Chen; Christopher Acree; Harris H. Wang; Samuel H. Sternberg",
+      "year": 2020,
+      "doi": "10.1038/s41587-020-00745-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41587-020-00745-y",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10583764/pdf/nihms-1935542.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "W3108602813",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas Systems in Genome Editing: Methodologies and Tools for sgRNA Design, Off‐Target Evaluation, and Strategies to Mitigate Off‐Target Effects",
+      "authors": "Hakim Manghwar; Bo Li; Xiao Ding; Amjad Hussain; Keith Lindsey; Xianlong Zhang; Shuangxia Jin",
+      "year": 2020,
+      "doi": "10.1002/advs.201902312",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Life sciences have been revolutionized by genome editing (GE) tools, including zinc finger nucleases, transcription activator-Like effector nucleases, and CRISPR (clustered regulatory interspaced short palindromic repeats)/Cas (CRISPR-associated) systems, which make the targeted modification of genomic DNA of all organisms possible. CRISPR/Cas systems are being widely used because of their accuracy, efficiency, and cost-effectiveness. Various classes of CRISPR/Cas systems have been developed, but their extensive use may be hindered by off-target effects. Efforts are being made to reduce the off-target effects of CRISPR/Cas9 by generating various CRISPR/Cas systems with high fidelity and accuracy. Several approaches have been applied to detect and evaluate the off-target effects. Here, the current GE tools, the off-target effects generated by GE technology, types of off-target effects, mechanisms of off-target effects, major concerns, and outcomes of off-target effects in plants and animals are summarized. The methods to detect off-target effects, tools for single-guide RNA (sgRNA) design, evaluation and prediction of off-target effects, and strategies to increase the on-target efficiency and mitigate the off-target impact on intended genome-editing outcomes are summarized.",
+      "url": "https://doi.org/10.1002/advs.201902312",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.201902312",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "W3004490498",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Latest Developed Strategies to Minimize the Off-Target Effects in CRISPR-Cas-Mediated Genome Editing",
+      "authors": "Muhammad Naeem; Saman Majeed; Mubasher Zahir Hoque; Irshad Ahmad",
+      "year": 2020,
+      "doi": "10.3390/cells9071608",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Gene editing that makes target gene modification in the genome by deletion or addition has revolutionized the era of biomedicine. Clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9 emerged as a substantial tool due to its simplicity in use, less cost and extraordinary efficiency than the conventional gene-editing tools, including zinc finger nucleases (ZFNs) and Transcription activator-like effector nucleases (TALENs). However, potential off-target activities are crucial shortcomings in the CRISPR system. Numerous types of approaches have been developed to reduce off-target effects. Here, we review several latest approaches to reduce the off-target effects, including biased or unbiased off-target detection, cytosine or adenine base editors, prime editing, dCas9, Cas9 paired nickase, ribonucleoprotein (RNP) delivery and truncated gRNAs. This review article provides extensive information to cautiously interpret off-target effects to assist the basic and clinical applications in biomedicine.",
+      "url": "https://doi.org/10.3390/cells9071608",
+      "pdf_url": "https://www.mdpi.com/2073-4409/9/7/1608/pdf?version=1593790931",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "W3038956601",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR Cpf1 proteins: structure, function and implications for genome editing",
+      "authors": "Fatemeh Safari; Khadijeh Zare; Manica Negahdaripour; Mazyar Barekati‐Mowahed; Younes Ghasemi",
+      "year": 2019,
+      "doi": "10.1186/s13578-019-0298-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR and CRISPR-associated (Cas) protein, as components of microbial adaptive immune system, allows biologists to edit genomic DNA in a precise and specific way. CRISPR-Cas systems are classified into two main classes and six types. Cpf1 is a putative type V (class II) CRISPR effector, which can be programmed with a CRISPR RNA to bind and cleave complementary DNA targets. Cpf1 has recently emerged as an alternative for Cas9, due to its distinct features such as the ability to target T-rich motifs, no need for trans-activating crRNA, inducing a staggered double-strand break and potential for both RNA processing and DNA nuclease activity. In this review, we attempt to discuss the evolutionary origins, basic architectures, and molecular mechanisms of Cpf1 family proteins, as well as crRNA designing and delivery strategies. We will also describe the novel Cpf1 variants, which have broadened the versatility and feasibility of this system in genome editing, transcription regulation, epigenetic modulation, and base editing. Finally, we will be reviewing the recent studies on utilization of Cpf1as a molecular tool for genome editing.",
+      "url": "https://doi.org/10.1186/s13578-019-0298-7",
+      "pdf_url": "https://cellandbioscience.biomedcentral.com/track/pdf/10.1186/s13578-019-0298-7",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\fatemeh_2019_crispr_cpf1_proteins_structure_function_and_implications_for.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "W2947574057",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CUT&amp;RUN: Targeted in situ genome-wide profiling with high efficiency for low cell numbers v3",
+      "authors": "Derek Janssens; Steven Henikoff",
+      "year": 2019,
+      "doi": "10.17504/protocols.io.zcpf2vn",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>We previously described a novel alternative to Chromatin Immunoprecipitation, Cleavage Under Targets &amp; Release Using Nuclease (CUT&amp;RUN), in which unfixed permeabilized cells are incubated with antibody, followed by binding of a Protein A-Micrococcal Nuclease (pA/MNase) fusion protein. Upon activation of tethered MNase, the bound complex is excised and released into the supernatant for DNA extraction and sequencing. In the manuscript attached to this version of the protocol, Meers et al. introduce four enhancements to CUT&amp;RUN: 1) a hybrid Protein A-Protein G-MNase construct that expands antibody compatibility; 2) a modified digestion protocol that prevents premature release of the nuclease-bound complex; 3) a calibration strategy based on carry-over of E. coli DNA introduced with the fusion protein; and 4) a novel peak-calling strategy customized for the low-background profiles obtained using CUT&amp;RUN. Here we provide an updated CUT&amp;RUN protocol that incorporates these enhancements, and provides three different options for the CUT&amp;RUN MNase digestion reaction that are helpful to improve data quality or to increase throughput. These new features, coupled with the previously described low-cost, high efficiency, high reproducibility and high-throughput capability of CUT&amp;RUN make it the method of choice for routine epigenomic profiling.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.zcpf2vn",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "10.17504/protocols.io.zcpf2vn",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Off-target effects of CRISPRa on interleukin-6 expression",
+      "authors": "Sébastien Soubeyrand; Paulina Lau; Victoria Peters; Ruth McPherson",
+      "year": 2019,
+      "doi": "10.1371/journal.pone.0224113",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1371/journal.pone.0224113",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "10.1371/journal.pone.0224113",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Site-specific manipulation of Arabidopsis loci using CRISPR-Cas9 SunTag systems",
+      "authors": "Ashot Papikian; Wanlu Liu; Javier Gallego‐Bartolomé; Steven E. Jacobsen",
+      "year": 2019,
+      "doi": "10.1038/s41467-019-08736-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Understanding genomic functions requires site-specific manipulation of loci via efficient protein effector targeting systems. However, few approaches for targeted manipulation of the epigenome are available in plants. Here, we adapt the dCas9-SunTag system to engineer targeted gene activation and DNA methylation in Arabidopsis. We demonstrate that a dCas9-SunTag system utilizing the transcriptional activator VP64 drives robust and specific activation of several loci, including protein coding genes and transposable elements, in diverse chromatin contexts. In addition, we present a CRISPR-based methylation targeting system for plants, utilizing a SunTag system with the catalytic domain of the Nicotiana tabacum DRM methyltransferase, which efficiently targets DNA methylation to specific loci, including the FWA promoter, triggering a developmental phenotype, and the SUPERMAN promoter. These SunTag systems represent valuable tools for the site-specific manipulation of plant epigenomes.",
+      "url": "https://doi.org/10.1038/s41467-019-08736-7",
+      "pdf_url": "https://www.nature.com/articles/s41467-019-08736-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\ashot_2019_site_specific_manipulation_of_arabidopsis_loci_using_crispr.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "W2912830858",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "An Integrated Genome-wide CRISPRa Approach to Functionalize lncRNAs in Drug Resistance",
+      "authors": "Assaf C. Bester; Jonathan D. Lee; Alejandro Chavez; Yu-Ru Lee; Daphna Nachmani; Suhani Vora; Joshua Victor; Martin Sauvageau; Emanuele Monteleone; John L. Rinn; Paolo Provero; George M. Church; John G. Clohessy; Pier Paolo Pandolfi",
+      "year": 2018,
+      "doi": "10.1016/j.cell.2018.03.052",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cell.2018.03.052",
+      "pdf_url": "http://www.cell.com/article/S0092867418303842/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "W2800773898",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CUT&amp;RUN: Targeted in situ genome-wide profiling with high efficiency for low cell numbers v1",
+      "authors": "Peter J. Skene; Steven Henikoff",
+      "year": 2018,
+      "doi": "10.17504/protocols.io.mgjc3un",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>Cleavage Under Targets and Release Using Nuclease (CUT&amp;RUN) is an epigenomic profiling strategy in which antibody-targeted controlled cleavage by micrococcal nuclease releases specific protein-DNA complexes into the supernatant for paired-end DNA sequencing. As only the targeted fragments enter into solution, and the vast majority of DNA is left behind, CUT&amp;RUN has exceptionally low background levels. CUT&amp;RUN outperforms the most widely used Chromatin Immunoprecipitation (ChIP) protocols in resolution, signal-to-noise, and depth of sequencing required. In contrast to ChIP, CUT&amp;RUN is free of solubility and DNA accessibility artifacts and can be used to profile insoluble chromatin and to detect long-range 3D contacts without cross-linking. Here we present an improved CUT&amp;RUN protocol that does not require isolation of nuclei and provides high-quality data starting with only 100 cells for a histone modification and 1000 cells for a transcription factor. From cells to purified DNA CUT&amp;RUN requires less than a day at the lab bench.   In summary, CUT&amp;RUN has several advantages over ChIP-seq: (1) The method is performed in situ in non-crosslinked cells and does not require chromatin fragmentation or solubilization; (2) The intrinsically low background allows low sequence depth and identification of low signal genomic features invisible to ChIP; (3) The simple procedure can be completed within a day and is suitable for robotic automation; (4) The method can be used with low cell numbers compared to existing methodologies; (5) A simple spike-in strategy can be used for accurate quantitation of protein-DNA interactions. As such, CUT&amp;RUN represents an attractive replacement for ChIPseq, which is one of the most popular methods in biological research.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.mgjc3un",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "10.17504/protocols.io.mgjc3un",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CUT&amp;RUN: Targeted in situ genome-wide profiling with high efficiency for low cell numbers v2",
+      "authors": "Steven Henikoff",
+      "year": 2018,
+      "doi": "10.17504/protocols.io.n6wdhfe",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>We previously described a novel alternative to Chromatin Immunoprecipitation, Cleavage Under Targets &amp; Release Using Nuclease (CUT&amp;RUN), in which unfixed permeabilized cells are incubated with antibody, followed by binding of a Protein A-Micrococcal Nuclease (pA/MNase) fusion protein (1). Upon activation of tethered MNase, the bound complex is excised and released into the supernatant for DNA extraction and sequencing. Here we introduce four enhancements to CUT&amp;RUN: 1) a hybrid Protein A-Protein G-MNase construct that expands antibody compatibility and simplifies purification; 2) a modified digestion protocol that prevents premature release of the nuclease-bound complex; 3) a calibration strategy based on carry-over ofE. coliDNA introduced with the fusion protein; and 4) a novel peak-calling strategy customized for the low-background profiles obtained using CUT&amp;RUN. These new features, coupled with the previously described low-cost, high efficiency, high reproducibility and high-throughput capability of CUT&amp;RUN make it the method of choice for routine epigenomic profiling.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.n6wdhfe",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "10.17504/protocols.io.n6wdhfe",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "GUIDE-seq simplified library preparation protocol (CRISPR/Cas9 off-target cleavage detection) v1",
+      "authors": "Nagendra Palani",
+      "year": 2018,
+      "doi": "10.17504/protocols.io.wikfccw",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>GUIDE-seq is an experimental method to detect off-target cleavages caused during CRISPR/Cas editing.  See publication https://doi.org/10.1038/nbt.3117 for details about the method, the protocol used, and the analysis performed.  We identified several areas of improvement in the published protocol for GUIDE-seq NGS library preparation and developed a simplified protocol that is easier to perform &amp; less expensive. The new protocol is also load-and-go compatible with standard sequencing runs on all Illumina instruments (using the kit SBS reagents &amp; default instrument settings) compared to the NBT protocol that requires the libraries to be run on a MiSeq with some tweaks to the software configuration.  Notable changes:  1. Moved the UMI (Unique Molecular Identifier) from the Y-adapter to be inline with the insert. UMI is now sequenced as part of the sequencing read (R2 on a paired-end run). This eliminates the need to export index reads from the MiSeq.  2. Removed the sample index from the Y-adapter and changed the PCR scheme. Now, only a single adapter is required for ligation to any number of samples, PCR1 is for enrichment of the dsOligo - genome junction, PCR2 is to add sample-specific indexes to the enriched amplicons.   See oligo designs for further information.  3. Replaced sonication based shearing followed by end-repair with a one-pot, one-step enzymatic fragmentation + end-repair kit from New England Biolabs. </p>",
+      "url": "https://doi.org/10.17504/protocols.io.wikfccw",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "10.17504/protocols.io.wikfccw",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Optimized libraries for CRISPR-Cas9 genetic screens with multiple modalities",
+      "authors": "Kendall R Sanson; Ruth E. Hanna; Mudra Hegde; Katherine Donovan; Christine Strand; Meagan E. Sullender; Emma W Vaimberg; Amy Goodale; David E. Root; Federica Piccioni; John G. Doench",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-07901-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The creation of genome-wide libraries for CRISPR knockout (CRISPRko), interference (CRISPRi), and activation (CRISPRa) has enabled the systematic interrogation of gene function. Here, we show that our recently-described CRISPRko library (Brunello) is more effective than previously published libraries at distinguishing essential and non-essential genes, providing approximately the same perturbation-level performance improvement over GeCKO libraries as GeCKO provided over RNAi. Additionally, we present genome-wide libraries for CRISPRi (Dolcetto) and CRISPRa (Calabrese), and show in negative selection screens that Dolcetto, with fewer sgRNAs per gene, outperforms existing CRISPRi libraries and achieves comparable performance to CRISPRko in detecting essential genes. We also perform positive selection CRISPRa screens and demonstrate that Calabrese outperforms the SAM approach at identifying vemurafenib resistance genes. We further compare CRISPRa to genome-scale libraries of open reading frames (ORFs). Together, these libraries represent a suite of genome-wide tools to efficiently interrogate gene function with multiple modalities.",
+      "url": "https://doi.org/10.1038/s41467-018-07901-8",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-07901-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\kendall_2018_optimized_libraries_for_crispr_cas9_genetic_screens_with.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "specificity comparison CRISPRa effectors off-target transcriptional changes"
+      ],
+      "paper_id": "W2904226822",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The CRISPR tool kit for genome editing and beyond",
+      "authors": "Mazhar Adli",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-04252-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR is becoming an indispensable tool in biological research. Once known as the bacterial immune system against invading viruses, the programmable capacity of the Cas9 enzyme is now revolutionizing diverse fields of medical research, biotechnology, and agriculture. CRISPR-Cas9 is no longer just a gene-editing tool; the application areas of catalytically impaired inactive Cas9, including gene regulation, epigenetic editing, chromatin engineering, and imaging, now exceed the gene-editing functionality of WT Cas9. Here, we will present a brief history of gene-editing tools and describe the wide range of CRISPR-based genome-targeting tools. We will conclude with future directions and the broader impact of CRISPR technologies.",
+      "url": "https://doi.org/10.1038/s41467-018-04252-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-04252-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq",
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "W2803581084",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA-guided transcriptional activation via CRISPR/dCas9 mimics overexpression phenotypes in Arabidopsis",
+      "authors": "Jong-Jin Park; Emma Dempewolf; Wenzheng Zhang; Zeng-Yu Wang",
+      "year": 2017,
+      "doi": "10.1371/journal.pone.0179410",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1371/journal.pone.0179410",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "10.1371/journal.pone.0179410",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Stabilization of Foxp3 expression by CRISPR-dCas9-based epigenome editing in mouse primary T cells",
+      "authors": "Masahiro Okada; Mitsuhiro Kanamori; Kazue Someya; Hiroko Nakatsukasa; Akihiko Yoshimura",
+      "year": 2017,
+      "doi": "10.1186/s13072-017-0129-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenome editing is expected to manipulate transcription and cell fates and to elucidate the gene expression mechanisms in various cell types. For functional epigenome editing, assessing the chromatin context-dependent activity of artificial epigenetic modifier is required. In this study, we applied clustered regularly interspaced short palindromic repeats (CRISPR)-dCas9-based epigenome editing to mouse primary T cells, focusing on the Forkhead box P3 (Foxp3) gene locus, a master transcription factor of regulatory T cells (Tregs). The Foxp3 gene locus is regulated by combinatorial epigenetic modifications, which determine the Foxp3 expression. Foxp3 expression is unstable in transforming growth factor beta (TGF-β)-induced Tregs (iTregs), while stable in thymus-derived Tregs (tTregs). To stabilize Foxp3 expression in iTregs, we introduced dCas9-TET1CD (dCas9 fused to the catalytic domain (CD) of ten-eleven translocation dioxygenase 1 (TET1), methylcytosine dioxygenase) and dCas9-p300CD (dCas9 fused to the CD of p300, histone acetyltransferase) with guide RNAs (gRNAs) targeted to the Foxp3 gene locus. Although dCas9-TET1CD induced partial demethylation in enhancer region called conserved non-coding DNA sequences 2 (CNS2), robust Foxp3 stabilization was not observed. In contrast, dCas9-p300CD targeted to the promoter locus partly maintained Foxp3 transcription in cultured and primary T cells even under inflammatory conditions in vitro. Furthermore, dCas9-p300CD promoted expression of Treg signature genes and enhanced suppression activity in vitro. Our results showed that artificial epigenome editing modified the epigenetic status and gene expression of the targeted loci, and engineered cellular functions in conjunction with endogenous epigenetic modification, suggesting effective usage of these technologies, which help elucidate the relationship between chromatin states and gene expression.",
+      "url": "https://doi.org/10.1186/s13072-017-0129-1",
+      "pdf_url": "https://epigeneticsandchromatin.biomedcentral.com/track/pdf/10.1186/s13072-017-0129-1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\masahiro_2017_stabilization_of_foxp3_expression_by_crispr_dcas9_based.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "W2612816110",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-Cas: biology, mechanisms and relevance",
+      "authors": "Frank Hille; Emmanuelle Charpentier",
+      "year": 2016,
+      "doi": "10.1098/rstb.2015.0496",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Prokaryotes have evolved several defence mechanisms to protect themselves from viral predators. Clustered regularly interspaced short palindromic repeats (CRISPR) and their associated proteins (Cas) display a prokaryotic adaptive immune system that memorizes previous infections by integrating short sequences of invading genomes-termed spacers-into the CRISPR locus. The spacers interspaced with repeats are expressed as small guide CRISPR RNAs (crRNAs) that are employed by Cas proteins to target invaders sequence-specifically upon a reoccurring infection. The ability of the minimal CRISPR-Cas9 system to target DNA sequences using programmable RNAs has opened new avenues in genome editing in a broad range of cells and organisms with high potential in therapeutical applications. While numerous scientific studies have shed light on the biochemical processes behind CRISPR-Cas systems, several aspects of the immunity steps, however, still lack sufficient understanding. This review summarizes major discoveries in the CRISPR-Cas field, discusses the role of CRISPR-Cas in prokaryotic immunity and other physiological properties, and describes applications of the system as a DNA editing technology and antimicrobial agent.This article is part of the themed issue 'The new bacteriology'.",
+      "url": "https://doi.org/10.1098/rstb.2015.0496",
+      "pdf_url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2015.0496",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "W2426122055",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 in Genome Editing and Beyond",
+      "authors": "Haifeng Wang; Marie La Russa; Lei S. Qi",
+      "year": 2016,
+      "doi": "10.1146/annurev-biochem-060815-014607",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The Cas9 protein (CRISPR-associated protein 9), derived from type II CRISPR (clustered regularly interspaced short palindromic repeats) bacterial immune systems, is emerging as a powerful tool for engineering the genome in diverse organisms. As an RNA-guided DNA endonuclease, Cas9 can be easily programmed to target new sites by altering its guide RNA sequence, and its development as a tool has made sequence-specific gene editing several magnitudes easier. The nuclease-deactivated form of Cas9 further provides a versatile RNA-guided DNA-targeting platform for regulating and imaging the genome, as well as for rewriting the epigenetic status, all in a sequence-specific manner. With all of these advances, we have just begun to explore the possible applications of Cas9 in biomedical research and therapeutics. In this review, we describe the current models of Cas9 function and the structural and biochemical studies that support it. We focus on the applications of Cas9 for genome editing, regulation, and imaging, discuss other possible applications and some technical considerations, and highlight the many advantages that CRISPR/Cas9 technology offers.",
+      "url": "https://doi.org/10.1146/annurev-biochem-060815-014607",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060815-014607",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "W2182456467",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A genome-wide analysis of Cas9 binding specificity using ChIP-seq and targeted sequence capture",
+      "authors": "Henriette O'Geen; Isabelle M. Henry; Mital S. Bhakta; Joshua F. Meckler; David J. Segal",
+      "year": 2015,
+      "doi": "10.1093/nar/gkv137",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/nar/gkv137",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "10.1093/nar/gkv137",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Broadening the targeting range of Staphylococcus aureus CRISPR-Cas9 by modifying PAM recognition",
+      "authors": "Benjamin P. Kleinstiver; Michelle S. Prew; Shengdar Q. Tsai; Nathalie T. Nguyen; Ved V. Topkar; Zongli Zheng; J. Keith Joung",
+      "year": 2015,
+      "doi": "10.1038/nbt.3404",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/nbt.3404",
+      "pdf_url": "https://www.nature.com/articles/nbt.3404.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "W1922040927",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Faculty Opinions recommendation of A genome-wide analysis of Cas9 binding specificity using ChIP-seq and targeted sequence capture.",
+      "authors": "Jim Vadolas",
+      "year": 2015,
+      "doi": "10.3410/f.725367733.793511745",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.3410/f.725367733.793511745",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "10.3410/f.725367733.793511745",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Making sense of GWAS: using epigenomics and genome engineering to understand the functional relevance of SNPs in non-coding regions of the human genome",
+      "authors": "Yu Gyoung Tak; Peggy Farnham",
+      "year": 2015,
+      "doi": "10.1186/s13072-015-0050-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Considerable progress towards an understanding of complex diseases has been made in recent years due to the development of high-throughput genotyping technologies. Using microarrays that contain millions of single-nucleotide polymorphisms (SNPs), Genome Wide Association Studies (GWASs) have identified SNPs that are associated with many complex diseases or traits. For example, as of February 2015, 2111 association studies have identified 15,396 SNPs for various diseases and traits, with the number of identified SNP-disease/trait associations increasing rapidly in recent years. However, it has been difficult for researchers to understand disease risk from GWAS results. This is because most GWAS-identified SNPs are located in non-coding regions of the genome. It is important to consider that the GWAS-identified SNPs serve only as representatives for all SNPs in the same haplotype block, and it is equally likely that other SNPs in high linkage disequilibrium (LD) with the array-identified SNPs are causal for the disease. Because it was hoped that disease-associated coding variants would be identified if the true casual SNPs were known, investigators have expanded their analyses using LD calculation and fine-mapping. However, such analyses also identified risk-associated SNPs located in non-coding regions. Thus, the GWAS field has been left with the conundrum as to how a single-nucleotide change in a non-coding region could confer increased risk for a specific disease. One possible answer to this puzzle is that the variant SNPs cause changes in gene expression levels rather than causing changes in protein function. This review provides a description of (1) advances in genomic and epigenomic approaches that incorporate functional annotation of regulatory elements to prioritize the disease risk-associated SNPs that are located in non-coding regions of the genome for follow-up studies, (2) various computational tools that aid in identifying gene expression changes caused by the non-coding disease-associated SNPs, and (3) experimental approaches to identify target genes of, and study the biological phenotypes conferred by, non-coding disease-associated SNPs.",
+      "url": "https://doi.org/10.1186/s13072-015-0050-4",
+      "pdf_url": "https://epigeneticsandchromatin.biomedcentral.com/track/pdf/10.1186/s13072-015-0050-4",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq",
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "W2202219635",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Non-Coding RNA: Sequence-Specific Guide for Chromatin Modification and DNA Damage Signaling",
+      "authors": "Sofia Francia",
+      "year": 2015,
+      "doi": "10.3389/fgene.2015.00320",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.3389/fgene.2015.00320",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "10.3389/fgene.2015.00320",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nuclease-inactive Streptococcus pyogenes Cas9 (D10A/H840A, dCas9) in complex with single-guide RNA at 3.1 Angstrom resolution",
+      "authors": "F. Jiang; J.A. Doudna",
+      "year": 2015,
+      "doi": "10.2210/pdb4zt9/pdb",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2210/pdb4zt9/pdb",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "10.2210/pdb4zt9/pdb",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A genome-wide analysis of Cas9 binding specificity using ChIP-seq and targeted sequence capture",
+      "authors": "Henriette O’Geen; Isabelle M. Henry; Mital S. Bhakta; Joshua F. Meckler; David J. Segal",
+      "year": 2014,
+      "doi": "10.1101/005413",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>\n                  Clustered regularly interspaced short palindromic repeat (CRISPR) RNA-guided nucleases have gathered considerable excitement as a tool for genome engineering. However, questions remain about the specificity of their target site recognition. Most previous studies have examined predicted off-target binding sites that differ from the perfect target site by one to four mismatches, which represent only a subset of genomic regions. Here, we use ChIP-seq to examine genome-wide CRISPR binding specificity at gRNA-specific and gRNA-independent sites. For two guide RNAs targeting the murine\n                  <jats:italic>Snurf</jats:italic>\n                  gene promoter, we observed very high binding specificity at the intended target site while off-target binding was observed at 2- to 6-fold lower intensities. We also identified significant gRNA-independent off-target binding. Interestingly, we found that these regions are highly enriched in the PAM site, a sequence required for target site recognition by CRISPR. To determine the relationship between Cas9 binding and endonuclease activity, we used targeted sequence capture as a high-throughput approach to survey a large number of the potential off-target sites identified by ChIP-seq or computational prediction. A high frequency of indels was observed at both target sites and one off-target site, while no cleavage activity could be detected at other ChIP-bound regions. Our data is consistent with recent finding that most interactions between the CRISPR nuclease complex and genomic PAM sites are transient and do not lead to DNA cleavage. The interactions are stabilized by gRNAs with good matches to the target sequence adjacent to the PAM site, resulting in target cleavage activity.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/005413",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "10.1101/005413",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comparison of TALE designer transcription factors and the CRISPR/dCas9 in regulation of gene expression by targeting enhancers",
+      "authors": "Xuefei Gao; Jason C.H. Tsang; Fortis Gaba; Donghai Wu; Liming Lu; Pentao Liu",
+      "year": 2014,
+      "doi": "10.1093/nar/gku836",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The transcription activator-like effectors (TALEs) and the RNA-guided clustered regularly interspaced short palindromic repeat (CRISPR) associated protein (Cas9) utlilize distinct molecular mechanisms in targeting site recognition. The two proteins can be modified to carry additional functional domains to regulate expression of genomic loci in mammalian cells. In this study, we have compared the two systems in activation and suppression of the Oct4 and Nanog loci by targeting their enhancers. Although both are able to efficiently activate the luciferase reporters, the CRISPR/dCas9 system is much less potent in activating the endogenous loci and in the application of reprogramming somatic cells to iPS cells. Nevertheless, repression by CRISPR/dCas9 is comparable to or even better than TALE repressors. We demonstrated that dCas9 protein binding results in significant physical interference to binding of native transcription factors at enhancer, less efficient active histone markers induction or recruitment of activating complexes in gene activation. This study thus highlighted the merits and drawbacks of transcription regulation by each system. A combined approach of TALEs and CRISPR/dCas9 should provide an optimized solution to regulate genomic loci and to study genetic elements such as enhancers in biological processes including somatic cell reprogramming and guided differentiation.",
+      "url": "https://doi.org/10.1093/nar/gku836",
+      "pdf_url": "https://academic.oup.com/nar/article-pdf/42/20/e155/14121306/gku836.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq"
+      ],
+      "paper_id": "W2155968127",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1523/eneuro.0157-25.2025.f1-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1523/eneuro.0157-25.2025.f1-1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "10.1523/eneuro.0157-25.2025.f1-1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A cellular stress response induced by the CRISPR/dCas9 activation system is not heritable through cell divisions",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.37473//10.1101/2019.12.23.887224",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.37473//10.1101/2019.12.23.887224",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9",
+        "guide RNA mismatch tolerance dCas9-p300 non-specific activation"
+      ],
+      "paper_id": "10.37473//10.1101/2019.12.23.887224",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A cellular stress response induced by the CRISPR/dCas9 activation system is not heritable through cell divisions",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.37473/dac/10.1101/2019.12.23.887224",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.37473/dac/10.1101/2019.12.23.887224",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "10.37473/dac/10.1101/2019.12.23.887224",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 6—figure supplement 1. CUT&amp;RUN recapitulates X-ChIP-seq but with higher dynamic range.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.21856.017",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.21856.017",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "10.7554/elife.21856.017",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Predicting Off-Target Potential of CRISPR-Cas9 Single Guide RNA",
+      "authors": "Ishita Mathur",
+      "year": 1970,
+      "doi": "10.31979/etd.r4d9-6y79",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.31979/etd.r4d9-6y79",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation off-target transcriptome RNA-seq specificity dCas9"
+      ],
+      "paper_id": "10.31979/etd.r4d9-6y79",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Supplementary file 1. Wiz genome wide binding sites.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.15082.014",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.15082.014",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 off-target specificity genome-wide binding ChIP-seq",
+        "genome-wide dCas9 binding sites unbiased profiling GUIDE-seq CUT&RUN"
+      ],
+      "paper_id": "10.7554/elife.15082.014",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

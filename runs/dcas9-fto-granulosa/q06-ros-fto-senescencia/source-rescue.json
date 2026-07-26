@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-14",
+  "sources": [
+    {
+      "target_id": "DOI:10.1016/j.freeradbiomed.2025.04.051",
+      "title": "MSC-derived exosomes alleviate oxidative stress-induced lysosomal membrane permeabilization damage in degenerated nucleus pulposus cells via promoting m6A demethylation of Nrf2.",
+      "doi": "10.1016/j.freeradbiomed.2025.04.051",
+      "pmid": "40316061",
+      "pmcid": "",
+      "required": false,
+      "status": "manual_needed",
+      "failure_reason": "paywall",
+      "pdf_source": null,
+      "pdf_path": null,
+      "notebook_source_id": null,
+      "notes": [
+        "Confirmed genuinely paywalled (Europe PMC: isOpenAccess=N, subscription required), unlike other must-haves that were OA but sandbox-inaccessible. No legitimate OA route found. Downgraded to optional; corpus already includes closely related oxidative-stress/Nrf2/FTO-granulosa sources."
+      ]
+    }
+  ]
+}

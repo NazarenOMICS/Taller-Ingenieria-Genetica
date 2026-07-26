@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q19-genes-antienvejecimiento-comparables",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q19-genes-antienvejecimiento-comparables",
+    "goal":  "Identificar mecanismos de silenciamiento promotor bien caracterizados en genes anti-envejecimiento comparables como Klotho o SIRT1 y evaluar su trasladabilidad a FTO en granulosa.",
+    "notebook_title":  "Comparable anti-aging promoter silencing (q19)",
+    "dashboard":  "Comparable anti-aging promoter silencing",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T18:19:43",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers",
+    "queries_file":  "C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q19-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\questions-q19-genes-antienvejecimiento-comparables.json",
+    "notebook_id":  "d2eb1950-e358-4754-92e9-5768e8c28354",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\tmp-sources-q19-genes-antienvejecimiento-comparables.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q19-genes-antienvejecimiento-comparables\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q19-genes-antienvejecimiento-comparables\" -Goal \"Identificar mecanismos de silenciamiento promotor bien caracterizados en genes anti-envejecimiento comparables como Klotho o SIRT1 y evaluar su trasladabilidad a FTO en granulosa.\" -QueriesFile \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q19-queries.json\" -NotebookTitle \"Comparable anti-aging promoter silencing (q19)\" -Dashboard \"Comparable anti-aging promoter silencing\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q19-genes-antienvejecimiento-comparables\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"d2eb1950-e358-4754-92e9-5768e8c28354\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q19-genes-antienvejecimiento-comparables/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

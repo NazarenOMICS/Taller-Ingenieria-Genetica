@@ -1,0 +1,2314 @@
+{
+  "slug": "q12-crispra-crispri-rejuvenecimiento",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "A cross-talk between p16High senescence and cellular reprogramming.",
+      "authors": "Emelyanov A; Bulavin DV",
+      "year": 2026,
+      "doi": "10.1042/cs20260240",
+      "pmid": "42212384",
+      "pmcid": "PMC13229649",
+      "abstract": "Cellular senescence and OSKM (Oct4, Sox2, Klf4, and Myc)-mediated reprogramming represent interconnected biological programs that both play important roles in regulating cellular plasticity. Recent studies have highlighted the role of p16-driven senescence in establishing a stable barrier to reprogramming by limiting epigenetic flexibility. Mechanistically, p16High senescent fibroblasts enforce this barrier through stress-induced and AP-1-driven epigenetic remodeling and NNMT-mediated metabolic SAM depletion, which restricts methylation-dependent chromatin remodeling in both p16High and neighboring p16Low cells via a paracrine mechanism. Conversely, clearance of p16High cells restores SAM levels and enhances cellular plasticity in neighboring cells, enabling the acquisition of totipotent-like states during reprogramming. Within p16High cells themselves, reprogramming can reverse some features of senescence, restoring more youthful cellular states under controlled conditions. Importantly, p16High cells remain highly resistant to full reprogramming, minimizing the risk of teratoma and tumor formation in vivo and making them promising target for rejuvenation strategies based on partial reprogramming. In this review, we examine the molecular interplay between p16High senescence and reprogramming, highlighting their dual roles as both barriers to and facilitators of cell fate transitions.",
+      "url": "https://europepmc.org/articles/PMC13229649",
+      "pdf_url": "https://europepmc.org/articles/PMC13229649?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/2b/PMC13229649.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "PMID:42212384",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Can iPSCs Turn Back Time? Prospects and Pitfalls in Age Reversal.",
+      "authors": "Ahmad U; Kumar D; Faiyazuddin M",
+      "year": 2026,
+      "doi": "10.2174/011574888x400606250721112037",
+      "pmid": "40735996",
+      "pmcid": null,
+      "abstract": "Aging is characterized by the progressive loss of cellular function, the accumulation of epigenetic and transcriptional changes, and a decline in tissue homeostasis. Induced pluripotent stem cells (iPSCs), derived from somatic cells through expression of Yamanaka factors (OCT4, SOX2, KLF4, MYC; OSKM), undergo epigenetic rejuvenation, effectively resetting their biological age. Partial reprogramming, characterized by the transient or cyclic expression of reprogramming factors, has emerged as a promising method to reverse aging hallmarks without erasing cellular identity. This study aims to synthesize findings from studies on iPSC-based age reversal, covering mechanisms, therapeutic potential, challenges, and translational hurdles. While partial reprogramming can restore youthful gene expression, DNA methylation patterns, and mitochondrial function, and reduce senescence markers, major safety concerns remain, including genomic instability, tumorigenesis, and incomplete control over identity retention. The field is rapidly progressing, yet fundamental questions about long-term safety, efficacy, and optimal protocols must be resolved before clinical translation.",
+      "url": "https://doi.org/10.2174/011574888x400606250721112037",
+      "pdf_url": "https://doi.org/10.2174/011574888X400606250721112037",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "pubmed",
+        "semantic"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "PMID:40735996",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Drift of positional identity drives reproductive aging in a long-lived regenerative animal.",
+      "authors": "Verdesca A; Poulet A; Bales M; van Wolfswinkel JC",
+      "year": 2026,
+      "doi": "10.1016/j.cub.2026.02.050",
+      "pmid": "41875878",
+      "pmcid": "PMC13020644",
+      "abstract": "Most animals experience irreversibly declining health with advancing age, in part due to limitations in cell turnover and the accumulation of damage. The highly regenerative planarian Schmidtea mediterranea has abundant pluripotent stem cells that drive continuous cell turnover, yet it experiences an age-related loss of fertility, which can be restored through regeneration. We find that the source of planarian age-related infertility lies in the female reproductive system, accompanied by the formation of posterior ectopic ovaries and disrupted accessory reproductive structures, which are restored during regeneration. We further observe that the Notum/Wnt signaling gradient, which determines anterior-posterior polarity in planarians, is shifted posteriorly with age and that manipulating this gradient by RNAi was able to slow down or accelerate reproductive aging. These results indicate that in addition to a healthy stem cell pool, tissue polarity must be maintained to mitigate age-related decline and that resetting positional information could be a promising mechanism to promote tissue rejuvenation.",
+      "url": "https://europepmc.org/articles/PMC13020644",
+      "pdf_url": "https://europepmc.org/articles/PMC13020644?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "PMID:41875878",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "EPIGENETIC REJUVENATION THROUGH PARTIAL REPROGRAMMING: A REGENERATIVE STRATEGY FOR TISSUE REPAIR AND FUNCTIONAL RESTORATION",
+      "authors": "Maria Manukyan; T. Saliev; Prim B. Singh",
+      "year": 2026,
+      "doi": "10.47316/cajmhe.2026.7.2.01",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Over the past two decades, the field of cellular reprogramming and rejuvenation has undergone remarkable advances. Novel reprogramming modalities and technologies have been developed to improve the efficiency and safety of cellular reprogramming while expanding its potential for clinical translation. Among these approaches, partial reprogramming based on epigenetic rejuvenation has emerged as a promising regenerative strategy that can restore aspects of youthful cellular function without a complete loss of cellular  identity. Preclinical studies demonstrate that controlled epigenetic rejuvenation can enhance tissue repair, improve regenerative capacity, and promote functional recovery across multiple organ systems. In this short review, we provide an overview of current partial reprogramming approaches and their potential therapeutic applications in regenerative medicine, with a particular focus on evidence from preclinical studies. We also discuss key translational challenges, including safety considerations, delivery optimization, and biomarker development, that must be addressed before clinical implementation. Looking ahead, advances in epigenetic rejuvenation may contribute to the development of personalized regenerative therapies aimed at preserving tissue function, enhancing healthy longevity, and transforming the future of regenerative medicine.",
+      "url": "https://www.semanticscholar.org/paper/ec429cd991926d397a772312295302dc6ce91960",
+      "pdf_url": "https://cajmhe.com/index.php/journal/article/download/613/216",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "ec429cd991926d397a772312295302dc6ce91960",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Engineering Extracellular Vesicles for Anti-Aging Therapy: Mechanisms, Applications, and Perspectives.",
+      "authors": "Huang X; Li Q; Tao G; Gan X; Lu J; Krasny S; Shi L",
+      "year": 2026,
+      "doi": "10.1111/acel.70607",
+      "pmid": "42337937",
+      "pmcid": "PMC13290663",
+      "abstract": "Aging is a multifactorial process driven by interconnected hallmarks, including chronic inflammation, mitochondrial dysfunction, genomic and epigenetic alterations, and dysregulated intercellular communication. Extracellular vesicles (EVs), naturally derived nanoscale membrane vesicles capable of transporting diverse bioactive cargoes across tissues and biological barriers, have emerged as a highly promising platform for regenerative and anti-aging therapeutics. In this review, we systematically summarize the multifaceted anti-aging mechanisms of EVs, including suppression of the senescence-associated secretory phenotype (SASP), remodeling of the immune microenvironment, mitochondrial restoration and metabolic reprogramming, DNA damage repair, epigenetic modulation, recovery of proteostasis, activation of regenerative signaling pathways, and cross-organ communication-mediated rejuvenation. Beyond mechanistic insights, we integrate the targeting biology and cellular entry properties of EVs, encompassing natural tropism determinants, engineered targeting strategies, biodistribution profiles, receptor-ligand interactions, intracellular trafficking, and subcellular cargo release. Unlike previous reviews focusing on a single EV source or isolated pathways, we establish a comprehensive framework connecting molecular mechanisms with delivery engineering, tissue targeting, biosafety assessment, scalable manufacturing, and clinical translation. We address major technical bottlenecks limiting EV therapeutics-including EV heterogeneity, suboptimal delivery efficiency, endosomal degradation, and the lack of standardized quality-control frameworks-while highlighting emerging solutions such as bioengineered EVs, hybrid vesicle platforms, biomaterial-assisted delivery systems, and ultrasound-enhanced targeting technologies. By bridging fundamental biology, nanomedicine engineering, and clinical translation, this review provides a strategic roadmap for the development of next-generation precision anti-aging nanotherapeutics with systemic regulatory capacity, translational feasibility, and broad clinical potential.",
+      "url": "https://europepmc.org/articles/PMC13290663",
+      "pdf_url": "https://europepmc.org/articles/PMC13290663?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d6/9e/PMC13290663.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "PMID:42337937",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Engineering Immune Cell to Counteract Aging and Aging-Associated Diseases.",
+      "authors": "Guo J; Lei L; Jin Y; Su L; Cui S; Shi L",
+      "year": 2026,
+      "doi": "10.1002/advs.202521776",
+      "pmid": "41603194",
+      "pmcid": "PMC12970235",
+      "abstract": "Aging and age-related diseases are a major public health concern, driving interest in anti-aging research. While small molecules and natural compounds show promise in animals, clinical translation is limited. Recently, chimeric antigen receptor (CAR)-engineered immune cells have achieved breakthroughs in treating non-cancerous conditions like autoimmune diseases and organ fibrosis, highlighting their therapeutic potential. This review explains how the immune system counteracts aging through senescent cell clearance, reduction of pro-inflammatory environments, and secretion of regenerative factors. It synthesizes principles of immune cell-based anti-aging therapies, analyzing preclinical and clinical studies. Key challenges include limited target specificity, immunosuppressive microenvironments, and variability in cell source and function. Future progress will require multidisciplinary collaboration-incorporating nanotechnology, synthetic biology, and targeted delivery-with artificial intelligence accelerating the development of personalized anti-aging interventions. Cellular immunotherapies thus hold transformative potential for modulating aging and advancing precision medicine to extend global healthspan.",
+      "url": "https://europepmc.org/articles/PMC12970235",
+      "pdf_url": "https://europepmc.org/articles/PMC12970235?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ba/41/PMC12970235.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "PMID:41603194",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic aging and rejuvenation of the brain: drivers, consequences, and interventions.",
+      "authors": "Lee S; Cho S; Kim SK; Yang JH",
+      "year": 2026,
+      "doi": "",
+      "pmid": "41521073",
+      "pmcid": "PMC12867171",
+      "abstract": "Evolution has tuned epigenetic resilience to preserve chromatin organization, transcriptional networks, and cellular identity under relentless stress. Over time, however, all eukaryotic life faces an inevitable rise in entropy that erodes the chromatin landscape at the genomic scale. This entropic decay of epigenetic information, epigenetic aging, is a primary driver of biological aging and systemic dysfunction. The brain is particularly vulnerable to epigenetic aging, with post-mitotic neurons accumulating lifelong chromatin erosion, and the glial epigenome drifting toward pro-inflammatory states. Defining the drivers and consequences of epigenetic aging in the brain forms the basis for restoring youthful chromatin landscapes, cellular identity, and cognitive capacity. [BMB Reports 2026; 59(1): 27-39].",
+      "url": "https://europepmc.org/articles/PMC12867171",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/c0/4f/bmb-59-1-27.PMC12867171.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c0/4f/PMC12867171.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "PMID:41521073",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "From germline immortality to somatic rejuvenation: Unlocking the ovarian blueprint for longevity.",
+      "authors": "Chiavellini P; Sebastiano V",
+      "year": 2026,
+      "doi": "10.1371/journal.pbio.3003804",
+      "pmid": "42189781",
+      "pmcid": "PMC13210268",
+      "abstract": "Aging is typically framed as a one-way, irreversible accumulation of molecular damage in cells and tissues, leading to progressive functional decline. Yet mammalian reproduction, and particularly female reproduction, reveals a striking exception to this rule. Despite residing within an aging organism and within a fast-aging ovarian tissue environment, oocytes give rise to embryos that begin life with restored developmental potential and youthful molecular organization. By reframing ovarian biology as a model for rejuvenation rather than solely as a site of reproductive decline, this Essay proposes that the ovary offers a powerful blueprint for advancing the biology of aging and longevity.",
+      "url": "https://europepmc.org/articles/PMC13210268",
+      "pdf_url": "https://europepmc.org/articles/PMC13210268?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/12/37/PMC13210268.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "PMID:42189781",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanistic understanding of female reproductive aging based on the chicken model.",
+      "authors": "Zhang J; Gao M; Sun C; Yang N",
+      "year": 2026,
+      "doi": "10.1186/s40104-026-01435-6",
+      "pmid": "42251437",
+      "pmcid": "PMC13242674",
+      "abstract": "Female reproductive aging is a fundamental biological process characterized by a progressive decline in ovarian function, oocyte quality, and endocrine homeostasis, ultimately leading to reduced fertility and increased susceptibility to age-related diseases. Accumulating evidence indicates that reproductive aging is not merely a passive consequence of time but rather a tightly regulated process governed by complex genetic, epigenetic, and metabolic mechanisms. However, mechanistic dissection and translational exploration of female reproductive aging remain constrained by the limited availability of suitable animal models that faithfully recapitulate the human reproductive trajectory. In this review, we synthesize the current advances in understanding the molecular regulatory networks underlying female reproductive aging, with particular emphasis on key signaling pathways, cellular senescence, epigenetic regulation, hormonal control, and mitochondrial dysfunction coupled with oxidative stress. We highlight how the dysregulation of these interconnected mechanisms contributes to ovarian reserve depletion, follicular atresia, and declining oocyte competence across species. We propose that laying hens are a powerful and underutilized model for studying female reproductive aging. Laying hens exhibit a well-defined and highly reproducible reproductive lifespan characterized by distinct phases of peak and declining reproductive output, closely paralleling the age-related fertility decline in women. At the molecular level, hens share conserved regulatory features with humans, including hormonal signaling via the hypothalamic-pituitary-ovarian axis, age-associated oxidative stress, mitochondrial dysfunction, and epigenetic modulation of reproductive tissues. The daily ovulation cycle, measurable reproductive output, and responsiveness to metabolic and environmental interventions in hens further facilitate high-resolution and high-throughput investigations into aging-related mechanisms. By integrating evidence from human studies, mammalian models, and avian systems, this review highlights the translational value of laying hens in elucidating conserved genetic and epigenetic drivers of female reproductive aging. We discuss the current limitations and future perspectives for cross-species validation and multi-omics integration, aiming to facilitate the identification of actionable targets for delaying reproductive aging and improving female reproductive health.",
+      "url": "https://europepmc.org/articles/PMC13242674",
+      "pdf_url": "https://europepmc.org/articles/PMC13242674?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d2/7c/PMC13242674.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "PMID:42251437",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mesenchymal stem cell therapy for premature ovarian insufficiency: progress and challenges.",
+      "authors": "Shao Z; Liang L; Xue Y; Zhu T; Wen Q",
+      "year": 2026,
+      "doi": "10.1186/s13048-026-01976-4",
+      "pmid": "41634747",
+      "pmcid": "PMC12964609",
+      "abstract": "Premature ovarian insufficiency (POI), particularly chemotherapy-induced ovarian failure (CIOF), severely compromises the reproductive and endocrine health of young women. Current fertility-preserving strategies, such as cryopreservation and hormone therapy, fail to restore endogenous ovarian function, underscoring the urgent need for regenerative solutions. Mesenchymal stem cells (MSCs) have emerged as a leading platform to address this challenge. This review synthesizes evidence on MSCs derived from diverse sources—including bone marrow, adipose tissue, umbilical cord, and menstrual blood—and evaluates their therapeutic potential. Preclinical studies consistently demonstrate that MSC transplantation restores follicular reserves and hormonal homeostasis, primarily via paracrine mechanisms. MSCs secrete growth factors and exosomes enriched with regulatory microRNAs (e.g., miR-21, miR-126) that inhibit apoptosis, promote angiogenesis, and activate pro-survival pathways such as PI3K–Akt in injured ovaries. While early clinical data are encouraging, significant translational challenges remain, including inefficient homing, source-dependent variability, and safety concerns such as tumorigenicity. Advanced approaches—such as cell-free exosome-based therapies and engineered biomaterials—are under development to enhance efficacy and safety. A concerted effort to standardize protocols, optimize delivery strategies, and conduct well-designed randomized trials is essential to establish MSC-based therapy as a clinically viable solution for oncofertility preservation.",
+      "url": "https://europepmc.org/articles/PMC12964609",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/0d/66/13048_2026_Article_1976.PMC12964609.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0d/66/PMC12964609.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "PMID:41634747",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Partial Reprogramming Is Conserved from Insect to Mammal.",
+      "authors": "Tolwinski NS; Fong S; Shankar S; Gruber J",
+      "year": 2026,
+      "doi": "10.3390/cells15020168",
+      "pmid": "41597242",
+      "pmcid": "PMC12839720",
+      "abstract": "As we become older, systems throughout the body gradually decline in function. Contributing factors include the accumulation of senescent cells and the dysfunction and exhaustion of stem and progenitor cells. A promising approach to mitigate these changes and enhance cellular function in aged animals is the discovery that differentiated cells retain plasticity, enabling them to revert to pluripotent states when exposed to Yamanaka factors. This method has shown promise in models of rapid aging, and recent studies have demonstrated notable life extension in both flies and mice. These findings, along with the development of senolytics and aging clocks, could revolutionize aging research and interventions. Here, we review recent discoveries in the field and propose new directions for intervention discovery.",
+      "url": "https://europepmc.org/articles/PMC12839720",
+      "pdf_url": "https://europepmc.org/articles/PMC12839720?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2a/58/PMC12839720.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "PMID:41597242",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reproductive Longevity: Innovative Approaches Beyond Hormone Replacement Therapy.",
+      "authors": "Jugulytė N; Bartkevičienė D",
+      "year": 2026,
+      "doi": "10.3390/medicina62010157",
+      "pmid": "41597443",
+      "pmcid": "PMC12843827",
+      "abstract": "With increasing life expectancy driven by rapid biomedical science advancement, reproductive longevity has become a key concept in women's health. Preventing reproductive senescence is important not only to extend fertility potential but also to preserve endocrine health, enhance quality of life, and promote healthy aging. The end of ovarian function and fertility is symbolized by menopause, as the most eminent index of reproductive aging. Hormone replacement therapy (HRT) remains the mainstay for managing menopausal symptoms. However, as the use of HRT is often limited, there is a need for safe and effective alternatives. This narrative review summarizes current and emerging approaches targeting different stages of reproductive aging. Both hormonal and non-hormonal therapies for vasomotor and genitourinary symptoms are discussed alongside developing fertility preservation techniques, including oocyte vitrification, ovarian tissue cryopreservation, in vitro follicle maturation, and artificial ovary engineering. Furthermore, evolving and experimental ovarian regenerative strategies, such as stem cell transplantation, intraovarian platelet-rich plasma (PRP) injections, antioxidants, metabolic modulators, telomerase activators, and stem cell-derived extracellular vesicles, offer new prospects for delaying or reversing ovarian aging. Overall, personalized regenerative strategies and innovative solutions may reshape the future of women's reproductive health and longevity.",
+      "url": "https://europepmc.org/articles/PMC12843827",
+      "pdf_url": "https://europepmc.org/articles/PMC12843827?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/29/PMC12843827.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "PMID:41597443",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reprogramming Skin Aging: A Regenerative and Epigenetic Perspective on Cutaneous Longevity",
+      "authors": "Haykal D; Gold M; Lain E; Green J; Farris P",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC12965852",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12965852/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12965852/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/01/06/PMC12965852.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "PMC12965852",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The epigenetic rejuvenation promise: Partial reprogramming as a therapeutic strategy for aging and disease.",
+      "authors": "Yuan-yuan Li; Franklin R. Tay",
+      "year": 2026,
+      "doi": "10.1016/j.arr.2026.103009",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Reprogramming of somatic cells into induced pluripotent stem cells through the introduction of transcription factors Oct3/4, Sox2, Klf4, and c-Myc (OSKM) represents a landmark advance in regenerative biology. Building on this foundation, partial reprogramming can help reset epigenetic age. It further opens opportunities to treat degenerative diseases without the tumorigenic risks associated with full pluripotency. The review advances the field in three ways: it links lineage-preserving partial reprogramming to quantifiable rejuvenation endpoints; defines mesenchymal drift as an age- and disease-associated trajectory amenable to reversal; and maps strategies beyond OSKM, including small-molecule programs and CRISPR-based control circuits. Convergent phenotypes are surveyed in nervous, metabolic, musculoskeletal, and craniofacial systems, with emphasis on improved tissue repair and regeneration. A translational checklist is proposed that emphasizes schedule, delivery, and safety pharmacology to guide rigorous preclinical studies and de-risk early clinical entry points for partial reprogramming therapies.",
+      "url": "https://www.semanticscholar.org/paper/d2a22c44cfe35a574cbfcd91cf3a29d5f10db44e",
+      "pdf_url": "https://doi.org/10.1016/j.arr.2026.103009",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref",
+        "semantic"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "d2a22c44cfe35a574cbfcd91cf3a29d5f10db44e",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The harmonies played by miR-302/367 cluster in pluripotency, reprogramming, and rejuvenation.",
+      "authors": "Zamanian M; Moradi S; Baharvand H",
+      "year": 2026,
+      "doi": "10.1093/stcltm/szaf072",
+      "pmid": "41693061",
+      "pmcid": "PMC12907026",
+      "abstract": "The conserved, pluripotency-associated miR-302/367 cluster coordinates cell fate and aging via epigenetic, cell cycle, and signaling regulation. Highly expressed in pluripotent stem cells and silenced during differentiation, it promotes efficient somatic cell reprogramming by suppressing senescence mediators (eg, p16INK4a, p21) and replacing oncogenes such as c-Myc to minimize tumorigenic risks. Beyond pluripotency, the miR-302/367 cluster reduces oxidative stress, mitochondrial dysfunction, and fibrosis, indicating therapeutic potential in age-associated conditions such as neurodegenerative, ocular, and fibrotic diseases. This review summarizes the dual ability of miR-302/367 cluster in promoting cell state transitions and transiently resetting cellular aging to enable healthspan extension. We critically discuss the pivotal role of miR-302/367 cluster in pluripotency and reprogramming while countering aging hallmarks. Finally, we explore how combining single-miRNA therapeutics with clinically viable delivery systems (lipid nanoparticles and extracellular vesicles) can link cellular reprogramming with targeted rejuvenation therapies.",
+      "url": "https://europepmc.org/articles/PMC12907026",
+      "pdf_url": "https://europepmc.org/articles/PMC12907026?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ca/56/PMC12907026.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "PMID:41693061",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A State-of-the-Art Overview on (Epi)Genomics and Personalized Skin Rejuvenating Strategies.",
+      "authors": "Tauser RG; Vasincu IM; Iacob AT; Apotrosoaei M; Profire BȘ; Lupascu FG; Chirliu OM; Profire L",
+      "year": 2025,
+      "doi": "10.3390/pharmaceutics17121585",
+      "pmid": "41471101",
+      "pmcid": "PMC12736729",
+      "abstract": "This article aims to point out new perspectives opened by genomics and epigenomics in skin rejuvenation strategies which target the main hallmarks of the ageing. In this respect, this article presents a concise overview on: the clinical relevance of the most important clocks and biomarkers used in skin anti-ageing strategy evaluation, the fundamentals, the main illustrating examples preclinically and clinically tested, the critical insights on knowledge gaps and future research perspectives concerning the most relevant skin anti-ageing and rejuvenation strategies based on novel epigenomic and genomic acquisitions. Thus the review dedicates distinct sections to: senolytics and senomorphics targeting senescent skin cells and their senescent-associated phenotype; strategies targeting genomic instability and telomere attrition by stimulation of the deoxyribonucleic acid (DNA) repair enzymes and proteins essential for telomeres' recovery and stability; regenerative medicine based on mesenchymal stem cells or cell-free products in order to restore skin-resided stem cells; genetically and chemically induced skin epigenetic partial reprogramming by using transcription factors or epigenetic small molecule agents, respectively; small molecule modulators of DNA methylases, histone deacetylases, telomerases, DNA repair enzymes or of sirtuins; modulators of micro ribonucleic acid (miRNA) and long-non-coding ribonucleic acid (HOTAIR's modulators) assisted or not by CRISPR-gene editing technology (CRISPR: Clustered Regularly Interspaced Short Palindromic Repeats); modulators of the most relevant altered nutrient-sensing pathways in skin ageing; as well as antioxidants and nanozymes to address mitochondrial dysfunctions and oxidative stress. In addition, some approaches targeting skin inflammageing, altered skin proteostasis, (macro)autophagy and intercellular connections, or skin microbiome, are very briefly discussed. The review also offers a comparative analysis among the newer genomic/epigenomic-based skin anti-ageing strategies vs. classical skin rejuvenation treatments from various perspectives: efficacy, safety, mechanism of action, evidence level in preclinical and clinical data and regulatory status, price range, current limitations. In these regards, a concise overview on senolytic/senomorphic agents, topical nutrigenomic pathways' modulators and DNA repair enzymes, epigenetic small molecules agents, microRNAs and HOTAIRS's modulators, is illustrated in comparison to classical approaches such as tretinoin and peptide-based cosmeceuticals, topical serum with growth factors, intense pulsed light, laser and microneedling combinations, chemical peels, botulinum toxin injections, dermal fillers. Finally, the review emphasizes the future research directions in order to accelerate the clinical translation of the (epi)genomic-advanced knowledge towards personalization of the skin anti-ageing strategies by integration of individual genomic and epigenomic profiles to customize/tailor skin rejuvenation therapies.",
+      "url": "https://europepmc.org/articles/PMC12736729",
+      "pdf_url": "https://europepmc.org/articles/PMC12736729?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/21/50/PMC12736729.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "PMID:41471101",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular Models of Aging and Senescence.",
+      "authors": "Kim B; Lee DI; Basisty N; Dai DF",
+      "year": 2025,
+      "doi": "10.3390/cells14161278",
+      "pmid": "40862757",
+      "pmcid": "PMC12384970",
+      "abstract": "Aging, a state of progressive decline in physiological function, is an important risk factor for chronic diseases, ranging from cancer and musculoskeletal frailty to cardiovascular and neurodegenerative diseases. Understanding its cellular basis is critical for developing interventions to extend human health span. This review highlights the crucial role of in vitro models, discussing foundational discoveries like the Hayflick limit and the senescence-associated secretory phenotype (SASP), the utility of immortalized cell lines, and transformative human induced pluripotent stem cells (iPSCs) for aging and disease modeling and rejuvenation studies. We also examine methods to induce senescence and discuss the distinction between chronological time and biological clock, with examples of applying cells from progeroid syndromes and mitochondrial diseases to recapitulate some signaling mechanisms in aging. Although no in vitro model can perfectly recapitulate organismal aging, well-chosen models are invaluable for addressing specific mechanistic questions. We focus on experimental strategies to manipulate cellular aging: from \"steering\" cells toward resilience to \"reversing\" age-related phenotypes via senolytics, partial epigenetic reprogramming, and targeted modulation of proteostasis and mitochondrial health. This review ultimately underscores the value of in vitro systems for discovery and therapeutic testing while acknowledging the challenge of translating insights from cell studies into effective, organism-wide strategies to promote healthy aging.",
+      "url": "https://europepmc.org/articles/PMC12384970",
+      "pdf_url": "https://europepmc.org/articles/PMC12384970?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/89/b6/PMC12384970.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "PMID:40862757",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic pharmacology in aging: from mechanisms to therapies for age-related disorders.",
+      "authors": "Yu H; Feng T; Zhang C; Jiao Z; Fan W; Jiang R; Kong D; Li F",
+      "year": 2025,
+      "doi": "10.3389/fphar.2025.1699296",
+      "pmid": "41244840",
+      "pmcid": "PMC12611946",
+      "abstract": "Aging is a multidimensional process regulated by the interplay of genetic and environmental factors, with epigenetic alterations serving as a central regulatory hub. Aberrant DNA methylation patterns, dysregulation of histone-modifying enzymes (e.g., SIRT1, EZH2), and non-coding RNA-mediated mechanisms collectively remodel gene expression networks, impacting critical pathways such as cellular senescence and mitochondrial homeostasis. This establishes an \"environment-epigenome-disease\" causal axis, closely associated with pathologies including β-amyloid deposition in Alzheimer's disease, atherosclerosis, immunosenescence, osteoporosis, sarcopenia, and tumorigenesis. Capitalizing on the reversible nature of epigenetic modifications, pharmacological epigenetics has emerged as a cutting-edge field for intervening in aging and age-related diseases. Targeting key epigenetic modifiers such as DNA methyltransferases and histone deacetylases enables the modulation of disease-associated epigenetic states, providing a promising avenue for therapeutic intervention in aging and age-related diseases. This review synthesizes the molecular mechanisms of epigenetic regulation in aging, their role in age-related diseases, and advances in pharmacological epigenetics-from basic research to clinical translation. It further situates key challenges such as target specificity, long-term safety, and tissue-specific delivery within a translational framework, aiming to inform strategies for the diagnosis and intervention of age-related conditions.",
+      "url": "https://europepmc.org/articles/PMC12611946",
+      "pdf_url": "https://europepmc.org/articles/PMC12611946?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ef/8f/PMC12611946.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic",
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "PMID:41244840",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenome Engineering Using dCas Systems for Biomedical Applications and Biotechnology: Current Achievements, Opportunities and Challenges.",
+      "authors": "Kovalev MA; Mamaeva NY; Kristovskiy NV; Feskin PG; Vinnikov RS; Oleinikov PD; Sosnovtseva AO; Yakovlev VA; Glukhov GS; Shaytan AK",
+      "year": 2025,
+      "doi": "10.3390/ijms26136371",
+      "pmid": "40650152",
+      "pmcid": "PMC12250444",
+      "abstract": "Epigenome engineering, particularly utilizing CRISPR/dCas-based systems, is a powerful strategy to modulate gene expression and genome functioning without altering the DNA sequence. In this review we summarized current achievements and prospects in dCas-mediated epigenome editing, primarily focusing on its applications in biomedicine, but also providing a wider context for its applications in biotechnology. The diversity of CRISPR/dCas architectures is outlined, recent innovations in the design of epigenetic editors and delivery methods are highlighted, and the therapeutic potential across a wide range of diseases, including hereditary, neurodegenerative, and metabolic disorders, is examined. Opportunities for the application of dCas-based tools in animal, agricultural, and industrial biotechnology are also discussed. Despite substantial progress, challenges, such as delivery efficiency, specificity, stability of induced epigenetic modifications, and clinical translation, are emphasized. Future directions aimed at enhancing the efficacy, safety, and practical applicability of epigenome engineering technologies are proposed.",
+      "url": "https://europepmc.org/articles/PMC12250444",
+      "pdf_url": "https://www.mdpi.com/1422-0067/26/13/6371/pdf?version=1751458767",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/35/3b/PMC12250444.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "PMID:40650152",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Is postoperative cognitive dysfunction a disease of microglial inflammatory memory? A state-transition model from metabolic stress to epigenetic lock-in.",
+      "authors": "Wu X; He T; He F; Liu L",
+      "year": 2025,
+      "doi": "10.3389/fnmol.2025.1648161",
+      "pmid": "40843245",
+      "pmcid": "PMC12364888",
+      "abstract": "Postoperative cognitive dysfunction (POCD) remains a significant challenge in perioperative medicine, especially among older adults. Despite its prevalence, existing models centered on transient neuroinflammation fail to explain why cognitive deficits often persist long after systemic immune responses resolve. This review proposes a new framework: POCD is driven not by ongoing inflammation, but by a stable shift in microglial identity. We describe a closed-loop \"inflammatory memory circuit\" in which mitochondrial dysfunction, chromatin remodeling, and persistent polarization co-evolve to lock microglia into a hypersensitive, neurotoxic state. Recent studies suggest that surgical trauma triggers mitochondrial damage and mtDNA release, initiating innate immune activation via the cGAS-STING and NLRP3 pathways. These events engage epigenetic machinery-including HDAC3, DNMT3a, and long non-coding RNAs like MEG3-which reinforce transcriptional programs that lower activation thresholds and amplify cytokine output. Sustained M1-like polarization further propagates this loop, driving neuronal injury even in the absence of continued systemic cues. We outline experimental strategies to validate this model, including time-resolved single-cell transcriptomics and chromatin accessibility profiling. Therapeutically, we highlight HDAC inhibitors, SIRT1 agonists, and lncRNA-targeted interventions as potential strategies to disrupt the circuit before state-locking occurs. By reframing POCD as a glial fate transition rather than a transient immune reaction, this model offers mechanistic clarity and opens a path toward time-sensitive, precision interventions.",
+      "url": "https://europepmc.org/articles/PMC12364888",
+      "pdf_url": "https://europepmc.org/articles/PMC12364888?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c6/ad/PMC12364888.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "PMID:40843245",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "New perspectives on polycystic ovary syndrome hypothalamic-sympathetic-adipose tissue interactions",
+      "authors": "Shinan Zhang",
+      "year": 2025,
+      "doi": "10.1016/j.jri.2025.104726",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jri.2025.104726",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "10.1016/j.jri.2025.104726",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Organ-Specific Dedifferentiation and Epigenetic Remodeling in In Vivo Reprogramming.",
+      "authors": "Jo BK; Lee SY; Eom HJ; Kim J; Cha HJ",
+      "year": 2025,
+      "doi": "10.1111/acel.70268",
+      "pmid": "41114535",
+      "pmcid": "PMC12610414",
+      "abstract": "The advent of in vivo reprogramming through transient expression of the Yamanaka factors (OCT4, SOX2, KLF4, and c-MYC) holds strong promise for regenerative medicine, despite ongoing concerns about safety and clinical applicability. This review synthesizes recent advances in in vivo reprogramming, focusing on its potential to restore regenerative competence and promote rejuvenation across diverse tissues, including the retina, skeletal muscle, heart, liver, brain, and intestine. We highlight mechanistic parallels and distinctions between injury-induced dedifferentiation and OSKM-mediated reprogramming, emphasizing the roles of dedifferentiation, transient regenerative progenitors, and epigenetic remodeling. Critical safety considerations-such as teratoma formation, organ failure, and loss of cell identity-are discussed alongside strategies designed to mitigate these risks, like cyclic induction and targeted delivery. Finally, we briefly note the growing translational interest in this field, alongside directing readers to recent reviews for detailed coverage of biotech initiatives. Collectively, this work underscores the transformative potential of in vivo reprogramming for both tissue regeneration and rejuvenation, while stressing the importance of precise spatiotemporal control for its safe clinical application.",
+      "url": "https://europepmc.org/articles/PMC12610414",
+      "pdf_url": "https://europepmc.org/articles/PMC12610414?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8c/99/PMC12610414.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "PMID:41114535",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Partial reprogramming by cyclical overexpression of Yamanaka factors improves pathological phenotypes of tauopathy mouse model of human Alzheimer's disease.",
+      "authors": "A. Antón-Fernández; Álvaro Ruiz de Alegría; Ana Mariscal-Casero; Marta Roldán-Lázaro; Rocío Peinado-Cauchola; J. Ávila; Félix Hernández",
+      "year": 2025,
+      "doi": "10.1016/j.pneurobio.2025.102743",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Partial reprogramming induced by the controlled and cyclical overexpression of Yamanaka factors in the nervous system has so far succeeded in reversing some aging-associated phenotypes, such as improving memory function. These promising results suggest that partial reprogramming could be a potential strategy to prevent or mitigate aging-related pathologies like tauopathies, including Alzheimer's disease. Here, we explore the potential of this strategy in addressing tauopathy development in the P301S mouse model. To achieve this, a new transgenic animal was created that can inducibly overexpress Yamanaka factors upon doxycycline administration and carries the Tau-P301S mutation, which leads to tauopathy development. The results of this study show a significant improvement in key pathological features of tauopathies in the hippocampus, including reversed tauopathy, alleviated reactive astrogliosis, age-related reduction of the H3K9me3 epigenetic marker, along with improved spatial memory, which has been described as deteriorated in this model. These findings reinforce the potential of partial reprogramming as a therapeutic strategy to combat brain pathologies associated with aging.",
+      "url": "https://www.semanticscholar.org/paper/1e9f2328839816c4af79cb634ef158e68cd03309",
+      "pdf_url": "https://doi.org/10.1016/j.pneurobio.2025.102743",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "1e9f2328839816c4af79cb634ef158e68cd03309",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Prevalent mesenchymal drift in aging and disease is reversed by partial reprogramming.",
+      "authors": "Lu JY; Tu WB; Li R; Weng M; Sanketi BD; Yuan B; Reddy P; Rodriguez Esteban C; Izpisua Belmonte JC",
+      "year": 2025,
+      "doi": "10.1016/j.cell.2025.07.031",
+      "pmid": "40816266",
+      "pmcid": null,
+      "abstract": "The loss of cellular and tissue identity is a hallmark of aging and numerous diseases, but the underlying mechanisms are not well understood. Our analysis of gene expression data from over 40 human tissues and 20 diseases reveals a pervasive upregulation of mesenchymal genes across multiple cell types, along with an altered composition of stromal cell populations, denoting a \"mesenchymal drift\" (MD). Increased MD correlates with disease progression, reduced patient survival, and an elevated mortality risk, whereas suppression of key MD transcription factors leads to epigenetic rejuvenation. Notably, Yamanaka factor-induced partial reprogramming can markedly reduce MD before dedifferentiation and gain of pluripotency, rejuvenating the aging transcriptome at the cellular and tissue levels. These findings provide mechanistic insight into the underlying beneficial effects of partial reprogramming and offer a framework for developing interventions to reverse age-related diseases using the partial reprogramming approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40816266/",
+      "pdf_url": "https://doi.org/10.1016/j.cell.2025.07.031",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed",
+        "semantic"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "40816266",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting PURPL RNA enabled rejuvenation of senescence cells via epigenetic reprogramming.",
+      "authors": "Wang J; Yang X; Su X; Yi W; Sun W; Wei J; Ning YQ; Yan J",
+      "year": 2025,
+      "doi": "10.1186/s12967-025-07208-5",
+      "pmid": "41107828",
+      "pmcid": "PMC12535130",
+      "abstract": "Cellular senescence is a fundamental driver of ageing and age-related diseases, characterized by irreversible growth arrest and profound epigenetic alterations. While long non-coding RNAs (lncRNAs) have emerged as key regulators of senescence, their potential for senescent cell rejuvenation remains unexplored. Here, we identify the ageing-associated lncRNA PURPL as an epigenetic regulator that controls cellular rejuvenation through H3K9me3-mediated transcriptional silencing. CRISPRi-mediated PURPL depletion produces striking rejuvenation effects, resulting in restored youthful cell morphology, as well as suppression of senescence markers such as p21 and SA-β-gal. Conversely, PURPL overexpression accelerates cellular senescence, recapitulating the transcriptional and phenotypic hallmarks of ageing. Mechanistically, nuclear-localized PURPL regulates H3K9me3 deposition at 411 genomic loci including SERPINE1 (PAI-1) and EGR1, which are key senescence drivers. PURPL-mediated H3K9me3 loss at these loci derepresses their transcription, establishing a pro-senescence gene expression program. These findings reveal that PURPL is an epigenetic modulator of senescence and highlight its potential as a therapeutic target for age-related pathologies.",
+      "url": "https://europepmc.org/articles/PMC12535130",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/83/a1/12967_2025_Article_7208.PMC12535130.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/83/a1/PMC12535130.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "PMID:41107828",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The interplay of cellular senescence and reprogramming shapes the biological landscape of aging and cancer revealing novel therapeutic avenues.",
+      "authors": "Ding F; Yu Y; Zhao J; Wei S; Zhang Y; Han JH; Li Z; Jiang HB; Ryu D; Cho M; Bae SJ; Park W; Ha KT; Gao B",
+      "year": 2025,
+      "doi": "10.3389/fcell.2025.1593096",
+      "pmid": "40356604",
+      "pmcid": null,
+      "abstract": "Cellular senescence and cellular reprogramming represent two fundamentally intertwined processes that profoundly influence aging and cancer. This paper explores how the permanent cell-cycle arrest of senescent cells and the identity-resetting capacity of reprogramming jointly shape biological outcomes in later life and tumor development. We synthesize recent findings to show that senescent cells, while halting the proliferation of damaged cells, can paradoxically promote tissue dysfunction and malignancy via their secretory phenotype. Conversely, induced reprogramming of somatic cells-exemplified by Yamanaka factors-resets cellular age and epigenetic marks, offering a potential to rejuvenate aged cells. Key findings highlight shared mechanisms (e.g., DNA damage responses and epigenetic remodeling) and bidirectional crosstalk between these processes: senescence signals can facilitate neighboring cell plasticity, whereas reprogramming attempts can trigger intrinsic senescence programs as a barrier. In aging tissues, transient (partial) reprogramming has been shown to erase senescence markers and restore cell function without inducing tumorigenesis, underlining a novel strategy to combat age-related degeneration. In cancer, we discuss how therapy-induced senescence of tumor cells may induce stem-cell-like traits in some cells and drive relapse, revealing a delicate balance between tumor suppression and tumor promotion. Understanding the interplay between senescence and reprogramming is crucial for developing innovative therapies. By targeting the senescence-reprogramming axis-for instance, via senolytic drugs, SASP inhibitors, or safe reprogramming techniques-there is significant therapeutic potential to ameliorate aging-related diseases and improve cancer treatment. Our findings underscore that carefully modulating cellular senescence and rejuvenation processes could pave the way for novel regenerative and anti-cancer strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40356604/",
+      "pdf_url": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1593096/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\ding_2025_the_interplay_of_cellular_senescence_and_reprogramming_shapes.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "40356604",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Gene Therapy-Mediated Partial Reprogramming Extends Lifespan and Reverses Age-Related Changes in Aged Mice.",
+      "authors": "Macip CC; Hasan R; Hoznek V; Kim J; Lu YR; Metzger LE; Sethna S; Davidsohn N",
+      "year": 2024,
+      "doi": "10.1089/cell.2023.0072",
+      "pmid": "38381405",
+      "pmcid": null,
+      "abstract": "Aging is a complex progression of changes best characterized as the chronic dysregulation of cellular processes leading to deteriorated tissue and organ function. Although aging cannot currently be prevented, its impact on life- and healthspan in the elderly can potentially be minimized by interventions that aim to return these cellular processes to optimal function. Recent studies have demonstrated that partial reprogramming using the Yamanaka factors (or a subset; OCT4, SOX2, and KLF4; OSK) can reverse age-related changes in vitro and in vivo. However, it is still unknown whether the Yamanaka factors (or a subset) are capable of extending the lifespan of aged wild-type (WT) mice. In this study, we show that systemically delivered adeno-associated viruses, encoding an inducible OSK system, in 124-week-old male mice extend the median remaining lifespan by 109% over WT controls and enhance several health parameters. Importantly, we observed a significant improvement in frailty scores indicating that we were able to improve the healthspan along with increasing the lifespan. Furthermore, in human keratinocytes expressing exogenous OSK, we observed significant epigenetic markers of age reversal, suggesting a potential reregulation of genetic networks to a younger potentially healthier state. Together, these results may have important implications for the development of partial reprogramming interventions to reverse age-associated diseases in the elderly.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38381405/",
+      "pdf_url": "https://doi.org/10.1089/cell.2023.0072",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "38381405",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "IGVFDS5239SBBT",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.65695/igvfds5239sbbt",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.65695/igvfds5239sbbt",
+      "pdf_url": "https://doi.org/10.65695/igvfds5239sbbt",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "10.65695/igvfds5239sbbt",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #1 (Public Review): Multi-omics characterization of partial chemical reprogramming reveals evidence of cell rejuvenation",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.7554/elife.90579.3.sa1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.90579.3.sa1",
+      "pdf_url": "http://dx.doi.org/10.7554/elife.90579.3.sa1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "10.7554/elife.90579.3.sa1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Telomerase is essential for cardiac differentiation and sustained metabolism of human cardiomyocytes.",
+      "authors": "Chatterjee S; Leach-Mehrwald M; Huang CK; Xiao K; Fuchs M; Otto M; Lu D; Dang V; Winkler T; Dunbar CE; Thum T; Bär C",
+      "year": 2024,
+      "doi": "10.1007/s00018-024-05239-7",
+      "pmid": "38658440",
+      "pmcid": "PMC11043037",
+      "abstract": "Telomeres as the protective ends of linear chromosomes, are synthesized by the enzyme telomerase (TERT). Critically short telomeres essentially contribute to aging-related diseases and are associated with a broad spectrum of disorders known as telomeropathies. In cardiomyocytes, telomere length is strongly correlated with cardiomyopathies but it remains ambiguous whether short telomeres are the cause or the result of the disease. In this study, we employed an inducible CRISPRi human induced pluripotent stem cell (hiPSC) line to silence TERT expression enabling the generation of hiPSCs and hiPSC-derived cardiomyocytes with long and short telomeres. Reduced telomerase activity and shorter telomere lengths of hiPSCs induced global transcriptomic changes associated with cardiac developmental pathways. Consequently, the differentiation potential towards cardiomyocytes was strongly impaired and single cell RNA sequencing revealed a shift towards a more smooth muscle cell like identity in the cells with the shortest telomeres. Poor cardiomyocyte function and increased sensitivity to stress directly correlated with the extent of telomere shortening. Collectively our data demonstrates a TERT dependent cardiomyogenic differentiation defect, highlighting the CRISPRi TERT hiPSCs model as a powerful platform to study the mechanisms and consequences of short telomeres in the heart and also in the context of telomeropathies.",
+      "url": "https://europepmc.org/articles/PMC11043037",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00018-024-05239-7.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/db/16/PMC11043037.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\chatterjee_2024_telomerase_is_essential_for_cardiac_differentiation_and_sustained.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "PMID:38658440",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstract 3: <i>In vivo</i> CRISPR activation screening identifies tissue-specific oncogene selection",
+      "authors": "Fredrik Ivar Thege; Sonja M. Woermann; Anirban Maitra",
+      "year": 2023,
+      "doi": "10.1158/1538-7445.am2023-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Background: While the genetic landscapes of pancreatic ductal adenocarcinoma (PDAC) and non-small cell lung cancer (NSCLC) are relatively well described, the contribution of individual genes and transcriptomic programs to progression and metastasis remain incompletely understood. To quantify the tissue-specific selective advantage of transcriptomic drivers of tumor progression and metastasis, we have developed a platform for in vivo CRISPR activation (CRISPRa) oncogene screening.</jats:p>\n               <jats:p>Material and Methods: Our platform consists of an autochthonous CRISPRa-competent mouse tumor model (PPKS; P53(F/F), Kras(LSL-G12D/+), R26(LSL-SAM), coupled with in vivo delivery of Cre/sgRNA lentiviral libraries. To evaluate tissue-specific differences in oncogene selection, we designed a CRISPRa library targeting 450 of the most frequently altered genes across human adenocarcinoma. We next generated lung and pancreas tumors through administration of controlled doses of Cre/sgRNA library in vivo. Tumors and metastatic lesions were isolated and guide enrichment was determined using NGS. We also performed CRISPRa screening on proto-oncogenic (PPKS) pancreatic organoids orthotopically transplanted into syngeneic or immunodeficient mice (NU/J). The results from our CRISPRa screening were confirmed using single-gene activation in vivo and in pancreatic organoids.</jats:p>\n               <jats:p>Results: We found that pancreatic tumors displayed dramatically higher levels of guide selection relative to lung tumors. While, on average, 99.7% of guides were represented in primary lung tumors at survival endpoint, only 40.4% of guides were detected in pancreatic tumors. We identified very strong selection for Egfr-activation in primary lung tumors, followed by MafB, Sox2 and Myc. In contrast, we found near-complete dominance of Myc-activation in pancreatic tumors. Since EGFR and MYC represent two of the most frequently altered genes in NSCLC and PDAC, respectively, this indicates our ability to recapitulate clinically observed oncogene selection. To determine if the selection for Myc-activation in the pancreas was driven by immune response, we performed screening in pancreatic organoids transplanted into immune competent and incompetent mice and found that Myc was uniformly the most highly enriched target. To confirm our findings, we generated Myc-activated proto-oncogenic organoids and autochthonous tumors, and both displayed accelerated tumor formation relative to non-targeted controls.</jats:p>\n               <jats:p>Conclusions: We present one of the first implementations of autochthonous in vivo CRISPR activation screening, allowing for direct observation and quantification of oncogene selection and competition in vivo. Our model faithfully recapitulated oncogene selection observed in patient tumors by identifying EGFR and MYC as dominating oncogenes in the context of KRAS mutant lung and pancreas tumors, respectively.</jats:p>\n               <jats:p>Citation Format: Fredrik Ivar Thege, Sonja M. Woermann, Anirban Maitra. In vivo CRISPR activation screening identifies tissue-specific oncogene selection [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2023; Part 1 (Regular and Invited Abstracts); 2023 Apr 14-19; Orlando, FL. Philadelphia (PA): AACR; Cancer Res 2023;83(7_Suppl):Abstract nr 3.</jats:p>",
+      "url": "https://doi.org/10.1158/1538-7445.am2023-3",
+      "pdf_url": "https://aacrjournals.org/cancerres/article/83/7_Supplement/3/722730/Abstract-3-In-vivo-CRISPR-activation-screening",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "10.1158/1538-7445.am2023-3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular rejuvenation: molecular mechanisms and potential therapeutic interventions for diseases",
+      "authors": "Shuaifei Ji; Mingchen Xiong; Huating Chen; Yiqiong Liu; Laixian Zhou; Yiyue Hong; Mengyang Wang; Chunming Wang; Xiaobing Fu; Xiaoyan Sun",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01343-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The ageing process is a systemic decline from cellular dysfunction to organ degeneration, with more predisposition to deteriorated disorders. Rejuvenation refers to giving aged cells or organisms more youthful characteristics through various techniques, such as cellular reprogramming and epigenetic regulation. The great leaps in cellular rejuvenation prove that ageing is not a one-way street, and many rejuvenative interventions have emerged to delay and even reverse the ageing process. Defining the mechanism by which roadblocks and signaling inputs influence complex ageing programs is essential for understanding and developing rejuvenative strategies. Here, we discuss the intrinsic and extrinsic factors that counteract cell rejuvenation, and the targeted cells and core mechanisms involved in this process. Then, we critically summarize the latest advances in state-of-art strategies of cellular rejuvenation. Various rejuvenation methods also provide insights for treating specific ageing-related diseases, including cellular reprogramming, the removal of senescence cells (SCs) and suppression of senescence-associated secretory phenotype (SASP), metabolic manipulation, stem cells-associated therapy, dietary restriction, immune rejuvenation and heterochronic transplantation, etc. The potential applications of rejuvenation therapy also extend to cancer treatment. Finally, we analyze in detail the therapeutic opportunities and challenges of rejuvenation technology. Deciphering rejuvenation interventions will provide further insights into anti-ageing and ageing-related disease treatment in clinical settings.",
+      "url": "https://doi.org/10.1038/s41392-023-01343-5",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01343-5.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\shuaifei_2023_cellular_rejuvenation_molecular_mechanisms_and_potential_therapeutic_interventions.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "W4324149058",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Empowering the Potential of CAR-T Cell Immunotherapies by Epigenetic Reprogramming.",
+      "authors": "Alvanou M; Lysandrou M; Christophi P; Psatha N; Spyridonidis A; Papadopoulou A; Yannaki E",
+      "year": 2023,
+      "doi": "10.3390/cancers15071935",
+      "pmid": "37046597",
+      "pmcid": "PMC10093039",
+      "abstract": "T-cell-based, personalized immunotherapy can nowadays be considered the mainstream treatment for certain blood cancers, with a high potential for expanding indications. Chimeric antigen receptor T cells (CAR-Ts), an ex vivo genetically modified T-cell therapy product redirected to target an antigen of interest, have achieved unforeseen successes in patients with B-cell hematologic malignancies. Frequently, however, CAR-T cell therapies fail to provide durable responses while they have met with only limited success in treating solid cancers because unique, unaddressed challenges, including poor persistence, impaired trafficking to the tumor, and site penetration through a hostile microenvironment, impede their efficacy. Increasing evidence suggests that CAR-Ts' in vivo performance is associated with T-cell intrinsic features that may be epigenetically altered or dysregulated. In this review, we focus on the impact of epigenetic regulation on T-cell differentiation, exhaustion, and tumor infiltration and discuss how epigenetic reprogramming may enhance CAR-Ts' memory phenotype, trafficking, and fitness, contributing to the development of a new generation of potent CAR-T immunotherapies.",
+      "url": "https://europepmc.org/articles/PMC10093039",
+      "pdf_url": "https://europepmc.org/articles/PMC10093039?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0e/d6/PMC10093039.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "PMID:37046597",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ISIDLB1786 - Transient epigenetic reprogramming by mRNA for skin rejuvenation",
+      "authors": "Christine Monteleon; Edward Hsia",
+      "year": 2023,
+      "doi": "10.26226/m.6437c125d44f9e0012ceb0c0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/m.6437c125d44f9e0012ceb0c0",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary",
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "10.26226/m.6437c125d44f9e0012ceb0c0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Loss of epigenetic information as a cause of mammalian aging",
+      "authors": "Jae-Hyun Yang; Motoshi Hayano; Patrick Griffin; João A. Amorim; Michael S. Bonkowski; John K. Apostolides; Elias Salfati; Marco Blanchette; Elizabeth M. Munding; Mital S. Bhakta; Yap Ching Chew; Wei Guo; Xiaojing Yang; Sun Y. Maybury‐Lewis; Xiao Tian; Jaime M. Ross; Giuseppe Coppotelli; Margarita Meer; Ryan Rogers-Hammond; Daniel L. Vera; Yuancheng Ryan Lu; Jeffrey W. Pippin; Michael Creswell; Zhixun Dou; Caiyue Xu; Sarah J. Mitchell; Abhirup Das; Brendan L. O’Connell; Sachin Thakur; Alice E. Kane; Qiao Su; Yasuaki Mohri; Emi K. Nishimura; Laura Schaevitz; Neha Garg; Ana-Maria Balta; Meghan A. Rego; Meredith Gregory‐Ksander; Tatjana Jakobs; Lei Zhong; Hiroko Wakimoto; Jihad El Andari; Dirk Grimm; Raúl Mostoslavsky; Amy J. Wagers; Kazuo Tsubota; Stephen J. Bonasera; Carlos M. Palmeira; Jonathan G. Seidman; Christine E. Seidman; Norman S. Wolf; Jill A. Kreiling; John M. Sedivy; Gëorge F. Murphy; Richard E. Green; Benjamin A. García; Shelley L. Berger; Philipp Oberdoerffer; Stuart J. Shankland; Vadim N. Gladyshev; Bruce R. Ksander; Andreas R. Pfenning; Luis A. Rajman; David Sinclair",
+      "year": 2023,
+      "doi": "10.1016/j.cell.2022.12.027",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cell.2022.12.027",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10166133/pdf/nihms-1859595.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "W4315705280",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regeneration leads to global tissue rejuvenation in aging sexual planarians",
+      "authors": "Sophia Friesen",
+      "year": 2023,
+      "doi": "10.1242/prelights.35033",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1242/prelights.35033",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "10.1242/prelights.35033",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #1 (Public Review): Multi-omics characterization of partial chemical reprogramming reveals evidence of cell rejuvenation",
+      "authors": "",
+      "year": 2023,
+      "doi": "10.7554/elife.90579.1.sa1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.90579.1.sa1",
+      "pdf_url": "http://dx.doi.org/10.7554/elife.90579.1.sa1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "10.7554/elife.90579.1.sa1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Seed Science and Technology",
+      "authors": "Malavika Dadlani; Devendra Kumar Yadava",
+      "year": 2023,
+      "doi": "10.1007/978-981-19-5888-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "This open access edited book is a collection of 21 chapters synthesized from nearly 100 lectures by >70 eminent international and Indian experts.",
+      "url": "https://doi.org/10.1007/978-981-19-5888-5",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-981-19-5888-5.pdf?pdf=button",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\malavika_2023_seed_science_and_technology.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "W3202265556",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ageing and rejuvenation of tissue stem cells and their niches",
+      "authors": "Anne Brunet; Margaret A. Goodell; Thomas A. Rando",
+      "year": 2022,
+      "doi": "10.1038/s41580-022-00510-w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41580-022-00510-w",
+      "pdf_url": "https://escholarship.org/content/qt6rg1b9t2/qt6rg1b9t2.pdf?t=rxmj3f",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\anne_2022_ageing_and_rejuvenation_of_tissue_stem_cells_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation",
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "W4286001510",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Applications of CRISPRi and CRISPRa in Drug Discovery",
+      "authors": "Luke A. Gilbert",
+      "year": 2022,
+      "doi": "10.1002/9781119671404.ch10",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/9781119671404.ch10",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119671404.ch10",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "10.1002/9781119671404.ch10",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular senescence: a key therapeutic target in aging and diseases",
+      "authors": "Lei Zhang; Louise E. Pitcher; Matthew J. Yousefzadeh; Laura J. Niedernhofer; Paul D. Robbins; Yi Zhu",
+      "year": 2022,
+      "doi": "10.1172/jci158450",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence is a hallmark of aging defined by stable exit from the cell cycle in response to cellular damage and stress. Senescent cells (SnCs) can develop a characteristic pathogenic senescence-associated secretory phenotype (SASP) that drives secondary senescence and disrupts tissue homeostasis, resulting in loss of tissue repair and regeneration. The use of transgenic mouse models in which SnCs can be genetically ablated has established a key role for SnCs in driving aging and age-related disease. Importantly, senotherapeutics have been developed to pharmacologically eliminate SnCs, termed senolytics, or suppress the SASP and other markers of senescence, termed senomorphics. Based on extensive preclinical studies as well as small clinical trials demonstrating the benefits of senotherapeutics, multiple clinical trials are under way. This Review discusses the role of SnCs in aging and age-related diseases, strategies to target SnCs, approaches to discover and develop senotherapeutics, and preclinical and clinical advances of senolytics.",
+      "url": "https://doi.org/10.1172/jci158450",
+      "pdf_url": "http://www.jci.org/articles/view/158450/files/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\lei_2022_cellular_senescence_a_key_therapeutic_target_in_aging.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "W4289028880",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Multi-omic rejuvenation of naturally aged tissues by a single cycle of transient reprogramming.",
+      "authors": "Chondronasiou D; Gill D; Mosteiro L; Urdinguio RG; Berenguer-Llergo A; Aguilera M; Durand S; Aprahamian F; Nirmalathasan N; Abad M; Martin-Herranz DE; Stephan-Otto Attolini C; Prats N; Kroemer G; Fraga MF; Reik W; Serrano M",
+      "year": 2022,
+      "doi": "10.1111/acel.13578",
+      "pmid": "35235716",
+      "pmcid": null,
+      "abstract": "The expression of the pluripotency factors OCT4, SOX2, KLF4, and MYC (OSKM) can convert somatic differentiated cells into pluripotent stem cells in a process known as reprogramming. Notably, partial and reversible reprogramming does not change cell identity but can reverse markers of aging in cells, improve the capacity of aged mice to repair tissue injuries, and extend longevity in progeroid mice. However, little is known about the mechanisms involved. Here, we have studied changes in the DNA methylome, transcriptome, and metabolome in naturally aged mice subject to a single period of transient OSKM expression. We found that this is sufficient to reverse DNA methylation changes that occur upon aging in the pancreas, liver, spleen, and blood. Similarly, we observed reversion of transcriptional changes, especially regarding biological processes known to change during aging. Finally, some serum metabolites and biomarkers altered with aging were also restored to young levels upon transient reprogramming. These observations indicate that a single period of OSKM expression can drive epigenetic, transcriptomic, and metabolomic changes toward a younger configuration in multiple tissues and in the serum.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35235716/",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.13578",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex",
+        "pubmed"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "35235716",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "<i>In vivo</i> Pooled Screening: A Scalable Tool to Study the Complexity of Aging and Age-Related Disease.",
+      "authors": "Borch Jensen M; Marblestone A",
+      "year": 2021,
+      "doi": "10.3389/fragi.2021.714926",
+      "pmid": "35822038",
+      "pmcid": "PMC9261400",
+      "abstract": "Biological aging, and the diseases of aging, occur in a complex <i>in vivo</i> environment, driven by multiple interacting processes. A convergence of recently developed technologies has enabled <i>in vivo</i> pooled screening: direct administration of a library of different perturbations to a living animal, with a subsequent readout that distinguishes the identity of each perturbation and its effect on individual cells within the animal. Such screens hold promise for efficiently applying functional genomics to aging processes in the full richness of the <i>in vivo</i> setting. In this review, we describe the technologies behind <i>in vivo</i> pooled screening, including a range of options for delivery, perturbation and readout methods, and outline their potential application to aging and age-related disease. We then suggest how <i>in vivo</i> pooled screening, together with emerging innovations in each of its technological underpinnings, could be extended to shed light on key open questions in aging biology, including the mechanisms and limits of epigenetic reprogramming and identifying cellular mediators of systemic signals in aging.",
+      "url": "https://europepmc.org/articles/PMC9261400",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fragi.2021.714926/pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f4/cf/PMC9261400.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\borch_2021_i_in_vivo_i_pooled_screening_a_scalable.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "PMID:35822038",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Application of the CRISPR/Cas9-based gene editing technique in basic research, diagnosis, and therapy of cancer",
+      "authors": "Huimin Zhang; Chunhong Qin; Changming An; Xiwang Zheng; Shuxin Wen; Wenjie Chen; Xianfang Liu; Zhenghua Lv; Ping–Chang Yang; Wei Xu; Wei Gao; Yongyan Wu",
+      "year": 2021,
+      "doi": "10.1186/s12943-021-01431-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The 2020 Nobel Prize in Chemistry was awarded to Emmanuelle Charpentier and Jennifer Doudna for the development of the Clustered regularly interspaced short palindromic repeats/CRISPR-associated nuclease9 (CRISPR/Cas9) gene editing technology that provided new tools for precise gene editing. It is possible to target any genomic locus virtually using only a complex nuclease protein with short RNA as a site-specific endonuclease. Since cancer is caused by genomic changes in tumor cells, CRISPR/Cas9 can be used in the field of cancer research to edit genomes for exploration of the mechanisms of tumorigenesis and development. In recent years, the CRISPR/Cas9 system has been increasingly used in cancer research and treatment and remarkable results have been achieved. In this review, we introduced the mechanism and development of the CRISPR/Cas9-based gene editing system. Furthermore, we summarized current applications of this technique for basic research, diagnosis and therapy of cancer. Moreover, the potential applications of CRISPR/Cas9 in new emerging hotspots of oncology research were discussed, and the challenges and future directions were highlighted.",
+      "url": "https://doi.org/10.1186/s12943-021-01431-6",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-021-01431-6",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\huimin_2021_application_of_the_crispr_cas9_based_gene_editing.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "W3204655553",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular reprogramming and epigenetic rejuvenation",
+      "authors": "Daniel J. Simpson; Nelly Olova; Tamir Chandra",
+      "year": 2021,
+      "doi": "10.1186/s13148-021-01158-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Ageing is an inevitable condition that afflicts all humans. Recent achievements, such as the generation of induced pluripotent stem cells, have delivered preliminary evidence that slowing down and reversing the ageing process might be possible. However, these techniques usually involve complete dedifferentiation, i.e. somatic cell identity is lost as cells are converted to a pluripotent state. Separating the rejuvenative properties of reprogramming from dedifferentiation is a promising prospect, termed epigenetic rejuvenation. Reprogramming-induced rejuvenation strategies currently involve using Yamanaka factors (typically transiently expressed to prevent full dedifferentiation) and are promising candidates to safely reduce biological age. Here, we review the development and potential of reprogramming-induced rejuvenation as an anti-ageing strategy.",
+      "url": "https://doi.org/10.1186/s13148-021-01158-7",
+      "pdf_url": "https://clinicalepigeneticsjournal.biomedcentral.com/track/pdf/10.1186/s13148-021-01158-7",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\daniel_2021_cellular_reprogramming_and_epigenetic_rejuvenation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "W3198616044",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic Clock and Circadian Rhythms in Stem Cell Aging and Rejuvenation",
+      "authors": "Ekaterina M. Samoilova; Vladimir V. Belopasov; Evgenia V. Ekusheva; Chao Zhang; Alexander V. Troitskiy; Владимир П. Баклаушев",
+      "year": 2021,
+      "doi": "10.3390/jpm11111050",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "This review summarizes the current understanding of the interaction between circadian rhythms of gene expression and epigenetic clocks characterized by the specific profile of DNA methylation in CpG-islands which mirror the senescence of all somatic cells and stem cells in particular. Basic mechanisms of regulation for circadian genes CLOCK-BMAL1 as well as downstream clock-controlled genes (ССG) are also discussed here. It has been shown that circadian rhythms operate by the finely tuned regulation of transcription and rely on various epigenetic mechanisms including the activation of enhancers/suppressors, acetylation/deacetylation of histones and other proteins as well as DNA methylation. Overall, up to 20% of all genes expressed by the cell are subject to expression oscillations associated with circadian rhythms. Additionally included in the review is a brief list of genes involved in the regulation of circadian rhythms, along with genes important for cell aging, and oncogenesis. Eliminating some of them (for example, Sirt1) accelerates the aging process, while the overexpression of Sirt1, on the contrary, protects against age-related changes. Circadian regulators control a number of genes that activate the cell cycle (Wee1, c-Myc, p20, p21, and Cyclin D1) and regulate histone modification and DNA methylation. Approaches for determining the epigenetic age from methylation profiles across CpG islands in individual cells are described. DNA methylation, which characterizes the function of the epigenetic clock, appears to link together such key biological processes as regeneration and functioning of stem cells, aging and malignant transformation. Finally, the main features of adult stem cell aging in stem cell niches and current possibilities for modulating the epigenetic clock and stem cells rejuvenation as part of antiaging therapy are discussed.",
+      "url": "https://doi.org/10.3390/jpm11111050",
+      "pdf_url": "https://www.mdpi.com/2075-4426/11/11/1050/pdf?version=1634904094",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "W3208962277",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Inflammation, epigenetics, and metabolism converge to cell senescence and ageing: the regulation and intervention",
+      "authors": "Xudong Zhu; Zhiyang Chen; Weiyan Shen; Gang Huang; John M. Sedivy; Hu Wang; Zhenyu Ju",
+      "year": 2021,
+      "doi": "10.1038/s41392-021-00646-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Remarkable progress in ageing research has been achieved over the past decades. General perceptions and experimental evidence pinpoint that the decline of physical function often initiates by cell senescence and organ ageing. Epigenetic dynamics and immunometabolic reprogramming link to the alterations of cellular response to intrinsic and extrinsic stimuli, representing current hotspots as they not only (re-)shape the individual cell identity, but also involve in cell fate decision. This review focuses on the present findings and emerging concepts in epigenetic, inflammatory, and metabolic regulations and the consequences of the ageing process. Potential therapeutic interventions targeting cell senescence and regulatory mechanisms, using state-of-the-art techniques are also discussed.",
+      "url": "https://doi.org/10.1038/s41392-021-00646-9",
+      "pdf_url": "https://www.nature.com/articles/s41392-021-00646-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\xudong_2021_inflammation_epigenetics_and_metabolism_converge_to_cell_senescence.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "W3174749050",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanisms of Cellular Senescence: Cell Cycle Arrest and Senescence Associated Secretory Phenotype",
+      "authors": "Ruchi Kumari; Parmjit Jat",
+      "year": 2021,
+      "doi": "10.3389/fcell.2021.645593",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence is a stable cell cycle arrest that can be triggered in normal cells in response to various intrinsic and extrinsic stimuli, as well as developmental signals. Senescence is considered to be a highly dynamic, multi-step process, during which the properties of senescent cells continuously evolve and diversify in a context dependent manner. It is associated with multiple cellular and molecular changes and distinct phenotypic alterations, including a stable proliferation arrest unresponsive to mitogenic stimuli. Senescent cells remain viable, have alterations in metabolic activity and undergo dramatic changes in gene expression and develop a complex senescence-associated secretory phenotype. Cellular senescence can compromise tissue repair and regeneration, thereby contributing toward aging. Removal of senescent cells can attenuate age-related tissue dysfunction and extend health span. Senescence can also act as a potent anti-tumor mechanism, by preventing proliferation of potentially cancerous cells. It is a cellular program which acts as a double-edged sword, with both beneficial and detrimental effects on the health of the organism, and considered to be an example of evolutionary antagonistic pleiotropy. Activation of the p53/p21 WAF1/CIP1 and p16 INK4A /pRB tumor suppressor pathways play a central role in regulating senescence. Several other pathways have recently been implicated in mediating senescence and the senescent phenotype. Herein we review the molecular mechanisms that underlie cellular senescence and the senescence associated growth arrest with a particular focus on why cells stop dividing, the stability of the growth arrest, the hypersecretory phenotype and how the different pathways are all integrated.",
+      "url": "https://doi.org/10.3389/fcell.2021.645593",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.645593/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\ruchi_2021_mechanisms_of_cellular_senescence_cell_cycle_arrest_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "W3146579363",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Novel Noninvasive Approaches to the Treatment of Obesity: From Pharmacotherapy to Gene Therapy",
+      "authors": "Angeliki M. Angelidi; Matthew J. Belanger; Alexander Kokkinos; Chrysi Koliaki; Christos S. Mantzoros",
+      "year": 2021,
+      "doi": "10.1210/endrev/bnab034",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Recent insights into the pathophysiologic underlying mechanisms of obesity have led to the discovery of several promising drug targets and novel therapeutic strategies to address the global obesity epidemic and its comorbidities. Current pharmacologic options for obesity management are largely limited in number and of modest efficacy/safety profile. Therefore, the need for safe and more efficacious new agents is urgent. Drugs that are currently under investigation modulate targets across a broad range of systems and tissues, including the central nervous system, gastrointestinal hormones, adipose tissue, kidney, liver, and skeletal muscle. Beyond pharmacotherapeutics, other potential antiobesity strategies are being explored, including novel drug delivery systems, vaccines, modulation of the gut microbiome, and gene therapy. The present review summarizes the pathophysiology of energy homeostasis and highlights pathways being explored in the effort to develop novel antiobesity medications and interventions but does not cover devices and bariatric methods. Emerging pharmacologic agents and alternative approaches targeting these pathways and relevant research in both animals and humans are presented in detail. Special emphasis is given to treatment options at the end of the development pipeline and closer to the clinic (ie, compounds that have a higher chance to be added to our therapeutic armamentarium in the near future). Ultimately, advancements in our understanding of the pathophysiology and interindividual variation of obesity may lead to multimodal and personalized approaches to obesity treatment that will result in safe, effective, and sustainable weight loss until the root causes of the problem are identified and addressed.",
+      "url": "https://doi.org/10.1210/endrev/bnab034",
+      "pdf_url": "https://academic.oup.com/edrv/article-pdf/43/3/507/43899722/bnab034.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "W3209709155",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transient or partial epigenetic reprogramming to overcome senescence in human keratinocyte cultures for skin engineering and rejuvenation",
+      "authors": "Sina Kardeh; Mohsen Mazloomrezaei; Maryam Jalouli; Shima Faezi-Marian",
+      "year": 2021,
+      "doi": "10.1016/j.burns.2021.04.008",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.burns.2021.04.008",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "10.1016/j.burns.2021.04.008",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Alpha-ketoglutarate for adipose tissue rejuvenation",
+      "authors": "Qiyu Tian; Xiangdong Liu; Min Du",
+      "year": 2020,
+      "doi": "10.18632/aging.103853",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.103853",
+      "pdf_url": "https://doi.org/10.18632/aging.103853",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "10.18632/aging.103853",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Applications of genome editing technology in the targeted therapy of human diseases: mechanisms, advances and prospects",
+      "authors": "Hongyi Li; Yang Yang; Weiqi Hong; Mengyuan Huang; Min Wu; Xia Zhao",
+      "year": 2020,
+      "doi": "10.1038/s41392-019-0089-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Based on engineered or bacterial nucleases, the development of genome editing technologies has opened up the possibility of directly targeting and modifying genomic sequences in almost all eukaryotic cells. Genome editing has extended our ability to elucidate the contribution of genetics to disease by promoting the creation of more accurate cellular and animal models of pathological processes and has begun to show extraordinary potential in a variety of fields, ranging from basic research to applied biotechnology and biomedical research. Recent progress in developing programmable nucleases, such as zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs) and clustered regularly interspaced short palindromic repeat (CRISPR)-Cas-associated nucleases, has greatly expedited the progress of gene editing from concept to clinical practice. Here, we review recent advances of the three major genome editing technologies (ZFNs, TALENs, and CRISPR/Cas9) and discuss the applications of their derivative reagents as gene editing tools in various human diseases and potential future therapies, focusing on eukaryotic cells and animal models. Finally, we provide an overview of the clinical trials applying genome editing platforms for disease treatment and some of the challenges in the implementation of this technology.",
+      "url": "https://doi.org/10.1038/s41392-019-0089-y",
+      "pdf_url": "https://www.nature.com/articles/s41392-019-0089-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "W2998881619",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR349LHQ",
+      "authors": "M Snyder",
+      "year": 2020,
+      "doi": "10.17989/encsr349lhq",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr349lhq",
+      "pdf_url": "https://doi.org/10.17989/encsr349lhq",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "10.17989/encsr349lhq",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR467RQJ",
+      "authors": "M Snyder",
+      "year": 2020,
+      "doi": "10.17989/encsr467rqj",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr467rqj",
+      "pdf_url": "https://doi.org/10.17989/encsr467rqj",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "10.17989/encsr467rqj",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR895NMN",
+      "authors": "M Snyder",
+      "year": 2020,
+      "doi": "10.17989/encsr895nmn",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr895nmn",
+      "pdf_url": "https://doi.org/10.17989/encsr895nmn",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "10.17989/encsr895nmn",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Impact of CRISPR-Cas9 on Age-related Disorders: From Pathology to Therapy",
+      "authors": "Allen Caobi; Rajib Dutta; Luis D. Garbinski; María Esteban-López; Yasemin Ceyhan; Mickensone Andre; Marko Manevski; Chet Raj Ojha; Jessica Lapierre; Sneham Tiwari; Tiyash Parira; Nazira El‐Hage",
+      "year": 2020,
+      "doi": "10.14336/ad.2019.0927",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "With advances in medical technology, the number of people over the age of 60 is on the rise, and thus, increasing the prevalence of age-related pathologies within the aging population. Neurodegenerative disorders, cancers, metabolic and inflammatory diseases are some of the most prevalent age-related pathologies affecting the growing population. It is imperative that a new treatment to combat these pathologies be developed. Although, still in its infancy, the CRISPR-Cas9 system has become a potent gene-editing tool capable of correcting gene-mediated age-related pathology, and therefore ameliorating or eliminating disease symptoms. Deleting target genes using the CRISPR-Cas9 system or correcting for gene mutations may ameliorate many different neurodegenerative disorders detected in the aging population. Cancer cells targeted by the CRISPR-Cas9 system may result in an increased sensitivity to chemotherapeutics, lower proliferation, and higher cancer cell death. Finally, reducing gene targeting inflammatory molecules production through microRNA knockout holds promise as a therapeutic strategy for both arthritis and inflammation. Here we present a review based on how the expanding world of genome editing can be applied to disorders and diseases affecting the aging population.",
+      "url": "https://doi.org/10.14336/ad.2019.0927",
+      "pdf_url": "http://www.aginganddisease.org/EN/article/downloadArticleFile.do?attachType=PDF&id=147899",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\allen_2020_the_impact_of_crispr_cas9_on_age_related.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "W3046296795",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "In-vivo-Aktivierung von regenerativen Zellen im Fettgewebe für die Gesichtsrejuvenation",
+      "authors": "Matthias Sandhofer; Martin Barsch; Christoph Wurzer; Carolin Lindner; Eleni Priglinger",
+      "year": 2019,
+      "doi": "10.1007/s12631-019-0173-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s12631-019-0173-8",
+      "pdf_url": "http://link.springer.com/content/pdf/10.1007/s12631-019-0173-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "10.1007/s12631-019-0173-8",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mitochondria as a tool for oocyte rejuvenation",
+      "authors": "Elena Labarta; María José de los Santos; Marı́a José Escribá; António Pellicer; Sonia Herraiz",
+      "year": 2019,
+      "doi": "10.1016/j.fertnstert.2018.10.036",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.fertnstert.2018.10.036",
+      "pdf_url": "http://www.fertstert.org/article/S0015028218321629/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "W2908441418",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Partial reprogramming induces a steady decline in epigenetic age before loss of somatic identity",
+      "authors": "Nelly Olova; Daniel J. Simpson; Riccardo E. Marioni; Tamir Chandra",
+      "year": 2018,
+      "doi": "10.1111/acel.12877",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Induced pluripotent stem cells (IPSCs), with their unlimited regenerative capacity, carry the promise for tissue replacement to counter age-related decline. However, attempts to realize in vivo iPSC have invariably resulted in the formation of teratomas. Partial reprogramming in prematurely aged mice has shown promising results in alleviating age-related symptoms without teratoma formation. Does partial reprogramming lead to rejuvenation (i.e., \"younger\" cells), rather than dedifferentiation, which bears the risk of cancer? Here, we analyse the dynamics of cellular age during human iPSC reprogramming and find that partial reprogramming leads to a reduction in the epigenetic age of cells. We also find that the loss of somatic gene expression and epigenetic age follows different kinetics, suggesting that they can be uncoupled and there could be a safe window where rejuvenation can be achieved with a minimized risk of cancer.",
+      "url": "https://doi.org/10.1111/acel.12877",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/acel.12877",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "W2953131601",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Precise Excision of the CAG Tract from the Huntingtin Gene by Cas9 Nickases",
+      "authors": "Magdalena Dabrowska; Wojciech Juzwa; Włodzimierz J. Krzyżosiak; Marta Olejniczak",
+      "year": 2018,
+      "doi": "10.3389/fnins.2018.00075",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Huntington’s disease (HD) is a progressive autosomal dominant neurodegenerative disorder caused by the expansion of CAG repeats in the first exon of the huntingtin gene (HTT). The accumulation of polyglutamine-rich huntingtin proteins affects various cellular functions and causes selective degeneration of neurons in the striatum. Therapeutic strategies used to date to silence the expression of mutant HTT include antisense oligonucleotides, RNA interference-based approaches and, recently, genome editing with the CRISPR/Cas9 system. Here, we demonstrate that the CAG repeat tract can be precisely excised from the HTT gene with the use of the paired Cas9 nickase strategy. As a model, we used HD patient-derived fibroblasts with varied numbers of CAG repeats. The repeat excision inactivated the HTT gene and abrogated huntingtin synthesis in a CAG repeat length-independent manner. Because Cas9 nickases are known to be safe and specific, our approach provides an attractive treatment tool for HD that can be extended to other polyQ disorders.",
+      "url": "https://doi.org/10.3389/fnins.2018.00075",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.00075/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\magdalena_2018_precise_excision_of_the_cag_tract_from_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "W2790388973",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Rejuvenation of β cells by epigenetic editing",
+      "authors": "Tao Wang; Duanqing Pei",
+      "year": 2018,
+      "doi": "10.1172/jci124583",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1172/jci124583",
+      "pdf_url": "http://www.jci.org/articles/view/124583/files/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\tao_2018_rejuvenation_of_cells_by_epigenetic_editing.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "10.1172/jci124583",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The CRISPR tool kit for genome editing and beyond",
+      "authors": "Mazhar Adli",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-04252-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR is becoming an indispensable tool in biological research. Once known as the bacterial immune system against invading viruses, the programmable capacity of the Cas9 enzyme is now revolutionizing diverse fields of medical research, biotechnology, and agriculture. CRISPR-Cas9 is no longer just a gene-editing tool; the application areas of catalytically impaired inactive Cas9, including gene regulation, epigenetic editing, chromatin engineering, and imaging, now exceed the gene-editing functionality of WT Cas9. Here, we will present a brief history of gene-editing tools and describe the wide range of CRISPR-based genome-targeting tools. We will conclude with future directions and the broader impact of CRISPR technologies.",
+      "url": "https://doi.org/10.1038/s41467-018-04252-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-04252-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "W2803581084",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "In Vivo Amelioration of Age-Associated Hallmarks by Partial Reprogramming",
+      "authors": "Alejandro Ocampo; Pradeep Reddy; Paloma Martínez‐Redondo; Aida Platero-Luengo; Fumiyuki Hatanaka; Tomoaki Hishida; Mo Li; David Lam; Masakazu Kurita; Ergin Beyret; Toshikazu Araoka; Eric Vazquez-Ferrer; David A. Donoso; Jose Luis Roman; Jinna Xu; Concepción Rodrı́guez Esteban; Gabriel Núñez; Estrella Núñez‐Delicado; Josep M. Campistol; Isabel Guillén; Pedro Guillén; Juan Carlos Izpisúa Belmonte",
+      "year": 2016,
+      "doi": "10.1016/j.cell.2016.11.052",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cell.2016.11.052",
+      "pdf_url": "http://www.cell.com/article/S0092867416316646/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "partial epigenetic reprogramming rejuvenation Yamanaka factors tissue"
+      ],
+      "paper_id": "W2565424224",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Re-amplification of CRISPRa and CRISPRi libraries v1",
+      "authors": "Pei-Chun Lin",
+      "year": 2015,
+      "doi": "10.17504/protocols.io.dkv4w5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>Re-amplification of CRISPRa and CRISPRi Libraries   </p>",
+      "url": "https://doi.org/10.17504/protocols.io.dkv4w5",
+      "pdf_url": "https://doi.org/10.17504/protocols.io.dkv4w5",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "10.17504/protocols.io.dkv4w5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Switching roles: the functional plasticity of adult tissue stem cells",
+      "authors": "Agnieszka Wabik; Philip H. Jones",
+      "year": 2015,
+      "doi": "10.15252/embj.201490386",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Adult organisms have to adapt to survive, and the same is true for their tissues. Rates and types of cell production must be rapidly and reversibly adjusted to meet tissue demands in response to both local and systemic challenges. Recent work reveals how stem cell (SC) populations meet these requirements by switching between functional states tuned to homoeostasis or regeneration. This plasticity extends to differentiating cells, which are capable of reverting to SCs after injury. The concept of the niche, the micro-environment that sustains and regulates stem cells, is broadening, with a new appreciation of the role of physical factors and hormonal signals. Here, we review different functions of SCs, the cellular mechanisms that underlie them and the signals that bias the fate of SCs as they switch between roles.",
+      "url": "https://doi.org/10.15252/embj.201490386",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.15252/embj.201490386",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "W2143519521",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Partial Reversal of Skeletal Muscle Aging by Restoration of Normal NAD\n                    <sup>+</sup>\n                    Levels",
+      "authors": "Andrew R. Mendelsohn; James W. Larrick",
+      "year": 2014,
+      "doi": "10.1089/rej.2014.1546",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>\n                    That some aging-associated phenotypes may be reversible is an emerging theme in contemporary aging research. Gomes et al. report that age-associated oxidative phosphorylation (OXPHOS) defects in murine skeletal muscle are biphasic. In the first phase, OXPHOS is decreased because of reduced expression of mitochondrially encoded genes. Treatment of moderately old mice (first-phase OXPHOS defects) with nicotinamide adenine dinucleotide (NAD\n                    <jats:sup>+</jats:sup>\n                    ) precursor nicotinamide mononucleotide (NMN) for 1 week restores oxidative phosphorylation activity and other markers of mitochondrial function in skeletal muscle. However, muscle strength is not restored. In very old animals (second-phase OXPHOS defects), expression of OXPHOS genes from both the nucleus and mitochondria is reduced and mitochondrial DNA integrity is diminished. Gomes et al. propose a model linking decreased NAD\n                    <jats:sup>+</jats:sup>\n                    to loss of nuclear SIRT1 activity to stabilization of the hypoxia-associated transcription factor hypoxia-inducible factor 1-alpha (HIF-1a). HIF-1a promotes an hypoxic-like (Warburg effect) state in the cell. The HIF-1a protein interacts with c-Myc, decreasing c-Myc–regulated transcription of the key mitochondrial regulator mitochondrial transcription factor A (TFAM). Low levels of TFAM lead to first-phase OXPHOS dysfunction. The transition to irreversible phase 2 dysfunction remains to be characterized, but may be related to increased reactive oxygen species (ROS) production. This model suggests that intervention in mitochondrial aging may be possible using appropriate NAD\n                    <jats:sup>+</jats:sup>\n                    precursors such as nicotinamide riboside. Restoring NAD\n                    <jats:sup>+</jats:sup>\n                    levels may be beneficial throughout the organism. For example, aging-associated disturbances in circadian rhythm are linked to diminished SIRT1 activity, and loss of hematopoietic stem cell function to reduced SIRT3. Work to elucidate other biphasic aging mechanisms is strongly encouraged.\n                  </jats:p>",
+      "url": "https://doi.org/10.1089/rej.2014.1546",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1089/rej.2014.1546",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPR activation aging reversal in vivo tissue rejuvenation"
+      ],
+      "paper_id": "10.1089/rej.2014.1546",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Rejuvenation of Adult Stem Cells: Is Age-Associated Dysfunction Epigenetic?",
+      "authors": "Andrew R. Mendelsohn; James W. Larrick",
+      "year": 2013,
+      "doi": "10.1089/rej.2013.1424",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>The dysfunctional changes of aging are generally believed to be irreversible due to the accumulation of molecular and cellular damage within an organism's somatic cells and tissues. However, the importance of potentially reversible cell signaling and epigenetic changes in causing dysfunction has not been thoroughly investigated. Striking evidence that increased oxidative stress associated with hematopoietic stem cells (HSCs) from aging mice causes dysfunction has been reported. Forced expression of SIRT3, which activates the reactive oxygen species (ROS) scavenger superoxide dismutase 2 (SOD2) by de-acetylation to reduce oxidative stress, functionally rejuvenates mouse HSCs. These data, combined with numerous other reports, suggest that ROS act as a signal transducer to play a critical regulatory role in HSCs and at least in some other stem cells. It is likely that ectopic expression of SIRT3 restores homeostasis in gene expression networks sensitive to oxidative stress. This result was surprising because age-associated damage from impaired DNA repair had been thought to be irreversible in old HSCs. The effect of up-regulated SIRT3 in HSCs is one of first examples in which intrinsic cellular aging, not apparently associated with changes in the micro-environment, was reversed. However, the stability of rejuvenation in the absence of continued supplemental SIRT3 expression was not investigated. These data are consistent with a hypothesis that potentially reversible processes, such as aberrant signaling and epigenetic drift, are relevant to cellular aging. If true, rejuvenation of at least some aged cells may be simpler than generally appreciated.</jats:p>",
+      "url": "https://doi.org/10.1089/rej.2013.1424",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1089/rej.2013.1424",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "10.1089/rej.2013.1424",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Time to re-think: ovarian tissue transplantation versus whole ovary transplantation",
+      "authors": "S. Samuel Kim",
+      "year": 2010,
+      "doi": "10.1016/j.rbmo.2009.11.019",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.rbmo.2009.11.019",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing reproductive tissue rejuvenation ovary"
+      ],
+      "paper_id": "10.1016/j.rbmo.2009.11.019",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Broad-Host-Range CRISPRi Toolkit for Silencing Gene Expression in Burkholderia",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acssynbio.9b00232.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acssynbio.9b00232.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acssynbio.9b00232/suppl_file/sb9b00232_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "10.1021/acssynbio.9b00232.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Broad-Host-Range CRISPRi Toolkit for Silencing Gene Expression in Burkholderia",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acssynbio.9b00232.s002",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acssynbio.9b00232.s002",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CRISPRi gene silencing aging phenotype reversal therapeutic"
+      ],
+      "paper_id": "10.1021/acssynbio.9b00232.s002",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 4—figure supplement 1. Additional CRISPRa/CRISPRi RNA-seq analyses.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.35989.010",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.35989.010",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "10.7554/elife.35989.010",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Supplementary file 1. CRISPRi and CRISPRa activity score datasets.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.19760.013",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.19760.013",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing CRISPRa CRISPRi tissue rejuvenation aging reversal"
+      ],
+      "paper_id": "10.7554/elife.19760.013",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

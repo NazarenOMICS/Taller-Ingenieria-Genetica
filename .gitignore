@@ -26,3 +26,13 @@ node_modules/
 
 # --- Logs ---
 *.log
+
+# --- Archivos de referencia pesados / descargas de investigacion (no versionar) ---
+# Los .md derivados si se versionan; esto excluye binarios pesados sueltos en la raiz
+# y en las carpetas de trabajo Search/ y Vault/ (PDFs de papers, datasets, secuencias).
+*.pdf
+*.dna
+*.gb
+*.xlsx
+*.zip
+Search/**/*.json

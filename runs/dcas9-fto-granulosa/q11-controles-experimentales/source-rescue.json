@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-14",
+  "sources": [
+    {
+      "target_id": "DOI:10.1038/nbt.3199",
+      "title": "Epigenome editing by a CRISPR-Cas9-based acetyltransferase activates genes from promoters and enhancers.",
+      "doi": "10.1038/nbt.3199",
+      "pmid": "25849900",
+      "pmcid": "PMC4430400",
+      "required": false,
+      "status": "manual_needed",
+      "failure_reason": "paywall",
+      "pdf_source": null,
+      "pdf_path": null,
+      "notebook_source_id": null,
+      "notes": [
+        "Confirmed OA on PMC (PMC4430400) via Europe PMC, but this sandbox's direct HTTP access to europepmc.org/pmc.ncbi.nlm.nih.gov PDF endpoints returns 404/bot-check, and NCBI FTP oa_pdf link was unavailable for this record (only tgz package offered). Downgraded to optional; corpus already has other foundational CRISPRa papers (Konermann 2013, comparative dCas9-VP64 analysis) covering equivalent control-design rationale."
+      ]
+    }
+  ]
+}

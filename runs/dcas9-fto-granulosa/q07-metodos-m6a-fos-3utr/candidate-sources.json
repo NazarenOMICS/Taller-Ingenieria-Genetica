@@ -1,0 +1,2276 @@
+{
+  "slug": "q07-metodos-m6a-fos-3utr",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "5-Methylcytidine RNA Epitranscriptomics in Women's Health and Disease: Mechanisms and Clinical Implications.",
+      "authors": "Yang Q; Salih SM; Wu R; Arora I; Mousa M; Al-Hendy A; Boyer TG",
+      "year": 2026,
+      "doi": "10.3390/cells15090847",
+      "pmid": "42121948",
+      "pmcid": "PMC13162702",
+      "abstract": "Chemical modifications of RNA add a dynamic regulatory layer to gene expression beyond the genome and epigenome. Among these modifications, 5-methylcytidine (m<sup>5</sup>C) has emerged as a key epitranscriptomic modification that influences RNA stability, translation, localization, and stress responses across diverse biological systems. Recent advances in high-resolution mapping and functional interrogation of m<sup>5</sup>C have revealed its involvement in development, metabolism, immune regulation, and disease pathogenesis. Notably, many of these processes are highly relevant to women's health, which is shaped by hormone-responsive tissues, reproductive transitions, and pregnancy-associated physiological adaptations. In this review, we provide a comprehensive and integrative overview of m<sup>5</sup>C RNA modification with a focus on its roles in female biology and disease. We summarize the molecular machinery responsible for m<sup>5</sup>C deposition, recognition, and regulation, as well as current detection technologies. We further highlight emerging evidence linking m<sup>5</sup>C dysregulation to early embryonic development, women-specific cancers, gynecologic and reproductive disorders, pregnancy complications, and metabolic and cardiovascular diseases. In addition, we discuss the interplay between m<sup>5</sup>C and sex hormone signaling, as well as the potential of m<sup>5</sup>C as a biomarker and therapeutic target. Finally, we identify key knowledge gaps, including the need for tissue-specific, longitudinal, single-cell, and spatial epitranscriptomic studies in women. By integrating epitranscriptomics into women's health research, this review underscores m<sup>5</sup>C as a previously underappreciated regulatory layer with significant implications for precision medicine and clinical translation.",
+      "url": "https://europepmc.org/articles/PMC13162702",
+      "pdf_url": "https://europepmc.org/articles/PMC13162702?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a5/29/PMC13162702.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "PMID:42121948",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A novel method for the identification and quantification of N6-methyladenosine motifs in RNA transcripts",
+      "authors": "Neha Choudhari; H. Srinivas; Praneeth Sai Tadepalli; Rounak Roy; S. Dey",
+      "year": 2026,
+      "doi": "10.1007/s11033-026-12270-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine profiles of mRNA transcripts regulate their translocation from the nucleus to the cytosol, stability, and translational efficiency; hence, they have been implicated in gene expression and disease progression. The m6A-methylation is widely associated with various cancers and neurological, cardiovascular, and developmental disorders, which demand early diagnosis. A robust m6A-motif prediction is necessary to enable us to identify the regulatory nucleic acid sequences that determine mRNA fate in normal and diseased conditions. We have developed a transcript-aware computational pipeline, termed m6AFunctional Index in Transcription (m6A-FINDiT), that can identify potential m6A sites on mRNA transcripts, considering molecular intricacies associated with their secondary structure. This tool can separately identify m6A motifs within the coding sequences as well as in non-translatable regions, i.e., 5’UTR and 3’UTR, of mRNA transcripts. Parallelly, another technique was developed that quantifies specific m6A methylation motifs through a probe-based ELISA process, MAQ-G. This second method successfully validated the N⁶-methyladenosine motifs predicted by the initially developed motif-finder program. This integrated m6A-FINDiT and MAQ-G, coupled with a real-time qPCR assay, could correlate the methylation profiles of N6-methyladenosine motifs with the expression and stability contours of a gene. To establish the physiological implications of these techniques, we chose three tumour-suppressor genes, viz., IRF8, RB1, and TP53 mRNA transcripts, which may undergo m6A methylation at certain DRACH motifs. The m6A-FINDiT pipeline could successfully predict the specific m6A motifs, and the MAQ-G confirmed the methylation profile of the latter. These duo techniques hold potential for use in clinical settings for early cancer detection.",
+      "url": "https://www.semanticscholar.org/paper/8577b72af9941a914a6136c552fffce117a37065",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11033-026-12270-3.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\neha_2026_a_novel_method_for_the_identification_and_quantification.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "8577b72af9941a914a6136c552fffce117a37065",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+      "authors": "Cui X; Zeng L; Zhang W; Xi L; Wang R; Jia D; Safa; Feng H; Jia H",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13913",
+      "pmid": "42169659",
+      "pmcid": "PMC13238957",
+      "abstract": "Intervertebral disc degeneration (IVDD) is increasingly recognized as a systemic collapse of the epigenetic regulatory network, driven by cellular senescence and environmental stressors. The present review provides an overview of the epigenetic regulatory mechanisms governing IVDD, focusing on the dynamic interplay between DNA methylation, histone modifications, N6‑methyladenosine RNA methylation and the non‑coding RNA regulatory triad (microRNAs, long non‑coding RNAs and circular RNAs). The present study evaluates advanced research methodologies (ranging from site‑specific methylation typing and transposase accessible chromatin sequencing to single‑cell multi‑omics and artificial intelligence‑driven predictive modeling) that resolve the spatial and cellular heterogeneities of the degenerating disc niche. Furthermore, the translational constraints of current animal models were critically assessed, advocating for a strategic shift from acute needle‑puncture insults to physiologically relevant aging and genetically engineered progeroid models to better recapitulate human 'epigenetic drift'. Finally, the therapeutic potential of targeted epigenetic editing via CRISPR/dCas9 systems and the development of stimuli‑responsive nanocarriers for precision delivery are highlighted. By bridging methodological innovation with robust model selection, the present review offers a roadmap for transitioning molecular insights into clinical regenerative therapies for spinal health.",
+      "url": "https://europepmc.org/articles/PMC13238957",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/70/fd/mmr-34-01-13913.PMC13238957.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/70/fd/PMC13238957.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "PMID:42169659",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL14-mediated RNA m&lt;sup&gt;6&lt;/sup&gt;A modifications of TET1 and TET2 in duck myoblast differentiation.",
+      "authors": "Liu J; Wu J; Liao Z; Wang Y; Xiao X; Chai X; Wei W; Liao W; Tang C; Hu X; Xu J; Mao H; Liu S; Chen B",
+      "year": 2026,
+      "doi": "10.1016/j.psj.2026.106435",
+      "pmid": "41547168",
+      "pmcid": "PMC12856189",
+      "abstract": "Duck skeletal muscle serves as an important source of high-quality protein for humans, and a wide array of duck meat products are available. The investigation of RNA N6-methyladenosine (m<sup>6</sup>A) modifications in the growth and development of duck skeletal muscle is still in the early stages, with many regulatory functions and underlying mechanisms yet to be thoroughly examined. This study focused on duck embryonic skeletal muscle, highlighting the role of the RNA methyltransferase METTL14 in regulating muscle cell proliferation, differentiation, and muscle fiber hypertrophy. Using techniques such as glyoxal and nitrite-mediated deamination of unmethylated adenosines sequencing (GLORI-seq), RNA immunoprecipitation sequencing (RIP-seq), and luciferase reporter assays, we explored the interaction of METTL14 with the target mRNAs TET1 and TET2, as well as the mediation of their m<sup>6</sup>A modifications. These results indicate that METTL14 inhibits the proliferation and differentiation of duck primary myoblasts (DPMs) while facilitating the hypertrophy of muscle fibers. Through the integrated application of Dual-luciferase reporter assays and Single-base elongation- and ligation-based qPCR (SELECT), we established that METTL14 binds to the m<sup>6</sup>A motifs on TET1 and TET2 mRNAs, mediating their m<sup>6</sup>A modifications and thus influencing their expression levels. Specifically, TET1 promoted DPMs proliferation and inhibited differentiation, whereas TET2 suppressed DPMs proliferation and facilitated differentiation. The interactions between the METTL14/m<sup>6</sup>A/TET1 and METTL14/m<sup>6</sup>A/TET2 axes synergistically regulate the differentiation process of DPMs. These findings contribute to a more comprehensive understanding of the epigenetic regulatory framework governing duck skeletal muscle development, offering critical insights into the genetic mechanisms involved.",
+      "url": "https://europepmc.org/articles/PMC12856189",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/90/16/main.PMC12856189.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/90/16/PMC12856189.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "PMID:41547168",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL3 inhibition attenuates AFB&lt;sub&gt;1&lt;/sub&gt;-induced hepatic fibrosis by suppressing m&lt;sup&gt;6&lt;/sup&gt;A-mediated hepatic stellate cell activation.",
+      "authors": "Zhao Y; Feng Y; Yuan W; Zhang T; Zhao R",
+      "year": 2026,
+      "doi": "10.1186/s40104-026-01380-4",
+      "pmid": "42204714",
+      "pmcid": "PMC13217767",
+      "abstract": "<h4>Background</h4>Aflatoxin B<sub>1</sub> (AFB<sub>1</sub>) is a potent hepatotoxic mycotoxin and a major environmental risk factor for hepatocellular carcinoma (HCC). Hepatic fibrosis is a critical intermediate stage in this process, and METTL3-mediated m<sup>6</sup>A modification may represent an important post-transcriptional mechanism linking AFB<sub>1</sub>-induced liver injury to fibrogenic progression.<h4>Methods</h4>AFB<sub>1</sub>-induced hepatic fibrosis was evaluated using in vivo mouse models and in vitro cultured hepatic stellate cells (HSC). Global m<sup>6</sup>A methylation and methyltransferase-like 3 (METTL3) expression were assessed by liquid chromatography-mass spectrometry, Western blotting, single-nucleus RNA sequencing, and quantitative real-time PCR. METTL3 was inhibited using small interfering RNA or the selective inhibitor STM2457. Molecular docking was performed to identify potential METTL3-binding compounds, followed by functional validation.<h4>Results</h4>AFB<sub>1</sub> exposure promoted hepatic fibrosis and HSC activation, accompanied by global m<sup>6</sup>A hypermethylation and upregulation of METTL3. METTL3 increased the m<sup>6</sup>A modification of collagen-related transcripts, enhancing their stability and promoting extracellular matrix production in a YTHDF1-dependent manner. Inhibition of METTL3 suppressed HSC activation and fibrotic gene expression both in vitro and in vivo. Molecular docking identified saxagliptin as a potential METTL3-binding compound, which reduced AFB<sub>1</sub>-induced HSC activation and extracellular matrix accumulation, consistent with the effects of STM2457.<h4>Conclusions</h4>These findings indicate that METTL3 functions as a post-transcriptional regulator in AFB<sub>1</sub>-induced liver fibrosis via m<sup>6</sup>A modification. METTL3 inhibition, achieved via genetic knockdown or selective inhibitors, affects HSC activation and fibrotic gene expression, supporting its role as a therapeutic target in AFB<sub>1</sub>-induced liver fibrosis.",
+      "url": "https://europepmc.org/articles/PMC13217767",
+      "pdf_url": "https://europepmc.org/articles/PMC13217767?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d7/8a/PMC13217767.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "PMID:42204714",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Meta-unstable mRNAs in activated CD8&lt;sup&gt;+&lt;/sup&gt; T cells are defined by interlinked AU-rich elements and m&lt;sup&gt;6&lt;/sup&gt;A mRNA methylation.",
+      "authors": "Gameiro PA; Foskolou IP; Butt YA; Martens AAM; Kuret Hodnik K; Ruiz de Los Mozos I; Zandhuis ND; Hozjan Ž; Kot VM; Faraway R; Vermeulen M; Wolkers MC; Johnson RS; Ule J",
+      "year": 2026,
+      "doi": "10.1038/s41467-025-67762-w",
+      "pmid": "41571642",
+      "pmcid": "PMC12827480",
+      "abstract": "CD8<sup>+</sup> T cells can rapidly produce effector molecules following activation. This activation triggers rapid changes in gene expression that rely on the control of mRNA levels via multiple mechanisms, including RNA modifications. N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) is an abundant post-transcriptional modification that promotes the decay of messenger RNAs in the cytosol. However, how recognition of m<sup>6</sup>A sites is integrated with other regulatory mechanisms that alter the fate of immunoregulatory mRNAs in CD8<sup>+</sup> T cells remains unexplored. Here, we apply the m<sup>6</sup>A-iCLIP and GLORI methods to identify the importance of m<sup>6</sup>A sites flanked by AU-rich elements (AREs) within the 3'UTRs of CD8<sup>+</sup> T cell mRNAs. Presence of such ARE-flanking m<sup>6</sup>A motifs predicts meta-unstable mRNAs that rapidly decay upon CD8<sup>+</sup> T cell activation. We demonstrate interdependent effects of mutations in the identified AREs and RRACHs on TNF mRNA stability. The ARE-flanking m<sup>6</sup>A sites in these mRNAs show particularly high iCLIP crosslinking of YTHDF proteins, which are also identified by proteomic interactome analyses along with additional novel RNA-binding proteins. Our study reveals a crosstalk between m<sup>6</sup>A and ARE-dependent mechanisms in CD8<sup>+</sup> T cells, providing new approaches for modulating mRNA decay in T cell activation.",
+      "url": "https://europepmc.org/articles/PMC12827480",
+      "pdf_url": "https://europepmc.org/articles/PMC12827480?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f5/8b/PMC12827480.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "PMID:41571642",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA m&lt;sup&gt;6&lt;/sup&gt;A modification is a driver and therapeutic target in gastric cancer.",
+      "authors": "Chen Q; Lu H; Li D; Liu T",
+      "year": 2026,
+      "doi": "10.1007/s10565-026-10141-y",
+      "pmid": "41832397",
+      "pmcid": "PMC13102813",
+      "abstract": "N6-methyladenosine (m<sup>6</sup>A), the most abundant modification in eukaryotic RNAs, plays a critical role in regulating RNA stability, expression, and translation. Key m<sup>6</sup>A regulators are up- or down-regulated in human gastric cancer tissues, by Helicobacter pylori and transcription factors, and the aberrant expression is associated with poor patient prognosis. Dynamic m<sup>6</sup>A modification, orchestrated by methyltransferases, demethylases, and m<sup>6</sup>A-binding proteins, profoundly impacts gastric cancer tumorigenesis, metastasis, cancer cell stemness, immune evasion, and resistance to chemotherapy, radiotherapy, and immunotherapy. While aberrant m<sup>6</sup>A modifications and the expression levels of its regulatory factors in blood samples are novel biomarkers in gastric cancer patients, therapies targeting m<sup>6</sup>A regulators have emerged as promising approaches for treating the disease. In summary, m<sup>6</sup>A RNA methylation represents a pivotal epitranscriptomic mechanism with significant implications for gastric cancer biology and precision oncology.",
+      "url": "https://europepmc.org/articles/PMC13102813",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/2f/bf/10565_2026_Article_10141.PMC13102813.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2f/bf/PMC13102813.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "PMID:41832397",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modifications in cancer and their detection: a review.",
+      "authors": "Yu BY; Ueda H",
+      "year": 2026,
+      "doi": "10.1093/jjco/hyag018",
+      "pmid": "41615068",
+      "pmcid": "PMC13149314",
+      "abstract": "Ribonucleic acid (RNA) modifications, once viewed as static structural features, are now recognized as dynamic regulators of the 'epitranscriptome' that shape RNA fate. In cancer, dysregulation of RNA-modification writers, erasers, and readers reprograms RNA metabolism and translation, promoting tumorigenesis, metastasis, therapy resistance, and immune evasion. Across messenger RNAs, ribosomal RNA (rRNAs), transfer (tRNAs), and diverse non-coding RNAs, aberrant modification patterns drive alternative splicing, generate onco-ribosomes, enforce codon-biased translation, and remodel gene-expression networks in a context-dependent manner. This review summarizes how major RNA modifications-including m6A, m5C, pseudouridine, inosine, and ac4C-and their regulators contribute to cancer biology, together with disease-associated changes in rRNA, tRNA, and regulatory non-coding RNAs. We then discuss emerging diagnostic and prognostic biomarkers, druggable nodes within the epitranscriptomic machinery, and combination strategies that integrate RNA-modification targeting with existing therapies and immunotherapy. Finally, we outline key technologies for mapping RNA modifications, comparing mass spectrometry and NGS-based chemical or antibody-enrichment approaches with the expanding capabilities of nanopore direct RNA sequencing. Recent advances in nanopore direct RNA sequencing technologies, leveraging new chemistry (e.g. RNA004) and deep-learning basecallers (e.g. Dorado), increasingly enable single-molecule, multi-modification profiling, accelerating discovery despite inherent technical challenges. Collectively, biological, clinical, and technological progress is transforming the epitranscriptome into a tractable dimension of cancer biology and a promising source of future biomarkers and RNA-targeted precision therapies.",
+      "url": "https://europepmc.org/articles/PMC13149314",
+      "pdf_url": "https://europepmc.org/articles/PMC13149314?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/88/28/PMC13149314.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "PMID:41615068",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Revisiting down syndrome through the lens of interferonopathy and innate immune dysregulation.",
+      "authors": "Wang G; Shi W; Liao S; Hao B",
+      "year": 2026,
+      "doi": "10.3389/fimmu.2026.1836558",
+      "pmid": "42317350",
+      "pmcid": "PMC13272168",
+      "abstract": "Down syndrome (DS), caused by trisomy 21, has long been viewed primarily as a neurodevelopmental disorder. However, increasing evidence indicates that it is also associated with pervasive immune dysregulation, including chronic inflammation and heightened susceptibility to autoimmunity. Here, we revisit DS from the perspective of innate immunity and suggest that it shares key features with interferon-driven, autoinflammation-like conditions. Drawing on recent multi-omics studies, we outline a mechanistic framework linking chromosome 21 gene dosage to systemic immune activation. Increased expression of interferon receptors lowers the threshold for signaling and drives persistent activation of interferon-stimulated genes (ISGs). In parallel, reduced METTL3-dependent m<sup>6</sup>A modification may stabilize pro-inflammatory transcripts and enhance innate immune sensing. These changes occur alongside chromatin accessibility remodeling enriched for AP-1-associated elements, consistent with a transcriptionally primed state that amplifies inflammatory gene expression. Together, these processes form a feed-forward network involving interferon signaling, transcriptional activation, and cytokine production, providing a basis for the basal inflammatory state in DS and its high burden of immune-mediated comorbidities. This framework also highlights potential therapeutic opportunities, including JAK-STAT inhibition and cytokine-targeted approaches, which may help restore immune homeostasis and inform future translational studies.",
+      "url": "https://europepmc.org/articles/PMC13272168",
+      "pdf_url": "https://europepmc.org/articles/PMC13272168?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/48/37/PMC13272168.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "PMID:42317350",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+      "authors": "Kuai Y; Yi Y; Li X; Wang Z; Zheng Y; Li Y; Li Y",
+      "year": 2026,
+      "doi": "10.3390/biom16040571",
+      "pmid": "42072692",
+      "pmcid": "PMC13113650",
+      "abstract": "<b>Background/Objective:</b> RNA modifications, including N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), 5-methylcytosine (m<sup>5</sup>C), 7-methylguanosine (m<sup>7</sup>G), N<sup>1</sup>-methyladenosine (m<sup>1</sup>A), pseudouridine (Ψ), N<sup>4</sup>-acetylcytidine (ac<sup>4</sup>C), 5-methoxycarbonylmethyl-2-thiouridine (mcm<sup>5</sup>s<sup>2</sup>U) and adenosine-to-inosine (A-to-I) editing, constitute a critical layer of post-transcriptional regulation that influences RNA stability, splicing, translation and degradation. This review aims to systematically summarise the current understanding of the molecular mechanisms and regulatory networks of RNA modifications in the female reproductive physiology and to evaluate their pathological implications in obstetric and gynaecologic disorders. <b>Methods:</b> We conducted a comprehensive literature review, synthesising findings from high-throughput sequencing studies, functional experiments and clinical investigations. The review integrates evidence across multiple RNA modification types, their regulatory enzymes (writers, erasers and readers) and their roles in physiological processes (germ cell development, oocyte maturation, embryogenesis and endometrial function) and pathological conditions (gynaecologic cancers, preeclampsia, endometriosis, polycystic ovary syndrome and premature ovarian insufficiency). <b>Results:</b> RNA modifications function as dynamic and reversible regulators that orchestrate key reproductive events, including primordial germ cell differentiation, oocyte meiosis, the maternal-to-zygotic transition, the establishment of uterine receptivity, and placental development. These modifications operate through coordinated writer-eraser-reader networks that fine tune transcripts' stability, translation efficiency and RNA decay. The dysregulation of these epitranscriptomic networks is strongly implicated in the pathogenesis of gynaecologic malignancies (cervical, ovarian, endometrial cancers and choriocarcinoma), pregnancy-related disorders (preeclampsia, gestational diabetes mellitus and recurrent miscarriage), reproductive endocrine disorders (polycystic ovary syndrome and premature ovarian insufficiency) and benign gynaecological conditions (endometriosis and adenomyosis). Emerging evidence also reveals complex crosstalk among RNA modifications, such as cooperative interactions between m<sup>6</sup>A and m<sup>5</sup>C in translation regulation and antagonistic relationships between m<sup>6</sup>A and A-to-I editing. <b>Conclusions:</b> RNA modifications represent an essential and multifaceted regulatory layer in female reproduction, with broad implications for disease pathogenesis. Their unique reversibility and context-dependent functions offer promising opportunities for the development of diagnostic biomarkers and targeted therapeutic interventions. Future researchers should prioritise integrated multi-omics approaches, enhanced human-relevant models and clinical translation to fully realise the potential of epitranscriptomic medicine in reproductive health.",
+      "url": "https://europepmc.org/articles/PMC13113650",
+      "pdf_url": "https://europepmc.org/articles/PMC13113650?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/23/PMC13113650.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA",
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "PMID:42072692",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A modification in skeletal system diseases (Review).",
+      "authors": "Xie X; Li C; Zheng H; Gan G; Gao X",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13908",
+      "pmid": "42169641",
+      "pmcid": "PMC13220071",
+      "abstract": "N6‑methyladenosine (m<sup>6</sup>A) modifications are key epigenetic regulatory mechanisms in mammals and serve key roles in both normal skeletal development and the pathogenesis of skeletal disorder. The dynamic and reversible regulation of m<sup>6</sup>A relies on three core factors: Methyltransferases (writers), demethylases (erasers) and m<sup>6</sup>A‑binding proteins (readers), which collectively ensure proper physiological functions. Despite this, the functions and regulatory mechanisms of numerous m<sup>6</sup>A‑associated factors in skeletal diseases remain insufficiently understood. m6A modification maintains bone homeostasis during skeletal development primarily by regulating the balance between osteoblasts and osteoclasts. Under pathological conditions, dysregulated m<sup>6</sup>A modification contributes to aberrant osteoclast proliferation and chondrocyte apoptosis, leading to bone loss and cartilage degeneration. These pathological changes are key contributors to common types of skeletal disorder, including osteoporosis, osteoarthritis, rheumatoid arthritis and intervertebral disc degeneration, imposing a burden on human health. Non‑coding RNAs are major targets of m<sup>6</sup>A modification and their interactions exert post‑transcriptional regulation in skeletal biology. The present review summarizes the roles and mechanisms of m<sup>6</sup>A modification in skeletal diseases and highlights its therapeutic potential, offering novel perspectives for disease prevention and treatment.",
+      "url": "https://europepmc.org/articles/PMC13220071",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8f/06/mmr-34-01-13908.PMC13220071.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/06/PMC13220071.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA",
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "PMID:42169641",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Advances in Detecting RNA Modifications Using Direct RNA Nanopore Sequencing.",
+      "authors": "Liu Y; Li Y; Sun Q",
+      "year": 2025,
+      "doi": "10.1002/ggn2.202500041",
+      "pmid": "41473688",
+      "pmcid": "PMC12747559",
+      "abstract": "RNA modifications add a dynamic and versatile regulatory layer to gene expression, influencing RNA stability, splicing, translation, and cellular responses. Despite their importance, traditional detection methods-such as antibody-based enrichment, chemical labeling, or indirect sequencing approaches-often suffer from limited resolution, biases, and an inability to capture modifications in their native RNA context. Oxford Nanopore Technologies (ONT) direct RNA sequencing (DRS) overcomes many of these limitations by enabling amplification-free, single-molecule, and single-nucleotide detection of diverse RNA modifications directly from native RNA molecules. In this review, recent advances in applying ONT DRS to characterize modifications beyond the extensively studied N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), including 2'-O-methylation (Nm), N<sup>1</sup>-methyladenosine (m<sup>1</sup>A), 5-methylcytosine (m<sup>5</sup>C), N<sup>4</sup>-acetylcytidine (ac<sup>4</sup>C), N<sup>7</sup>-methylguanosine (m<sup>7</sup>G), pseudouridine (Ψ), and adenosine-to-inosine (A-to-I) editing are summarized. Computational frameworks and basecalling innovations are highlighted that improve modification calling, with particular emphasis on approaches that detect co-occurring modifications and reveal their potential regulatory cross-talk within individual transcripts. Finally, emerging applications across synthetic systems, non-model organisms, and disease contexts are discussed, and offer a forward-looking perspective on integrating nanopore-based epitranscriptomics with multi-omics platforms to achieve a deeper and more comprehensive understanding of RNA regulation.",
+      "url": "https://europepmc.org/articles/PMC12747559",
+      "pdf_url": "https://europepmc.org/articles/PMC12747559?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4d/c5/PMC12747559.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "PMID:41473688",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Advances in Quantitative Techniques for Mapping RNA Modifications.",
+      "authors": "Tian L; Vallabhaneni B; Chang YH",
+      "year": 2025,
+      "doi": "10.3390/life15121888",
+      "pmid": "41465827",
+      "pmcid": "PMC12735358",
+      "abstract": "RNA modifications are essential regulators of gene expression and cellular function, modulating RNA stability, splicing, translation, and localization. Dysregulation of these modifications has been linked to cancer, neurodegenerative disorders, viral infections, and other diseases. Precise quantification and mapping of RNA modifications are crucial for understanding their biological roles. This review summarizes current and emerging methodologies for RNA modification analysis, including mass spectrometry, antibody-based and non-antibody-based approaches, PCR- and NMR-based detection, chemical- and enzyme-assisted sequencing, and nanopore direct RNA sequencing. We also highlight advanced techniques for single-cell and single-molecule imaging, enabling the study of modification dynamics and cellular heterogeneity. The advantages, limitations, and challenges of each method are discussed, providing a framework for selecting appropriate analytical strategies. Future perspectives emphasize high-throughput, multiplexed, and single-cell approaches, integrating multiple technologies to decode the epitranscriptome. These approaches form a robust toolkit for uncovering RNA modification functions, discovering biomarkers, and developing novel therapeutic strategies.",
+      "url": "https://europepmc.org/articles/PMC12735358",
+      "pdf_url": "https://europepmc.org/articles/PMC12735358?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/89/0f/PMC12735358.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "PMID:41465827",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comprehensive discovery of m&lt;sup&gt;6&lt;/sup&gt;A sites in the human transcriptome at single-molecule resolution.",
+      "authors": "Kang G; Hwang H; Jeon H; Choi H; Chang HR; Yeo N; Park J; Son N; Jeon E; Lim J; Yun J; Choi W; Jo JY; Kim JS; Park S; Kim YK; Baek D",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-67417-w",
+      "pmid": "41398146",
+      "pmcid": "PMC12816753",
+      "abstract": "RNA modifications (RMs) are critical for diverse biological processes, but the lack of accurate, quantitative detection methods has limited their study. A large-scale and high-quality training dataset is an essential component for accurate deep learning, but such dataset has been absent for RM detection, resulting in low accuracies. We developed DeepRM (Deep learning for RNA Modification), a sophisticated deep learning framework powered by Nanopore sequencing. DeepRM dataset is a massive-scale, three orders of magnitude larger than the comparable previous ones, and unprecedentedly high-quality dataset that closely mirrors endogenous transcript environments. Accordingly, DeepRM detects RM sites and measures their modification stoichiometries with a near-perfect accuracy. Using DeepRM, we constructed a comprehensive, human m<sup>6</sup>A atlas at single-molecule resolution that reveals a large number of previously underappreciated non-canonical m<sup>6</sup>A sites and differentially modified transcripts, highlighting the complexity and dynamic nature of the human epitranscriptome. DeepRM is freely available, providing a unique, powerful opportunity for understanding the biological functions of RMs. DeepRM can also be expanded to various other RMs and organisms, potentially becoming a future standard for investigating the epitranscriptome.",
+      "url": "https://europepmc.org/articles/PMC12816753",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/f9/2d/41467_2025_Article_67417.PMC12816753.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f9/2d/PMC12816753.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "PMID:41398146",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Graft-seq precisely maps RNA modifications via site-specific chemical grafting strategy.",
+      "authors": "Li T; Ding K; Bao Z; Ma Q; Huang C; Cao J; Shu X; Gao M; Luo Z; Xiong X; Liu J",
+      "year": 2025,
+      "doi": "10.1016/j.crmeth.2025.101103",
+      "pmid": "40645188",
+      "pmcid": "PMC12296446",
+      "abstract": "The current expansion of RNA epitranscriptomics calls for direct and high-precision mapping tools to characterize the intrinsically low abundant RNA modifications. Here, we developed a strategy, termed Graft-seq, which harnesses specific enzymatic and chemical reactions on an RNA modification site to covalently graft a known RNA branch and further utilizes the branch-to-main-chain or main-chain-to-branch landing/jumping site signal during reverse transcription to determine the locations of RNA modifications at single-base resolution. We developed a matched bioinformatics analysis pipeline for Graft-seq and successfully mapped internal N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) and cap N<sup>6</sup>,2'-O-dimethyladenosine (m<sup>6</sup>Am), as well as nicotinamide adenine dinucleotide (NAD) on transcriptome-wide mRNAs and/or nuclear non-coding RNAs in different cell lines. Paralleled comparisons of Graft-seq with available techniques confirmed the effectiveness of the RNA grafting strategy. Graft-seq represents a direct and enrichment-free technique for characterizing RNA modifications at base resolution and offers the potential to discover new RNA modifications and RNA-RNA interactions.",
+      "url": "https://europepmc.org/articles/PMC12296446",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/0e/ac/main.PMC12296446.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0e/ac/PMC12296446.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "PMID:40645188",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Hypothalamic FTO upregulates BDNF to promote GnRH expression through the PI3K/Akt pathway, leading to precocious puberty.",
+      "authors": "Zang S; Ouyang Y; Li P; Yin X",
+      "year": 2025,
+      "doi": "10.3389/fendo.2025.1665391",
+      "pmid": "41244054",
+      "pmcid": "PMC12615161",
+      "abstract": "<h4>Background</h4>Puberty is among the most important stages in human development. Timely activation of hypothalamic gonadotropin-releasing hormone (GnRH) neurons underlies the initiation of pubertal development. The fat mass and obesity-associated (FTO), which is expressed in the hypothalamus, may regulate the m6A methylation of its target genes, influencing GnRH expression in the hypothalamus during puberty onset. This study aimed to explore the mechanism by which FTO regulates the function of its target neurotrophins within the hypothalamus and to clarify the molecular pathway underlying precocious puberty.<h4>Methods</h4>Methylated RNA immunoprecipitation sequencing (MeRIP-seq) was used to assess m6A methylation in the hypothalamus of female rats. Serum brain-derived neurotrophic factor (BDNF) levels were measured in girls with central precocious puberty (CPP) and matched controls. BDNF was applied to GnRH neurons <i>in vitro</i>. The functions of FTO were assessed through overexpression and knockdown in animal models, with downstream signaling evaluated via BDNF/PI3K/Akt pathway analysis. Intracerebroventricular (ICV) injections of a BDNF-overexpressing lentiviral vector or a negative control (NC) were used to investigate the role of central BDNF in regulating puberty onset and reproductive function.<h4>Results</h4>Hypothalamic GnRH and FTO expression progressively increased whereas m6A methylation decreased during puberty. MeRIP-seq revealed significantly reduced m6A methylation of Bdnf mRNA in the arcuate nucleus (ARC) of female rats during early puberty. In the ARC, BDNF was expressed adjacent to GnRH-positive fibers and terminals. In addition, serum BDNF levels were higher in girls with CPP girls than in the control group. <i>In vitro</i>, BDNF treatment stimulated GnRH expression in GT1-7 cells. FTO positively regulated BDNF expression in an m6A methylation-dependent manner. FTO overexpression activated BDNF/PI3K/Akt signaling in the ARC and accelerated puberty onset. Conversely, FTO knockdown delayed vaginal opening and suppressed BDNF/PI3K/Akt signaling. ICV delivery of a BDNF-overexpressing lentivirus increased hypothalamic BDNF and GnRH expression, leading to a distinct endocrine profile.<h4>Conclusion</h4>These findings suggest that FTO regulates the m6A demethylation of BDNF and promotes GnRH expression through the BDNF/PI3K/Akt signaling pathway. This study improves our understanding of the function of BDNF, which is critical for the development of therapeutic strategies for preventing and treating of precocious puberty.",
+      "url": "https://europepmc.org/articles/PMC12615161",
+      "pdf_url": "https://europepmc.org/articles/PMC12615161?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/68/c8/PMC12615161.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "PMID:41244054",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "KIAA1429-mediated M&lt;sup&gt;6&lt;/sup&gt;A methylation inhibits osteoclast differentiation via stabilizing Lrp4 mRNA and protects against osteoporosis.",
+      "authors": "Liu J; Fu Q; Li M; Chen J; Xu M; Zhai X; Li S; Li L; Wu X; Xu W; Wang K; Si H",
+      "year": 2025,
+      "doi": "10.1186/s11658-025-00800-z",
+      "pmid": "41146006",
+      "pmcid": "PMC12560588",
+      "abstract": "N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) is a novel epigenetic modification that has been reported to be involved in the progression of osteoporosis (OP), providing new insights into the pathogenesis of OP. The methyltransferases KIAA1429 [also known as virus-like m<sup>6</sup>A methyltransferase-associated protein (VIRMA)] participates in various essential biological processes by regulating target gene expression levels. However, the function of KIAA1429-mediated m<sup>6</sup>A modification in OP progression remains unclear. This study aimed to investigate the biological roles and potential underlying mechanisms of KIAA1429 in OP and osteoclast differentiation. scRNA-seq combined with bulk RNA-seq screening for the differential gene KIAA1429. Analysis of clinical data confirmed KIAA1429 expression and its clinical significance in OP. KIAA1429 inhibited osteoclast differentiation in vitro and reduced bone resorption in ovariectomized (OVX) mice. Mechanistically, LRP4 was identified as a downstream target of KIAA1429. KIAA1429 mediated the m<sup>6</sup>A modification of Lrp4 mRNA, and then YT521-B homology-domain-containing protein 1 (YTHDC1) increased Lrp4 stability and expression. In addition, LRP4 enhancement recruited TNFAIP3, which inactivated NF-κB signaling. This novel mechanism of NF-κB signaling pathway inhibition by enhanced KIAA1429/YTHDC1-coupled Lrp4 transcription during osteoclast differentiation highlights the potential of KIAA1429 as a novel predictive biomarker and therapeutic target for OP progression.",
+      "url": "https://europepmc.org/articles/PMC12560588",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/e7/98/11658_2025_Article_800.PMC12560588.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e7/98/PMC12560588.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "PMID:41146006",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL3-dependent m6A modification of SNAP29 induces “autophagy-mitochondrial crisis” in the ischemic microenvironment after soft tissue transplantation",
+      "authors": "Ningning Yang; Yingying Lai; Gaoxiang Yu; Xuzi Zhang; Jingwei Shi; Linyi Xiang; Jiacheng Zhang; Yuzhe Wu; Xiaoqiong Jiang; Xuanlong Zhang; Liangliang Yang; Weiyang Gao; Jian Ding; Xiangyang Wang; Jian Xiao; Kailiang Zhou",
+      "year": 2025,
+      "doi": "10.1080/15548627.2025.2493455",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "ABSTRACT Necrosis at the ischemic distal end of flap transplants increases patients’ pain and economic burden. Reactive oxygen species (ROS) and mitochondrial damage are crucial in regulating parthanatos, but the mechanisms linking disrupted macroautophagic/autophagic flux to parthanatos in ischemic flaps remain unclear. The results of western blotting, immunofluorescence staining, and a proteomic analysis revealed that the autophagic protein SNAP29 was deficient in ischemic flaps, resulting in disrupted autophagic flux, increased ROS-induced parthanatos, and aggravated ischemic flap necrosis. The use of AAV vector to restore SNAP29 in vivo mitigated the disruption of autophagic flux and parthanatos. Additionally, quantification of the total m6A level and RIP-qPCR, MeRIP-qPCR, and RNA stability assessments were performed to determine differential Snap29 mRNA m6A methylation levels and mRNA stability in ischemic flaps. Various in vitro and in vivo tests were conducted to verify the ability of METTL3-mediated m6A methylation to promote SNAP29 depletion and disrupt autophagic flux. Finally, we concluded that restoring SNAP29 by inhibiting METTL3 and YTHDF2 reversed the “autophagy-mitochondrial crisis”, defined for the first time as disrupted autophagic flux, mitochondrial damage, mitochondrial protein leakage, and the occurrence of parthanatos. The reversal of this crisis ultimately promoted the survival of ischemic flaps. Abbreviations: AAV = adeno-associated virus; ACTA2/α-SMA = actin alpha 2, smooth muscle, aorta; AIFM/AIF = apoptosis-inducing factor, mitochondrion-associated; ALKBH5 = alkB homolog, RNA demythelase; Baf A1 = bafilomycin A1; CQ = chloroquine; DHE = dihydroethidium; ECs = endothelial cells; F-CHP = 5-FAM-conjugated collagen-hybridizing peptide; GO = gene ontology; HUVECs = human umbilical vein endothelial cells; KEGG = Kyoto Encyclopedia of Genes and Genomes; LC-MS/MS = liquid chromatography-tandem mass spectrometry; LDBF = laser doppler blood flow; m6A = N6-methyladenosine; MAP1LC3/LC3 = microtubule-associated protein 1 light chain 3; MeRIP = methylated RNA immunoprecipitation; METTL3 = methyltransferase 3, N6-adenosine-methyltransferase complex catalytic subunit; NAC = N-acetylcysteine; OGD = oxygen glucose deprivation; PAR = poly (ADP-ribose); PARP1 = poly (ADP-ribose) polymerase family, member 1; PECAM1/CD31 = platelet/endothelial cell adhesion molecule 1; ROS = reactive oxygen species; RT-qPCR = reverse transcription quantitative polymerase chain reaction; RIP = RNA immunoprecipitation; SNAP29 = synaptosomal-associated protein 29; SNARE = soluble N-ethylmaleimide-sensitive factor attachment protein receptor; SQSTM1 = sequestosome 1; SRAMP = sequence-based RNA adenosine methylation site predicting; STX17 = syntaxin 17; TMT = tandem mass tag; TUNEL = terminal deoxynucleotidyl transferase dUTP nick end labeling; VAMP8 = vesicle-associated membrane protein 8; WTAP = WT1 associating protein; YTHDF2 = YTH N6-methyladenosine RNA binding protein 2; 3’ UTR = 3ʹ-untranslated region",
+      "url": "https://www.semanticscholar.org/paper/caf19511dc72775dedb58da5f8ca4bca850c3675",
+      "pdf_url": "https://doi.org/10.1080/15548627.2025.2493455",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "caf19511dc72775dedb58da5f8ca4bca850c3675",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nanopore direct RNA sequencing of human transcriptomes reveals the complexity of mRNA modifications and crosstalk between regulatory features.",
+      "authors": "Kim Y; Saville L; O'Neill K; Garant JM; Liu Y; Haile-Merhu S; Ghashghaei M; Hoang QA; Louwagie A; Park YP; Jones SJM; Vu LP",
+      "year": 2025,
+      "doi": "10.1016/j.xgen.2025.100872",
+      "pmid": "40359935",
+      "pmcid": "PMC12230237",
+      "abstract": "The identification and functional characterization of chemical modifications on an mRNA molecule, in particular N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) modification, significantly broadened our understanding of RNA function and regulation. While interactions between RNA modifications and other RNA features have been proposed, direct evidence showing correlation is limited. Here, using Oxford Nanopore long-read direct RNA sequencing (dRNA-seq), we simultaneously interrogate the transcriptome and epitranscriptome of a human leukemia cell line to investigate the correlation between m<sup>6</sup>A modifications, mRNA abundance, mRNA stability, polyadenylation (poly(A)) tail length, and alternative splicing. High-quality dRNA-seq is important for unbiased and large-scale correlative analyses. Global assessments indicated a negative association between poly(A) tail length and mRNA abundance while uncovering pathway-specific responses upon depletion of the m<sup>6</sup>A-forming enzyme METTL3. Overall, our study presented a rich dRNA-seq data resource that has been validated and can be further exploited to inquire into the complexity of RNA modifications and potential interplays between RNA regulatory elements.",
+      "url": "https://europepmc.org/articles/PMC12230237",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/5d/70/main.PMC12230237.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/5d/70/PMC12230237.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "PMID:40359935",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "SELECT-based quantification of site-specific m6A modification v1",
+      "authors": "Xin Xu; Yujuan Wang",
+      "year": 2025,
+      "doi": "10.17504/protocols.io.q26g77rzqgwz/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>This protocol describes SELECT (single-base elongation- and ligation-based qPCR amplification) assays for site-specific quantification of m6A RNA modification using total RNA, followed by qPCR-based detection of SELECT products.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.q26g77rzqgwz/v1",
+      "pdf_url": "https://www.protocols.io/view/select-based-quantification-of-site-specific-m6a-m-hibxb4app.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\xin_2025_select_based_quantification_of_site_specific_m6a_modification.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA",
+        "SELECT method single-base elongation site-specific m6A detection",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "10.17504/protocols.io.q26g77rzqgwz/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Systematic evaluation of tools used for single-cell m<sup>6</sup>A identification.",
+      "authors": "Li Y; Xu X; Chen M; Meng J; Jiang D; Bao Y; Cao Y; Chen Y; Chang CH; Lee SY; Chen Y; Lu J; Chen Y; Lv X; Liang H; Meng K; An S",
+      "year": 2025,
+      "doi": "10.1038/s42003-025-09246-7",
+      "pmid": "41275001",
+      "pmcid": "PMC12749739",
+      "abstract": "N6-methyladenosine (m<sup>6</sup>A) modifications are prevalent across all mammals and represent the most abundant type of epigenetic modification. With advancements in research, new methods for single-cell m<sup>6</sup>A modification sequencing and prediction have continuously emerged. These methods provide researchers with powerful tools to explore the landscape of epigenetic modifications at the single-cell level. However, challenges such as operational complexity, limited sensitivity, resolution, and consistency across different techniques remain major obstacles for researchers in this field. In this study, we compared four representative single-cell m<sup>6</sup>A sequencing and prediction methods based on different principles. We also developed a single-cell m<sup>6</sup>A database, which is freely accessible online. The database allows users to search for the localization and modification levels of single-cell m<sup>6</sup>A modifications in human and mouse species on the basis of these methods. It also offers cell definitions, data visualization, and data download options. Additionally, we applied Scm<sup>6</sup>A to single-cell transcriptome data across cancers and spatial transcriptome data from UCEC to predict and visualize m<sup>6</sup>A modifications, demonstrating its unique superior performance.",
+      "url": "https://europepmc.org/articles/PMC12749739",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/73/90/42003_2025_Article_9246.PMC12749739.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/73/90/PMC12749739.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "PMID:41275001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Rna M6a Modification is Not Associated with Differential Transcript Expression During Honeybee Caste Differentiation",
+      "authors": "Chen Yang; Yu zhu He; Yu xiang Wang; XingChao Yan; Xu Han; Zhijiang Zeng; Xu Jiang He",
+      "year": 2025,
+      "doi": "10.2139/ssrn.5205299",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2139/ssrn.5205299",
+      "pdf_url": "https://doi.org/10.2139/ssrn.5205299",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "10.2139/ssrn.5205299",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A alters ribosome dynamics to initiate mRNA degradation.",
+      "authors": "Murakami S; Olarerin-George AO; Liu JF; Zaccara S; Hawley B; Jaffrey SR",
+      "year": 2025,
+      "doi": "10.1016/j.cell.2025.04.020",
+      "pmid": "40328256",
+      "pmcid": "PMC12255529",
+      "abstract": "Degradation of mRNA containing N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) is essential for cell growth, differentiation, and stress responses. Here, we show that m<sup>6</sup>A markedly alters ribosome dynamics and that these alterations mediate the degradation effect of m<sup>6</sup>A on mRNA. We find that m<sup>6</sup>A is a potent inducer of ribosome stalling, and these stalls lead to ribosome collisions that form a unique conformation unlike those seen in other contexts. We find that the degree of ribosome stalling correlates with m<sup>6</sup>A-mediated mRNA degradation, and increasing the persistence of collided ribosomes correlates with enhanced m<sup>6</sup>A-mediated mRNA degradation. Ribosome stalling and collision at m<sup>6</sup>A is followed by recruitment of YTHDF m<sup>6</sup>A reader proteins to promote mRNA degradation. We show that mechanisms that reduce ribosome stalling and collisions, such as translation suppression during stress, stabilize m<sup>6</sup>A-mRNAs and increase their abundance, enabling stress responses. Overall, our study reveals the ribosome as the initial m<sup>6</sup>A sensor for beginning m<sup>6</sup>A-mRNA degradation.",
+      "url": "https://europepmc.org/articles/PMC12255529",
+      "pdf_url": "https://europepmc.org/articles/PMC12255529?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "PMID:40328256",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A RNA immunoprecipitation (MeRIP) v1",
+      "authors": "Xin Xu; Yujuan Wang",
+      "year": 2025,
+      "doi": "10.17504/protocols.io.rm7vzenmrvx1/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>This protocol describes m6A RNA immunoprecipitation (MeRIP) using fragmented total RNA from cell lines, followed by antibody-based enrichment of m6A-modified RNA and purification for downstream library preparation.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.rm7vzenmrvx1/v1",
+      "pdf_url": "https://www.protocols.io/view/m6a-rna-immunoprecipitation-merip-hibsb4anf.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\xin_2025_m6a_rna_immunoprecipitation_merip_v1.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "10.17504/protocols.io.rm7vzenmrvx1/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A-induced DEAD-box RNA helicase 21 enhances lipid metabolism via 3‑hydroxy-3-methylglutaryl-CoA synthases 1 in colorectal cancer",
+      "authors": "Huabin Gao; Shuai Zheng; Jiangtao Liang; Yuting Wang; Lin Chen; Hui Li; Yongyu Chen; Fen-fen Zhang; Huijuan Shi; Anjia Han",
+      "year": 2025,
+      "doi": "10.1016/j.tranon.2025.102373",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Highlights • DDX21 enhances CRC lipid metabolism and progression in CRC cells.• DDX21 regulates lipid metabolism by binding to the gene promoter of HMGCS1, which then activates HMGCS1 transcription.• A method to identify the specific m6A sites is established by an integrated analysis of meRIP-seq, meRIP-qPCR and Dual-luciferase reporter assay. Based on this method, the A2462 and A2467 in the 3′UTR region of DDX21 mRNA is identified as the specific m6A binding sites.• The expressions of YTHDF1, DDX21 and HMGCS1 are positively correlated in CRC patients. The simultaneous high expression of YTHDF1, DDX21 and HMGCS1 predict unfavorable overall survival in CRC patients.",
+      "url": "https://www.semanticscholar.org/paper/f04aab76de7753197af7501bcbfbf40f948571c7",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11979938",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "f04aab76de7753197af7501bcbfbf40f948571c7",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "tRNA modifications tune m&lt;sup&gt;6&lt;/sup&gt;A-dependent mRNA decay.",
+      "authors": "Linder B; Sharma P; Wu J; Birbaumer T; Eggers C; Murakami S; Ott RE; Fenzl K; Vorgerd H; Erhard F; Jaffrey SR; Leidel SA; Steinmetz LM",
+      "year": 2025,
+      "doi": "10.1016/j.cell.2025.04.013",
+      "pmid": "40311619",
+      "pmcid": "PMC12255531",
+      "abstract": "Chemically modified nucleotides in mRNA are critical regulators of gene expression, primarily through interactions with reader proteins that bind to these modifications. Here, we present a mechanism by which the epitranscriptomic mark N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) is read by tRNAs during translation. Codons that are modified with m<sup>6</sup>A are decoded inefficiently by the ribosome, rendering them \"non-optimal\" and inducing ribosome collisions on cellular transcripts. This couples mRNA translation to decay. 5-Methoxycarbonylmethyl-2-thiouridine (mcm<sup>5</sup>s<sup>2</sup>U) in the tRNA anticodon loop counteracts this effect. This unanticipated link between the mRNA and tRNA epitranscriptomes enables the coordinated decay of mRNA regulons, including those encoding oncogenic signaling pathways. In cancer, dysregulation of the m<sup>6</sup>A and mcm<sup>5</sup>s<sup>2</sup>U biogenesis pathways-marked by a shift toward more mcm<sup>5</sup>s<sup>2</sup>U-is associated with more aggressive tumors and poor prognosis. Overall, this pan-epitranscriptomic interaction represents a novel mechanism of post-transcriptional gene regulation with implications for human health.",
+      "url": "https://europepmc.org/articles/PMC12255531",
+      "pdf_url": "https://europepmc.org/articles/PMC12255531?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "PMID:40311619",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Current progress in strategies to profile transcriptomic m<sup>6</sup>A modifications.",
+      "authors": "Yang Y; Lu Y; Wang Y; Wen X; Qi C; Piao W; Jin H",
+      "year": 2024,
+      "doi": "10.3389/fcell.2024.1392159",
+      "pmid": "39055651",
+      "pmcid": "PMC11269109",
+      "abstract": "Various methods have been developed so far for detecting <i>N</i> <sup>6</sup>-methyladenosine (m<sup>6</sup>A). The total m<sup>6</sup>A level or the m<sup>6</sup>A status at individual positions on mRNA can be detected and quantified through some sequencing-independent biochemical methods, such as LC/MS, SCARLET, SELECT, and m<sup>6</sup>A-ELISA. However, the m<sup>6</sup>A-detection techniques relying on high-throughput sequencing have more effectively advanced the understanding about biological significance of m<sup>6</sup>A-containing mRNA and m<sup>6</sup>A pathway at a transcriptomic level over the past decade. Various SGS-based (Second Generation Sequencing-based) methods with different detection principles have been widely employed for this purpose. These principles include m<sup>6</sup>A-enrichment using antibodies, discrimination of m<sup>6</sup>A from unmodified A-base by nucleases, a fusion protein strategy relying on RNA-editing enzymes, and marking m<sup>6</sup>A with chemical/biochemical reactions. Recently, TGS-based (Third Generation Sequencing-based) methods have brought a new trend by direct m<sup>6</sup>A-detection. This review first gives a brief introduction of current knowledge about m<sup>6</sup>A biogenesis and function, and then comprehensively describes m<sup>6</sup>A-profiling strategies including their principles, procedures, and features. This will guide users to pick appropriate methods according to research goals, give insights for developing novel techniques in varying areas, and continue to expand our boundary of knowledge on m<sup>6</sup>A.",
+      "url": "https://europepmc.org/articles/PMC11269109",
+      "pdf_url": "https://europepmc.org/articles/PMC11269109?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/22/e3/PMC11269109.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "PMID:39055651",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ginger inhibits the invasion of ovarian cancer cells SKOV3 through CLDN7, CLDN11 and CD274 m6A methylation modifications",
+      "authors": "Xiaoyu Zhang; Hairong Zhang; Lin Zhu; Lei Xia",
+      "year": 2024,
+      "doi": "10.1186/s12906-024-04431-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Ginger is a common aromatic vegetable with a wide range of functional ingredients and considerable medicinal and nutritional properties. Numerous studies have shown that ginger and its active ingredients have suppressive effects on manifold tumours, including ovarian cancer (OC). However, the molecular mechanism by which ginger inhibits OC is not clear. The aim of this study was to investigate the function and mechanism of ginger in OC. The estimation of n6-methyladenosine (m6A) levels was performed using the m6A RNA Methylation Quantification Kit, and RT-qPCR was used to determine the expression of m6A-related genes and proteins. The m6A methylationome was detected by MeRIP-seq, following analysis of the data. Differential methylation of genes was assessed utilizing RT-qPCR and Western Blotting. The effect of ginger on SKOV3 invasion in ovarian cancer cells was investigated using the wound healing assay and transwell assays. Ginger significantly reduced the m6A level of OC cells SKOV3. The 3’UTR region is the major site of modification for m6A methylation, and its key molecular activities include Cell Adhesion Molecules, according to meRIP-seq results. Moreover, it was observed that Ginger aids significantly in downregulating the CLDN7, CLDN11 mRNA, and protein expression. The results of wound healing assay and transwell assay showed that ginger significantly inhibited the invasion of OC cells SKOV3. Ginger inhibits ovarian cancer cells’ SKOV3 invasion by regulating m6A methylation through CLDN7, CLDN11, and CD274.",
+      "url": "https://www.semanticscholar.org/paper/3253c97ffc650fa4df26f201f13b31fc2ddae82b",
+      "pdf_url": "https://bmccomplementmedtherapies.biomedcentral.com/counter/pdf/10.1186/s12906-024-04431-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\xiaoyu_2024_ginger_inhibits_the_invasion_of_ovarian_cancer_cells.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "3253c97ffc650fa4df26f201f13b31fc2ddae82b",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "LAMP-MS for Locus-Specific Visual Quantification of DNA 5mC and RNA m6A Using Ultra-Low Input.",
+      "authors": "Lulu Hu; Runyu Xie; Xiaotong Yang; Weizhi He; Zhongguang Luo; Wenshuai Li; Chu Xu; Xiaolong Cui; Ning Wei; Xiao-Liang Wang; Yixiang Shi; Chuan He; Jie Liu; Wei Zhang",
+      "year": 2024,
+      "doi": "10.1002/anie.202413872",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Enhancing the effectiveness of utilizing circulating cell-free DNA (cfDNA) for disease screening remains a challenge, necessitating improved sensitivity, specificity, cost-efficiency, and patient adherence. We present here LAMP-MS, an innovative technology that integrates linear amplification with single-base quantitative nucleic acid mass spectrometry on silicon chips. This approach overcomes several limitations in utilizing cfDNA 5-methylcytosine (5mC) status for colorectal cancer (CRC) screening. LAMP-MS enables unbiased amplification of as little as 1 ng of cfDNA, site-specifically quantify methylation levels of tens to hundreds of 5mC sites, thereby facilitating cost-effective, high-resolution quantitative detection of cfDNA methylation markers. We have validated the accuracy of DNA methylation determination using DNA probes and cfDNA from patient plasma samples, confirmed by mass spectrometric peak areas. Additionally, we have further shown this Mass Array technology could be expanded to also quantify RNA m6A modification sites. Combining the ability to work with ultra-low input materials and a visually interpretable output, LAMP-MS stands out as a promising method for real-world applications in clinics and laboratories for nucleic acid methylation detection and quantification.",
+      "url": "https://www.semanticscholar.org/paper/0581c7d828fa0eb2317a063f8dba765ec8e95e1d",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.202413872",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "0581c7d828fa0eb2317a063f8dba765ec8e95e1d",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL3 drives heart failure by regulating Spp1 and Fos m6A modification in myocardial infarction",
+      "authors": "Hao Cheng; Linnan Li; Yufei Zhou; Jiaqi Ma; Rende Xu; Junqiang Xue; Lu Chen; Xiaoyue Song; Yuekai Shi; Yunzeng Zou; Jianying Ma; Junbo Ge",
+      "year": 2024,
+      "doi": "10.21203/rs.3.rs-4207910/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p>While m<sup>6</sup>A modification has been reported in myocardial infarction (MI), the detailed mechanism by which METTL3 regulates the progression of the disease has not yet been elucidated, and it remains unclear why m<sup>6</sup>A modification increases after MI. Through MeRIP-seq and extensive bioinformatics analysis, the target genes SPP1 and FOS with the most significant m<sup>6</sup>A modification and differential expression in MI were screened. We successfully constructed heart specific Mettl3 knockout mice (<italic>Mettl3</italic><sup><italic>CKO</italic></sup>) to verify that METTL3 promotes the deterioration of cardiac function after MI. We performed complementary molecular methods to assess protein quantity and interactions to identify mechanisms regulating this response. We manipulated select molecular pathways using both genetic and pharmacological methods to validate these mechanisms. Here, we showed that METTL3 exerted methyltransferase activity-dependent functions in gene regulation in MI, and a significant transcription factor HuR assisted the function of METTL3. and demonstrated that METTL3 was critical for the promotion of heart failure after MI. More specifically, METTL3 directly interacted with HuR through its nuclear localization domain in the cell nucleus under normoxia condition. When hypoxia developed, METTL3 separated from HuR and deposited m<sup>6</sup>A into 5’UTR of <italic>Spp1</italic> and <italic>Fos</italic> mRNA to maintain their stability. In contrast, HuR bound to the ARE domain of 3’UTR of <italic>Spp1</italic> and <italic>Fos</italic> mRNA to take them to the cytosol, maintaining their stability. Moreover, HIF-1α directly interacted with the HRE domain of Mettl3 to promote its transcription, and HuR bound to the ARE domain of 3’UTR of <italic>Mettl3</italic> mRNA to maintain its stability to promote following translation. Collectively, our studies revealed previously unappreciated functions of METTL3 with the help of HuR, and a direct target of HIF-1α under normoxia condition, which together contribute to its essential function in MI, suggesting therapeutic potential for targeting the METTL3/HuR/<italic>Spp1</italic>(<italic>Fos</italic>) mRNA axis.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-4207910/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-4207910/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\hao_2024_mettl3_drives_heart_failure_by_regulating_spp1_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "10.21203/rs.3.rs-4207910/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL3 drives heart failure by regulating Spp1 and Fos m6A modification in myocardial infarction",
+      "authors": "H Cheng; L N Li; J Y Qian; Y Z Zou; J Y Ma; J B Ge",
+      "year": 2024,
+      "doi": "10.1093/eurheartj/ehae666.3703",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>While m6A modification has been reported in myocardial infarction (MI), the detailed mechanism by which METTL3 regulates the progression of the disease has not yet been elucidated, and it remains unclear why m6A modification increases after MI.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Purpose</jats:title>\n                  <jats:p>To investigate the role and mechanism of METTL3 in regulating its targets through m6A methylation in MI. The research results will not only add new content to the basic mechanism of myocardial protection but also provide new ideas and new targets for the prevention and treatment of MI.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Through MeRIP-seq and extensive bioinformatics analysis, the target genes SPP1 and FOS with the most significant m6A modification and differential expression in MI were screened. We successfully constructed heart specific Mettl3 knockout mice (Mettl3CKO) to verify that METTL3 promotes the deterioration of cardiac function after MI. We performed complementary molecular methods to assess protein quantity and interactions to identify mechanisms regulating this response. We manipulated select molecular pathways using both genetic and pharmacological methods to validate these mechanisms.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Here, we showed that METTL3 exerted methyltransferase activity-dependent functions in gene regulation in MI, and a significant transcription factor HuR assisted the function of METTL3. and demonstrated that METTL3 was critical for the promotion of heart failure after MI. More specifically, METTL3 directly interacted with HuR through its nuclear localization domain in the cell nucleus under normoxia condition. When hypoxia developed, METTL3 separated from HuR and deposited m6A into 5’UTR of Spp1 and Fos mRNA to maintain their stability. In contrast, HuR bound to the ARE domain of 3’UTR of Spp1 and Fos mRNA to take them to the cytosol, maintaining their stability. Moreover, HIF-1α directly interacted with the HRE domain of Mettl3 to promote its transcription, and HuR bound to the ARE domain of 3’UTR of Mettl3 mRNA to maintain its stability to promote following translation.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Collectively, our studies revealed previously unappreciated functions of METTL3 with the help of HuR, and a direct target of HIF-1α under normoxia condition, which together contribute to its essential function in MI, suggesting therapeutic potential for targeting the METTL3/HuR/Spp1(Fos) mRNA axis.Figure1</jats:p>\n               </jats:sec>",
+      "url": "https://doi.org/10.1093/eurheartj/ehae666.3703",
+      "pdf_url": "https://academic.oup.com/eurheartj/article-pdf/45/Supplement_1/ehae666.3703/60060434/ehae666.3703.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "10.1093/eurheartj/ehae666.3703",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylated lncRNAs suppress apoptosis of gastric cancer stem cells via the lncRNA-miRNA/protein axis.",
+      "authors": "Ci Y; Zhang Y; Zhang X",
+      "year": 2024,
+      "doi": "10.1186/s11658-024-00568-8",
+      "pmid": "38600465",
+      "pmcid": null,
+      "abstract": "Long noncoding RNAs (lncRNAs) play essential roles in the tumorigenesis of gastric cancer. However, the influence of lncRNA methylation on gastric cancer stem cells (GCSCs) remains unclear. The N6-methyladenosine (m6A) levels of lncRNAs in gastric cancer stem cells were detected by methylated RNA immunoprecipitation sequencing (MeRIP-seq), and the results were validated by MeRIP-quantitative polymerase chain reaction (qPCR). Specific sites of m6A modification on lncRNAs were detected by single-base elongation- and ligation-based qPCR amplification (SELECT). By constructing and transfecting the plasmid expressing methyltransferase-like 3 (METTL3) fused with catalytically inactivated Cas13 (dCas13b) and guide RNA targeting specific methylation sites of lncRNAs, we obtained gastric cancer stem cells with site-specific methylation of lncRNAs. Reverse transcription (RT)-qPCR and Western blot were used for detecting the stemness of treated gastric cancer stem cells. The site-specific methylation of PSMA3-AS1 and MIR22HG suppressed apoptosis and promoted stemness of GCSCs. LncRNA methylation enhanced the stability of PSMA3-AS1 and MIR22HG to suppress apoptosis of GCSCs via the PSMA3-AS1-miR-411-3p- or MIR22HG-miR-24-3p-SERTAD1 axis. Simultaneously, the methylated lncRNAs promoted the interaction between PSMA3-AS1 and the EEF1A1 protein or MIR22HG and the LRPPRC protein, stabilizing the proteins and leading to the suppression of apoptosis. The in vivo data revealed that the methylated PSMA3-AS1 and MIR22HG triggered tumorigenesis of GCSCs. Our study revealed the requirement for site-specific methylation of lncRNAs in the tumorigenesis of GCSCs, contributing novel insights into cancer development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38600465/",
+      "pdf_url": "https://cmbl.biomedcentral.com/counter/pdf/10.1186/s11658-024-00568-8",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\ci_2024_methylated_lncrnas_suppress_apoptosis_of_gastric_cancer_stem.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "38600465",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Single-cell m6A profiling in the mouse brain uncovers cell type-specific RNA methylomes and age-dependent differential methylation",
+      "authors": "Matthew Tegowski; Anna K. Prater; Christopher L. Holley; Kate D. Meyer",
+      "year": 2024,
+      "doi": "10.1038/s41593-024-01768-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41593-024-01768-3",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11614689/pdf/nihms-2028590.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "W4402769636",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Specific quantitative detection of N6-methyladenosine at single-base resolution by extension-based isothermal exponential amplification reaction (E-IEXPAR).",
+      "authors": "Fengxia Su; Weiliang Liu; Kejian Gao; Desheng Chen; Yongqiang Cheng; Zhengping Li",
+      "year": 2024,
+      "doi": "10.1016/j.aca.2024.342474",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND\nN6-methyladenosine (m6A) is a common modification in RNA, crucial for various cellular functions and associated with human diseases. Quantification of m6A at single-base resolution is of great significance for exploring its biological roles and related disease research. However, existing analysis techniques, such as polymerase chain reaction (PCR) or loop-mediated isothermal amplification (LAMP), face challenges like the requirement for thermal cycling or intricate primer design. Therefore, it is urgent to establish a simple, non-thermal cycling and highly sensitive assay for m6A.\n\n\nRESULTS\nLeveraging the inhibitory effect of m6A on primer elongation and uncomplicated feature of the isothermal exponential amplification reaction (IEXPAR), we have developed an extension-based IEXPAR (E-IEXPAR). This approach requires just a single extension primer and one template, simplifying the design process in comparison to the more complex primer requirements of the LAMP methods. The reactions are conducted at constant temperatures, therby elimiating the use of thermal cycling that needed in PCR methods. By combining IEXPAR with an extension reaction, E-IEXPAR can identify m6A in RNA concentrations as low as 4 fM. We have also introduced a new analytical model to process E-IEXPAR results, which can aid to minimize the impact of unmodified adenine (A) on m6A measurements, enabling accurate m6A quantification in small mixed samples and cellular RNA specimens.\n\n\nSIGNIFICANCE AND NOVELTY\nE-IEXPAR streamlines m6A detection by eliminating the need for intricate primer design and thermal cycling, which are common in current analytical methods. Its utilization of an extension reaction for the initial identification of m6A, coupled with a novel calculation model tailored to E-IEXPAR outcomes, ensures accurate m6A selectivity in mixed samples. As a result, E-IEXPAR offers a reliable, straightforward, and potentially economical approach for specifically assaying m6A in both biological function studies and clinical research.",
+      "url": "https://www.semanticscholar.org/paper/1d7c3f83a818947deeebdc38efedfc2a42945b18",
+      "pdf_url": "https://doi.org/10.1016/j.aca.2024.342474",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "1d7c3f83a818947deeebdc38efedfc2a42945b18",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Visualization and Quantification of Single-Base m6A Methylation.",
+      "authors": "Qiushuang Zhang; Yicong Dai; Xucong Teng; Jinghong Li",
+      "year": 2024,
+      "doi": "10.1002/anie.202420977",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N 6-methyladenosine (m6A) has emerged as the most prevalent form of RNA modification found across various RNA classes. The detection and quantification of m6A RNA modifications under various physiological conditions are crucial for elucidating disease mechanisms and identifying potential therapeutic targets. However, visualizing intracellular m6A modifications at single-nucleotide resolution remains a significant challenge. Existing methods based on high-throughput sequencing or in vitro assays are not suitable for in situ m6A RNA imaging. In this work, we introduce the TadA8.20-assisted N6-methyladenosine RNA imaging at single-nucleotide resolution (TARS) method for precise visualization and quantification of both A and m6A forms at specific RNA sites within single cells. Validation studies using TARS on MALAT1 lncRNA in HeLa cells and CCND1 mRNA in breast cancer cell lines demonstrated its high specificity and efficiency in mapping and quantifying m6A modifications at single-nucleotide resolution. TARS represents a novel tool that advances m6A RNA modification research by offering accurate and detailed insights into m6A modifications at the single-nucleotide level.",
+      "url": "https://www.semanticscholar.org/paper/7093b19846b08cbb0a1236a76d927339404a8b8c",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.202420977",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "7093b19846b08cbb0a1236a76d927339404a8b8c",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A Reader HNRNPC Facilitates Adipogenesis by Regulating Cytoskeletal Remodeling through Enhanced Lcp1 mRNA Stability",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.14336/ad.2024.0132",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.14336/ad.2024.0132",
+      "pdf_url": "https://www.aginganddisease.org/EN/PDF/10.14336/AD.2024.0132",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\paper_2024_m6a_reader_hnrnpc_facilitates_adipogenesis_by_regulating_cytoskeletal.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "10.14336/ad.2024.0132",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exclusion of m6A from splice-site proximal regions by the exon junction complex dictates m6A topologies and mRNA stability",
+      "authors": "Anna Uzonyi; David Dierks; Ronit Nir; Oh Sung Kwon; Ursula Toth; Isabelle Barbosa; Cindy Burel; Alexander Brandis; Walter Rossmanith; Hervé Le Hir; Boris Slobodin; Schraga Schwartz",
+      "year": 2023,
+      "doi": "10.1016/j.molcel.2022.12.026",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.molcel.2022.12.026",
+      "pdf_url": "https://hal.science/hal-04291793/document",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\anna_2023_exclusion_of_m6a_from_splice_site_proximal_regions.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "W4313529454",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exon-intron boundary inhibits m6A deposition, enabling m6A distribution hallmark, longer mRNA half-life and flexible protein coding",
+      "authors": "Zhiyuan Luo; Qilian Ma; Shan Sun; Ningning Li; Hongfeng Wang; Zheng Ying; Shengdong Ke",
+      "year": 2023,
+      "doi": "10.1038/s41467-023-39897-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Regional bias of N 6 -methyladenosine (m 6 A) mRNA modification avoiding splice site region, calls for an open hypothesis whether exon-intron boundary could affect m 6 A deposition. By deep learning modeling, we find that exon-intron boundary represses a proportion (12% to 34%) of m 6 A deposition at adjacent exons (~100 nt to splice site). Experiments validate that m 6 A signal increases once the host gene does not undergo pre-mRNA splicing to produce the same mRNA. Inhibited m 6 A sites have higher m 6 A enhancers and lower m 6 A silencers locally and show high heterogeneity at different exons genome-widely, with only a small proportion (12% to 15%) of exons showing strong inhibition, enabling more stable mRNAs and flexible protein coding. m 6 A is majorly responsible for why mRNAs with more exons be more stable. Exon junction complex (EJC) only partially contributes to this exon-intron boundary m 6 A inhibition in some short internal exons, highlighting additional factors yet to be identified.",
+      "url": "https://doi.org/10.1038/s41467-023-39897-1",
+      "pdf_url": "https://www.nature.com/articles/s41467-023-39897-1.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\zhiyuan_2023_exon_intron_boundary_inhibits_m6a_deposition_enabling_m6a.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "W4384200957",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exosome-targeted delivery of METTL14 regulates NFATc1 m6A methylation levels to correct osteoclast-induced bone resorption",
+      "authors": "Jingang Yang; Bao Sun; Zheng Wang; Xing Li; Jia-hui Gao; Jiajun Qian; Jiang Li; Wenjia Wei; Ping Zhang; Wei Wang",
+      "year": 2023,
+      "doi": "10.1038/s41419-023-06263-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Osteoporosis has a profound influence on public health. First-line bisphosphonates often cause osteonecrosis of the jaw meanwhile inhibiting osteoclasts. Therefore, it is important to develop effective treatments. The results of this study showed that the increased level of NFATc1 m6A methylation caused by zoledronic acid (ZOL), with 4249A as the functional site, is highly correlated with the decreased bone resorption of osteoclasts. Upstream, METTL14 regulates osteoclast bone absorption through the methylation functional site of NFATc1. Downstream, YTHDF1 and YTHDF2 show antagonistic effects on the post-transcriptional regulation of NFATc1 after the m6A methylation level is elevated by METTL14. In this study, meRIP-Seq, luciferase reporter assays, meRIP and other methods were used to elucidate the NFATc1 regulatory mechanism of osteoclasts from the perspective of RNA methylation. In addition, EphA2 overexpression on exosomes is an effective biological method for targeted delivery of METTL14 into osteoclasts. Importantly, this study shows that METTL14 released by exosomes can increase the m6A methylation level of NFATc1 to inhibit osteoclasts, help postmenopausal osteoporosis patients preserve bone mass, and avoid triggering osteonecrosis of the jaw, thus becoming a new bioactive molecule for the treatment of osteoporosis.",
+      "url": "https://doi.org/10.1038/s41419-023-06263-4",
+      "pdf_url": "https://www.nature.com/articles/s41419-023-06263-4.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\jingang_2023_exosome_targeted_delivery_of_mettl14_regulates_nfatc1_m6a.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "W4388631070",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Isothermal Amplification-Based Detection of Single-Base RNA N6-Methyladenosine.",
+      "authors": "Ke Zhong; You Wu; Jiangli Zhou; Xianyuan Yang; Cheng Yi; Lichen Ge; Zigang Li; Weiling He; Jie Cao; Guanmin Jiang; Hongsheng Wang; Jiexin Li",
+      "year": 2023,
+      "doi": "10.1021/acs.analchem.3c03961",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) has recently gained much attention due to its diverse biological functions. Currently, the commonly used detection methods for locus-specific m6A marks are complicated to operate, it is difficult to quantify the methylation level, and they have high false-positive levels. Here, we report a new method for locus-specific m6A detection based on the methylate-sensitive endonuclease activity of MazF and the simultaneous amplification and testing (SAT) method, termed \"m6A-MazF-SAT\". Mechanically, MazF fails to cleave the A (m6A) CA motif; therefore, the undigested template can be SAT-amplified using specific probes targeting the upstream and downstream of sites of interest. Fluorescent signals of SAT amplification can be detected by real-time PCR, and therefore, they achieve the detection of m6A existence. After the condition optimization, m6A-MazF-SAT can significantly, accurately, and rapidly detect the m6A-modified sites in mRNA, rRNA, and lncRNA at the fmol level, as well as 10% m6A at the fmol level. In addition, m6A-MazF-SAT can quantify the abundance of target m6A in biological samples and can be used for the inhibitor selection of m6A-related enzymes. Together, we offer a new approach to detect locus-specific m6A both qualitatively and quantitatively; it is easy to operate, results can be obtained rapidly, and it has low false-positive levels and high repeatability.",
+      "url": "https://www.semanticscholar.org/paper/54ccded58b8d98bb729204f80706706e02ab6c76",
+      "pdf_url": "https://doi.org/10.1021/acs.analchem.3c03961",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "54ccded58b8d98bb729204f80706706e02ab6c76",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modification: mechanisms and therapeutic targets",
+      "authors": "Lei Qiu; Jing Qian; Yanbo Li; Junhong Han",
+      "year": 2023,
+      "doi": "10.1186/s43556-023-00139-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "RNA modifications are dynamic and reversible chemical modifications on substrate RNA that are regulated by specific modifying enzymes. They play important roles in the regulation of many biological processes in various diseases, such as the development of cancer and other diseases. With the help of advanced sequencing technologies, the role of RNA modifications has caught increasing attention in human diseases in scientific research. In this review, we briefly summarized the basic mechanisms of several common RNA modifications, including m6A, m5C, m1A, m7G, Ψ, A-to-I editing and ac4C. Importantly, we discussed their potential functions in human diseases, including cancer, neurological disorders, cardiovascular diseases, metabolic diseases, genetic and developmental diseases, as well as immune disorders. Through the \"writing-erasing-reading\" mechanisms, RNA modifications regulate the stability, translation, and localization of pivotal disease-related mRNAs to manipulate disease development. Moreover, we also highlighted in this review all currently available RNA-modifier-targeting small molecular inhibitors or activators, most of which are designed against m6A-related enzymes, such as METTL3, FTO and ALKBH5. This review provides clues for potential clinical therapy as well as future study directions in the RNA modification field. More in-depth studies on RNA modifications, their roles in human diseases and further development of their inhibitors or activators are needed for a thorough understanding of epitranscriptomics as well as diagnosis, treatment, and prognosis of human diseases.",
+      "url": "https://doi.org/10.1186/s43556-023-00139-x",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s43556-023-00139-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "W4386089664",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The mRNA methyltransferase Mettl3 modulates cytokine mRNA stability and limits functional responses in mast cells",
+      "authors": "Cristina Leoni; Marian Bataclan; Taku Ito-Kureha; Vigo Heissmeyer; Silvia Monticelli",
+      "year": 2023,
+      "doi": "10.1038/s41467-023-39614-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Mast cells are central players in allergy and asthma, and their dysregulated responses lead to reduced quality of life and life-threatening conditions such as anaphylaxis. The RNA modification N 6 -methyladenosine (m 6 A) has a prominent impact on immune cell functions, but its role in mast cells remains unexplored. Here, by optimizing tools to genetically manipulate primary mast cells, we reveal that the m 6 A mRNA methyltransferase complex modulates mast cell proliferation and survival. Depletion of the catalytic component Mettl3 exacerbates effector functions in response to IgE and antigen complexes, both in vitro and in vivo. Mechanistically, deletion of Mettl3 or Mettl14, another component of the methyltransferase complex, lead to the enhanced expression of inflammatory cytokines. By focusing on one of the most affected mRNAs, namely the one encoding the cytokine IL-13, we find that it is methylated in activated mast cells, and that Mettl3 affects its transcript stability in an enzymatic activity-dependent manner, requiring consensus m 6 A sites in the Il13 3’-untranslated region. Overall, we reveal that the m 6 A machinery is essential in mast cells to sustain growth and to restrain inflammatory responses.",
+      "url": "https://doi.org/10.1038/s41467-023-39614-y",
+      "pdf_url": "https://www.nature.com/articles/s41467-023-39614-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\cristina_2023_the_mrna_methyltransferase_mettl3_modulates_cytokine_mrna_stability.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "W4382601687",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A-modified RIPK4 facilitates proliferation and cisplatin resistance in epithelial ovarian cancer.",
+      "authors": "Xinming Yin; Shijie Zhao; Mengxue Zhang; Jie Xing; Jiamin Zhou; Wujiang Gao; Lu Chen; Yajiao Zhang; Li Lin; Minjun Lu; Wenxin Li; Junyu Shang; Xiaolan Zhu",
+      "year": 2023,
+      "doi": "10.1016/j.ygyno.2023.11.034",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND\nCisplatin (DDP)-based chemotherapy is a common chemotherapeutic regimen for the treatment of advanced epithelial ovarian cancer (EOC). However, most patients rapidly develop chemoresistance. N6-methyladenosine (m6A) is a pervasive RNA modification, and its specific role and potential mechanism in the regulation of chemosensitivity in EOC remain unclear.\n\n\nMETHODS\nThe expression of RIPK4 and its clinicopathological impact were evaluated in EOC cohorts. The biological effects of RIPK4 were investigated using in vitro and in vivo models. RNA m6A quantification was used to measure total m6A levels in epithelial ovarian cancer cells. Luciferase reporter, MeRIP-qPCR, RIP-qPCR and actinomycin-D assays were used to investigate RNA/RNA interactions and m6A modification of RIPK4 mRNA.\n\n\nRESULTS\nWe demonstrated that RIPK4, an upregulated mRNA in EOC, acts as an oncogene in EOC cells by promoting tumor cell proliferation and DDP resistance at the clinical, database, cellular, and animal model levels. Mechanistically, METTL3 facilitates m6A modification, and YTHDF1 recognizes the specific m6A-modified site to prevent RIPK4 RNA degradation and upregulate RIPK4 expression. This induces NF-κB activation, resulting in tumor growth and DDP resistance in vitro and in vivo.\n\n\nCONCLUSIONS\nCollectively, the present findings reveal a novel mechanism underlying the induction of DDP resistance by m6A-modified RIPK4, that may contribute to overcoming chemoresistance in EOC.",
+      "url": "https://www.semanticscholar.org/paper/ba6d95e762d885364cbea597799a3ca02995e6f5",
+      "pdf_url": "https://doi.org/10.1016/j.ygyno.2023.11.034",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "ba6d95e762d885364cbea597799a3ca02995e6f5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Chronic corticosterone disrupts the circadian rhythm of CRH expression and m6A RNA methylation in the chicken hypothalamus",
+      "authors": "Yang Yang; Wanwan Han; Aijia Zhang; Mindie Zhao; Wei Cong; Yimin Jia; Deyun Wang; Ruqian Zhao",
+      "year": 2022,
+      "doi": "10.1186/s40104-022-00677-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Background Corticotropin-releasing hormone (CRH), the major secretagogue of the hypothalamic-pituitary-adrenal (HPA) axis, is intricately intertwined with the clock genes to regulate the circadian rhythm of various body functions. N6-methyladenosine (m 6 A) RNA methylation is involved in the regulation of circadian rhythm, yet it remains unknown whether CRH expression and m 6 A modification oscillate with the clock genes in chicken hypothalamus and how the circadian rhythms change under chronic stress. Results Chronic exposure to corticosterone (CORT) eliminated the diurnal patterns of plasma CORT and melatonin levels in the chicken. The circadian rhythms of clock genes in hippocampus, hypothalamus and pituitary are all disturbed to different extent in CORT-treated chickens. The most striking changes occur in hypothalamus in which the diurnal fluctuation of CRH mRNA is flattened, together with mRNA of other feeding-related neuropeptides. Interestingly, hypothalamic m 6 A level oscillates in an opposite pattern to CRH mRNA , with lowest m 6 A level after midnight (ZT18) corresponding to the peak of CRH mRNA before dawn (ZT22). CORT diminished the circadian rhythm of m 6 A methylation with significantly increased level at night. Further site-specific m 6 A analysis on 3’UTR of CRH mRNA indicates that higher m 6 A on 3’UTR of CRH mRNA coincides with lower CRH mRNA at night (ZT18 and ZT22). Conclusions Our results indicate that chronic stress disrupts the circadian rhythms of CRH expression in hypothalamus, leading to dysfunction of HPA axis in the chicken. RNA m 6 A modification is involved in the regulation of circadian rhythms in chicken hypothalamus under both basal and chronic stress conditions. Graphical Abstract",
+      "url": "https://doi.org/10.1186/s40104-022-00677-4",
+      "pdf_url": "https://jasbsci.biomedcentral.com/track/pdf/10.1186/s40104-022-00677-4",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yang_2022_chronic_corticosterone_disrupts_the_circadian_rhythm_of_crh.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "W4221068514",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Detection of m6A from direct RNA sequencing using a multiple instance learning framework",
+      "authors": "Christopher Hendra; Ploy N. Pratanwanich; Yuk Kei Wan; W.S. Sho Goh; Alexandre H. Thiéry; Jonathan Göke",
+      "year": 2022,
+      "doi": "10.1038/s41592-022-01666-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "RNA modifications such as m6A methylation form an additional layer of complexity in the transcriptome. Nanopore direct RNA sequencing can capture this information in the raw current signal for each RNA molecule, enabling the detection of RNA modifications using supervised machine learning. However, experimental approaches provide only site-level training data, whereas the modification status for each single RNA molecule is missing. Here we present m6Anet, a neural-network-based method that leverages the multiple instance learning framework to specifically handle missing read-level modification labels in site-level training data. m6Anet outperforms existing computational methods, shows similar accuracy as experimental approaches, and generalizes with high accuracy to different cell lines and species without retraining model parameters. In addition, we demonstrate that m6Anet captures the underlying read-level stoichiometry, which can be used to approximate differences in modification rates. Overall, m6Anet offers a tool to capture the transcriptome-wide identification and quantification of m6A from a single run of direct RNA sequencing.",
+      "url": "https://doi.org/10.1038/s41592-022-01666-1",
+      "pdf_url": "https://www.nature.com/articles/s41592-022-01666-1.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\christopher_2022_detection_of_m6a_from_direct_rna_sequencing_using.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "W4308772822",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exon-intron architecture determines mRNA stability by dictating m6A deposition",
+      "authors": "Anna Uzonyi; Boris Slobodin; Schraga Schwartz",
+      "year": 2022,
+      "doi": "10.1101/2022.06.29.498130",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  N6-methyladenosine (m6A), a widespread destabilizing mark on mRNA, is non-uniformly distributed across the transcriptome, yet the basis for its selective deposition is unknown. Here, we uncover that m6A deposition is not selective. Instead, m6A distribution is exclusion-based: m6A-consensus harboring sites are methylated by default,\n                  <jats:italic>unless</jats:italic>\n                  they are within a window of up to ∼200 nt from an exon-intron junction. A simple model, relying exclusively on presence of m6A motifs and exon-intron architecture allows high accuracy recapitulation of experimentally-measured m6A profiles and of all m6A hallmarks. We further establish that m6A serves as the long-sought mechanism underlying the strong association between exon-intron architecture and mRNA stability. Our findings establish a mechanism by which the memory of nuclear RNA splicing is covalently etched on an mRNA, in the form of m6A, and determines its cytoplasmic stability, with broad implications on the regulation, function, and evolution of both m6A and mRNA stability.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/2022.06.29.498130",
+      "pdf_url": "https://doi.org/10.1101/2022.06.29.498130",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "10.1101/2022.06.29.498130",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A neural m6A/Ythdf pathway is required for learning and memory in Drosophila",
+      "authors": "Lijuan Kan; Stanislav Ott; Brian Joseph; Eun Sil Park; Wei Dai; Ralph E. Kleiner; Adam Claridge‐Chang; Eric C. Lai",
+      "year": 2021,
+      "doi": "10.1038/s41467-021-21537-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Epitranscriptomic modifications can impact behavior. Here, we used Drosophila melanogaster to study N 6 -methyladenosine (m 6 A), the most abundant modification of mRNA. Proteomic and functional analyses confirm its nuclear (Ythdc1) and cytoplasmic (Ythdf) YTH domain proteins as major m 6 A binders. Assays of short term memory in m 6 A mutants reveal neural-autonomous requirements of m 6 A writers working via Ythdf, but not Ythdc1. Furthermore, m 6 A/Ythdf operate specifically via the mushroom body, the center for associative learning. We map m 6 A from wild-type and Mettl3 mutant heads, allowing robust discrimination of Mettl3-dependent m 6 A sites that are highly enriched in 5’ UTRs. Genomic analyses indicate that Drosophila m 6 A is preferentially deposited on genes with low translational efficiency and that m 6 A does not affect RNA stability. Nevertheless, functional tests indicate a role for m 6 A/Ythdf in translational activation. Altogether, our molecular genetic analyses and tissue-specific m 6 A maps reveal selective behavioral and regulatory defects for the Drosophila Mettl3/Ythdf pathway.",
+      "url": "https://doi.org/10.1038/s41467-021-21537-1",
+      "pdf_url": "https://www.nature.com/articles/s41467-021-21537-1.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\lijuan_2021_a_neural_m6a_ythdf_pathway_is_required_for.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA",
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "W3134861028",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Histone lactylation drives oncogenesis by facilitating m6A reader protein YTHDF2 expression in ocular melanoma",
+      "authors": "Jie Yu; Peiwei Chai; Minyue Xie; Shengfang Ge; Jing Ruan; Xianqun Fan; Renbing Jia",
+      "year": 2021,
+      "doi": "10.1186/s13059-021-02308-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: Histone lactylation, a metabolic stress-related histone modification, plays an important role in the regulation of gene expression during M1 macrophage polarization. However, the role of histone lactylation in tumorigenesis remains unclear. RESULTS: Here, we show histone lactylation is elevated in tumors and is associated with poor prognosis of ocular melanoma. Target correction of aberrant histone lactylation triggers therapeutic efficacy both in vitro and in vivo. Mechanistically, histone lactylation contributes to tumorigenesis by facilitating YTHDF2 expression. Moreover, YTHDF2 recognizes the m6A modified PER1 and TP53 mRNAs and promotes their degradation, which accelerates tumorigenesis of ocular melanoma. CONCLUSION: We reveal the oncogenic role of histone lactylation, thereby providing novel therapeutic targets for ocular melanoma therapy. We also bridge histone modifications with RNA modifications, which provides novel understanding of epigenetic regulation in tumorigenesis.",
+      "url": "https://doi.org/10.1186/s13059-021-02308-z",
+      "pdf_url": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02308-z",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\jie_2021_histone_lactylation_drives_oncogenesis_by_facilitating_m6a_reader.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "W3139050257",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL3-dependent m6A modification programs T follicular helper cell differentiation",
+      "authors": "Yingpeng Yao; Ying Yang; Wenhui Guo; Lifan Xu; Menghao You; Yi-Chang Zhang; Zhen Sun; Xiao Cui; Guotao Yu; Zhihong Qi; Jingjing Liu; Fang Wang; Juanjuan Liu; Tianyan Zhao; Lilin Ye; Yun‐Gui Yang; Shuyang Yu; Yun‐Gui Yang; Shuyang Yu",
+      "year": 2021,
+      "doi": "10.1038/s41467-021-21594-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract T follicular helper (T FH ) cells are specialized effector CD4 + T cells critical to humoral immunity. Whether post-transcriptional regulation has a function in T FH cells is unknown. Here, we show conditional deletion of METTL3 (a methyltransferase catalyzing mRNA N 6 -methyladenosine (m 6 A) modification) in CD4 + T cells impairs T FH differentiation and germinal center responses in a cell-intrinsic manner in mice. METTL3 is necessary for expression of important T FH signature genes, including Tcf7 , Bcl6 , Icos and Cxcr5 and these effects depend on intact methyltransferase activity. m 6 A-miCLIP-seq shows the 3′ UTR of Tcf7 mRNA is subjected to METTL3-dependent m 6 A modification. Loss of METTL3 or mutation of the Tcf7 3′ UTR m 6 A site results in accelerated decay of Tcf7 transcripts. Importantly, ectopic expression of TCF-1 (encoded by Tcf7 ) rectifies T FH defects owing to METTL3 deficiency. Our findings indicate that METTL3 stabilizes Tcf7 transcripts via m 6 A modification to ensure activation of a T FH transcriptional program, indicating a pivotal function of post-transcriptional regulation in promoting T FH cell differentiation.",
+      "url": "https://doi.org/10.1038/s41467-021-21594-6",
+      "pdf_url": "https://www.nature.com/articles/s41467-021-21594-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yingpeng_2021_mettl3_dependent_m6a_modification_programs_t_follicular_helper.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "W3132517846",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Relative Quantification of Residue-Specific m6A RNA Methylation Using m6A-RT-QPCR",
+      "authors": "Ane Olazagoitia-Garmendia; Ainara Castellanos-Rubio",
+      "year": 2021,
+      "doi": "10.1007/978-1-0716-1374-0_12",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-0716-1374-0_12",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "10.1007/978-1-0716-1374-0_12",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of Hakai in m6A modification pathway in Drosophila",
+      "authors": "Yanhua Wang; Li‐Feng Zhang; Hang Ren; Lijuan Ma; Jian Guo; Decai Mao; Zhongwen Lü; Lijun Lu; Dong Yan",
+      "year": 2021,
+      "doi": "10.1038/s41467-021-22424-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract N6-methyladenosine (m 6 A), the most abundant internal modification in eukaryotic mRNA, is installed by a multi-component writer complex; however, the exact roles of each component remain poorly understood. Here we show that a potential E3 ubiquitin ligase Hakai colocalizes and interacts with other m 6 A writer components, and Hakai mutants exhibit typical m 6 A pathway defects in Drosophila , such as lowered m 6 A levels in mRNA, aberrant Sxl alternative splicing, wing and behavior defects. Hakai, Vir, Fl(2)d and Flacc form a stable complex, and disruption of either Hakai, Vir or Fl(2)d led to the degradation of the other three components. Furthermore, MeRIP-seq indicates that the effective m 6 A modification is mostly distributed in 5’ UTRs in Drosophila , in contrast to the mammalian system. Interestingly, we demonstrate that m 6 A modification is deposited onto the Sxl mRNA in a sex-specific fashion, which depends on the m 6 A writer. Together, our work not only advances the understanding of mechanism and regulation of the m 6 A writer complex, but also provides insights into how Sxl cooperate with the m 6 A pathway to control its own splicing.",
+      "url": "https://doi.org/10.1038/s41467-021-22424-5",
+      "pdf_url": "https://www.nature.com/articles/s41467-021-22424-5.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yanhua_2021_role_of_hakai_in_m6a_modification_pathway_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "W3153355188",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of m6A methyltransferase component VIRMA in multiple human cancers (Review)",
+      "authors": "Wei Zhu; Jingzi Wang; Ji‐Fu Wei; Lu Chen",
+      "year": 2021,
+      "doi": "10.1186/s12935-021-01868-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-Methyladenosine (m6A) modification is one of the most widely distributed RNA modifications in eukaryotes. It participates in various RNA functions and plays vital roles in tissue development, stem cell formation and differentiation, heat shock response control, and circadian clock controlling, particularly during tumor development. The reversible regulation of m6A modification is affected by the so-called 'reader', 'writer' and 'eraser'. As a required component and the largest methyltransferase, vir-like m6A methyltransferase associated (VIRMA) can promote the progression of cancer and is associated with poor survival in multiple types of cancer. The present review investigated the role of VIRMA in various types of cancer. In an m6A-dependent or -independent manner, VIRMA can play an oncogenic role by regulating cancer cell proliferation, migration and invasion, metastasis, apoptosis resistance and tumor growth in different pathways by targeting stem factors, CCAT1/2, ID2, GATA3, CDK1, c-Jun, etc. VIRMA can also predict better prognosis in kidney renal clear cell carcinoma (KIRC), kidney renal papillary cell carcinoma (KIRP) and papillary thyroid carcinoma by TCGA analysis. The obvious oncogenic roles of VIRMA observed in different types of cancer and the mechanisms of VIRMA promoting cancers provided the basis for potential therapeutic targeting for cancer treatments.",
+      "url": "https://doi.org/10.1186/s12935-021-01868-1",
+      "pdf_url": "https://cancerci.biomedcentral.com/counter/pdf/10.1186/s12935-021-01868-1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\wei_2021_role_of_m6a_methyltransferase_component_virma_in_multiple.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "W3138962944",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The detection and functions of RNA modification m6A based on m6A writers and erasers",
+      "authors": "Wei Zhang; Qian Yang; Guifang Jia",
+      "year": 2021,
+      "doi": "10.1016/j.jbc.2021.100973",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "A editing tools.",
+      "url": "https://doi.org/10.1016/j.jbc.2021.100973",
+      "pdf_url": "http://www.jbc.org/article/S0021925821007754/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "W3213176832",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging",
+      "authors": "Zhongxin Jiang; Yining Wang; Zi-Yuan Li; Zhihui Dai; Yi He; Kun Chu; Jiayi Gu; Yixuan Ji; Ningxia Sun; Fu Yang; Li Wen",
+      "year": 2021,
+      "doi": "10.1038/s41419-021-04016-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Multifunctional N6-methyladenosine (m6A) has been revealed to be an important epigenetic component in various physiological and pathological processes, but its role in female ovarian aging remains unclear. Thus, we demonstrated m6A demethylase FTO downregulation and the ensuing increased m6A in granulosa cells (GCs) of human aged ovaries, while FTO-knockdown GCs showed faster aging-related phenotypes mediated. Using the m6A-RNA-sequence technique (m6A-seq), increased m6A was found in the FOS-mRNA-3'UTR, which is suggested to be an erasing target of FTO that slows the degradation of FOS-mRNA to upregulate FOS expression in GCs, eventually resulting in GC-mediated ovarian aging. FTO acts as a senescence-retarding protein via m6A, and FOS knockdown significantly alleviates the aging of FTO-knockdown GCs. Altogether, the abovementioned results indicate that FTO in GCs retards FOS-dependent ovarian aging, which is a potential diagnostic and therapeutic target against ovarian aging and age-related reproductive diseases.",
+      "url": "https://doi.org/10.1038/s41419-021-04016-9",
+      "pdf_url": "https://www.nature.com/articles/s41419-021-04016-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "W3184485367",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "An oncopeptide regulates m6A recognition by the m6A reader IGF2BP1 and tumorigenesis",
+      "authors": "Song Zhu; Jizhong Wang; De Chen; Yutian He; Nan Meng; Min Chen; Ruixun Lu; Xinhui Chen; Xiaolan Zhang; Guang‐Rong Yan",
+      "year": 2020,
+      "doi": "10.1038/s41467-020-15403-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract N 6 -methyladenosine (m 6 A) is the most prevalent modification in eukaryotic RNAs. The biological importance of m 6 A relies on m 6 A readers, which control mRNA fate and function. However, it remains unexplored whether additional regulatory subunits of m 6 A readers are involved in the m 6 A recognition on RNAs. Here we discover that the long noncoding RNA (lncRNA) LINC00266-1 encodes a 71-amino acid peptide. The peptide mainly interacts with the RNA-binding proteins, including the m 6 A reader IGF2BP1, and is thus named “RNA-binding regulatory peptide” (RBRP). RBRP binds to IGF2BP1 and strengthens m 6 A recognition by IGF2BP1 on RNAs, such as c-Myc mRNA, to increase the mRNA stability and expression of c-Myc , thereby promoting tumorigenesis. Cancer patients with RBRP high have a poor prognosis. Thus, the oncopeptide RBRP encoded by LINC00266-1 is a regulatory subunit of m 6 A readers and strengthens m 6 A recognition on the target RNAs by the m 6 A reader to exert its oncogenic functions.",
+      "url": "https://doi.org/10.1038/s41467-020-15403-9",
+      "pdf_url": "https://www.nature.com/articles/s41467-020-15403-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\song_2020_an_oncopeptide_regulates_m6a_recognition_by_the_m6a.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "W3014772704",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Limits in the detection of m6A changes using MeRIP/m6A-seq",
+      "authors": "Alexa B. R. McIntyre; Nandan S. Gokhale; Leandro Cerchietti; Samie R. Jaffrey; Stacy M. Horner; Christopher E. Mason",
+      "year": 2020,
+      "doi": "10.1038/s41598-020-63355-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Many cellular mRNAs contain the modified base m 6 A, and recent studies have suggested that various stimuli can lead to changes in m 6 A. The most common method to map m 6 A and to predict changes in m 6 A between conditions is methylated RNA immunoprecipitation sequencing (MeRIP-seq), through which methylated regions are detected as peaks in transcript coverage from immunoprecipitated RNA relative to input RNA. Here, we generated replicate controls and reanalyzed published MeRIP-seq data to estimate reproducibility across experiments. We found that m 6 A peak overlap in mRNAs varies from ~30 to 60% between studies, even in the same cell type. We then assessed statistical methods to detect changes in m 6 A peaks as distinct from changes in gene expression. However, from these published data sets, we detected few changes under most conditions and were unable to detect consistent changes across studies of similar stimuli. Overall, our work identifies limits to MeRIP-seq reproducibility in the detection both of peaks and of peak changes and proposes improved approaches for analysis of peak changes.",
+      "url": "https://doi.org/10.1038/s41598-020-63355-3",
+      "pdf_url": "https://www.nature.com/articles/s41598-020-63355-3.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\alexa_2020_limits_in_the_detection_of_m6a_changes_using.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "W3016950990",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The emerging roles of N6-methyladenosine (m6A) deregulation in liver carcinogenesis",
+      "authors": "Mengnuo Chen; Chun‐Ming Wong",
+      "year": 2020,
+      "doi": "10.1186/s12943-020-01172-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Liver cancer is a common cancer worldwide. Although the etiological factors of liver carcinogenesis are well defined, the underlying molecular mechanisms remain largely elusive. Epigenetic deregulations, such as aberrant DNA methylation and histone modifications, play a critical role in liver carcinogenesis. Analogous to DNA and core histone proteins, reversible chemical modifications on mRNA have recently been recognized as important regulatory mechanisms to control gene expression. N6-methyladenosine (m6A) is the most prevalent internal mRNA modification in mammalian cells. m6A modification is important for controlling many cellular and biological processes. Deregulation of m6A modification has been recently implicated in human carcinogenesis, including liver cancer. In this review, we summarize the recent findings on m6A regulation and its biological impacts in normal and cancer cells. We will focus on the deregulation of m6A modification and m6A regulators in liver diseases and liver cancers. We will highlight the clinical relevance of m6A deregulation in liver cancer. We will also discuss the potential of exploiting m6A modification for cancer diagnosis and therapeutics.",
+      "url": "https://doi.org/10.1186/s12943-020-01172-y",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01172-y",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\mengnuo_2020_the_emerging_roles_of_n6_methyladenosine_m6a_deregulation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "W3009703063",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Writers, readers and erasers of RNA modifications in cancer",
+      "authors": "Rosaura Esteve‐Puig; Alberto Bueno-Costa; Manel Esteller",
+      "year": 2020,
+      "doi": "10.1016/j.canlet.2020.01.021",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Although cancer was originally considered a disease driven only by genetic mutations, it has now been proven that it is also an epigenetic disease driven by DNA hypermethylation-associated silencing of tumor suppressor genes and aberrant histone modifications. Very recently, a third component has emerged: the so-called epitranscriptome understood as the chemical modifications of RNA that regulate and alter the activity of RNA molecules. In this regard, the study of genetic and epigenetic disruption of the RNA-modifying proteins is gaining momentum in advancing our understanding of cancer biology. Furthermore, the development of epitranscriptomic anticancer drugs could lead to new promising and unexpected therapeutic strategies for oncology in the coming years.",
+      "url": "https://doi.org/10.1016/j.canlet.2020.01.021",
+      "pdf_url": "https://doi.org/10.1016/j.canlet.2020.01.021",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "W3002531371",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A-dependent biogenesis of circular RNAs in male germ cells",
+      "authors": "Chong Tang; Yeming Xie; Tian Yu; Na Liu; Zhuqing Wang; Rebekah Woolsey; Yunge Tang; Xinzong Zhang; Weibing Qin; Ying Zhang; Ge Song; Weiwei Zheng; Juan Wang; Weitian Chen; Xiongyi Wei; Zhe Xie; Rachel Klukovich; Huili Zheng; David R. Quilici; Wei Yan",
+      "year": 2020,
+      "doi": "10.1038/s41422-020-0279-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41422-020-0279-8",
+      "pdf_url": "https://www.nature.com/articles/s41422-020-0279-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "W3006479394",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A in mRNA coding regions promotes translation via the RNA helicase-containing YTHDC2",
+      "authors": "Yuanhui Mao; L. Dong; Xiaomin Liu; Jiayin Guo; Honghui Ma; Bin Shen; Shu‐Bing Qian",
+      "year": 2019,
+      "doi": "10.1038/s41467-019-13317-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Dynamic mRNA modification in the form of N 6 -methyladenosine (m 6 A) adds considerable richness and sophistication to gene regulation. The m 6 A mark is asymmetrically distributed along mature mRNAs, with approximately 35% of m 6 A residues located within the coding region (CDS). It has been suggested that methylation in CDS slows down translation elongation. However, neither the decoding feature of endogenous mRNAs nor the physiological significance of CDS m 6 A has been clearly defined. Here, we found that CDS m 6 A leads to ribosome pausing in a codon-specific manner. Unexpectedly, removing CDS m 6 A from these transcripts results in a further decrease of translation. A systemic analysis of RNA structural datasets revealed that CDS m 6 A positively regulates translation by resolving mRNA secondary structures. We further demonstrate that the elongation-promoting effect of CDS methylation requires the RNA helicase-containing m 6 A reader YTHDC2. Our findings established the physiological significance of CDS methylation and uncovered non-overlapping function of m 6 A reader proteins.",
+      "url": "https://doi.org/10.1038/s41467-019-13317-9",
+      "pdf_url": "https://www.nature.com/articles/s41467-019-13317-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\\yuanhui_2019_m6a_in_mrna_coding_regions_promotes_translation_via.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "W2990551615",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "An Elongation- and Ligation-Based qPCR Amplification Method for the Radiolabeling-Free Detection of Locus-Specific N6 -Methyladenosine Modification.",
+      "authors": "Yu Xiao; Ye Wang; Qian Tang; Lian-Huan Wei; Xiao Zhang; G. Jia",
+      "year": 2018,
+      "doi": "10.1002/anie.201807942",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The epitranscriptomic mark N6 -methyladenosine (m6 A) is the most abundant RNA modification in eukaryotic mRNA, but various limitations in currently available m6 A detection methods have precluded routine identification of m6 A marks at the single-site level in mRNA transcripts. Herein, we report a single-base elongation- and ligation-based qPCR amplification method (termed \"SELECT\") that exploits the ability of m6 A to hinder 1) the single-base elongation activity of DNA polymerases and 2) the nick ligation efficiency of ligases; SELECT employs qPCR for quantitation. Following optimization and validation, SELECT was applied on three highly relevant proof-of-concept cases: determining 1) if a putative m6 A site is m6 A-modified in mRNAs and lncRNAs from biological samples, 2) the m6 A fraction at biological sites, and 3) if a particular m6 A modification enzyme functions on a specific target site. In summary, the rapid and flexible SELECT method facilitates the identification and verification of m6 A marks with unprecedented ease.",
+      "url": "https://www.semanticscholar.org/paper/1a32366b1539c48fcf06aeebdb9c9c77b55a15f7",
+      "pdf_url": "https://doi.org/10.1002/anie.201807942",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "1a32366b1539c48fcf06aeebdb9c9c77b55a15f7",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mapping m6A at Individual-Nucleotide Resolution Using Crosslinking and Immunoprecipitation (miCLIP)",
+      "authors": "Anya V. Grozhik; Bastian Linder; Anthony O. Olarerin-George; Samie R. Jaffrey",
+      "year": 2017,
+      "doi": "10.1007/978-1-4939-6807-7_5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-4939-6807-7_5",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5562447",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "10.1007/978-1-4939-6807-7_5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Half-life in the fos lane: mechanisms underlying rapid decay of c-fos proto-oncogene transcript",
+      "authors": "A.-B. Shyu; C.-Y.A. Chen; T.-C. Chang; S. Durdan",
+      "year": 2002,
+      "doi": "10.1042/bst030a116c",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1042/bst030a116c",
+      "pdf_url": "https://portlandpress.com/biochemsoctrans/article-pdf/30/5/A116/627572/bst030a116c.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay"
+      ],
+      "paper_id": "10.1042/bst030a116c",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Biological Sciences: Stability of HeLa Cell mRNA in Actinomycin",
+      "authors": "R. H. SINGER; S. PENMAN",
+      "year": 1972,
+      "doi": "10.1038/240100a0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/240100a0",
+      "pdf_url": "https://www.nature.com/articles/240100a0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "10.1038/240100a0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Antibody-Free and Highly Sensitive Detection of Site-Specific m6A Modification via Terminal-Mediated m6A PCR",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.analchem.6c01426.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.analchem.6c01426.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.analchem.6c01426/suppl_file/ac6c01426_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "10.1021/acs.analchem.6c01426.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 1: 3′-UTR binding site of\n                      <i>hsp90b2</i>\n                      mRNA and ssa-miR-301a-3p.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.13476/fig-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.13476/fig-1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "10.7717/peerj.13476/fig-1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3—figure supplement 3. qPCR validation of 3’UTR isoform abundance differences between P0 and P21 granule cells.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.34042.011",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.34042.011",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "MeRIP-qPCR site-specific m6A quantification 3'UTR FOS mRNA"
+      ],
+      "paper_id": "10.7554/elife.34042.011",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Full-Range Profiling of tRNA Modifications Using LCMS/MS at Single-Base Resolution through a Site-Specific Cleavage Strategy",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.analchem.0c03307.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.analchem.0c03307.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.analchem.0c03307/suppl_file/ac0c03307_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "10.1021/acs.analchem.0c03307.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Multiplexed In Situ Imaging of Site-Specific m6A Methylation with Proximity Hybridization Followed by Primer Exchange Amplification (m6A-PHPEA)",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsnano.4c08407.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsnano.4c08407.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acsnano.4c08407/suppl_file/nn4c08407_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection",
+        "site-specific m6A quantification method comparison MeRIP SELECT miCLIP"
+      ],
+      "paper_id": "10.1021/acsnano.4c08407.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Table 2: The adjustment of mRNA stability\n                      <i>via</i>\n                      m6A modification and related m6A regulators.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.16023/table-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.16023/table-2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A modification FOS transcript stability decay",
+        "miCLIP m6A mapping mRNA stability actinomycin D"
+      ],
+      "paper_id": "10.7717/peerj.16023/table-2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeted Manipulation of Cellular RNA m6A Methylation at the Single-Base Level",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acschembio.1c00895.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acschembio.1c00895.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acschembio.1c00895/suppl_file/cb1c00895_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SELECT method single-base elongation site-specific m6A detection"
+      ],
+      "paper_id": "10.1021/acschembio.1c00895.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

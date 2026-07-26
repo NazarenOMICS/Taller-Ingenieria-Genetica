@@ -1,0 +1,2245 @@
+{
+  "slug": "q14-dcas9p300-vs-otros-activadores",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "A pre-integrated dCas9-VPR CRISPRa platform for high-level recombinant protein production in CHO cells",
+      "authors": "Yuan Tian; Ya-Nan Zhou; Wan-Shun Hu; Jiao Xu; Qian Ye; Wen-Song Tan",
+      "year": 2026,
+      "doi": "10.1016/j.bej.2026.110223",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bej.2026.110223",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "10.1016/j.bej.2026.110223",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Activation of endogenous retroviruses in tumor cells and their immunomodulatory mechanisms: from molecular basis to clinical translation.",
+      "authors": "Zhang J; Zhang Y; Peng X",
+      "year": 2026,
+      "doi": "10.3389/fonc.2026.1752231",
+      "pmid": "41948490",
+      "pmcid": "PMC13050724",
+      "abstract": "Endogenous retroviruses (ERVs), regarded as \"molecular fossils\" embedded within the human genome, have been shown to exhibit increasingly intimate associations with tumor initiation, progression, and immune evasion through aberrant activation events. This review aims to systematically dissect the molecular mechanisms underlying ERV reactivation in the tumor microenvironment (TME), which are mediated by epigenetic reprogramming, transcription factor network dysregulation, and genomic instability, while highlighting their dual role in immune modulation. On one hand, ERVs activate innate and adaptive antitumor immunity via \"viral mimicry\" responses; on the other hand, they can induce the expression of immune checkpoint molecules and foster an immunosuppressive TME, thereby facilitating tumor immune evasion. Leveraging recent advancements in single-cell multi-omics and spatial transcriptomics technologies, this review delineates the dynamic expression patterns of ERVs in tumor heterogeneity and integrates extensive preclinical and clinical trial data to illustrate the translational potential of ERV-targeted strategies in tumor diagnosis, prognostic assessment, and immunotherapy. Finally, this review proposes addressing current research bottlenecks by harnessing spatiotemporally precise gene-editing technologies and AI-driven ERV activity prediction models, thus offering a novel paradigm for the development of next-generation tumor immunotherapies.",
+      "url": "https://europepmc.org/articles/PMC13050724",
+      "pdf_url": "https://europepmc.org/articles/PMC13050724?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/73/d0/PMC13050724.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "PMID:41948490",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cis-regulatory architecture downstream of FLOWERING LOCUS T underlies quantitative control of flowering in Arabidopsis thaliana.",
+      "authors": "Zhou HR; Doan DTH; Hartwig T; Turck F",
+      "year": 2026,
+      "doi": "10.1186/s13059-026-04064-4",
+      "pmid": "41937163",
+      "pmcid": "PMC13067676",
+      "abstract": "<h4>Background</h4>The FLOWERING LOCUS T (FT) gene is a central integrator of floral induction in Arabidopsis thaliana, with its precise expression controlled by complex transcriptional networks. While upstream regulatory regions are well-studied, the role of downstream cis-regulatory elements in modulating FT expression remains poorly characterized.<h4>Results</h4>Systematic dissection of the FT downstream region in its native chromosomal context using CRISPR/Cas9-mediated genome editing provides genetic evidence that a 2.3-kb sequence, encompassing the Block E enhancer immediately adjacent to the FT coding sequence, is essential for proper FT expression and timely flowering. Fine-scale deletions within Block E reveal that a 63-bp sequence containing one CCAAT-box and one G-box, both closely spaced, forms a core functional module, whereas other conserved motifs contribute modestly in a context-dependent manner. Strikingly, a cryptic CCAAT-box module downstream of Block E that becomes active when repositioned. This coincides with increased transcription factor occupancy and local chromatin accessibility.<h4>Conclusions</h4>Our work reveals that quantitative FT expression and flowering time are governed by the spatial organization and chromatin context of downstream cis-regulatory elements. The positional sensitivity and modular logic of these elements provide framework for understanding and engineering quantitative gene regulation through targeted cis-regulatory design, a concept broadly applicable across diverse developmental systems.",
+      "url": "https://europepmc.org/articles/PMC13067676",
+      "pdf_url": "https://europepmc.org/articles/PMC13067676?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/02/42/PMC13067676.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "PMID:41937163",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Editing &lt;i&gt;Candida&lt;/i&gt;: Origins and Advances of CRISPR Tools.",
+      "authors": "Schulze A; Kainz K; Bauer MA; Carmona-Gutierrez D",
+      "year": 2026,
+      "doi": "10.3390/biom16020245",
+      "pmid": "41750315",
+      "pmcid": "PMC12938656",
+      "abstract": "Pathogens causing candidiasis encompass a diverse group of ascomycetous yeasts that have become essential models for studying fungal adaptability, pathogenicity, and host-pathogen interactions. Although many candidiasis-promoting species exist as commensals within host microbiota, several have acquired virulence traits that enable opportunistic infections, positioning them as a leading cause of invasive fungal disease in humans. Deciphering the molecular and genetic determinants that underpin the biology of organisms responsible for candidiasis has long been a central objective in medical and molecular mycology. However, research progress has been constrained by intrinsic biological challenges, including noncanonical codon usage and the absence of a complete sexual cycle in diploid species, which have complicated traditional genetic manipulation. CRISPR-Cas9 genome editing has overcome many of these limitations, providing a precise, efficient, and versatile framework for targeted genomic modification. This system has facilitated functional genomic studies ranging from single-gene deletions to high-throughput mutagenesis, yielding new insights into the mechanisms governing virulence, antifungal resistance, and stress adaptation. Since its initial application in <i>Candida albicans</i>, CRISPR-Cas9 technology has been refined and adapted for other clinically and industrially relevant species, including <i>Nakaseomyces glabratus</i> (formerly referred to as <i>Candida glabrata</i>), <i>Candida parapsilosis</i>, and <i>Candida auris</i>. The present work provides an overview of the evolution of genetic approaches employed in research directed against candidiasis-associated species, with a particular focus on the development and optimization of CRISPR-based systems. It highlights how recent advancements have improved the genetic tractability of these pathogens and outlines emerging opportunities for both fundamental and applied studies in fungal biology.",
+      "url": "https://europepmc.org/articles/PMC12938656",
+      "pdf_url": "https://europepmc.org/articles/PMC12938656?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/df/PMC12938656.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "PMID:41750315",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Editing of SlMYB60 Reveals a Role in Cuticle Formation in Tomato.",
+      "authors": "Colanero S; Landoni B; Castorina G; Gervasoni D; Rigano MM; Francesca S; Cuccurullo A; Nicolia A; Sutti A; Baldoni E; Pirona R; Martignago D; Conti L; Galbiati M",
+      "year": 2026,
+      "doi": "10.1111/ppl.70922",
+      "pmid": "42108105",
+      "pmcid": "PMC13158055",
+      "abstract": "Under climate change, yield stability depends heavily on the ability to develop resilient crops, better adapted to water scarcity. Studies in model systems have uncovered molecular pathways and genes that potentiate the plant response to environmental stress. CRISPR-based editing technologies enable the precise and rapid transfer of beneficial traits from model species to crops. Previous work identified Solanum lycopersicon MYB60 (SlMYB60) as the functional ortholog of the Arabidopsis guard cell-related AtMYB60 transcription factor. Loss of AtMYB60 function results in reduced stomatal opening and enhanced stress resistance, providing a valuable target for crop improvement. Here, we report the CRISPR-mediated exploitation of SlMYB60 in two tomato commercial varieties. Unexpectedly, editing of SlMYB60 did not result in reduced stomatal opening and enhanced stress resistance. Independent edited lines showed increased stomatal size, enhanced leaf water loss, and cuticle permeability. RNAseq analyses revealed that the expression of genes involved in cell wall and cuticle metabolism was altered in the edited lines. Scanning electron microscope analysis of leaf epidermis revealed defects in cuticle deposition and in the formation of outer cuticle ledges. As opposed to the guard cell-specific activity of the AtMYB60 promoter, we found that the SlMYB60 promoter was active in both stomata and epidermal cells. Our findings indicate functional divergence between AtMYB60 and SlMYB60, providing valuable insights into species-specific regulatory mechanisms and emphasizing the complexities of translating gene-editing strategies across plant systems.",
+      "url": "https://europepmc.org/articles/PMC13158055",
+      "pdf_url": "https://europepmc.org/articles/PMC13158055?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/16/11/PMC13158055.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "PMID:42108105",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Enhancer-based gene therapy: a new path for precision medicine.",
+      "authors": "Marei HE",
+      "year": 2026,
+      "doi": "10.1186/s41065-026-00655-0",
+      "pmid": "41862973",
+      "pmcid": "PMC13063671",
+      "abstract": "Enhancers are critical cis-regulatory elements that regulate gene expression in a context-dependent manner by integrating transcription factor binding, chromatin state, and the three-dimensional organization of the genome. Recent advances in functional genomics and synthetic biology have increased interest in harnessing enhancer activity to regulate the expression of therapeutic genes. Unlike traditional approaches that rely on promoter-driven gene regulation, enhancer-based approaches can bias transgene expression toward specific cellular states or disease contexts; however, this control remains probabilistic and highly dependent on the chromatin environment. This review summarizes current knowledge of enhancer biology, discusses new strategies for utilizing enhancer function directly, and examines the potential benefits and drawbacks of using enhancer-based strategies for gene therapy applications. Often delivered using adeno-associated virus (AAV) vectors with tailored capsids, enhancers in gene therapy can be included into expression cassettes. Astrocyte- or microglia-specific enhancers in the brain enable enriched or preferential distribution of neuroprotective or immunomodulatory genes, hence lowering unintentional expression in non-target cell types. It is important to control gene expression for specific cell types for the treatment of neurodegenerative conditions such as Alzheimer’s or Parkinson’s disease, were unintentional gene expression results in negative consequences. However, the uses of enhancer-guided gene therapy go beyond the central nervous system. In cancer, therapeutic constructs are designed to inhibit oncogenic expression or induce tumor suppression pathways, using enhancers in either malignant or immune cells as a target. Similarly, through the use of tissue-specific enhancers in cardiovascular and regenerative medicine, lineage-enriched genes can be used to promote repair of damaged tissues and enhance functional recovery. Enhancer-based systems that modulate the levels of gene expression (enhancer systems that adjust gene expression to levels that are physiologically appropriate for a given cell type) may also be useful in diseases caused by imbalances of gene dosage (e.g., haploinsufficiency and copy number variations). However, despite the potential promise of enhancer-driven gene therapy, many technical and translational hurdles remain. Mapping and validating the function of cell-type-specific enhancers is hampered by the dynamic, context-dependent regulation of chromatin. The identification of enhancers across a variety of developmental stages and clinical states is being accelerated through the combination of recent advances in single-cell epigenomic techniques (e.g., ATAC-seq, ChIP-seq, and multi-omic integration). Recent advances in non-viral delivery methods and AAV capsid engineering are improving the safety, efficacy, and scalability of enhancer-driven gene therapies. However, there must be careful regulatory oversight to avoid unintentional activation of enhancers and ensure continuing efficacy of enhancer-guided therapies. This paper provides an overview of the conceptual basis of enhancer-driven gene therapies, the currently available applications, and barriers to their clinical application. We show how the combination of delivery technology, synthetic biology, and genomics is enabling new possibilities for tailored gene therapy particular to cell- and disease-specific. Enhancer-driven gene therapy could become an important component of next-generation precision medicine by addressing current challenges and using creative technology.",
+      "url": "https://europepmc.org/articles/PMC13063671",
+      "pdf_url": "https://europepmc.org/articles/PMC13063671?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9f/1b/PMC13063671.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "PMID:41862973",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Genome editing across Dictyostelia species enables comparative functional genetics of social amoebas.",
+      "authors": "Oishi S; Doi S; Sekida T; Yamashita K; Yamada Y; Muramoto T",
+      "year": 2026,
+      "doi": "10.1038/s41598-026-38605-5",
+      "pmid": "41644992",
+      "pmcid": "PMC12929561",
+      "abstract": "Gene manipulation is essential for understanding biological mechanisms, yet genetic modification in the social amoebas (Dictyostelia) has been largely limited to Dictyostelium discoideum. Here, we aimed to establish a CRISPR/Cas9-based genome-editing system applicable across the phylogenetic breadth of Dictyostelia, spanning Groups 1-4. Using an extrachromosomal CRISPR/Cas9 vector from D. discoideum, we disrupted stlA and pkaC in Polysphondylium violaceum and pkaC in two early-branching species, Heterostelium pallidum and Cavenderia fasciculata. In D. discoideum, co-introduction of donor oligos with the CRISPR vector enabled selection-free knockout generation of pkaC with 28.6% efficiency. In H. pallidum, where genome editing is typically inefficient, co-electroporation of donor oligos with the CRISPR/Cas9 vector followed by 4 days of drug selection increased the frequency of pkaC disruption from 0.9% to 8.3%. These results demonstrated that the D. discoideum CRISPR/Cas9 system can be extended across Dictyostelia, providing a versatile platform for comparative genetic and evolutionary developmental studies.",
+      "url": "https://europepmc.org/articles/PMC12929561",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/4e/26/41598_2026_Article_38605.PMC12929561.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4e/26/PMC12929561.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "PMID:41644992",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Histone Modifications in Cardiovascular Disease: Mechanisms and Therapeutic Opportunities.",
+      "authors": "Zheng Y; Gao YX; Guo MX; Wang LT; Zheng XW; Liao YH; Li Y; Zhu JP; Wei JM",
+      "year": 2026,
+      "doi": "10.1002/mco2.70765",
+      "pmid": "42137184",
+      "pmcid": "PMC13168874",
+      "abstract": "Cardiovascular diseases remain the leading cause of death worldwide. Maladaptive transcriptional programs drive the fibrosis, hypertrophy, and vascular inflammation that characterize these pathologies. Histone posttranslational modifications regulate these programs by remodeling chromatin accessibility and transcriptional output in cardiomyocytes, vascular cells, and immune cells. These modifications include methylation, acetylation, and metabolite-derived acylations. While the enzymatic machinery of classical histone marks is increasingly well defined, the cell-type-specific integration of these regulators into dynamic cardiovascular networks remains incompletely understood. This narrative review summarizes experimental and human studies published up to early 2026. We examine how classical marks such as H3K27me3 and H3K9ac, alongside emerging metabolic sensors like histone lysine lactylation, shape core pathobiological programs, including oxidative stress responses, endothelial dysfunction, and extracellular matrix remodeling, across major cardiovascular syndromes. We further critically evaluate the enzymatic machinery and pharmacological strategies by contrasting broad-spectrum histone deacetylase inhibition with precision approaches, including bromodomain inhibition and locus-selective epigenome editing. Finally, we address translational constraints such as drug delivery and off-target effects. We propose that single-cell resolution and spatial multiomics will be essential to identify compartment-specific targets and advance precision cardiovascular epigenetic therapeutics.",
+      "url": "https://europepmc.org/articles/PMC13168874",
+      "pdf_url": "https://europepmc.org/articles/PMC13168874?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/88/5a/PMC13168874.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "PMID:42137184",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Human pluripotent stem cell engineering with CRISPR-Cas9 for Parkinson's disease.",
+      "authors": "Park SB; Kim JS; Ha Y; Kim MS; Kim TW",
+      "year": 2026,
+      "doi": "10.1038/s12276-026-01679-2",
+      "pmid": "41963468",
+      "pmcid": "PMC13144315",
+      "abstract": "Parkinson's disease (PD) entails loss of substantia nigra dopamine (DA) neurons and α-synuclein pathology. Currently, no effective disease-modifying therapies have been developed. Human pluripotent stem cells (hPS cells) can generate DA neurons on scale, enabling human genetic PD modeling of mitochondrial, lysosomal and synaptic connection failure that leads to DA neuron degeneration. Clustered regularly interspaced short palindromic repeats (CRISPR) extends this human model by providing causal, isogenic interrogation and transcriptional regulation of PD genes and reporter knock-ins that support purification and high-content screening. hPS cell-based DA cell grafts can restore motor function yet face >90% acute cell death and product heterogeneity in vivo post implantation. CRISPR enabled not only an in vivo cell survival screen to identify the cell death regulators but also a reporter-guided enrichment of DA neurons and chemogenetic control of grafted DA cell function in vivo. Here we summarize this progress and outline a practical road map to accelerate the development of precise human models and advanced hPS cell-based cell therapies for PD.",
+      "url": "https://europepmc.org/articles/PMC13144315",
+      "pdf_url": "https://europepmc.org/articles/PMC13144315?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9e/f0/PMC13144315.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "PMID:41963468",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Next generation technologies for CRISPR-based epigenome and transcriptional modulation.",
+      "authors": "Pattali RK; Divekar NS; Nuñez JK",
+      "year": 2026,
+      "doi": "10.1016/j.cobme.2026.100654",
+      "pmid": "42266835",
+      "pmcid": "PMC13246158",
+      "abstract": "Technologies for editing epigenetic modifications and controlling transcription in mammalian cells have revolutionized targeted gene perturbation, functional genomics, and basic research. By avoiding the generation of DNA breaks, epigenome editing serves as a safe and precise approach for altering gene expression and has emerged as a promising platform for therapeutic applications. The advent of CRISPR has contributed significantly to the expansion of the existing toolkit for programmable modulation of epigenetic and transcriptional states. This review highlights recent discoveries in engineering novel tools for epigenome editing and transcriptional modulation through rational design, high throughput screening methods, and mutational scans, which leverage the endogenous reservoir of chromatin and transcriptional effectors for targeted gene repression and activation. We also discuss the therapeutic potential of epigenome modulators and highlight the key challenges that need to be addressed to improve their safety and efficacy. Advancing our understanding of the complex mechanisms driving gene expression and overcoming current limitations will pave the way for the development of novel technologies that advance fundamental research and translational applications.",
+      "url": "https://europepmc.org/articles/PMC13246158",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/e5/cf/nihms-2182105.PMC13246158.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e5/cf/PMC13246158.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "PMID:42266835",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Recruitment of transcriptional effectors by Cas9 creates &lt;i&gt;cis&lt;/i&gt;-regulatory elements and demonstrates distance-dependent transcriptional regulation.",
+      "authors": "Boulos J; Golov AK; Keren N; Erlich I; Shehadeh N; Avidan N; Kariti H; Sadeh O; Haimovich-Caspi L; Helms A; Kaplan N; Kehat I",
+      "year": 2026,
+      "doi": "10.1016/j.isci.2025.114040",
+      "pmid": "41536997",
+      "pmcid": "PMC12796545",
+      "abstract": "Regulation of cardiac gene expression, especially for sarcomeric genes, is crucial for heart function and is often mediated by distal regulatory elements such as enhancers and repressors. Despite their importance, the link between transcription factor recruitment to distant genomic regions and their ability to modulate gene expression remains unclear. Here, we used dead Cas9 to target either viral or endogenous cardiac transcription factor domains to naive genomic sites lacking chromatin accessibility or active regulatory marks. Remarkably, these sites underwent epigenetic remodeling, altering both local and distal promoter chromatin and significantly changing gene expression, even across insulating loci. The degree of transcriptional activation or repression varied non-linearly with the distance between the regulatory site and the gene. These findings broaden the traditional framework of enhancer and repressor function, revealing that virtually any DNA site can become regulatory, and provide fundamental insights into the rules governing gene expression in the heart.",
+      "url": "https://europepmc.org/articles/PMC12796545",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/fc/c9/main.PMC12796545.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fc/c9/PMC12796545.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "PMID:41536997",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Research progress and applications of gene activation editing technology in crops.",
+      "authors": "Lv J; He X; Wu Q; Sun Y; Pu W; Dai C",
+      "year": 2026,
+      "doi": "10.3389/fpls.2026.1787461",
+      "pmid": "41937789",
+      "pmcid": "PMC13047105",
+      "abstract": "In recent years, CRISPR/Cas gene editing technology has become a fundamental method in biological breeding. As a vital tool for overcoming technological obstacles, it is currently widely used in functional gene research and genetic enhancement across a variety of organisms. Currently, CRISPR activation (CRISPRa) technology based on dCas9 fusion transcription activation domains has emerged as a powerful tool for expanding the application of CRISPR/Cas systems in improving traits in plants, animals, and microorganisms. This overview starts by going over the underlying principles and components of gene activation editing technology, as well as the phases of development of its three generations. It summarises the present difficulties and potential directions in this field while concentrating on the use of gene activation editing in important crop traits including growth and development regulation, stress resistance, and quality regulation. The objective is to offer valuable insights for the research and development of crop breeding.",
+      "url": "https://europepmc.org/articles/PMC13047105",
+      "pdf_url": "https://europepmc.org/articles/PMC13047105?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/73/0b/PMC13047105.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "PMID:41937789",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.58275/aha.25post1363001.pc.gr.227344",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.58275/aha.25post1363001.pc.gr.227344",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "10.58275/aha.25post1363001.pc.gr.227344",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "3D Genome Engineering: Current Advances and Therapeutic Opportunities in Human Diseases.",
+      "authors": "Jiang X; Wang X; Shen S; Hou S; Yu C",
+      "year": 2025,
+      "doi": "10.34133/research.0865",
+      "pmid": "40901634",
+      "pmcid": "PMC12399806",
+      "abstract": "Dynamic chromatin 3-dimensional (3D) conformation is a key mechanism regulating gene expression and cellular function during development and disease. Elucidating the structure, functional dynamics, and spatiotemporal organization of the 3D genome requires integrating multiple experimental approaches, including chromatin conformation capture techniques, precise genome manipulation tools, and advanced imaging technologies. Notably, CRISPR/Cas systems have emerged as a revolutionary genome-editing platform, offering unprecedented opportunities for manipulating 3D genome organization and investigating disease mechanisms. This review systematically examines recent advances in CRISPR-based mammalian 3D genome engineering and explores the therapeutic potential of 3D genome engineering strategies in disease intervention.",
+      "url": "https://europepmc.org/articles/PMC12399806",
+      "pdf_url": "https://europepmc.org/articles/PMC12399806?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b9/0a/PMC12399806.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "PMID:40901634",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR activation: identifying and using novel genes for plant disease resistance breeding.",
+      "authors": "McLaughlin JE; Kue Foka IC; Lawton MA; Di R",
+      "year": 2025,
+      "doi": "10.3389/fgeed.2025.1596600",
+      "pmid": "40989967",
+      "pmcid": "PMC12450905",
+      "abstract": "CRISPR-based technologies have revolutionized plant science by enabling precise modulation of gene function, including CRISPR activation (CRISPRa), a recently emerging strategy which shows particular promise for enhancing disease resistance through targeted gene upregulation. Unlike conventional CRISPR editing, which introduces double-stranded DNA breaks and permanent genomic changes, CRISPRa employs a deactivated Cas9 (dCas9) fused to transcriptional activators. This system allows quantitative and reversible gene activation without altering the DNA sequence, offering a gain-of-function (GOF) like enhanced blight resistance in staple crops. Despite its potential, the limited adoption of CRISPRa in plant biology to date underscores the need for future studies to fully harness its capabilities for crop improvement. This review addresses the groundbreaking and relatively underexplored potential of CRISPR activation (CRISPRa) systems for GOF studies in plant biology, and advocates for the adoption of CRISPRa to discover and harness genetic variation for enhancing disease resistance. We present recent advancements in CRISPRa technology, emphasizing its successful application in boosting plant immunity. Moreover, we discuss the synergistic potential of integrating CRISPRa with functional genomics tools such as genome-wide association studies (GWAS) and multi-omics approaches to identify and characterize key resistance genes. Additionally, we highlight ongoing progress in developing plant-specific programmable transcriptional activators (PTAs) to optimize CRISPRa efficiency. Challenges associated with achieving transgene-free overexpression and the deployment of alternative CRISPR systems are also explored. Together, these advances position CRISPRa as a transformative tool for future crop breeding strategies aimed at achieving durable, broad-spectrum disease resistance and sustainability in agriculture.",
+      "url": "https://europepmc.org/articles/PMC12450905",
+      "pdf_url": "https://europepmc.org/articles/PMC12450905?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7f/57/PMC12450905.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison",
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "PMID:40989967",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-based Transcriptional Regulation: Technologies, Applications, and Future Directions.",
+      "authors": "Srinivasa MA; Escobar M",
+      "year": 2025,
+      "doi": "10.3390/dna5040057",
+      "pmid": "41877893",
+      "pmcid": "PMC13007986",
+      "abstract": "CRISPR-based transcriptional regulation technologies, including CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi), offer precise and programmable control over gene expression, representing a major advance in gene and epigenetic therapy. CRISPRa uses nuclease-inactive Cas proteins fused to transcriptional activators to upregulate target genes, while CRISPRi employs repressor domains for gene silencing. Preclinical studies have demonstrated the efficacy of CRISPRa/i in models of metabolic, neurological, muscular, and oncological diseases. Notably, CRISPRi-based therapies have entered clinical trials for conditions like hepatitis B and muscular dystrophy, showing encouraging safety and efficacy profiles. Despite ongoing challenges related to delivery efficiency, immunogenicity, and off-target activity, innovations in protein engineering and guide RNA design are rapidly enhancing the precision and safety of these technologies. Overall, CRISPRa and CRISPRi are poised to transform the treatment of genetic and epigenetic disorders, with continued optimization expected to accelerate their clinical adoption and broaden their therapeutic impact.",
+      "url": "https://europepmc.org/articles/PMC13007986",
+      "pdf_url": "https://europepmc.org/articles/PMC13007986?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e9/39/PMC13007986.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "PMID:41877893",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Combinatorial protein engineering identifies potent CRISPR activators with reduced toxicity.",
+      "authors": "Giddins M; Kratz AF; De Los Santos MB; Forget A; Tiwari R; Jang G; Blazejewski T; Qin C; Huang Y; Lao YH; Falconer T; Leong KW; Krogan N; Staller M; Wang H; Wei L; Chavez A",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-65986-4",
+      "pmid": "41266370",
+      "pmcid": "PMC12706070",
+      "abstract": "Current protein engineering methods are inadequate to explore the combinatorial potential offered by nature's vast repertoire of protein domains-limiting our ability to create optimal synthetic tools. To overcome this barrier, we develop an approach to create and test thousands of chimeric proteins and employ it to probe an expansive combinatorial landscape of over 15,000 multi-domain CRISPR activators. Our findings indicate that many activators produce substantial cellular toxicity, often unrelated to their capacity to regulate gene expression. We also explore the biochemical features of activation domains and determine how their combinatorial interactions shape activator behavior. Finally, we identify two potent CRISPR activators, MHV and MMH, and demonstrate their enhanced activity across diverse targets and cell types compared to the gold-standard MCP activator, synergistic activation mediator (SAM).",
+      "url": "https://europepmc.org/articles/PMC12706070",
+      "pdf_url": "https://europepmc.org/articles/PMC12706070?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ca/ce/PMC12706070.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "PMID:41266370",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comparison of dCas9-activator complexes for the activation of PDX1 and NGN3 pancreatic genes using the CRISPR system",
+      "authors": "Fatma Akçakale Kaba; Ersin Akıncı; M. F. Cengiz; Adem Kaba",
+      "year": 2025,
+      "doi": "10.23902/trkjnat.1622077",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Diabetes mellitus is a prevalent metabolic disorder characterized by persistently high blood glucose levels due to insufficient insulin production or response. Although significant progress has been made in symptom management, a definitive cure remains unavailable. This study presents a novel approach to generate insulin-producing β cells from non-β cell sources using the CRISPR/dCas9 gene activation system. We focused on enhancing β-cell differentiation by activating PDX1 and NGN3, two key transcription factors in pancreatic development. To optimize this process, we compared three activator domains (VP64, VPR, and p300) and found VPR to be the most effective. Specifically, the VPR activator led to a 19-fold increase in PDX1 expression and a 256-fold increase in NGN3 expression when combined with four gRNAs. This superiority is likely due to its stronger transcriptional activation capability, which enhances gene expression more efficiently than VP64 and p300. Gene and protein expression were confirmed through RT-qPCR and immunostaining, respectively. Our findings demonstrate that CRISPR/dCas9-mediated gene activation can effectively induce β-cell differentiation, offering a promising approach for type 1 diabetes therapy, where β-cell loss is a major challenge. Future studies should explore the long-term functionality and stability of these β-like cells in preclinical models to further assess their therapeutic potential. By optimizing transcription factor activation, our study provides new insights into β-cell regeneration, advancing the field of gene-based diabetes treatments.",
+      "url": "https://www.semanticscholar.org/paper/73fbe23b1a5f4af6209752af1cdac12e24a99179",
+      "pdf_url": "https://dergipark.org.tr/en/download/article-file/4530267",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\fatma_2025_comparison_of_dcas9_activator_complexes_for_the_activation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "73fbe23b1a5f4af6209752af1cdac12e24a99179",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Development of compact transcriptional effectors using high-throughput measurements in diverse contexts.",
+      "authors": "Tycko J; Van MV; Aradhana; DelRosso N; Ye H; Yao D; Valbuena R; Vaughan-Jackson A; Xu X; Ludwig C; Spees K; Liu K; Gu M; Khare V; Mukund AX; Suzuki PH; Arana S; Zhang C; Du PP; Ornstein TS; Hess GT; Kamber RA; Qi LS; Khalil AS; Bintu L; Bassik MC",
+      "year": 2025,
+      "doi": "10.1038/s41587-024-02442-6",
+      "pmid": "39487265",
+      "pmcid": "PMC12043968",
+      "abstract": "Transcriptional effectors are protein domains known to activate or repress gene expression; however, a systematic understanding of which effector domains regulate transcription across genomic, cell type and DNA-binding domain (DBD) contexts is lacking. Here we develop dCas9-mediated high-throughput recruitment (HT-recruit), a pooled screening method for quantifying effector function at endogenous target genes and test effector function for a library containing 5,092 nuclear protein Pfam domains across varied contexts. We also map context dependencies of effectors drawn from unannotated protein regions using a larger library tiling chromatin regulators and transcription factors. We find that many effectors depend on target and DBD contexts, such as HLH domains that can act as either activators or repressors. To enable efficient perturbations, we select context-robust domains, including ZNF705 KRAB, that improve CRISPRi tools to silence promoters and enhancers. We engineer a compact human activator called NFZ, by combining NCOA3, FOXO3 and ZNF473 domains, which enables efficient CRISPRa with better viral delivery and inducible control of chimeric antigen receptor T cells.",
+      "url": "https://europepmc.org/articles/PMC12043968",
+      "pdf_url": "https://europepmc.org/articles/PMC12043968?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "PMID:39487265",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dynamic properties of transcriptional condensates modulate CRISPRa-mediated gene activation",
+      "authors": "Yujuan Fu; Xiaoxuan Yang; Sihui Li; Chenyang Ma; Yao An; Tao Cheng; Ying Liang; Shengbai Sun; Tianyi Cheng; Yongyang Zhao; Jianghu Wang; Xiaoyue Wang; Pengfei Xu; Yafei Yin; Hongqing Liang; Nan Liu; Wei Zou; Baohui Chen",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-56735-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR activation (CRISPRa) is a powerful tool for endogenous gene activation, yet the mechanisms underlying its optimal transcriptional activation remain unclear. By monitoring real-time transcriptional bursts, we find that CRISPRa modulates both burst duration and amplitude. Our quantitative imaging reveals that CRISPR-SunTag activators, with three tandem VP64-p65-Rta (VPR), form liquid-like transcriptional condensates and exhibit high activation potency. Although visible CRISPRa condensates are associated with some RNA bursts, the overall levels of phase separation do not correlate with transcriptional bursting or activation strength in individual cells. When the number of SunTag scaffolds is increased to 10 or more, solid-like condensates form, sequestering co-activators such as p300 and MED1. These condensates display low dynamicity and liquidity, resulting in ineffective gene activation. Overall, our studies characterize various phase-separated CRISPRa systems for gene activation, highlighting the foundational principles for engineering CRISPR-based programmable synthetic condensates with appropriate properties to effectively modulate gene expression. The mechanisms underlying optimal transcriptional activation remain elusive. Here, the authors show that CRISPR-SunTag activators form liquid-like droplets and boost gene expression, while increased SunTag scaffolds creates solid-like condensates that sequester coactivators, impairing activation.",
+      "url": "https://doi.org/10.1038/s41467-025-56735-8",
+      "pdf_url": "https://www.nature.com/articles/s41467-025-56735-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\yujuan_2025_dynamic_properties_of_transcriptional_condensates_modulate_crispra_mediated.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "W4407566022",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dystrophin Restorative and Compensatory Gene Addition Therapies for Duchenne Muscular Dystrophy: Could CRISPRa Provide a Realistic Alternative?",
+      "authors": "Rostamitehrani Z; Javed R; Popplewell L",
+      "year": 2025,
+      "doi": "10.3390/muscles4040052",
+      "pmid": "41283440",
+      "pmcid": "PMC12641824",
+      "abstract": "Duchenne muscular dystrophy (DMD), which results from mutations that disrupt the expression of dystrophin proteins, is characterized by progressive muscle fiber wasting and the development of skeletal muscle fibrosis. The severe pathology leads to loss of ambulation, respiratory insufficiency, cardiomyopathy, and early death in patients. Dystrophin-focused therapies based on adeno-associated viral (AAV) vector-mediated gene addition, antisense oligonucleotide-induced repair of the transcript reading frame, and chemically driven stop codon readthrough have been conditionally approved for use in subsets of patients. From trials, it is apparent that these therapies act to stabilize the disease phenotype rather than improve it significantly, meaning that early treatment results in better outcomes. AAV-mediated delivery of a form of utrophin, a structural and functional homolog of dystrophin, GALGT2, a sarcolemmal stabilizer, and Klotho, the anti-aging hormone that is silenced in a mouse model of DMD as a result of the disease pathology, have been explored in preclinical compensatory gene addition studies. Recombinant follistatin protein has been used to target the fibrosis seen. An all-in-one type of therapy is likely to provide a synergistic effect such that efficacy of the dystrophin restoration strategy would be improved. For this, CRISPRa could hold potential through the targeting of multiple relevant genes simultaneously. The suitability of targeting these genes will be discussed, as will the stages of the development of CRISPRa for DMD. A perspective on the future prospects of CRISPRa in relation to likely issues that would need addressing and how they may be overcame will be given.",
+      "url": "https://europepmc.org/articles/PMC12641824",
+      "pdf_url": "https://europepmc.org/articles/PMC12641824?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/25/53/PMC12641824.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "PMID:41283440",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic Editing in Neurological and Neuropsychiatric Disorders: Pioneering Next-Gen Therapeutics for Precision Gene Control.",
+      "authors": "Marei HE",
+      "year": 2025,
+      "doi": "10.1007/s12035-025-05590-1",
+      "pmid": "41455872",
+      "pmcid": "PMC12743672",
+      "abstract": "Epigenetic editing has emerged as a promising approach in the treatment of neurological and neuropsychiatric disorders, enabling the precise and enduring modification of genes associated with these conditions. Interventions that focus on chromatin, such as programmable systems like CRISPR/dCas9, zinc-finger proteins, and TALEs linked to epigenetic effector domains, enable the modification of DNA methylation, histone modifications, and noncoding RNA control at specific loci. This work integrates current progress in understanding the epigenetic landscape of neurological neuropsychiatric disorders, highlighting the functions of DNA methylation (de novo vs maintenance, active versus passive demethylation), histone remodeling, and context-dependent gene regulation. We emphasize that the dysregulation of these processes is essential to diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), and major psychiatric disorders. Innovative therapeutic approaches, including KRAB- and TET-based repressors, \"hit-and-run\" epigenome editing, and targeted noncoding RNA regulation, are analyzed alongside translational methodologies that utilize gene therapy vectors, nanoparticle delivery systems, and inducible expression mechanisms. We also examine proof-of-concept studies that demonstrate how to prevent gene expression and alter the transcriptional networks of diseased cells in living organisms. We identify current challenges, including off-target effects, delivery issues, inadequate understanding of long-term stability, and the need for reliable diagnostics, while highlighting the translational promise of combining epigenetic clearance with biogenesis and repair. This review is aimed at providing a comprehensive and critical examination of the molecular principles, therapeutic strategies, and translational obstacles associated with epigenetic editing in neurological and neuropsychiatric disorders, thereby facilitating the development of next-generation precision therapies.",
+      "url": "https://europepmc.org/articles/PMC12743672",
+      "pdf_url": "https://europepmc.org/articles/PMC12743672?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/73/98/PMC12743672.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "PMID:41455872",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exploring CRISPR-Cas: The transformative impact of gene editing in molecular biology.",
+      "authors": "Pandey V; Sharma S; Pokharel YR",
+      "year": 2025,
+      "doi": "10.1016/j.omtn.2025.102717",
+      "pmid": "41069986",
+      "pmcid": "PMC12506487",
+      "abstract": "This review traces the evolution of clustered regularly interspaced short palindromic repeats (CRISPR) technology from a prokaryotic immune mechanism to a versatile tool for precise genome engineering. We compare CRISPR with traditional gene-editing methods like RNA interference (RNAi), zinc finger nucleases (ZFNs), and transcription activator-like effector nucleases (TALENs), emphasizing its advantages in target specificity, multiplexing, and ease of design. We examine various Cas enzyme classes, engineered variants, and their applications in dissecting genetic alterations at the cellular level. The review further explores CRISPR's expanding role in developing disease models using tissues, organoids, and animal systems, enhancing our understanding of disease mechanisms. Finally, we discuss CRISPR's emerging applications in diagnostics and its transformative impact on immunotherapy and cell-based cancer treatments.",
+      "url": "https://europepmc.org/articles/PMC12506487",
+      "pdf_url": "https://europepmc.org/articles/PMC12506487?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6f/d8/PMC12506487.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "PMID:41069986",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "From chromatin to crop: epigenetic innovations in bioenergy systems.",
+      "authors": "Vela S; Steadman CR",
+      "year": 2025,
+      "doi": "10.3389/fpls.2025.1687164",
+      "pmid": "41704795",
+      "pmcid": "PMC12907382",
+      "abstract": "Energy crops encompass a diverse array of plant species cultivated primarily as a source of biomass for energy generation and biofuel production. As such, they play a pivotal role in the transition to sustainable energy systems. However, their productivity is often limited by environmental stresses, nutrient availability, and the need for optimized yield. While traditional breeding and genetic engineering have driven improvements, challenges such as narrow genetic diversity, long development cycles, trait instability, and unexpected gene interactions remain. Epigenetics offers a largely untapped opportunity to overcome these constraints by regulating gene expression through mechanisms that are dynamic, finely tuned, and responsive to environmental and developmental cues. Epigenetic modifications including DNA methylation, histone post-translational changes, and small non-coding RNAs influence nearly all aspects of plant development and physiology, including traits central to bioenergy crops. While these mechanisms are well characterized in model species such as <i>Arabidopsis thaliana</i>, they remain underexplored in many purpose-grown energy crops. This review summarizes the current state of knowledge of epigenetic regulation in bioenergy species, explores how these mechanisms can be leveraged to enhance crop resilience and productivity, and identifies gaps in our understanding. By characterizing epigenetic mechanisms and harnessing epigenetic variation, we can expand the toolkit for developing resilient, high-yielding bioenergy crops to meet future environmental and energy demands.",
+      "url": "https://europepmc.org/articles/PMC12907382",
+      "pdf_url": "https://europepmc.org/articles/PMC12907382?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d2/a2/PMC12907382.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "PMID:41704795",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mammalian synthetic gene circuits for biopharmaceutical development &amp; manufacture.",
+      "authors": "Lim SLY; Gialamoidou S; Kaur R; Jimenez Del Val I",
+      "year": 2025,
+      "doi": "10.1038/s41540-025-00621-y",
+      "pmid": "41330944",
+      "pmcid": "PMC12764465",
+      "abstract": "This paper reviews the design and application of mammalian synthetic gene circuits for biopharmaceutical manufacturing. It discusses key design principles and outlines transcription factors, DNA-binding proteins, and RNA as input and regulatory modules, while also presenting computational modelling as a driver for circuit optimisation. The review highlights potential applications towards the production of next-generation biotherapeutics by providing examples on monoclonal antibody glycosylation control, CAR-T cell therapy safety, and gene therapy viral vector yields.",
+      "url": "https://europepmc.org/articles/PMC12764465",
+      "pdf_url": "https://europepmc.org/articles/PMC12764465?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/82/df/PMC12764465.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "PMID:41330944",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Proximity-activated guide RNA of CRISPR-Cas12a for programmable diagnostic detection and gene regulation.",
+      "authors": "Hu Z; Ling S; Duan J; Yu Z; Che Y; Wang S; Zhang S; Zhang X; Li Z",
+      "year": 2025,
+      "doi": "10.1093/nar/gkaf017",
+      "pmid": "39868533",
+      "pmcid": "PMC11760950",
+      "abstract": "The flexibility and programmability of CRISPR-Cas technology have made it one of the most popular tools for biomarker diagnostics and gene regulation. Especially, the CRISPR-Cas12 system has shown exceptional clinical diagnosis and gene editing capabilities. Here, we discovered that although the top loop of the 5' handle of guide RNA can undergo central splitting, deactivating CRISPR-Cas12a, the segments can dramatically restore CRISPR function through nucleic acid self-assembly or interactions with small molecules and aptamers. This discovery forms the basis of an engineered Cas12a system with a programmable proximity-activated guide RNA (PARC-Cas12a) that links targets of interest to dsDNA. Leveraging the efficient trans- and cis-cleavage of Cas12, our findings further inspired a detection platform design for RNAs or non-nucleic acid biomarkers, enabling highly sensitive and multiplexed analysis. We further demonstrated the feasibility of RNA-controllable gene knockout/knockdown in Escherichia coli. Notably, we successfully validated the gene regulatory capabilities of the PARC-Cas12a system within mammalian cell systems by utilizing the classical theophylline molecule-aptamer system. Our results introduce a programmable toolbox for precise diagnostics and cell regulation, allowing the development of versatile diagnostic tools, complex synthetic biological circuits, and cellular biosensors.",
+      "url": "https://europepmc.org/articles/PMC11760950",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/5c/1f/gkaf017.PMC11760950.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/5c/1f/PMC11760950.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "PMID:39868533",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"Iron Deposition and Functional Connectivity Differences in Females With Migraine Without Aura: A Comparative Study of Headache Sides\"",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.1002/brb3.70096/v1/review1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/brb3.70096/v1/review1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "10.1002/brb3.70096/v1/review1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"Iron Deposition and Functional Connectivity Differences in Females With Migraine Without Aura: A Comparative Study of Headache Sides\"",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.1002/brb3.70096/v2/review1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/brb3.70096/v2/review1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "10.1002/brb3.70096/v2/review1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Specific multivalent molecules boost CRISPR-mediated transcriptional activation.",
+      "authors": "Chen R; Shi X; Yao X; Gao T; Huang G; Ning D; Cao Z; Xu Y; Liang W; Tian SZ; Zhu Q; Fang L; Zheng M; Hu Y; Cui H; Chen W",
+      "year": 2024,
+      "doi": "10.1038/s41467-024-51694-y",
+      "pmid": "39174527",
+      "pmcid": "PMC11341856",
+      "abstract": "CRISPR/Cas-based transcriptional activators can be enhanced by intrinsically disordered regions (IDRs). However, the underlying mechanisms are still debatable. Here, we examine 12 well-known IDRs by fusing them to the dCas9-VP64 activator, of which only seven can augment activation, albeit independently of their phase separation capabilities. Moreover, modular domains (MDs), another class of multivalent molecules, though ineffective in enhancing dCas9-VP64 activity on their own, show substantial enhancement in transcriptional activation when combined with dCas9-VP64-IDR. By varying the number of gRNA binding sites and fusing dCas9-VP64 with different IDRs/MDs, we uncover that optimal, rather than maximal, cis-trans cooperativity enables the most robust activation. Finally, targeting promoter-enhancer pairs yields synergistic effects, which can be further amplified via enhancing chromatin interactions. Overall, our study develops a versatile platform for efficient gene activation and sheds important insights into CRIPSR-based transcriptional activators enhanced with multivalent molecules.",
+      "url": "https://europepmc.org/articles/PMC11341856",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/67/f5/41467_2024_Article_51694.PMC11341856.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/67/f5/PMC11341856.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "PMID:39174527",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "biGMamAct: efficient CRISPR/Cas9-mediated docking of large functional DNA cargoes at the\n                  <i>ACTB</i>\n                  locus",
+      "authors": "Martin Pelosse; Marco Marcia",
+      "year": 2024,
+      "doi": "10.1101/2024.04.18.590029",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Recent advances in molecular and cell biology and imaging have unprecedentedly enabled multi-scale structure-functional studies of entire metabolic pathways from atomic to micrometer resolution, and the visualization of macromolecular complexes\n                  <jats:italic>in situ</jats:italic>\n                  , especially if these molecules are expressed with appropriately-engineered and easily-detectable tags. However, genome editing in eukaryotic cells is challenging when generating stable cell lines loaded with large DNA cargoes. To address this limitation, here, we have conceived biGMamAct, a system that allows the straightforward assembly of a multitude of genetic modules and their subsequent integration in the genome at the\n                  <jats:italic>ACTB</jats:italic>\n                  locus with high efficacy, through standardized cloning steps. Our technology encompasses a set of modular plasmids for mammalian expression, which can be efficiently docked into the genome in tandem with a validated Cas9/sgRNA pair through homologous-independent targeted insertion (HITI). As a proof of concept, we have generated a stable cell line loaded with an 18.3-kilobase-long DNA cargo to express 6 fluorescently-tagged proteins and simultaneously visualize 5 different subcellular compartments. Our protocol leads from the\n                  <jats:italic>in-silico</jats:italic>\n                  design to the genetic and functional characterization of single clones within 6 weeks and can be implemented by any researcher with familiarity with molecular biology and access to mammalian cell culturing infrastructure.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/2024.04.18.590029",
+      "pdf_url": "http://dx.doi.org/10.1101/2024.04.18.590029",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "10.1101/2024.04.18.590029",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-Cas-mediated transcriptional modulation: The therapeutic promises of CRISPRa and CRISPRi",
+      "authors": "Louise Bendixen; Trine I. Jensen; Rasmus O. Bak",
+      "year": 2023,
+      "doi": "10.1016/j.ymthe.2023.03.024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The CRISPR-Cas system is commonly known for its ability to cleave DNA in a programmable manner, which has democratized gene editing and facilitated recent breakthroughs in gene therapy. However, newer iterations of the technology using nuclease-disabled Cas enzymes have spurred a variety of different types of genetic engineering platforms such as transcriptional modulation using the CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi) systems. This review introduces the creation of these programmable transcriptional modulators, various methods of delivery utilized for these systems, and recent technological developments. CRISPRa and CRISPRi have also been implemented in genetic screens for interrogating gene function and discovering genes involved in various biological pathways. We describe recent compelling examples of how these tools have become powerful means to unravel genetic networks and uncovering important information about devastating diseases. Finally, we provide an overview of preclinical studies in which transcriptional modulation has been used therapeutically, and we discuss potential future directions of these novel modalities. The CRISPR-Cas system is commonly known for its ability to cleave DNA in a programmable manner, which has democratized gene editing and facilitated recent breakthroughs in gene therapy. However, newer iterations of the technology using nuclease-disabled Cas enzymes have spurred a variety of different types of genetic engineering platforms such as transcriptional modulation using the CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi) systems. This review introduces the creation of these programmable transcriptional modulators, various methods of delivery utilized for these systems, and recent technological developments. CRISPRa and CRISPRi have also been implemented in genetic screens for interrogating gene function and discovering genes involved in various biological pathways. We describe recent compelling examples of how these tools have become powerful means to unravel genetic networks and uncovering important information about devastating diseases. Finally, we provide an overview of preclinical studies in which transcriptional modulation has been used therapeutically, and we discuss potential future directions of these novel modalities.",
+      "url": "https://doi.org/10.1016/j.ymthe.2023.03.024",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10362391/pdf/main.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "W4360604655",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 therapeutics: progress and prospects",
+      "authors": "Tianxiang Li; Yanyan Yang; Hongzhao Qi; Weigang Cui; Lin Zhang; Xiuxiu Fu; Xiangqin He; Meixin Liu; Peifeng Li; Tao Yu",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01309-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) gene-editing technology is the ideal tool of the future for treating diseases by permanently correcting deleterious base mutations or disrupting disease-causing genes with great precision and efficiency. A variety of efficient Cas9 variants and derivatives have been developed to cope with the complex genomic changes that occur during diseases. However, strategies to effectively deliver the CRISPR system to diseased cells in vivo are currently lacking, and nonviral vectors with target recognition functions may be the focus of future research. Pathological and physiological changes resulting from disease onset are expected to serve as identifying factors for targeted delivery or targets for gene editing. Diseases are both varied and complex, and the choice of appropriate gene-editing methods and delivery vectors for different diseases is important. Meanwhile, there are still many potential challenges identified when targeting delivery of CRISPR/Cas9 technology for disease treatment. This paper reviews the current developments in three aspects, namely, gene-editing type, delivery vector, and disease characteristics. Additionally, this paper summarizes successful examples of clinical trials and finally describes possible problems associated with current CRISPR applications.",
+      "url": "https://doi.org/10.1038/s41392-023-01309-7",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01309-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator",
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "W4316466738",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/dCas9 Tools: Epigenetic Mechanism and Application in Gene Transcriptional Regulation",
+      "authors": "Ruijie Cai; Runyu Lv; Xin’e Shi; Gongshe Yang; Jianjun Jin",
+      "year": 2023,
+      "doi": "10.3390/ijms241914865",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR/Cas9-mediated cleavage of DNA, which depends on the endonuclease activity of Cas9, has been widely used for gene editing due to its excellent programmability and specificity. However, the changes to the DNA sequence that are mediated by CRISPR/Cas9 affect the structures and stability of the genome, which may affect the accuracy of results. Mutations in the RuvC and HNH regions of the Cas9 protein lead to the inactivation of Cas9 into dCas9 with no endonuclease activity. Despite the loss of endonuclease activity, dCas9 can still bind the DNA strand using guide RNA. Recently, proteins with active/inhibitory effects have been linked to the end of the dCas9 protein to form fusion proteins with transcriptional active/inhibitory effects, named CRISPRa and CRISPRi, respectively. These CRISPR tools mediate the transcription activity of protein-coding and non-coding genes by regulating the chromosomal modification states of target gene promoters, enhancers, and other functional elements. Here, we highlight the epigenetic mechanisms and applications of the common CRISPR/dCas9 tools, by which we hope to provide a reference for future related gene regulation, gene function, high-throughput target gene screening, and disease treatment.",
+      "url": "https://doi.org/10.3390/ijms241914865",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/19/14865/pdf?version=1696326703",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "W4387302569",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Compact engineered human mechanosensitive transactivation modules enable potent and versatile synthetic transcriptional control.",
+      "authors": "Mahata B; Cabrera A; Brenner DA; Guerra-Resendez RS; Li J; Goell J; Wang K; Guo Y; Escobar M; Parthasarathy AK; Szadowski H; Bedford G; Reed DR; Kim S; Hilton IB",
+      "year": 2023,
+      "doi": "10.1038/s41592-023-02036-1",
+      "pmid": "37813990",
+      "pmcid": "PMC10630135",
+      "abstract": "Engineered transactivation domains (TADs) combined with programmable DNA binding platforms have revolutionized synthetic transcriptional control. Despite recent progress in programmable CRISPR-Cas-based transactivation (CRISPRa) technologies, the TADs used in these systems often contain poorly tolerated elements and/or are prohibitively large for many applications. Here, we defined and optimized minimal TADs built from human mechanosensitive transcription factors. We used these components to construct potent and compact multipartite transactivation modules (MSN, NMS and eN3x9) and to build the CRISPR-dCas9 recruited enhanced activation module (CRISPR-DREAM) platform. We found that CRISPR-DREAM was specific and robust across mammalian cell types, and efficiently stimulated transcription from diverse regulatory loci. We also showed that MSN and NMS were portable across Type I, II and V CRISPR systems, transcription activator-like effectors and zinc finger proteins. Further, as proofs of concept, we used dCas9-NMS to efficiently reprogram human fibroblasts into induced pluripotent stem cells and demonstrated that mechanosensitive transcription factor TADs are efficacious and well tolerated in therapeutically important primary human cell types. Finally, we leveraged the compact and potent features of these engineered TADs to build dual and all-in-one CRISPRa AAV systems. Altogether, these compact human TADs, fusion modules and delivery architectures should be valuable for synthetic transcriptional control in biomedical applications.",
+      "url": "https://europepmc.org/articles/PMC10630135",
+      "pdf_url": "https://www.nature.com/articles/s41592-023-02036-1.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/21/b7/PMC10630135.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\mahata_2023_compact_engineered_human_mechanosensitive_transactivation_modules_enable_potent.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "PMID:37813990",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Enhancement of a prime editing system via optimal recruitment of the pioneer transcription factor P65",
+      "authors": "Ronghao Chen; Yu Cao; Yajing Liu; Dongdong Zhao; Ju Li; Zhihui Cheng; Changhao Bi; Xueli Zhang",
+      "year": 2023,
+      "doi": "10.1038/s41467-023-35919-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Prime editing is a versatile gene editing tool that enables precise sequence changes of all types in the genome, but its application is rather limited by the editing efficiency. Here, we first apply the Suntag system to recruit the transcription factor P65 and enhance the desired editing outcomes in the prime editing system. Next, MS2 hairpins are used to recruit MS2-fused P65 and confirmed that the recruitment of the P65 protein could effectively improve the prime editing efficiency in both the PE3 and PE5 systems. Moreover, this suggests the increased editing efficiency is most likely associated with the induction of chromatin accessibility change by P65. In conclusion, we apply different systems to recruit P65 and enhance the prime editing efficiency of various PE systems. Furthermore, our work provides a variety of methods to work as protein scaffolds for screening target factors and thus supports further optimization of prime editing systems.</jats:p>",
+      "url": "https://doi.org/10.1038/s41467-023-35919-0",
+      "pdf_url": "https://www.nature.com/articles/s41467-023-35919-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\ronghao_2023_enhancement_of_a_prime_editing_system_via_optimal.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "10.1038/s41467-023-35919-0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic reactivation of tumor suppressor genes with CRISPRa technologies as precision therapy for hepatocellular carcinoma",
+      "authors": "Agustin Sgro; Joseph Cursons; Charlene Waryah; Eleanor Woodward; Momeneh Foroutan; Ruqian Lyu; George C. Yeoh; Peter J. Leedman; Pilar Blancafort",
+      "year": 2023,
+      "doi": "10.1186/s13148-023-01482-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: Epigenetic silencing of tumor suppressor genes (TSGs) is a key feature of oncogenesis in hepatocellular carcinoma (HCC). Liver-targeted delivery of CRISPR-activation (CRISPRa) systems makes it possible to exploit chromatin plasticity, by reprogramming transcriptional dysregulation. RESULTS: Using The Cancer Genome Atlas HCC data, we identify 12 putative TSGs with negative associations between promoter DNA methylation and transcript abundance, with limited genetic alterations. All HCC samples harbor at least one silenced TSG, suggesting that combining a specific panel of genomic targets could maximize efficacy, and potentially improve outcomes as a personalized treatment strategy for HCC patients. Unlike epigenetic modifying drugs lacking locus selectivity, CRISPRa systems enable potent and precise reactivation of at least 4 TSGs tailored to representative HCC lines. Concerted reactivation of HHIP, MT1M, PZP, and TTC36 in Hep3B cells inhibits multiple facets of HCC pathogenesis, such as cell viability, proliferation, and migration. CONCLUSIONS: By combining multiple effector domains, we demonstrate the utility of a CRISPRa toolbox of epigenetic effectors and gRNAs for patient-specific treatment of aggressive HCC.",
+      "url": "https://doi.org/10.1186/s13148-023-01482-0",
+      "pdf_url": "https://clinicalepigeneticsjournal.biomedcentral.com/counter/pdf/10.1186/s13148-023-01482-0",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\agustin_2023_epigenetic_reactivation_of_tumor_suppressor_genes_with_crispra.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "W4367367507",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Phase-separated DropCRISPRa platform for efficient gene activation in mammalian cells and mice",
+      "authors": "Shufeng Ma; Kaitong Liao; Mengrao Li; Xinlong Wang; Jie Lv; Xin Zhang; Hongxin Huang; Lian Li; Tao Huang; Xiaohua Guo; Ying Lin; Zhili Rong",
+      "year": 2023,
+      "doi": "10.1093/nar/gkad301",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Liquid-liquid phase separation (LLPS) plays a critical role in regulating gene transcription via the formation of transcriptional condensates. However, LLPS has not been reported to be engineered as a tool to activate endogenous gene expression in mammalian cells or in vivo. Here, we developed a droplet-forming CRISPR (clustered regularly interspaced short palindromic repeats) gene activation system (DropCRISPRa) to activate transcription with high efficiency via combining the CRISPR-SunTag system with FETIDR-AD fusion proteins, which contain an N-terminal intrinsically disordered region (IDR) of a FET protein (FUS or TAF15) and a transcription activation domain (AD, VP64/P65/VPR). In this system, the FETIDR-AD fusion protein formed phase separation condensates at the target sites, which could recruit endogenous BRD4 and RNA polymerase II with an S2 phosphorylated C-terminal domain (CTD) to enhance transcription elongation. IDR-FUS9Y>S and IDR-FUSG156E, two mutants with deficient and aberrant phase separation respectively, confirmed that appropriate phase separation was required for efficient gene activation. Further, the DropCRISPRa system was compatible with a broad set of CRISPR-associated (Cas) proteins and ADs, including dLbCas12a, dAsCas12a, dSpCas9 and the miniature dUnCas12f1, and VP64, P65 and VPR. Finally, the DropCRISPRa system could activate target genes in mice. Therefore, this study provides a robust tool to activate gene expression for foundational research and potential therapeutics.",
+      "url": "https://doi.org/10.1093/nar/gkad301",
+      "pdf_url": "https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad301/50072424/gkad301.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "W4366817073",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Toward the Development of Epigenome Editing-Based Therapeutics: Potentials and Challenges",
+      "authors": "Jun Ueda; Taiga Yamazaki; Hiroshi Funakoshi",
+      "year": 2023,
+      "doi": "10.3390/ijms24054778",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The advancement in epigenetics research over the past several decades has led to the potential application of epigenome-editing technologies for the treatment of various diseases. In particular, epigenome editing is potentially useful in the treatment of genetic and other related diseases, including rare imprinted diseases, as it can regulate the expression of the epigenome of the target region, and thereby the causative gene, with minimal or no modification of the genomic DNA. Various efforts are underway to successfully apply epigenome editing in vivo, such as improving target specificity, enzymatic activity, and drug delivery for the development of reliable therapeutics. In this review, we introduce the latest findings, summarize the current limitations and future challenges in the practical application of epigenome editing for disease therapy, and introduce important factors to consider, such as chromatin plasticity, for a more effective epigenome editing-based therapy.",
+      "url": "https://doi.org/10.3390/ijms24054778",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/5/4778/pdf?version=1677832042",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "W4322774444",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A modular dCas9-based recruitment platform for combinatorial epigenome editing",
+      "authors": "Tessa Swain; Christian Pflueger; Saskia Freytag; Daniel Poppe; Jahnvi Pflueger; Trung Nguyen; Ji Kevin Li; Ryan Lister",
+      "year": 2022,
+      "doi": "10.1101/2022.07.01.498378",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>CRISPR-dCas9 based targeted epigenome editing tools allow precise manipulation and functional investigation of various genome modifications. However, these tools often display substantial context dependency, with highly variable efficacy between target genes and cell types, potentially due to underlying variation in the chromatin modifications present. While simultaneous recruitment of multiple distinct ‘effector’ chromatin regulators has improved efficacy, these systems typically lack control over which effectors bind and their spatial organisation. To overcome this we have created a new modular combinatorial epigenome editing platform, called SSSavi. This system acts as an interchangeable and reconfigurable docking platform fused to dCas9 to enable simultaneous recruitment of up to four different effectors, allowing precise control and reconfiguration of the effector composition and spatial ordering of their binding. We demonstrate the activity and specificity of the SSSavi system and compare it to existing multi-effector targeting systems, establishing its efficacy. Furthermore, by altering the spatial ordering of effector recruitment, across multiple target genes and cell lines, we demonstrate the importance of effector recruitment order for effective transcriptional regulation. Together, this system offers the capacity to explore effector co-recruitment to specific loci to potentially enhance the manipulation of chromatin contexts previously resistant to targeted epigenomic editing.</jats:p>",
+      "url": "https://doi.org/10.1101/2022.07.01.498378",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2022/07/02/2022.07.01.498378.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\tessa_2022_a_modular_dcas9_based_recruitment_platform_for_combinatorial.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "10.1101/2022.07.01.498378",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comparative analysis of dCas9-VP64 variants and multiplexed guide RNAs mediating CRISPR activation",
+      "authors": "Kohei Omachi; Jeffrey H. Miner",
+      "year": 2022,
+      "doi": "10.1371/journal.pone.0270008",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR/Cas9-mediated transcriptional activation (CRISPRa) is a powerful tool for investigating complex biological phenomena. Although CRISPRa approaches based on the VP64 transcriptional activator have been widely studied in both cultured cells and in animal models and exhibit great versatility for various cell types and developmental stages in vivo, different dCas9-VP64 versions have not been rigorously compared. Here, we compared different dCas9-VP64 constructs in identical contexts, including the cell lines used and the transfection conditions, for their ability to activate endogenous and exogenous genes. Moreover, we investigated the optimal approach for VP64 addition to VP64- and p300-based constructs. We found that MS2-MCP-scaffolded VP64 enhanced basal dCas9-VP64 and dCas9-p300 activity better than did direct VP64 fusion to the N-terminus of dCas9. dCas9-VP64+MCP-VP64 and dCas9-p300+MCP-VP64 were superior to VP64-dCas9-VP64 for all target genes tested. Furthermore, multiplexing gRNA expression with dCas9-VP64+MCP-VP64 or dCas9-p300+MCP-VP64 significantly enhanced endogenous gene activation to a level comparable to CRISPRa-SAM with a single gRNA. Our findings demonstrate improvement of the dCas9-VP64 CRISPRa system and contribute to development of a versatile, efficient CRISPRa platform.",
+      "url": "https://doi.org/10.1371/journal.pone.0270008",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0270008&type=printable",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "W4283699396",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Engineering the next-generation of CAR T-cells with CRISPR-Cas9 gene editing",
+      "authors": "Alexander J. Dimitri; Friederike Herbst; Joseph A. Fraietta",
+      "year": 2022,
+      "doi": "10.1186/s12943-022-01559-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Chimeric Antigen Receptor (CAR) T-cells represent a breakthrough in personalized cancer therapy. In this strategy, synthetic receptors comprised of antigen recognition, signaling, and costimulatory domains are used to reprogram T-cells to target tumor cells for destruction. Despite the success of this approach in refractory B-cell malignancies, optimal potency of CAR T-cell therapy for many other cancers, particularly solid tumors, has not been achieved. Factors such as T-cell exhaustion, lack of CAR T-cell persistence, cytokine-related toxicities, and bottlenecks in the manufacturing of autologous products have hampered the safety, effectiveness, and availability of this approach. With the ease and accessibility of CRISPR-Cas9-based gene editing, it is possible to address many of these limitations. Accordingly, current research efforts focus on precision engineering of CAR T-cells with conventional CRISPR-Cas9 systems or novel editors that can install desired genetic changes with or without introduction of a double-stranded break (DSB) into the genome. These tools and strategies can be directly applied to targeting negative regulators of T-cell function, directing therapeutic transgenes to specific genomic loci, and generating reproducibly safe and potent allogeneic universal CAR T-cell products for on-demand cancer immunotherapy. This review evaluates several of the ongoing and future directions of combining next-generation CRISPR-Cas9 gene editing with synthetic biology to optimize CAR T-cell therapy for future clinical trials toward the establishment of a new cancer treatment paradigm.",
+      "url": "https://doi.org/10.1186/s12943-022-01559-z",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-022-01559-z",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\alexander_2022_engineering_the_next_generation_of_car_t_cells.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "W4220766750",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-Associated Transposase System Can Insert Multiple Copies of Donor DNA into the Same Target Locus",
+      "authors": "Junjie Yang; Jiawei Yang; Yiwen Zhang; Siqi Yang; Jieze Zhang; Yu Jiang; Sheng Yang",
+      "year": 2021,
+      "doi": "10.1089/crispr.2021.0019",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>\n                    The CRISPR-associated transposase system enables site-specific DNA integration on the genome independent of homologous recombination. Previous studies have demonstrated that the type V-K CRISPR-associated Tn7-like transposase system from\n                    <jats:italic toggle=\"yes\">Scytonema hofmanni</jats:italic>\n                    and the type I-F system from\n                    <jats:italic toggle=\"yes\">Vibrio cholerae</jats:italic>\n                    have strong target immunity like Tn7, and therefore two or more copies of the donor DNA would not be inserted into the same target location in theory. In this paper, we report that the type I-F system can insert multiple donor copies into one site, which was identified and confirmed by single-strain identification and high-throughput sequencing. This result is beneficial for our application of multicopy chromosomal integration by CRISPR-associated transposases, allowing more donor insertions into the chromosome. This unexpected result shows that the target immunity mechanism of this system has not been fully understood. Attention should be paid to the possibility of multiple insertions and their effects in related research.\n                  </jats:p>",
+      "url": "https://doi.org/10.1089/crispr.2021.0019",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1089/crispr.2021.0019",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "10.1089/crispr.2021.0019",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Functional Comparison between VP64-dCas9-VP64 and dCas9-VP192 CRISPR Activators in Human Embryonic Kidney Cells",
+      "authors": "Nasir Javaid; Thuong L. H. Pham; Sangdun Choi",
+      "year": 2021,
+      "doi": "10.3390/ijms22010397",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>Reversal in the transcriptional status of desired genes has been exploited for multiple research, therapeutic, and biotechnological purposes. CRISPR/dCas9-based activators can activate transcriptionally silenced genes after being guided by gene-specific gRNA(s). Here, we performed a functional comparison between two such activators, VP64-dCas9-VP64 and dCas9-VP192, in human embryonic kidney cells by the concomitant targeting of POU5F1 and SOX2. We found 22- and 6-fold upregulations in the mRNA level of POU5F1 by dCas9-VP192 and VP64-dCas9-VP64, respectively. Likewise, SOX2 was up-regulated 4- and 2-fold using dCas9-VP192 and VP64dCas9VP64, respectively. For the POU5F1 protein level, we observed 3.7- and 2.2-fold increases with dCas9-VP192 and VP64-dCas9-VP64, respectively. Similarly, the SOX2 expression was 2.4- and 2-fold higher with dCas9-VP192 and VP64-dCas9-VP64, respectively. We also confirmed that activation only happened upon co-transfecting an activator plasmid with multiplex gRNA plasmid with a high specificity to the reference genes. Our data revealed that dCas9-VP192 is more efficient than VP64-dCas9-VP64 for activating reference genes.</jats:p>",
+      "url": "https://doi.org/10.3390/ijms22010397",
+      "pdf_url": "https://www.mdpi.com/1422-0067/22/1/397/pdf?version=1609833664",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "10.3390/ijms22010397",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanisms of enhancer action: the known and the unknown",
+      "authors": "Anil K. Panigrahi; Bert W. O’Malley",
+      "year": 2021,
+      "doi": "10.1186/s13059-021-02322-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Differential gene expression mechanisms ensure cellular differentiation and plasticity to shape ontogenetic and phylogenetic diversity of cell types. A key regulator of differential gene expression programs are the enhancers, the gene-distal cis-regulatory sequences that govern spatiotemporal and quantitative expression dynamics of target genes. Enhancers are widely believed to physically contact the target promoters to effect transcriptional activation. However, our understanding of the full complement of regulatory proteins and the definitive mechanics of enhancer action is incomplete. Here, we review recent findings to present some emerging concepts on enhancer action and also outline a set of outstanding questions.",
+      "url": "https://doi.org/10.1186/s13059-021-02322-1",
+      "pdf_url": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02322-1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\anil_2021_mechanisms_of_enhancer_action_the_known_and_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "W3156113107",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Spatiotemporal control of CRISPR/Cas9 gene editing",
+      "authors": "Chenya Zhuo; Jiabin Zhang; Jung‐Hwan Lee; Ju Jiao; Du Cheng; Li Liu; Hae‐Won Kim; Yu Tao; Mingqiang Li",
+      "year": 2021,
+      "doi": "10.1038/s41392-021-00645-w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The clustered regularly interspaced short palindromic repeats (CRISPR)/associated protein 9 (CRISPR/Cas9) gene editing technology, as a revolutionary breakthrough in genetic engineering, offers a promising platform to improve the treatment of various genetic and infectious diseases because of its simple design and powerful ability to edit different loci simultaneously. However, failure to conduct precise gene editing in specific tissues or cells within a certain time may result in undesirable consequences, such as serious off-target effects, representing a critical challenge for the clinical translation of the technology. Recently, some emerging strategies using genetic regulation, chemical and physical strategies to regulate the activity of CRISPR/Cas9 have shown promising results in the improvement of spatiotemporal controllability. Herein, in this review, we first summarize the latest progress of these advanced strategies involving cell-specific promoters, small-molecule activation and inhibition, bioresponsive delivery carriers, and optical/thermal/ultrasonic/magnetic activation. Next, we highlight the advantages and disadvantages of various strategies and discuss their obstacles and limitations in clinical translation. Finally, we propose viewpoints on directions that can be explored to further improve the spatiotemporal operability of CRISPR/Cas9.",
+      "url": "https://doi.org/10.1038/s41392-021-00645-w",
+      "pdf_url": "https://www.nature.com/articles/s41392-021-00645-w.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\chenya_2021_spatiotemporal_control_of_crispr_cas9_gene_editing.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "W3177233526",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcription activation is enhanced by multivalent interactions independent of phase separation",
+      "authors": "Jorge Trojanowski; Lukas Frank; Anne Rademacher; Pranas Grigaitis; Karsten Rippe",
+      "year": 2021,
+      "doi": "10.1101/2021.01.27.428421",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Summary Transcription factors (TFs) consist of a DNA binding and an activation domain (AD) that are considered to be independent and exchangeable modules. However, recent studies conclude that also the physico-chemical properties of the AD can control TF assembly at chromatin by driving a phase separation into transcriptional condensates. Here, we dissected transcription activation by comparing different synthetic TFs at a reporter gene array with real-time single-cell fluorescence microscopy readouts. In these experiments, binding site occupancy, residence time and co-activator recruitment in relation to multivalent TF interactions were compared. While phase separation propensity and activation strength of the AD were correlated, the actual formation of liquid-like TF droplets had a neutral or inhibitory effect on transcription activation. Rather, we conclude that multivalent AD mediated interactions increase the transcription activation capacity of a TF by stabilizing chromatin binding and mediating the recruitment of co-activators independent of phase separation.",
+      "url": "https://doi.org/10.1101/2021.01.27.428421",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/05/24/2021.01.27.428421.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\jorge_2021_transcription_activation_is_enhanced_by_multivalent_interactions_independent.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "W3122269846",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Activation of silent secondary metabolite gene clusters by nucleosome map-guided positioning of the synthetic transcription factor VPR-dCas9",
+      "authors": "Andreas Schüller; Lisa Wolansky; Harald Berger; Lena Studt; Agnieszka Gacek-Matthews; Michael Sulyok; Joseph Strauss",
+      "year": 2020,
+      "doi": "10.1101/2020.04.02.022053",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Current methods for forced expression of selected target genes are based on promoter exchange or on overexpressing native or hybrid transcriptional activators in which gene-specific DNA binding domains are coupled to strong activation domains. While these approaches are very useful for promoters with known or synthetically introduced transcription factor binding sites, they are not suitable to turn on genes in biosynthetic gene clusters which often lack pathway-specific activators. To expand the discovery toolbox, we designed a Cas9-based RNA guided synthetic transcription activation system for\n                  <jats:italic>Aspergillus nidulans</jats:italic>\n                  based on enzymatically disabled dCas9 fused to three consecutive activation domains (VPR-dCas9). Targeting two biosynthetic gene clusters involved in the production of secondary metabolites, we demonstrate the utility of the system. Especially in silent regions facultative heterochromatin and strictly positioned nucleosomes can constitute a relevant obstacle to the transcriptional machinery. To avoid this negative impact and to facilitate optimal positioning of RNA-guided VPR-dCas9 to our targeted promoters we have created a genome-wide nucleosome map to identify the cognate nucleosome-free-regions (NFRs). Based on these maps, different single-guide RNAs (sgRNA) were designed and tested for their targeting and activation potential. Our results demonstrate that the system can be used to activate silent BGCs in\n                  <jats:italic>A. nidulans</jats:italic>\n                  , partially to very high expression levels and also open the opportunity to stepwise turn on individual genes within a BGC that allows to decipher the correlated biosynthetic pathway.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/2020.04.02.022053",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/04/03/2020.04.02.022053.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\andreas_2020_activation_of_silent_secondary_metabolite_gene_clusters_by.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "10.1101/2020.04.02.022053",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenome engineering: new technologies for precision medicine",
+      "authors": "Agustin Sgro; Pilar Blancafort",
+      "year": 2020,
+      "doi": "10.1093/nar/gkaa1000",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Chromatin adopts different configurations that are regulated by reversible covalent modifications, referred to as epigenetic marks. Epigenetic inhibitors have been approved for clinical use to restore epigenetic aberrations that result in silencing of tumor-suppressor genes, oncogene addictions, and enhancement of immune responses. However, these drugs suffer from major limitations, such as a lack of locus selectivity and potential toxicities. Technological advances have opened a new era of precision molecular medicine to reprogram cellular physiology. The locus-specificity of CRISPR/dCas9/12a to manipulate the epigenome is rapidly becoming a highly promising strategy for personalized medicine. This review focuses on new state-of-the-art epigenome editing approaches to modify the epigenome of neoplasms and other disease models towards a more 'normal-like state', having characteristics of normal tissue counterparts. We highlight biomolecular engineering methodologies to assemble, regulate, and deliver multiple epigenetic effectors that maximize the longevity of the therapeutic effect, and we discuss limitations of the platforms such as targeting efficiency and intracellular delivery for future clinical applications.",
+      "url": "https://doi.org/10.1093/nar/gkaa1000",
+      "pdf_url": "https://academic.oup.com/nar/article-pdf/48/22/12453/34905993/gkaa1000.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "W3105691529",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Gene editing and CRISPR in the clinic: current and future perspectives",
+      "authors": "Matthew P. Hirakawa; Raga Krishnakumar; Jerilyn A. Timlin; James P. Carney; Kimberly S. Butler",
+      "year": 2020,
+      "doi": "10.1042/bsr20200127",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Genome editing technologies, particularly those based on zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs), and CRISPR (clustered regularly interspaced short palindromic repeat DNA sequences)/Cas9 are rapidly progressing into clinical trials. Most clinical use of CRISPR to date has focused on ex vivo gene editing of cells followed by their re-introduction back into the patient. The ex vivo editing approach is highly effective for many disease states, including cancers and sickle cell disease, but ideally genome editing would also be applied to diseases which require cell modification in vivo. However, in vivo use of CRISPR technologies can be confounded by problems such as off-target editing, inefficient or off-target delivery, and stimulation of counterproductive immune responses. Current research addressing these issues may provide new opportunities for use of CRISPR in the clinical space. In this review, we examine the current status and scientific basis of clinical trials featuring ZFNs, TALENs, and CRISPR-based genome editing, the known limitations of CRISPR use in humans, and the rapidly developing CRISPR engineering space that should lay the groundwork for further translation to clinical application.",
+      "url": "https://doi.org/10.1042/bsr20200127",
+      "pdf_url": "https://portlandpress.com/bioscirep/article-pdf/40/4/BSR20200127/871438/bsr-2020-0127.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator",
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison",
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "W3012901598",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Evolutionary classification of CRISPR–Cas systems: a burst of class 2 and derived variants",
+      "authors": "Kira S. Makarova; Yuri I. Wolf; Jaime Iranzo; Sergey Shmakov; Omer S. Alkhnbashi; Stan J. J. Brouns; Emmanuelle Charpentier; David R. Cheng; Daniel H. Haft; Philippe Horvath; Sylvain Moineau; Francisco J. M. Mojica; David Scott; Shiraz A. Shah; Virginijus Šikšnys; Michael P. Terns; Česlovas Venclovas; Malcolm F. White; Alexander F. Yakunin; Winston X. Yan; Feng Zhang; Roger A. Garrett; Rolf Backofen; John van der Oost; Rodolphe Barrangou; Eugene V. Koonin",
+      "year": 2019,
+      "doi": "10.1038/s41579-019-0299-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41579-019-0299-x",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8905525",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "W2995081665",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeted Epigenome Editing of Plant Defense Genes via CRISPR Activation (CRISPRa)",
+      "authors": "Alberto Cristian López-Calleja; Juan Carlos Vizuet-de-Rueda; Raúl Alvarez-Venegas",
+      "year": 2019,
+      "doi": "10.1007/978-3-030-14760-0_10",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-030-14760-0_10",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "10.1007/978-3-030-14760-0_10",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A modular dCas9-SunTag DNMT3A epigenome editing system overcomes pervasive off-target activity of direct fusion dCas9-DNMT3A constructs",
+      "authors": "Christian Pflueger; Dennis Tan; Tessa Swain; Trung Nguyen; Jahnvi Pflueger; Christian Nefzger; Jose M. Polo; Ethan Ford; Ryan Lister",
+      "year": 2018,
+      "doi": "10.1101/266130",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract:</jats:title>\n                <jats:p>\n                  DNA methylation is a covalent modification of the genome that plays important roles in genome regulation and vertebrate development. Although detection of this modification in the genome has been possible for several decades, the ability to deliberately and specifically manipulate local DNA methylation states in the genome has been extremely limited. Consequently, this has impeded the direct determination of the consequence of DNA methylation on transcriptional regulation and transcription factor binding in the native chromatin context. Thus, highly specific targeted epigenome editing tools are needed to address this outstanding question. Recent adaptations of genome editing technologies, such as the fusion of the DNMT3A methyltransferase catalytic domain to catalytically inactive Cas9 (dC9-D3A), have aimed to provide new tools for altering DNA methylation at desired loci. Here, we performed a deeper analysis of the performance of these tools, revealing consistent off-target binding events and DNA methylation deposition in the genome, limiting the capacity of these tools to unambiguously assess the functional consequences of DNA methylation. To address this, we developed a modular dCas9-SunTag (dC9Sun-D3A) system that can recruit multiple DNMT3A catalytic domains to a target site for editing DNA-methylation. dC9Sun-D3A is tunable, specific and exhibits much higher induction of DNA methylation at target sites than the dC9-D3A direct fusion protein. Importantly, genome-wide characterization of dC9Sun-D3A binding sites and DNA methylation revealed minimal off-target protein binding and induction of DNA methylation with dC9Sun-D3A, compared to pervasive off-target binding and methylation by the dC9-D3A direct fusion construct. Furthermore, we used dC9Sun-D3A to test the impact of DNA methylation upon the DNA binding of CTCF and NRF1 upon targeted methylation of their core binding sites, demonstrating the binding sensitivity of these proteins to DNA methylation\n                  <jats:italic>in situ</jats:italic>\n                  . Overall, this modular dC9Sun-D3A system enables precise DNA methylation deposition with the lowest amount of off-target DNA methylation reported to date, allowing accurate functional determination of the role of DNA methylation at single loci.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/266130",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2018/02/15/266130.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\christian_2018_a_modular_dcas9_suntag_dnmt3a_epigenome_editing_system.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "10.1101/266130",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Allele-Specific Epigenome Editing",
+      "authors": "Pavel Bashtrykov; Albert Jeltsch",
+      "year": 2018,
+      "doi": "10.1007/978-1-4939-7774-1_6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-4939-7774-1_6",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "10.1007/978-1-4939-7774-1_6",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Optimized libraries for CRISPR-Cas9 genetic screens with multiple modalities",
+      "authors": "Kendall R Sanson; Ruth E. Hanna; Mudra Hegde; Katherine Donovan; Christine Strand; Meagan E. Sullender; Emma W Vaimberg; Amy Goodale; David E. Root; Federica Piccioni; John G. Doench",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-07901-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The creation of genome-wide libraries for CRISPR knockout (CRISPRko), interference (CRISPRi), and activation (CRISPRa) has enabled the systematic interrogation of gene function. Here, we show that our recently-described CRISPRko library (Brunello) is more effective than previously published libraries at distinguishing essential and non-essential genes, providing approximately the same perturbation-level performance improvement over GeCKO libraries as GeCKO provided over RNAi. Additionally, we present genome-wide libraries for CRISPRi (Dolcetto) and CRISPRa (Calabrese), and show in negative selection screens that Dolcetto, with fewer sgRNAs per gene, outperforms existing CRISPRi libraries and achieves comparable performance to CRISPRko in detecting essential genes. We also perform positive selection CRISPRa screens and demonstrate that Calabrese outperforms the SAM approach at identifying vemurafenib resistance genes. We further compare CRISPRa to genome-scale libraries of open reading frames (ORFs). Together, these libraries represent a suite of genome-wide tools to efficiently interrogate gene function with multiple modalities.",
+      "url": "https://doi.org/10.1038/s41467-018-07901-8",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-07901-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\kendall_2018_optimized_libraries_for_crispr_cas9_genetic_screens_with.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "W2904226822",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Pharmacological versus genetic inhibition of heme oxygenase-1 - the comparison of metalloporphyrins, shRNA and CRISPR/Cas9 system.",
+      "authors": "Mucha O; Podkalicka P; Czarnek M; Biela A; Mieczkowski M; Kachamakova-Trojanowska N; Stepniewski J; Jozkowicz A; Dulak J; Loboda A",
+      "year": 2018,
+      "doi": "10.18388/abp.2017_2542",
+      "pmid": "29694447",
+      "pmcid": null,
+      "abstract": "Inhibition of heme oxygenase-1 (HO-1, encoded by HMOX1), a cytoprotective, anti-apoptotic and anti-inflammatory enzyme, may serve as a valuable therapy in various pathophysiological processes, including tumorigenesis. We compared the effect of chemical inhibitors - metalloporphyrins, with genetic tools - shRNA and CRISPR/Cas9 systems, to knock-down (KD)/knock-out (KO) HO-1 expression/activity. 293T cells were incubated with metalloporphyrins, tin and zinc protoporphyrins (SnPPIX and ZnPPIX, respectively) or were either transduced with lentiviral vectors encoding different shRNA sequences against HO-1 or were modified by CRISPR/Cas9 system targeting HMOX1. Metalloporphyrins decreased HO activity but concomitantly strongly induced HO-1 mRNA and protein in 293T cells. On the other hand, only slight basal HO-1 inhibition in shRNA KD 293T cell lines was confirmed on mRNA and protein level with no significant effect on enzyme activity. Nevertheless, silencing effect was much stronger when CRISPR/Cas9-mediated knock-out was performed. Most of the clones harboring mutations within HMOX1 locus did not express HO-1 protein and failed to increase bilirubin concentration after hemin stimulation. Furthermore, CRISPR/Cas9-mediated HO-1 depletion decreased 293T viability, growth, clonogenic potential and increased sensitivity to H2O2 treatment. In summary, we have shown that not all technologies can be used for inhibition of HO activity in vitro with the same efficiency. In our hands, the most potent and comprehensible results can be obtained using genetic tools, especially CRISPR/Cas9 approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29694447/",
+      "pdf_url": "https://ojs.ptbioch.edu.pl/index.php/abp/article/download/2542/1257",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "29694447",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Biology of CRISPR-Cas: Backward and Forward",
+      "authors": "Frank Hille; Hagen Richter; Shi Pey Wong; Majda Bratovič; Sarah Ressel; Emmanuelle Charpentier",
+      "year": 2018,
+      "doi": "10.1016/j.cell.2017.11.032",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cell.2017.11.032",
+      "pdf_url": "http://www.cell.com/article/S0092867417313831/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "W2792803089",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The CRISPR tool kit for genome editing and beyond",
+      "authors": "Mazhar Adli",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-04252-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR is becoming an indispensable tool in biological research. Once known as the bacterial immune system against invading viruses, the programmable capacity of the Cas9 enzyme is now revolutionizing diverse fields of medical research, biotechnology, and agriculture. CRISPR-Cas9 is no longer just a gene-editing tool; the application areas of catalytically impaired inactive Cas9, including gene regulation, epigenetic editing, chromatin engineering, and imaging, now exceed the gene-editing functionality of WT Cas9. Here, we will present a brief history of gene-editing tools and describe the wide range of CRISPR-based genome-targeting tools. We will conclude with future directions and the broader impact of CRISPR technologies.",
+      "url": "https://doi.org/10.1038/s41467-018-04252-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-04252-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison",
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "W2803581084",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Genetic and epigenetic control of gene expression by CRISPR–Cas systems",
+      "authors": "Albert Lo; Lei S. Qi",
+      "year": 2017,
+      "doi": "10.12688/f1000research.11113.1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The discovery and adaption of bacterial clustered regularly interspaced short palindromic repeats (CRISPR)-CRISPR-associated (Cas) systems has revolutionized the way researchers edit genomes. Engineering of catalytically inactivated Cas variants (nuclease-deficient or nuclease-deactivated [dCas]) combined with transcriptional repressors, activators, or epigenetic modifiers enable sequence-specific regulation of gene expression and chromatin state. These CRISPR-Cas-based technologies have contributed to the rapid development of disease models and functional genomics screening approaches, which can facilitate genetic target identification and drug discovery. In this short review, we will cover recent advances of CRISPR-dCas9 systems and their use for transcriptional repression and activation, epigenome editing, and engineered synthetic circuits for complex control of the mammalian genome.",
+      "url": "https://doi.org/10.12688/f1000research.11113.1",
+      "pdf_url": "https://f1000research.com/articles/6-747/v1/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\papers\\albert_2017_genetic_and_epigenetic_control_of_gene_expression_by.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "W2618105201",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 in Genome Editing and Beyond",
+      "authors": "Haifeng Wang; Marie La Russa; Lei S. Qi",
+      "year": 2016,
+      "doi": "10.1146/annurev-biochem-060815-014607",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The Cas9 protein (CRISPR-associated protein 9), derived from type II CRISPR (clustered regularly interspaced short palindromic repeats) bacterial immune systems, is emerging as a powerful tool for engineering the genome in diverse organisms. As an RNA-guided DNA endonuclease, Cas9 can be easily programmed to target new sites by altering its guide RNA sequence, and its development as a tool has made sequence-specific gene editing several magnitudes easier. The nuclease-deactivated form of Cas9 further provides a versatile RNA-guided DNA-targeting platform for regulating and imaging the genome, as well as for rewriting the epigenetic status, all in a sequence-specific manner. With all of these advances, we have just begun to explore the possible applications of Cas9 in biomedical research and therapeutics. In this review, we describe the current models of Cas9 function and the structural and biochemical studies that support it. We focus on the applications of Cas9 for genome editing, regulation, and imaging, discuss other possible applications and some technical considerations, and highlight the many advantages that CRISPR/Cas9 technology offers.",
+      "url": "https://doi.org/10.1146/annurev-biochem-060815-014607",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060815-014607",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "W2182456467",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Repurposing the CRISPR-Cas9 system for targeted DNA methylation",
+      "authors": "Aleksandar Vojta; Paula Dobrinić; Vanja Tadić; Luka Bočkor; Petra Korać; Boris Jülg; Marija Klasić; Vlatka Zoldoš",
+      "year": 2016,
+      "doi": "10.1093/nar/gkw159",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetic studies relied so far on correlations between epigenetic marks and gene expression pattern. Technologies developed for epigenome editing now enable direct study of functional relevance of precise epigenetic modifications and gene regulation. The reversible nature of epigenetic modifications, including DNA methylation, has been already exploited in cancer therapy for remodeling the aberrant epigenetic landscape. However, this was achieved non-selectively using epigenetic inhibitors. Epigenetic editing at specific loci represents a novel approach that might selectively and heritably alter gene expression. Here, we developed a CRISPR-Cas9-based tool for specific DNA methylation consisting of deactivated Cas9 (dCas9) nuclease and catalytic domain of the DNA methyltransferase DNMT3A targeted by co-expression of a guide RNA to any 20 bp DNA sequence followed by the NGG trinucleotide. We demonstrated targeted CpG methylation in a ∼35 bp wide region by the fusion protein. We also showed that multiple guide RNAs could target the dCas9-DNMT3A construct to multiple adjacent sites, which enabled methylation of a larger part of the promoter. DNA methylation activity was specific for the targeted region and heritable across mitotic divisions. Finally, we demonstrated that directed DNA methylation of a wider promoter region of the target loci IL6ST and BACH2 decreased their expression.",
+      "url": "https://doi.org/10.1093/nar/gkw159",
+      "pdf_url": "https://academic.oup.com/nar/article-pdf/44/12/5615/17436386/gkw159.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "functional differences CRISPR activators same locus comparative study"
+      ],
+      "paper_id": "W2294327742",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Re-amplification of CRISPRa and CRISPRi libraries (v1.0)Reference: Genome-Scale CRISPR-Mediated Control of Gene Repression and A v1",
+      "authors": "IGI not provided",
+      "year": 2015,
+      "doi": "10.17504/protocols.io.dmz475",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p> </p>",
+      "url": "https://doi.org/10.17504/protocols.io.dmz475",
+      "pdf_url": "https://doi.org/10.17504/protocols.io.dmz475",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "10.17504/protocols.io.dmz475",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Re-amplification of CRISPRa and CRISPRi libraries v1",
+      "authors": "Pei-Chun Lin",
+      "year": 2015,
+      "doi": "10.17504/protocols.io.dkv4w5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>Re-amplification of CRISPRa and CRISPRi Libraries   </p>",
+      "url": "https://doi.org/10.17504/protocols.io.dkv4w5",
+      "pdf_url": "https://doi.org/10.17504/protocols.io.dkv4w5",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "10.17504/protocols.io.dkv4w5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Delivery of an Artificial Transcription Regulator dCas9-VPR by Extracellular Vesicles for Therapeutic Gene Activation",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acssynbio.8b00192.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acssynbio.8b00192.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acssynbio.8b00192/suppl_file/sb8b00192_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "10.1021/acssynbio.8b00192.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Direct Exosome Quantification via Bivalent-Cholesterol-Labeled DNA Anchor for Signal Amplification",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.analchem.7b03919.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.analchem.7b03919.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.analchem.7b03919/suppl_file/ac7b03919_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "10.1021/acs.analchem.7b03919.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Direct Molecular Detection of Nucleic  Acids by Fluorescence Signal  Amplification",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/ja053417j.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ja053417j.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/ja053417j/suppl_file/ja053417j_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SunTag CRISPRa signal amplification versus direct fusion activator"
+      ],
+      "paper_id": "10.1021/ja053417j.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 2. Activation of an exogenous reporter gene ZsGreen under the control of a HNF4α promoter by the CRISPR-assisted trans enhancer in multiple cells.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.45973.003",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.45973.003",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison",
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "10.7554/elife.45973.003",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3. Changes in LTR5HS chromatin landscape upon CARGO-CRISPRa/CRISPRi.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.35989.008",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.35989.008",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "10.7554/elife.35989.008",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3—figure supplement 2. Activation of endogenous HNF4α gene in 293 T cell with trans enhancers based on dCas9-VP64 and dCas9-VPR.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.45973.010",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.45973.010",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison",
+        "comparison dCas9-p300 VP64 VPR SunTag CRISPRa activator efficiency"
+      ],
+      "paper_id": "10.7554/elife.45973.010",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 4—figure supplement 1. Additional CRISPRa/CRISPRi RNA-seq analyses.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.35989.010",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.35989.010",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenome editing versus transcription factor recruitment CRISPRa mechanism"
+      ],
+      "paper_id": "10.7554/elife.35989.010",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Unexploited Performance of NLS in the dCas9-VPR-Mediated Transcriptional Activation",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acschembio.3c00195.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acschembio.3c00195.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acschembio.3c00195/suppl_file/cb3c00195_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "VPR tripartite activator versus dCas9-p300 gene activation comparison"
+      ],
+      "paper_id": "10.1021/acschembio.3c00195.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

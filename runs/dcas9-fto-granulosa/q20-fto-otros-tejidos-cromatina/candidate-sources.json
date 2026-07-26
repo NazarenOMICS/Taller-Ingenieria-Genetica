@@ -1,0 +1,1225 @@
+{
+  "slug": "q20-fto-otros-tejidos-cromatina",
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "DNA Methylation: A Key Epigenetic Regulator of Cardiovascular Diseases.",
+      "authors": "Chen W; Li X; Zhu L",
+      "year": 2026,
+      "doi": "10.31083/rcm46194",
+      "pmid": "42110184",
+      "pmcid": "PMC13155980",
+      "abstract": "CVDs arise from the interplay of multiple factors, with genetics and environmental exposures representing key drivers. Accumulating evidence over recent decades has unequivocally established that epigenetic modifications, most prominently DNA methylation, play a pivotal, non-redundant role in the initiation, development, and progression of CVDs. As a critical molecular bridge linking genetic predisposition, environmental insults, and the pathogenesis of CVDs, DNA methylation dynamically mediates crosstalk among these three components, thereby emerging as a core focus for dissecting the underlying pathological mechanisms of CVDs. Thus, this review summarizes the functional roles of DNA methylation in common CVDs, including coronary heart disease (CHD), hypertension, and heart failure (HF). Special emphasis is placed on the regulatory mechanisms of DNA methylation in driving disease pathogenesis, as well as the associated translational potential for preventing CVDs and for clinical management. Moreover, this review delineates the specific pathways through which DNA methylation modulates CVDs onset and progression-providing a novel perspective for in-depth investigation of disease etiologies-and offers a robust theoretical basis for identifying novel therapeutic targets for CVDs. Ultimately, these insights aim to lay a foundation for the optimization and innovation of clinical diagnostic and therapeutic strategies for CVDs.",
+      "url": "https://europepmc.org/articles/PMC13155980",
+      "pdf_url": "https://europepmc.org/articles/PMC13155980?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ef/b0/PMC13155980.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "PMID:42110184",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Disulfidptosis: A Metabolic Cell Death Mechanism with Therapeutic Potential in Cancer.",
+      "authors": "Zhao W; Wang Q; Zhang J",
+      "year": 2026,
+      "doi": "10.32604/or.2026.076406",
+      "pmid": "41930157",
+      "pmcid": "PMC13040280",
+      "abstract": "Disulfidptosis is a newly identified form of regulated cell death (RCD) first described in 2023, representing a significant advance in understanding programmed cell death pathways. This unique cell death modality is characterized by abnormal intracellular accumulation of disulfide bonds and disruption of redox homeostasis, leading to cytoskeletal collapse without caspase activation. Disulfidptosis is primarily triggered by glucose deprivation in cells with high expression of solute carrier family 7 member 11 (SLC7A11). Under these conditions, insufficient NADPH supply prevents the effective reduction of accumulated cystine to cysteine, thereby inducing disulfide stress. Distinct from apoptosis, ferroptosis, cuproptosis, or pyroptosis, disulfidptosis exhibits unique metabolic dependencies and a hallmark feature of cytoskeletal disintegration. Current evidence indicates that this mechanism is operative in various tumor types, including hepatocellular carcinoma, colorectal cancer, and lung adenocarcinoma, suggesting its potential therapeutic relevance. Therapeutic strategies targeting disulfidptosis include modulation of metabolic pathways-such as the use of GLUT1 or G6PD inhibitors-to selectively induce this form of cell death in cancer cells. This review systematically summarizes current understanding, aiming to elucidate the unique mechanisms and therapeutic potential of disulfidptosis, and provides a foundational framework for future studies and the development of innovative strategies targeting tumor metabolic vulnerabilities.",
+      "url": "https://europepmc.org/articles/PMC13040280",
+      "pdf_url": "https://europepmc.org/articles/PMC13040280?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1b/e9/PMC13040280.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\zhao_2026_disulfidptosis_a_metabolic_cell_death_mechanism_with_therapeutic.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "PMID:41930157",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+      "authors": "Cui X; Zeng L; Zhang W; Xi L; Wang R; Jia D; Safa; Feng H; Jia H",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13913",
+      "pmid": "42169659",
+      "pmcid": "PMC13238957",
+      "abstract": "Intervertebral disc degeneration (IVDD) is increasingly recognized as a systemic collapse of the epigenetic regulatory network, driven by cellular senescence and environmental stressors. The present review provides an overview of the epigenetic regulatory mechanisms governing IVDD, focusing on the dynamic interplay between DNA methylation, histone modifications, N6‑methyladenosine RNA methylation and the non‑coding RNA regulatory triad (microRNAs, long non‑coding RNAs and circular RNAs). The present study evaluates advanced research methodologies (ranging from site‑specific methylation typing and transposase accessible chromatin sequencing to single‑cell multi‑omics and artificial intelligence‑driven predictive modeling) that resolve the spatial and cellular heterogeneities of the degenerating disc niche. Furthermore, the translational constraints of current animal models were critically assessed, advocating for a strategic shift from acute needle‑puncture insults to physiologically relevant aging and genetically engineered progeroid models to better recapitulate human 'epigenetic drift'. Finally, the therapeutic potential of targeted epigenetic editing via CRISPR/dCas9 systems and the development of stimuli‑responsive nanocarriers for precision delivery are highlighted. By bridging methodological innovation with robust model selection, the present review offers a roadmap for transitioning molecular insights into clinical regenerative therapies for spinal health.",
+      "url": "https://europepmc.org/articles/PMC13238957",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/70/fd/mmr-34-01-13913.PMC13238957.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/70/fd/PMC13238957.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues",
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "PMID:42169659",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+      "authors": "Wang X; Zhu Q; Liu J; Fu Y; Xu J; Dong Z; Tang B; Li J",
+      "year": 2026,
+      "doi": "10.1186/s12967-026-07990-w",
+      "pmid": "41832537",
+      "pmcid": "PMC13101344",
+      "abstract": "BACKGROUND: Aging is a complex process characterized by the progressive decline of physiological functions. This process is accompanied by a series of genetic and epigenetic alterations. Epigenetic mechanisms, including histone modifications, chromatin remodeling, and RNA modifications, are critical due to their highly dynamic and plastic nature. These mechanisms play fundamental roles in the occurrence and progression of aging and age-related diseases. MAIN BODY: This review systematically summarizes the fundamental roles and molecular mechanisms of histone modifications (e.g., methylation and acylation such as acetylation), chromatin remodeling (encompassing heterochromatin formation, nuclear lamina association, alterations in chromatin accessibility and higher-order architecture, and TF-mediated regulation), and RNA modifications (such as m6A, m7G, and m5C) in the regulation of cellular senescence, organ functional decline, and age-related diseases, including neurodegenerative disorders, CVDs, and osteoporosis. We highlight the sophisticated interaction networks formed between these three epigenetic layers. Finally, we summarize potential anti-aging interventions targeting these mechanisms. These strategies include natural products, peptides, and specific small-molecule inhibitors or agonists. Emerging intervention methods and their potential safety considerations are also discussed. CONCLUSION: Histone modifications, chromatin remodeling, and RNA modifications constitute an interconnected and dynamically coordinated epigenetic network that synergistically regulates the aging process. A thorough elucidation of the regulatory mechanisms within this complex network will not only contribute to a fundamental understanding of the biological essence of aging, but also provide a critical theoretical foundation for the development of precise and efficient epigenetic interventions.",
+      "url": "https://europepmc.org/articles/PMC13101344",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/9a/85/12967_2026_Article_7990.PMC13101344.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9a/85/PMC13101344.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "PMID:41832537",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation-centric epigenetic regulation in dilated cardiomyopathy: mechanisms, metabolic interplay, and translational potential.",
+      "authors": "Wang Y; Zhang Y; Mao Z; Xu Z",
+      "year": 2026,
+      "doi": "10.3389/fcvm.2026.1785320",
+      "pmid": "42199200",
+      "pmcid": "PMC13199325",
+      "abstract": "Dilated cardiomyopathy (DCM) is one of the main causes of heart failure and heart transplantation, with complex causes involving multiple factors such as genetics, epigenetics, and environment. In recent years, methylation, as a key epigenetic regulatory approach, has increasingly garnered attention for its role in the mechanisms of DCM onset. This review comprehensively summarizes the mechanisms, functions, and metabolic regulatory characteristics of DNA methylation, histone methylation, and RNA N6-methyladenosine (m6A) modification in the occurrence and development of DCM. Literature was selected from PubMed and Web of Science, focusing on studies related to methylation and DCM published in recent years, as well as comprehensive and well-structured review articles. Studies have shown that these three methylation modifications collectively influence the phenotypic characteristics of DCM by regulating processes such as gene expression, metabolic homeostasis, inflammatory responses, fibrosis, and cell death in cardiomyocytes. Moreover, there is cross-regulation among these modifications, which is closely related to carbon metabolism and the tricarboxylic acid cycle. Further exploration of methylation regulatory mechanisms not only helps reveal the underlying basis of DCM but also opens new directions for targeted therapy and precision medicine. This article aims to summarize existing research advancements, explore the clinical translation potential of methylation-related mechanisms, and identify key questions and challenges for future studies.",
+      "url": "https://europepmc.org/articles/PMC13199325",
+      "pdf_url": "https://europepmc.org/articles/PMC13199325?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/19/66/PMC13199325.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain",
+        "FTO promoter transcription factor oxidative stress other tissues",
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "PMID:42199200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "N6-methyladenosine (m6A) methylation in adipose tissue: role, regulation, and therapeutic potential.",
+      "authors": "Liu Q; Peng WQ; Guo L",
+      "year": 2026,
+      "doi": "10.1007/s00018-026-06201-5",
+      "pmid": "42026353",
+      "pmcid": "PMC13237288",
+      "abstract": "Adipose tissue, is a core regulator of metabolic homeostasis, whose dysfunction plays a crucial role in metabolic diseases such as obesity and diabetes. Additionally, the browning of adipose tissue is important for thermogenesis and metabolic processes. In recent years, the RNA epigenetic modification N6-methyladenosine (m6A) has been shown to dynamically regulate adipocyte differentiation, lipid metabolism-related gene expression, and intercellular communication, playing a functional role in adipose tissue development and metabolic reprogramming. This review systematically summarizes the role and mechanism of m6A modification in lipolysis, adipocyte differentiation, and thermogenic capacity of adipose tissue. Furthermore, we discuss how m6A modification influences adipose tissue inflammation through regulating immune cells. Moreover, we also discuss small molecules targeting m6A modification in adipose tissue and m6A editing systems, which are closely related to the translational application of m6A modification in metabolic diseases. These findings not only refine the detailed molecular map of m6A and its role in the metabolic regulation of adipose tissue but also provide new insights and potential targets for precise interventions in the prevention and treatment of obesity and related metabolic diseases.",
+      "url": "https://europepmc.org/articles/PMC13237288",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/75/28/18_2026_Article_6201.PMC13237288.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/75/28/PMC13237288.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "PMID:42026353",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting Glycolytic Plasticity to Overcome Therapy Resistance in Cancer Stem Cells: Mechanisms and Clinical Perspectives.",
+      "authors": "Huang J; Yang X; Li F; Li X; Wei H; Li M",
+      "year": 2026,
+      "doi": "10.3390/cells15121107",
+      "pmid": "42346134",
+      "pmcid": "PMC13296908",
+      "abstract": "Cancer stem cells (CSCs) constitute a resilient tumor subpopulation responsible for multidrug resistance, metastasis, and clinical relapse. A cardinal hallmark of these cells is profound metabolic plasticity. This dynamic defense mechanism facilitates rapid shifts between glycolysis, oxidative phosphorylation (OXPHOS), and alternative nutrient catabolism, enabling CSCs to bypass microenvironmental constraints. This review delineates how glycolytic adaptation functions as a primary driver of therapy resistance within the CSC niche. We dissect the regulatory triad controlling these metabolic shifts, which includes rate-limiting enzymes, epigenetic and epitranscriptomic remodeling, and master transcription factors. Glycolytic reprogramming transcends bioenergetics by acting as a metabolic signaling node. It integrates with the epithelial-mesenchymal transition (EMT) program, autophagic pathways, and the immunosuppressive tumor microenvironment (TME) to fortify CSC survival. We appraise emerging therapeutic interventions targeting these metabolic vulnerabilities. Strategies focus on optimizing small-molecule inhibitors, nanotechnology-enabled delivery systems, and immunometabolic combination regimens. This review establishes a conceptual framework for precision interventions aimed at disrupting CSC plasticity, overcoming therapeutic resistance, and preventing tumor recurrence.",
+      "url": "https://europepmc.org/articles/PMC13296908",
+      "pdf_url": "https://europepmc.org/articles/PMC13296908?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c8/c9/PMC13296908.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\huang_2026_targeting_glycolytic_plasticity_to_overcome_therapy_resistance_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "PMID:42346134",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of N&lt;sup&gt;6&lt;/sup&gt;-Methyladenosine Modification in Health and Disease.",
+      "authors": "Li L; Sun Y; Zheng W; Li L; Feng Y; Qi M; Li H",
+      "year": 2026,
+      "doi": "10.1002/mco2.70767",
+      "pmid": "42164653",
+      "pmcid": "PMC13183813",
+      "abstract": "Emerging evidence highlights that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most prevalent internal RNA modification in eukaryotes, serves as a critical epitranscriptomic regulator of RNA metabolism. This posttranscriptional modification modulates alternative splicing, nuclear export, stability, and translation, thereby regulating various physiological processes. Notably, dysregulation of m<sup>6</sup>A-associated modifiers (writers/erasers/readers) is implicated in a variety of diseases, such as metabolic disorders and cancer. Despite the rapid progress of m<sup>6</sup>A-mediated emerging therapeutic strategies, there remains an imperative to bridge the gap between basic epitranscriptomics and clinical application. This review systematically depicts recent advances in understanding m<sup>6</sup>A-mediated epitranscriptomic regulation, with particular focus on its dual role in maintaining cellular homeostasis and driving disease progression upon dysregulation, provides a dedicated exploration of m<sup>6</sup>A-regulated mitochondrial remodeling, and outlines cutting-edge technologies for m<sup>6</sup>A mapping and inhibitors targeting m<sup>6</sup>A modifiers. Furthermore, we conduct an in-depth exploration of the existing limitations and therapeutic potential associated with targeting m<sup>6</sup>A modification. Acting as a pivotal link between epitranscriptomics and medicine, m<sup>6</sup>A modification provides novel perspectives for developing precision interventions in complex human diseases.",
+      "url": "https://europepmc.org/articles/PMC13183813",
+      "pdf_url": "https://europepmc.org/articles/PMC13183813?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/04/PMC13183813.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "PMID:42164653",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ubiquitination-dependent regulation of ferroptosis in ischemic heart and brain.",
+      "authors": "Zhang YY; Long XY; Tian J; Luo XJ; Peng J",
+      "year": 2026,
+      "doi": "10.1016/j.redox.2026.104249",
+      "pmid": "42263416",
+      "pmcid": "PMC13273139",
+      "abstract": "Ischemia-reperfusion (I/R) injury is a major cause of tissue damage after myocardial infarction and ischemic stroke. Ferroptosis is an iron-dependent form of regulated cell death (RCD) marked by phospholipid peroxidation, and it is an important contributor to I/R-related injury. Although oxidative stress and lipid peroxidation are common features of I/R injury, they do not fully explain why ferroptosis sensitivity increases during reperfusion. Recent studies have shown that ferroptosis is also influenced by the ubiquitin system. Changes in ubiquitination and deubiquitination regulate key proteins involved in iron metabolism, lipid remodeling, and antioxidant defense, thereby altering cell susceptibility to ferroptosis under I/R stress. This review summarizes current evidence showing how ubiquitin-dependent regulation controls ferroptosis in both cardiac and cerebral I/R injury. We focus on mechanisms that disrupt iron homeostasis, weaken antioxidant defenses, increase oxidation-sensitive membrane lipids, and alter organelle stress responses. We also highlight the shared mechanisms in the heart and brain, while noting that the main ubiquitin-regulated control points differ between these tissues. In addition, we discuss emerging therapeutic strategies targeting selected E3 ubiquitin ligases and deubiquitinating enzymes. A better understanding of the ubiquitin-ferroptosis axis may support the development of more precise therapies for ischemic injury in the cardiovascular and cerebrovascular systems.",
+      "url": "https://europepmc.org/articles/PMC13273139",
+      "pdf_url": "https://europepmc.org/articles/PMC13273139?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/05/cd/PMC13273139.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\zhang_2026_ubiquitination_dependent_regulation_of_ferroptosis_in_ischemic_heart.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "PMID:42263416",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A epitranscriptomic remodeling links redox stress to mitochondrial quality control and programmed cell death in sepsis-induced myocardial dysfunction.",
+      "authors": "Chen M; Fu B; Wu Q",
+      "year": 2026,
+      "doi": "10.1016/j.redox.2026.104178",
+      "pmid": "42030647",
+      "pmcid": "PMC13125911",
+      "abstract": "Sepsis-induced myocardial dysfunction (SIMD) is a major contributor to sepsis-related mortality and is characterized by excessive oxidative stress, mitochondrial dysfunction, and heterogeneous forms of programmed cell death. However, how cardiomyocytes interpret redox stress and commit to distinct death pathways remains incompletely understood. Increasing evidence suggests that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most abundant internal RNA modification, functions as a dynamic post-transcriptional regulator linking redox signaling to mitochondrial homeostasis and cell fate decisions. This review summarizes recent advances indicating that m<sup>6</sup>A-dependent regulatory networks integrate mitochondrial reactive oxygen species (mtROS), mitochondrial quality control (MQC), and downstream cell death pathways in SIMD. Under septic conditions, sustained inflammation and oxidative stress perturb the balance of m<sup>6</sup>A writers, erasers, and readers, leading to maladaptive remodeling of mitochondrial dynamics, mitophagy, and biogenesis. Such epitranscriptomic dysregulation is associated with mtROS accumulation, impaired mitochondrial renewal, and a shift from adaptive redox compensation toward irreversible cardiomyocyte injury. Importantly, emerging evidence suggests that m<sup>6</sup>A remodeling does not uniformly activate cell death but modulates redox signal processing in a context-dependent manner. Preferential amplification of inflammatory sensing and inflammasome signaling may bias mtROS toward pyroptotic execution, whereas compromised antioxidant capacity, iron handling, and lipid metabolism may increase vulnerability to ferroptosis. On this basis, we propose the m<sup>6</sup>A-ROS-MQC axis as a unifying, hypothesis-driven framework for understanding SIMD pathogenesis, in which m<sup>6</sup>A acts as a redox-responsive epitranscriptomic regulator coordinating mitochondrial adaptation and programmed cell death decisions.",
+      "url": "https://europepmc.org/articles/PMC13125911",
+      "pdf_url": "https://europepmc.org/articles/PMC13125911?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/19/92/PMC13125911.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\chen_2026_m_lt_sup_gt_6_lt_sup_gt.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "PMID:42030647",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A modification in skeletal system diseases (Review).",
+      "authors": "Xie X; Li C; Zheng H; Gan G; Gao X",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13908",
+      "pmid": "42169641",
+      "pmcid": "PMC13220071",
+      "abstract": "N6‑methyladenosine (m<sup>6</sup>A) modifications are key epigenetic regulatory mechanisms in mammals and serve key roles in both normal skeletal development and the pathogenesis of skeletal disorder. The dynamic and reversible regulation of m<sup>6</sup>A relies on three core factors: Methyltransferases (writers), demethylases (erasers) and m<sup>6</sup>A‑binding proteins (readers), which collectively ensure proper physiological functions. Despite this, the functions and regulatory mechanisms of numerous m<sup>6</sup>A‑associated factors in skeletal diseases remain insufficiently understood. m6A modification maintains bone homeostasis during skeletal development primarily by regulating the balance between osteoblasts and osteoclasts. Under pathological conditions, dysregulated m<sup>6</sup>A modification contributes to aberrant osteoclast proliferation and chondrocyte apoptosis, leading to bone loss and cartilage degeneration. These pathological changes are key contributors to common types of skeletal disorder, including osteoporosis, osteoarthritis, rheumatoid arthritis and intervertebral disc degeneration, imposing a burden on human health. Non‑coding RNAs are major targets of m<sup>6</sup>A modification and their interactions exert post‑transcriptional regulation in skeletal biology. The present review summarizes the roles and mechanisms of m<sup>6</sup>A modification in skeletal diseases and highlights its therapeutic potential, offering novel perspectives for disease prevention and treatment.",
+      "url": "https://europepmc.org/articles/PMC13220071",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8f/06/mmr-34-01-13908.PMC13220071.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/06/PMC13220071.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "PMID:42169641",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A RNA modification and its emerging roles in diseases: recent advances and therapeutic implications.",
+      "authors": "Kansal R; Sharma V; Potraje P; Datta M",
+      "year": 2026,
+      "doi": "10.1186/s12967-026-07805-y",
+      "pmid": "41731568",
+      "pmcid": "PMC13032713",
+      "abstract": "BACKGROUND: In the recent past, insights in post transcriptional regulation of gene expression have profoundly reshaped our understanding of the molecular mechanisms underlying health and disease. This paradigm shift largely stems from the emerging field of epitranscriptomics, which highlights the pivotal role of chemical RNA modifications. While more than 170 distinct chemical modifications on the RNA are known, the m6A modification is the most abundant internal mRNA modification in higher eukaryotic cells, present not only on protein coding transcripts but also on non-coding RNAs, regulated by “writers”, “erasers”, and “readers” that together modulate alternative splicing, nuclear export, translation efficiency, and mRNA stability. MAIN BODY: This review addresses an important gap by presenting a multilayered regulatory framework that catalogs the full repertoire of m6A machinery and uniquely reveals how non-coding RNAs, transcription factors, histone modifications, and chromatin remodelers governs the spatiotemporal specificity of m6A modification. We explore how dysregulation of m6A modification and its regulatory proteins contribute to the development and progression of various diseases such as cardiovascular disease, neurological disorders, cancer, and type 2 diabetes through context-dependent modulation of gene networks. Furthermore, we present an integrative overview of the therapeutic pipeline, tracing the development of small-molecule inhibitors targeting m6A regulators, thus bridging a crucial link between fundamental mechanisms and new therapies. CONCLUSIONS: Overall, this review integrates current findings and emerging insights to provide a comprehensive understanding of m6A biology. By linking upstream regulatory mechanisms with downstream pathological consequences and therapeutic interventions, we highlight the potential of targeting the epitranscriptome for clinical applications.",
+      "url": "https://europepmc.org/articles/PMC13032713",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/45/47/12967_2026_Article_7805.PMC13032713.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/45/47/PMC13032713.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "PMID:41731568",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic regulation in metabolic diseases: mechanisms and advances in clinical study",
+      "authors": "Yanlin Wu; Zhengjun Lin; Changchun Li; Xiao Lin; Su‐Kang Shan; Bei Guo; Ming-Hui Zheng; Fu‐Xing‐Zi Li; Ling‐Qing Yuan; Zhihong Li",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01333-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetics regulates gene expression and has been confirmed to play a critical role in a variety of metabolic diseases, such as diabetes, obesity, non-alcoholic fatty liver disease (NAFLD), osteoporosis, gout, hyperthyroidism, hypothyroidism and others. The term 'epigenetics' was firstly proposed in 1942 and with the development of technologies, the exploration of epigenetics has made great progresses. There are four main epigenetic mechanisms, including DNA methylation, histone modification, chromatin remodelling, and noncoding RNA (ncRNA), which exert different effects on metabolic diseases. Genetic and non-genetic factors, including ageing, diet, and exercise, interact with epigenetics and jointly affect the formation of a phenotype. Understanding epigenetics could be applied to diagnosing and treating metabolic diseases in the clinic, including epigenetic biomarkers, epigenetic drugs, and epigenetic editing. In this review, we introduce the brief history of epigenetics as well as the milestone events since the proposal of the term 'epigenetics'. Moreover, we summarise the research methods of epigenetics and introduce four main general mechanisms of epigenetic modulation. Furthermore, we summarise epigenetic mechanisms in metabolic diseases and introduce the interaction between epigenetics and genetic or non-genetic factors. Finally, we introduce the clinical trials and applications of epigenetics in metabolic diseases.",
+      "url": "https://doi.org/10.1038/s41392-023-01333-7",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01333-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "W4322770791",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ISID1298 - Membranal expression of calreticulin induced by unfolded protein response in melanocytes: A mechanism underlying oxidative stress-induced autoimmunity in vitiligo",
+      "authors": "Pu Song",
+      "year": 2023,
+      "doi": "10.26226/m.64199a0a70c3630019098f86",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/m.64199a0a70c3630019098f86",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "10.26226/m.64199a0a70c3630019098f86",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "PGC-1α Is a Master Regulator of Mitochondrial Lifecycle and ROS Stress Response",
+      "authors": "Othman Abu Shelbayeh; Tasnim Arroum; Silke Morris; Karin B. Busch",
+      "year": 2023,
+      "doi": "10.3390/antiox12051075",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Mitochondria play a major role in ROS production and defense during their life cycle. The transcriptional activator PGC-1α is a key player in the homeostasis of energy metabolism and is therefore closely linked to mitochondrial function. PGC-1α responds to environmental and intracellular conditions and is regulated by SIRT1/3, TFAM, and AMPK, which are also important regulators of mitochondrial biogenesis and function. In this review, we highlight the functions and regulatory mechanisms of PGC-1α within this framework, with a focus on its involvement in the mitochondrial lifecycle and ROS metabolism. As an example, we show the role of PGC-1α in ROS scavenging under inflammatory conditions. Interestingly, PGC-1α and the stress response factor NF-κB, which regulates the immune response, are reciprocally regulated. During inflammation, NF-κB reduces PGC-1α expression and activity. Low PGC-1α activity leads to the downregulation of antioxidant target genes resulting in oxidative stress. Additionally, low PGC-1α levels and concomitant oxidative stress promote NF-κB activity, which exacerbates the inflammatory response.",
+      "url": "https://doi.org/10.3390/antiox12051075",
+      "pdf_url": "https://www.mdpi.com/2076-3921/12/5/1075/pdf?version=1683715134",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain",
+        "FTO promoter transcription factor oxidative stress other tissues",
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "W4376138860",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Premature ovarian insufficiency: a review on the role of oxidative stress and the application of antioxidants",
+      "authors": "Yuqian Shi; Xi-Ting Zhu; Zhang Su-na; Yifu Ma; Yanhua Han; Jiang Yue; Yuehui Zhang",
+      "year": 2023,
+      "doi": "10.3389/fendo.2023.1172481",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Normal levels of reactive oxygen species (ROS) play an important role in regulating follicular growth, angiogenesis and sex hormone synthesis in ovarian tissue. When the balance between ROS and antioxidants is disrupted, however, it can cause serious consequences of oxidative stress (OS), and the quantity and quality of oocytes will decline. Therefore, this review discusses the interrelationship between OS and premature ovarian insufficiency (POI), the potential mechanisms and the methods by which antioxidants can improve POI through controlling the level of OS. We found that OS can mediate changes in genetic materials, signal pathways, transcription factors and ovarian microenvironment, resulting in abnormal apoptosis of ovarian granulosa cells (GCs) and abnormal meiosis as well as decreased mitochondrial Deoxyribonucleic Acid(mtDNA) and other changes, thus accelerating the process of ovarian aging. However, antioxidants, mesenchymal stem cells (MSCs), biological enzymes and other antioxidants can delay the disease process of POI by reducing the ROS level in vivo .",
+      "url": "https://doi.org/10.3389/fendo.2023.1172481",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1172481/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "W4385454266",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Trends in insulin resistance: insights into mechanisms and therapeutic strategy",
+      "authors": "Mengwei Li; Xiaowei Chi; Ying Wang; Sarra Setrerrahmane; Wenwei Xie; Hanmei Xu",
+      "year": 2022,
+      "doi": "10.1038/s41392-022-01073-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The centenary of insulin discovery represents an important opportunity to transform diabetes from a fatal diagnosis into a medically manageable chronic condition. Insulin is a key peptide hormone and mediates the systemic glucose metabolism in different tissues. Insulin resistance (IR) is a disordered biological response for insulin stimulation through the disruption of different molecular pathways in target tissues. Acquired conditions and genetic factors have been implicated in IR. Recent genetic and biochemical studies suggest that the dysregulated metabolic mediators released by adipose tissue including adipokines, cytokines, chemokines, excess lipids and toxic lipid metabolites promote IR in other tissues. IR is associated with several groups of abnormal syndromes that include obesity, diabetes, metabolic dysfunction-associated fatty liver disease (MAFLD), cardiovascular disease, polycystic ovary syndrome (PCOS), and other abnormalities. Although no medication is specifically approved to treat IR, we summarized the lifestyle changes and pharmacological medications that have been used as efficient intervention to improve insulin sensitivity. Ultimately, the systematic discussion of complex mechanism will help to identify potential new targets and treat the closely associated metabolic syndrome of IR.",
+      "url": "https://doi.org/10.1038/s41392-022-01073-0",
+      "pdf_url": "https://www.nature.com/articles/s41392-022-01073-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\mengwei_2022_trends_in_insulin_resistance_insights_into_mechanisms_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "W4284890877",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A modification in the biological functions and diseases",
+      "authors": "Xiulin Jiang; Baiyang Liu; Zhi Nie; Lincan Duan; Qiuxia Xiong; Zhixian Jin; Cuiping Yang; Yongbin Chen",
+      "year": 2021,
+      "doi": "10.1038/s41392-020-00450-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "-methyladenosine (m6A) is the most prevalent, abundant and conserved internal cotranscriptional modification in eukaryotic RNAs, especially within higher eukaryotic cells. m6A modification is modified by the m6A methyltransferases, or writers, such as METTL3/14/16, RBM15/15B, ZC3H3, VIRMA, CBLL1, WTAP, and KIAA1429, and, removed by the demethylases, or erasers, including FTO and ALKBH5. It is recognized by m6A-binding proteins YTHDF1/2/3, YTHDC1/2 IGF2BP1/2/3 and HNRNPA2B1, also known as \"readers\". Recent studies have shown that m6A RNA modification plays essential role in both physiological and pathological conditions, especially in the initiation and progression of different types of human cancers. In this review, we discuss how m6A RNA methylation influences both the physiological and pathological progressions of hematopoietic, central nervous and reproductive systems. We will mainly focus on recent progress in identifying the biological functions and the underlying molecular mechanisms of m6A RNA methylation, its regulators and downstream target genes, during cancer progression in above systems. We propose that m6A RNA methylation process offer potential targets for cancer therapy in the future.",
+      "url": "https://doi.org/10.1038/s41392-020-00450-x",
+      "pdf_url": "https://www.nature.com/articles/s41392-020-00450-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "W3133117790",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Applications of genome editing technology in the targeted therapy of human diseases: mechanisms, advances and prospects",
+      "authors": "Hongyi Li; Yang Yang; Weiqi Hong; Mengyuan Huang; Min Wu; Xia Zhao",
+      "year": 2020,
+      "doi": "10.1038/s41392-019-0089-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Based on engineered or bacterial nucleases, the development of genome editing technologies has opened up the possibility of directly targeting and modifying genomic sequences in almost all eukaryotic cells. Genome editing has extended our ability to elucidate the contribution of genetics to disease by promoting the creation of more accurate cellular and animal models of pathological processes and has begun to show extraordinary potential in a variety of fields, ranging from basic research to applied biotechnology and biomedical research. Recent progress in developing programmable nucleases, such as zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs) and clustered regularly interspaced short palindromic repeat (CRISPR)-Cas-associated nucleases, has greatly expedited the progress of gene editing from concept to clinical practice. Here, we review recent advances of the three major genome editing technologies (ZFNs, TALENs, and CRISPR/Cas9) and discuss the applications of their derivative reagents as gene editing tools in various human diseases and potential future therapies, focusing on eukaryotic cells and animal models. Finally, we provide an overview of the clinical trials applying genome editing platforms for disease treatment and some of the challenges in the implementation of this technology.",
+      "url": "https://doi.org/10.1038/s41392-019-0089-y",
+      "pdf_url": "https://www.nature.com/articles/s41392-019-0089-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "W2998881619",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Chromatin Regulation and Transcription Factor Cooperation in Liver Cells",
+      "authors": "Ido Goldstein",
+      "year": 2020,
+      "doi": "10.1002/9781119436812.ch81",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/9781119436812.ch81",
+      "pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F9781119436812.ch81",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "10.1002/9781119436812.ch81",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"Chromatin accessibility of kidney tubule cells under stress reveals key transcription factor mediating acute and chronic kidney disease\"",
+      "authors": "",
+      "year": 2020,
+      "doi": "10.1111/febs.15818/v1/review1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1111/febs.15818/v1/review1",
+      "pdf_url": "https://doi.org/10.1111/febs.15818/v1/review1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "10.1111/febs.15818/v1/review1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"Chromatin accessibility of kidney tubule cells under stress reveals key transcription factor mediating acute and chronic kidney disease\"",
+      "authors": "",
+      "year": 2020,
+      "doi": "10.1111/febs.15818/v1/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1111/febs.15818/v1/review2",
+      "pdf_url": "https://doi.org/10.1111/febs.15818/v1/review2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "10.1111/febs.15818/v1/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of oxidative stress in the development of obesity and obesity-related metabolic disorders",
+      "authors": "Emina Čolak; Dragana Pap",
+      "year": 2020,
+      "doi": "10.5937/jomb0-24652",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Obesity is a serious medical condition, defined as excessive accumulation of fat. Abdominal fat is recognized as the major risk for obesity related diseases such as: hypertension, dyslipidemia, type 2 diabetes mellitus, coronary heart disease, stroke, non-alcoholic fatty liver disease etc. Fat accumulation is also related to pro-oxidant and pro-inflammatory states. Recently published articles suggest that oxidative stress may be a link between obesity and related complications. Adiposity leads to increased oxidative stress via several multiple biochemical processes such as superoxide generation through the action of NADPH oxidase, glyceraldehyde auto-oxidation, oxidative phosphorylation, protein kinase C (PKC) activation, and polyol and hexosamine pathways. On the other hand, oxidative stress plays a causative role in the development of obesity, by stimulating the deposition of adipose tissue, including preadipocyte proliferation, adipocyte differentiation and growth. Exercise-induced weight loss can improve the redox state by modulating both oxidative stress and antioxidant promoters, which reduce endothelial dysfunction and inflammation.",
+      "url": "https://doi.org/10.5937/jomb0-24652",
+      "pdf_url": "https://scindeks-clanci.ceon.rs/data/pdf/1452-8258/2021/1452-82582101001Q.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\emina_2020_the_role_of_oxidative_stress_in_the_development.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "W3008834197",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Influence of Genetic Factor on Oxidative Stress Mediated Heart Damage",
+      "authors": "Branislav Rovcanin",
+      "year": 2019,
+      "doi": "10.1007/978-981-13-8273-4_11",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-981-13-8273-4_11",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "10.1007/978-981-13-8273-4_11",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Physical Activity and Brain Health",
+      "authors": "Carlo Maria Di Liegro; Gabriella Schiera; Patrizia Proia; Italia Di Liegro",
+      "year": 2019,
+      "doi": "10.3390/genes10090720",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Physical activity (PA) has been central in the life of our species for most of its history, and thus shaped our physiology during evolution. However, only recently the health consequences of a sedentary lifestyle, and of highly energetic diets, are becoming clear. It has been also acknowledged that lifestyle and diet can induce epigenetic modifications which modify chromatin structure and gene expression, thus causing even heritable metabolic outcomes. Many studies have shown that PA can reverse at least some of the unwanted effects of sedentary lifestyle, and can also contribute in delaying brain aging and degenerative pathologies such as Alzheimer’s Disease, diabetes, and multiple sclerosis. Most importantly, PA improves cognitive processes and memory, has analgesic and antidepressant effects, and even induces a sense of wellbeing, giving strength to the ancient principle of “mens sana in corpore sano” (i.e., a sound mind in a sound body). In this review we will discuss the potential mechanisms underlying the effects of PA on brain health, focusing on hormones, neurotrophins, and neurotransmitters, the release of which is modulated by PA, as well as on the intra- and extra-cellular pathways that regulate the expression of some of the genes involved.",
+      "url": "https://doi.org/10.3390/genes10090720",
+      "pdf_url": "https://www.mdpi.com/2073-4425/10/9/720/pdf?version=1568972024",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "W2973472844",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO-Dependent N <sup>6</sup> -Methyladenosine Regulates Cardiac Function During Remodeling and Repair",
+      "authors": "Prabhu Mathiyalagan; Marta Adamiak; Joshua Mayourian; Yassine Sassi; Yaxuan Liang; Neha Agarwal; Divya Jha; Shihong Zhang; Erik Kohlbrenner; Elena Chepurko; Jiqiu Chen; Maria G. Trivieri; Rajvir Singh; Rihab Bouchareb; Kenneth Fish; Kiyotake Ishikawa; Djamel Lebeche; Roger J. Hajjar; Susmita Sahoo",
+      "year": 2018,
+      "doi": "10.1161/circulationaha.118.033794",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: -methyladenosine (m6A) in the heart are lacking. Here, we show that the FTO (fat mass and obesity-associated protein), an m6A demethylase, plays a critical role in cardiac contractile function during homeostasis, remodeling, and regeneration. METHODS: We used clinical human samples, preclinical pig and mouse models, and primary cardiomyocyte cell cultures to study the functional role of m6A and FTO in the heart and in cardiomyocytes. We modulated expression of FTO by using adeno-associated virus serotype 9 (in vivo), adenovirus (both in vivo and in vitro), and small interfering RNAs (in vitro) to study its function in regulating cardiomyocyte m6A, calcium dynamics and contractility, and cardiac function postischemia. We performed methylated (m6A) RNA immunoprecipitation sequencing to map transcriptome-wide m6A, and methylated (m6A) RNA immunoprecipitation quantitative polymerase chain reaction assays to map and validate m6A in individual transcripts, in healthy and failing hearts, and in myocytes. RESULTS: We discovered that FTO has decreased expression in failing mammalian hearts and hypoxic cardiomyocytes, thereby increasing m6A in RNA and decreasing cardiomyocyte contractile function. Improving expression of FTO in failing mouse hearts attenuated the ischemia-induced increase in m6A and decrease in cardiac contractile function. This is performed by the demethylation activity of FTO, which selectively demethylates cardiac contractile transcripts, thus preventing their degradation and improving their protein expression under ischemia. In addition, we demonstrate that FTO overexpression in mouse models of myocardial infarction decreased fibrosis and enhanced angiogenesis. CONCLUSIONS: Collectively, our study demonstrates the functional importance of the FTO-dependent cardiac m6A methylome in cardiac contraction during heart failure and provides a novel mechanistic insight into the therapeutic mechanisms of FTO.",
+      "url": "https://doi.org/10.1161/circulationaha.118.033794",
+      "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.118.033794",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "W2837459302",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Intravenous NAD+ effectively increased the NAD metabolome, reduced oxidative stress and inflammation, and increased expression of longevity genes safely in elderly humans",
+      "authors": "Nady Braıdy",
+      "year": 2018,
+      "doi": "10.37212/jcnos.610084",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p xml:lang=\"en\">Nicotinamide adenine dinucleotide (NAD+) serves important roles in hydrogen transfer and as the cosubstrate for poly(ADP-ribose) polymerase (PARPs), the sirtuin (SIRT1-7) family of enzymes, and CD38 glycohydrolases. Recently, intravenous (IV) NAD+ therapy has been used as a holistic approach to treat withdrawal from addiction, overcome anxiety and depression, and improve overall quality of life with minimal symptoms between 3-7 days of treatment. We evaluated repeat dose IV NAD+ (1000 mg) for 6 days in a population of 8 healthy adults between the ages of 70 and 80 years. Our data is the first to show that IV NAD+ increases the blood NAD+ metabolome in elderly humans. We found increased concentrations of glutathione peroxidase -3 and paraoxonase-1, anddecreased concentrations of 8-iso-prostaglandin F2α, advanced oxidative protein products, protein carbonyl, C-reactive protein and interleukin 6. We report significant increases in mRNA expression and activity of SIRT1, and Forkhead box O1, and reduced acetylated p53 in peripheral blood mononuclear cells isolated from these subjects. No major adverse effects were reported in this study. The study shows that repeat IV dose of NAD+ is a safe and efficient way to slow down age-related decline in NAD+.</jats:p>",
+      "url": "https://doi.org/10.37212/jcnos.610084",
+      "pdf_url": "https://dergipark.org.tr/tr/download/article-file/791736",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\nady_2018_intravenous_nad_effectively_increased_the_nad_metabolome_reduced.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "10.37212/jcnos.610084",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Metabolic regulation of chromatin modifications and gene expression",
+      "authors": "Juan M. Schvartzman; Craig B. Thompson; Lydia W.S. Finley",
+      "year": 2018,
+      "doi": "10.1083/jcb.201803061",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Dynamic regulation of gene expression in response to changing local conditions is critical for the survival of all organisms. In metazoans, coherent regulation of gene expression programs underlies the development of functionally distinct cell lineages. The cooperation between transcription factors and the chromatin landscape enables precise control of gene expression in response to cell-intrinsic and cell-extrinsic signals. Many of the chemical modifications that decorate DNA and histones are adducts derived from intermediates of cellular metabolic pathways. In addition, several of the enzymes that can remove these marks use metabolites as part of their enzymatic reaction. These observations have led to the hypothesis that fluctuations in metabolite levels influence the deposition and removal of chromatin modifications. In this review, we consider the emerging evidence that cellular metabolic activity contributes to gene expression and cell fate decisions through metabolite-dependent effects on chromatin organization.",
+      "url": "https://doi.org/10.1083/jcb.201803061",
+      "pdf_url": "https://rupress.org/jcb/article-pdf/217/7/2247/1378862/jcb_201803061.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "W2804524416",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oxidative Stress and Disease",
+      "authors": "Rosngela F.F. de Araújo; Danyelly Bruneska G. Martins; Maria Amélia C.S.M. Borba",
+      "year": 2016,
+      "doi": "10.5772/65366",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.5772/65366",
+      "pdf_url": "https://www.intechopen.com/citation-pdf-url/52857",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\rosngela_2016_oxidative_stress_and_disease.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "10.5772/65366",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reduced Oxidative Stress as a Mechanism for Increased Longevity, Exercise and Heart Failure Protection with Adenylyl Cyclase Type 5 Inhibition",
+      "authors": "Stephen F. Vatner; Jie Zhang; Dorothy E. Vatner",
+      "year": 2016,
+      "doi": "10.1007/978-3-319-45865-6_10",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-319-45865-6_10",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "10.1007/978-3-319-45865-6_10",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Metabolic Signaling to Chromatin",
+      "authors": "Shelley L. Berger; Paolo Sassone‐Corsi",
+      "year": 2015,
+      "doi": "10.1101/cshperspect.a019463",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "There is a dynamic interplay between metabolic processes and gene regulation via the remodeling of chromatin. Most chromatin-modifying enzymes use cofactors, which are products of metabolic processes. This article explores the biosynthetic pathways of the cofactors nicotinamide adenine dinucleotide (NAD), acetyl coenzyme A (acetyl-CoA), S-adenosyl methionine (SAM), α-ketoglutarate, and flavin adenine dinucleotide (FAD), and their role in metabolically regulating chromatin processes. A more detailed look at the interaction between chromatin and the metabolic processes of circadian rhythms and aging is described as a paradigm for this emerging interdisciplinary field.",
+      "url": "https://doi.org/10.1101/cshperspect.a019463",
+      "pdf_url": "http://cshperspectives.cshlp.org/content/8/11/a019463.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\papers\\shelley_2015_metabolic_signaling_to_chromatin.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain"
+      ],
+      "paper_id": "W2128377635",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanism and Function of Oxidative Reversal of DNA and RNA Methylation",
+      "authors": "Li Shen; Chun‐Xiao Song; Chuan He; Yi Zhang",
+      "year": 2014,
+      "doi": "10.1146/annurev-biochem-060713-035513",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The importance of eukaryotic DNA methylation [5-methylcytosine (5mC)] in transcriptional regulation and development was first suggested almost 40 years ago. However, the molecular mechanism underlying the dynamic nature of this epigenetic mark was not understood until recently, following the discovery that the TET proteins, a family of AlkB-like Fe(II)/α-ketoglutarate-dependent dioxygenases, can oxidize 5mC to generate 5-hydroxymethylcytosine (5hmC), 5-formylcytosine (5fC), and 5-carboxylcytosine (5caC). Since then, several mechanisms that are responsible for processing oxidized 5mC derivatives to achieve DNA demethylation have emerged. Our biochemical understanding of the DNA demethylation process has prompted new investigations into the biological functions of DNA demethylation. Characterization of two additional AlkB family proteins, FTO and ALKBH5, showed that they possess demethylase activity toward N(6)-methyladenosine (m(6)A) in RNA, indicating that members of this subfamily of dioxygenases have a general function in demethylating nucleic acids. In this review, we discuss recent advances in this emerging field, focusing on the mechanism and function of TET-mediated DNA demethylation.",
+      "url": "https://doi.org/10.1146/annurev-biochem-060713-035513",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060713-035513",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues",
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "W2171490882",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oxidants and Antioxidants",
+      "authors": "Lester Packer",
+      "year": 2005,
+      "doi": "10.1201/9781420028256.ch1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1201/9781420028256.ch1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "10.1201/9781420028256.ch1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oxidants and Antioxidants: Mechanism of Action and Regulation of Gene Expression by Bioflavonoids",
+      "authors": "",
+      "year": 2005,
+      "doi": "10.1201/9781420028256-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1201/9781420028256-5",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO reduced expression oxidative stress chromatin mechanism"
+      ],
+      "paper_id": "10.1201/9781420028256-5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "NRF as an Oxidative Stress and Nutrient Responsive Transcription Factor in Calorie Restriction",
+      "authors": "Laura Armstrong",
+      "year": 1970,
+      "doi": "10.23860/diss-armstrong-laura-2015",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.23860/diss-armstrong-laura-2015",
+      "pdf_url": "https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1424&context=oa_diss",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO downregulation oxidative stress chromatin transcription factor liver heart brain",
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "10.23860/diss-armstrong-laura-2015",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nrf2: a Transcription Factor that Modifies Susceptibility to Cigarette Smoke-Induced Pulmonary Oxidative Stress and Emphysema",
+      "authors": "Shyam Biswal; Thomas W. Kensler",
+      "year": 1970,
+      "doi": "10.1007/3-540-32232-9_14",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/3-540-32232-9_14",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "10.1007/3-540-32232-9_14",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Use of Particle-Mediated Gene Transfer for the Study of Promoter Activity in Somatic Tissues",
+      "authors": "Charles M. Nicolet; Ning-Sun Yang",
+      "year": 1970,
+      "doi": "10.1385/1-59259-686-x:103",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1385/1-59259-686-x:103",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "10.1385/1-59259-686-x:103",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcription Factor ROX1 Controls Oxidative Stress Homeostasis in Saccharomyces cerevisiae at Low pH",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.jafc.5c10561.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jafc.5c10561.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.jafc.5c10561/suppl_file/jf5c10561_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factor oxidative stress other tissues"
+      ],
+      "paper_id": "10.1021/acs.jafc.5c10561.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

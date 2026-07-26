@@ -1,0 +1,2525 @@
+{
+  "slug": "q08-restauracion-fto-fenotipos",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "Cancer and aging: complex associations and therapeutic targets.",
+      "authors": "Liang J; Zang S; Wang Z; Zhang R",
+      "year": 2026,
+      "doi": "10.1186/s43556-026-00423-6",
+      "pmid": "41915085",
+      "pmcid": "PMC13038835",
+      "abstract": "The incidence of cancer increases markedly with aging, and the two processes share underlying molecular mechanisms. In the context of global population aging and rising cancer incidence, nine convergent hallmark axes have been identified: genomic instability, epigenetic drift, inflammation-immunity imbalance, microbiome dysbiosis, metabolic reprogramming, telomere attrition, stem cell exhaustion, cellular senescence, and autophagy dysfunction. These hallmarks constitute an integrated regulatory network that operates synergistically, antagonistically, or through bidirectional feedback across molecular, cellular, and microenvironmental levels. Genomic instability, epigenetic remodeling, chronic inflammation, microbiome dysbiosis, and metabolic reprogramming in aging often act synergistically to promote tumorigenesis, whereas telomere attrition and stem cell exhaustion primarily exert antagonistic, tumor-suppressive effects. Cellular senescence and autophagy dysfunction display context-dependent dual roles. Importantly, this network framework has direct relevance to cancer therapeutics. Although chemotherapy, radiotherapy, and immunotherapy effectively suppress tumor progression, they frequently induce therapy-induced senescence, characterized by cell-cycle arrest and a senescence-associated secretory phenotype, thereby accelerating functional decline and increasing long-term toxicities in older patients. The proposed \"synergistic-antagonistic-dual\" framework linking aging and cancer not only helps explain the disproportionate cancer burden in older adults but also supports a \"one drug, two targets\" therapeutic paradigm. Targeting these shared pathways has delayed aging phenotypes and suppressed tumorigenesis in preclinical studies and early clinical trials, highlighting the potential of integrated interventions that concurrently address aging and cancer.",
+      "url": "https://europepmc.org/articles/PMC13038835",
+      "pdf_url": "https://europepmc.org/articles/PMC13038835?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/27/8f/PMC13038835.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "PMID:41915085",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Critical roles of m6A demethylase FTO in ovarian aging",
+      "authors": "Saba Hadi; S. Khoshraftar; Amirhossain Darabi; H. Nejabati",
+      "year": 2026,
+      "doi": "10.1007/s10522-026-10401-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/6b5a2b40e7365ffc4f1fed4e99f74d98234e9e84",
+      "pdf_url": "https://doi.org/10.1007/s10522-026-10401-8",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "6b5a2b40e7365ffc4f1fed4e99f74d98234e9e84",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic alterations in cancer metastasis: molecular mechanisms and implications for precision oncology.",
+      "authors": "Turna S; Demokan S",
+      "year": 2026,
+      "doi": "10.3389/fonc.2026.1788808",
+      "pmid": "42137145",
+      "pmcid": "PMC13167426",
+      "abstract": "Metastasis is a complex, multistep process that underlies the majority of cancer-related deaths and is increasingly recognized as a consequence of dynamic epigenetic reprogramming rather than solely genetic alterations. Epigenetic mechanisms enable stable yet reversible changes in gene expression that drive cellular plasticity throughout the metastatic cascade, including epithelial-mesenchymal transition (EMT), intravasation, survival as circulating tumor cells, extravasation, dormancy, and metastatic colonization. In this review, we provide an integrated overview of the molecular epigenetic mechanisms regulating cancer metastasis, with particular emphasis on DNA methylation, histone post-translational modifications, chromatin remodeling complexes, and non-coding RNAs. We discuss how these epigenetic regulators interact with key EMT-associated signaling pathways to control phenotypic plasticity, anoikis resistance, and metastatic niche adaptation. In addition, emerging evidence supports the clinical relevance of metastasis-associated epigenetic alterations, including DNA methylation signatures, histone modification patterns, and non-coding RNA profiles, as promising diagnostic and prognostic biomarkers. Selected examples such as aberrant CDH1 promoter methylation, miR-200 family dysregulation, and EZH2-mediated chromatin remodeling illustrate their potential utility in patient stratification and therapeutic targeting. A deeper mechanistic understanding of epigenetic regulation across metastatic stages may facilitate the development of clinically actionable biomarkers and combination therapies in precision oncology.",
+      "url": "https://europepmc.org/articles/PMC13167426",
+      "pdf_url": "https://europepmc.org/articles/PMC13167426?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ff/9e/PMC13167426.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal",
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "PMID:42137145",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+      "authors": "Zhang Y; Yang Y; Liao Q; Chen X; Wang K; Zhang R; Li J; Liu H",
+      "year": 2026,
+      "doi": "10.1186/s13072-026-00664-3",
+      "pmid": "42050634",
+      "pmcid": "PMC13274177",
+      "abstract": "Ovarian aging leads to the progressive loss of reproductive and endocrine functions. As an upstream regulatory hub, epigenetic modifications synergistically impair these two functions through multi-dimensional mechanisms, collectively contributing to the occurrence of clinical phenotypes. Current therapies (e.g., hormone replacement therapy) are difficult to reverse functional decline and carry long-term risks. This review systematically elaborates on the core roles of three major epigenetic mechanisms in ovarian aging: DNA methylation (mediated by DNMTs/TET), histone modification (dynamic balance of HATs/HDACs), and non-coding RNA (miRNA/lncRNA/circRNA network). Dysregulation of DNA methylation reprogramming drives the imbalance between dormancy and activation of primordial follicles and impairs steroidogenesis. Dysregulated histone modification induces spindle assembly defects, meiotic arrest, and a vicious cycle of apoptosis and autophagy in granulosa cells. ncRNAs regulate oocyte maturation through the ceRNA mechanism and epitranscriptomic reprogramming (e.g., m6A). These mechanisms synergistically accelerate ovarian aging through multiple pathways, including interfering with the HPG axis, aggravating oxidative stress-mitochondrial dysfunction, and disrupting apoptosis/autophagy homeostasis. Although epigenetic interventions still face potential transgenerational genetic safety risks, against the backdrop of high incidence and global population aging, the development of novel therapies that specifically target somatic cells or can avoid such risks has become an urgent need. In the future, targeting key epigenetic nodes is still expected to open up new avenues for extending female reproductive lifespan and alleviating long-term health risks associated with ovarian aging.",
+      "url": "https://europepmc.org/articles/PMC13274177",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/77/3d/13072_2026_Article_664.PMC13274177.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/77/3d/PMC13274177.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "PMID:42050634",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+      "authors": "Cui X; Zeng L; Zhang W; Xi L; Wang R; Jia D; Safa; Feng H; Jia H",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13913",
+      "pmid": "42169659",
+      "pmcid": "PMC13238957",
+      "abstract": "Intervertebral disc degeneration (IVDD) is increasingly recognized as a systemic collapse of the epigenetic regulatory network, driven by cellular senescence and environmental stressors. The present review provides an overview of the epigenetic regulatory mechanisms governing IVDD, focusing on the dynamic interplay between DNA methylation, histone modifications, N6‑methyladenosine RNA methylation and the non‑coding RNA regulatory triad (microRNAs, long non‑coding RNAs and circular RNAs). The present study evaluates advanced research methodologies (ranging from site‑specific methylation typing and transposase accessible chromatin sequencing to single‑cell multi‑omics and artificial intelligence‑driven predictive modeling) that resolve the spatial and cellular heterogeneities of the degenerating disc niche. Furthermore, the translational constraints of current animal models were critically assessed, advocating for a strategic shift from acute needle‑puncture insults to physiologically relevant aging and genetically engineered progeroid models to better recapitulate human 'epigenetic drift'. Finally, the therapeutic potential of targeted epigenetic editing via CRISPR/dCas9 systems and the development of stimuli‑responsive nanocarriers for precision delivery are highlighted. By bridging methodological innovation with robust model selection, the present review offers a roadmap for transitioning molecular insights into clinical regenerative therapies for spinal health.",
+      "url": "https://europepmc.org/articles/PMC13238957",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/70/fd/mmr-34-01-13913.PMC13238957.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/70/fd/PMC13238957.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers",
+        "FTO overexpression restoration senescence phenotype reversal",
+        "epigenetic editing FTO restoration DNA damage senescence reversal",
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "PMID:42169659",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO-Eci1 Axis Mediates Exercise-Induced Cardioprotection in Pressure Overload Mice.",
+      "authors": "Wang J; Chang Z; Lin S; Sha G; Zeng W; Huang Q; Deng Q; Wang S; Hu M; Xia J",
+      "year": 2026,
+      "doi": "10.3390/biom16010098",
+      "pmid": "41594638",
+      "pmcid": "PMC12839096",
+      "abstract": "Regular exercise enhances heart function and metabolism. The N6-methyladenosine (m<sup>6</sup>A) RNA modification is related to myocardial homeostasis, with the demethylase fat mass and obesity-associated protein (FTO) crucial for myocardial remodeling. However, its role in exercise-induced heart protection is unclear. We analyzed m<sup>6</sup>A levels and methylation enzymes to evaluate FTO changes in transverse aortic constriction (TAC) mice hearts after six weeks of treadmill exercise. Further in vivo experiments explored the effect of FTO. High-throughput sequencing identified the target gene enoyl-CoA delta isomerase 1 (Eci1). Cardiac-specific <i>Eci1</i> knockout mice were used to assess the role of Eci1. The influence of FTO on Eci1 expression was explored by eliminating demethylase activity. The results showed that exercise increased FTO expression in TAC mice hearts. Reducing FTO in the heart diminishes exercise benefits. The differential m<sup>6</sup>A-modified genes in TAC mice hearts were enriched in fatty acid metabolism, with increased methylation of <i>Eci1</i> m<sup>6</sup>A and decreased protein levels, leading to abnormal lipid accumulation. Exercise could reverse these effects. <i>Eci1</i> knockout partially weakened exercise benefits. FTO regulated Eci1 expression via m<sup>6</sup>A modification, and inhibiting FTO demethylase activity blunted its protective effects on hypertrophic cardiomyocytes. Thus, FTO modulates Eci1 expression through m<sup>6</sup>A-dependent mechanisms, facilitates fatty acid metabolism and mitigates pressure overload-induced heart failure during exercise.",
+      "url": "https://europepmc.org/articles/PMC12839096",
+      "pdf_url": "https://europepmc.org/articles/PMC12839096?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/30/2d/PMC12839096.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "PMID:41594638",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO-mediated m6A demethylation regulates PGC-1α-dependent mitochondrial biogenesis to attenuate aluminum-induced neuronal senescence.",
+      "authors": "Jin Z; Li S; Yin J; He X; Wang R; Liu Y; Zhang H",
+      "year": 2026,
+      "doi": "10.1038/s41598-026-51674-w",
+      "pmid": "42098356",
+      "pmcid": null,
+      "abstract": "Aluminum (Al) exposure is increasingly recognized as a risk factor for neurodegenerative disorders; however, the epitranscriptomic mechanisms linking environmental Al toxicity to neuronal senescence and mitochondrial alterations remain poorly understood. We hypothesized that impairs mitochondrial biogenesis and may disrupt mitochondrial homeostasis through dysregulation of N6-methyladenosine (m6A) RNA modification mediated by the m6A demethylase fat mass and obesity-associated protein (FTO). HT22 mouse hippocampal neurons were exposed to aluminum maltolate (60-240 µmol/L). An FTO-overexpression model was established. MeRIP-seq and RNA-seq were performed to assess m6A and transcriptomic changes. Mitochondrial status, particularly mitochondrial biogenesis-related indicators, was evaluated via ATP and mtDNA levels. SA-β-Gal staining assessed senescence. The expression of senescence-associated markers (e.g., p16, p21, HMGA1) and mitochondrial regulatory factors (e.g., FTO, PGC-1α, NRF-1, NRF-2, TFAM) was examined by qPCR and Western blotting. Aluminum exposure globally increased m6A methylation (7,068 peaks upregulated), affecting pathways linked to senescence and neurodegeneration. PGC-1α showed increased m6A and decreased expression. Aging markers (P16, P21, HMGA1) were upregulated, while mitochondrial biogenesis-related indicators (ATP levels, mtDNA copy number, and the PGC-1α axis) were reduced, indicating impaired mitochondrial biogenesis. FTO expression was suppressed by aluminum but overexpression of FTO reversed these effects, reducing m6A levels, restoring PGC-1α expression, partially restoring mitochondrial biogenesis-related parameters, and attenuating senescence. Our findings suggest that aluminum induces neuronal senescence by inhibiting FTO, increasing m6A methylation, and downregulating PGC-1α-mediated mitochondrial biogenesis. The FTO-m6A-PGC-1α axis plays a critical role in aluminum neurotoxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42098356/",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-51674-w_reference.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\jin_2026_fto_mediated_m6a_demethylation_regulates_pgc_1_dependent.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "42098356",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "From \"Passive Supplementation\" to \"Active Repair\": Melatonin Reshapes the Treatment Paradigm for Late-Onset Hypogonadism by Targeting Leydig Cell Senescence.",
+      "authors": "Wu H; Ning G; Jian M; Peng A; Wang H; Li B; Zhou X",
+      "year": 2026,
+      "doi": "10.1111/acel.70492",
+      "pmid": "42083130",
+      "pmcid": "PMC13139645",
+      "abstract": "In the context of global population aging, public health challenges due to aging are garnering significant attention. Late-onset hypogonadism (LOH) is a common age-related condition in men characterized by progressively decreasing serum testosterone levels with age, manifesting as sexual dysfunction, reduced physical vigor, and psychological or neurological abnormalities. Testosterone is synthesized primarily in testicular Leydig cells (LCs), and LC senescence during aging is key for suppressing testosterone production. This review systematically synthesizes the multidimensional molecular mechanisms underlying LC senescence. This process is driven primarily by oxidative stress (OS) and mitochondrial dysfunction and encompasses multiple interrelated layers, including epigenetic remodeling, the senescence-associated secretory phenotype (SASP), stem Leydig cell (SLC) niche degradation, and disruption of intrinsic circadian rhythms. Exogenous testosterone supplementation therapy (TST) remains the mainstay of the clinical management of LOH; however, its long-term use increasingly poses safety risks and is inherently limited to treating symptoms. Melatonin, a molecule with pleiotropic antiaging properties, including potent antioxidant effects and the ability to improve mitochondrial function, has the potential to synergistically antagonize the aforementioned multiple LC senescence pathways. By effectively mitigating LC aging and promoting endogenous testosterone synthesis, the use of melatonin could shift the treatment paradigm for LOH from \"passive hormone supplementation\" to \"active cellular function repair\". This article recapitulates preclinical and preliminary clinical evidence on the efficacy of melatonin in treating testicular or LC dysfunction, validating its therapeutic promise, and proactively identifies critical directions for future translational research, providing valuable insights for the development of novel, etiology-oriented therapeutic strategies for LOH.",
+      "url": "https://europepmc.org/articles/PMC13139645",
+      "pdf_url": "https://europepmc.org/articles/PMC13139645?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/38/d6/PMC13139645.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal",
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "PMID:42083130",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+      "authors": "Wang X; Zhu Q; Liu J; Fu Y; Xu J; Dong Z; Tang B; Li J",
+      "year": 2026,
+      "doi": "10.1186/s12967-026-07990-w",
+      "pmid": "41832537",
+      "pmcid": "PMC13101344",
+      "abstract": "BACKGROUND: Aging is a complex process characterized by the progressive decline of physiological functions. This process is accompanied by a series of genetic and epigenetic alterations. Epigenetic mechanisms, including histone modifications, chromatin remodeling, and RNA modifications, are critical due to their highly dynamic and plastic nature. These mechanisms play fundamental roles in the occurrence and progression of aging and age-related diseases. MAIN BODY: This review systematically summarizes the fundamental roles and molecular mechanisms of histone modifications (e.g., methylation and acylation such as acetylation), chromatin remodeling (encompassing heterochromatin formation, nuclear lamina association, alterations in chromatin accessibility and higher-order architecture, and TF-mediated regulation), and RNA modifications (such as m6A, m7G, and m5C) in the regulation of cellular senescence, organ functional decline, and age-related diseases, including neurodegenerative disorders, CVDs, and osteoporosis. We highlight the sophisticated interaction networks formed between these three epigenetic layers. Finally, we summarize potential anti-aging interventions targeting these mechanisms. These strategies include natural products, peptides, and specific small-molecule inhibitors or agonists. Emerging intervention methods and their potential safety considerations are also discussed. CONCLUSION: Histone modifications, chromatin remodeling, and RNA modifications constitute an interconnected and dynamically coordinated epigenetic network that synergistically regulates the aging process. A thorough elucidation of the regulatory mechanisms within this complex network will not only contribute to a fundamental understanding of the biological essence of aging, but also provide a critical theoretical foundation for the development of precise and efficient epigenetic interventions.",
+      "url": "https://europepmc.org/articles/PMC13101344",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/9a/85/12967_2026_Article_7990.PMC13101344.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9a/85/PMC13101344.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "PMID:41832537",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Jiawei Zaoqi Decoction Attenuates Polycystic Ovary Syndrome by Inhibiting AGE-RAGE-Mediated Cell Senescence of Granulosa Cells.",
+      "authors": "Hong Tang; Xiaoling Ouyang; Xuet Er Chong; Yuting Yang; Jinrong Fu; Qi Zhou; Linxia Li",
+      "year": 2026,
+      "doi": "10.2174/0113816128423816251229112509",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "INTRODUCTION\nPolycystic ovary syndrome (PCOS) is a prevalent endocrine disorder characterized by hormonal imbalances, ovarian dysfunction, and metabolic irregularities. Jiawei Zaoqi Decoction (JWZQD), a Traditional Chinese Medicine (TCM) formulation, has shown potential as a multi-targeted therapeutic intervention for PCOS. However, its underlying mechanisms remain unclear. In this study, we explored the therapeutic effects and molecular mechanisms of JWZQD in managing PCOS.\n\n\nMETHODS\nWe employed a multi-model approach integrating clinical data, animal models, and mechanistic assays. Clinical efficacy was evaluated in a cohort of PCOS patients, while a letrozole- induced rat model combined with a high-fat diet was used to assess reproductive and metabolic outcomes. Network pharmacology, Gene Ontology, KEGG enrichment, and protein-protein interaction analyses were applied to identify key targets and pathways. Granulosa-cell experiments under oxidative stress and insulin stimulation were performed for functional validation.\n\n\nRESULTS\nJWZQD administration significantly decreased serum luteinizing hormone and testosterone levels, improved insulin, and restored estrous cyclicity in PCOS patients and rats. Histology and ultrasound revealed reduced cystic follicles and normalized ovarian stroma. Bioinformatic analyses identified cellular senescence and AGE-RAGE signaling as core pathways, with quercetin and fisetin emerging as critical bioactive compounds. In vitro, quercetin and fisetin suppressed senescence markers (p21, p53, γH2AX) and rescued granulosa-cell proliferative capacity, confirming the network predictions.\n\n\nDISCUSSION\nThese findings provide mechanistic insight into how JWZQD ameliorates PCOS, highlighting its multi-targeted regulation of endocrine, metabolic, and ovarian functions. Importantly, our results suggest that targeting granulosa-cell senescence may represent a novel therapeutic strategy.\n\n\nCONCLUSION\nJWZQD mitigates PCOS by modulating AGE-RAGE-mediated granulosa-cell senescence through its active compounds quercetin and fisetin. This study supports the clinical potential of JWZQD as an alternative or complementary therapy for PCOS.",
+      "url": "https://www.semanticscholar.org/paper/346ae00adf7c5c4f32b7648707eb8df2acde876d",
+      "pdf_url": "https://doi.org/10.2174/0113816128423816251229112509",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "346ae00adf7c5c4f32b7648707eb8df2acde876d",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mesenchymal stem cell therapy for premature ovarian insufficiency: progress and challenges.",
+      "authors": "Shao Z; Liang L; Xue Y; Zhu T; Wen Q",
+      "year": 2026,
+      "doi": "10.1186/s13048-026-01976-4",
+      "pmid": "41634747",
+      "pmcid": "PMC12964609",
+      "abstract": "Premature ovarian insufficiency (POI), particularly chemotherapy-induced ovarian failure (CIOF), severely compromises the reproductive and endocrine health of young women. Current fertility-preserving strategies, such as cryopreservation and hormone therapy, fail to restore endogenous ovarian function, underscoring the urgent need for regenerative solutions. Mesenchymal stem cells (MSCs) have emerged as a leading platform to address this challenge. This review synthesizes evidence on MSCs derived from diverse sources—including bone marrow, adipose tissue, umbilical cord, and menstrual blood—and evaluates their therapeutic potential. Preclinical studies consistently demonstrate that MSC transplantation restores follicular reserves and hormonal homeostasis, primarily via paracrine mechanisms. MSCs secrete growth factors and exosomes enriched with regulatory microRNAs (e.g., miR-21, miR-126) that inhibit apoptosis, promote angiogenesis, and activate pro-survival pathways such as PI3K–Akt in injured ovaries. While early clinical data are encouraging, significant translational challenges remain, including inefficient homing, source-dependent variability, and safety concerns such as tumorigenicity. Advanced approaches—such as cell-free exosome-based therapies and engineered biomaterials—are under development to enhance efficacy and safety. A concerted effort to standardize protocols, optimize delivery strategies, and conduct well-designed randomized trials is essential to establish MSC-based therapy as a clinically viable solution for oncofertility preservation.",
+      "url": "https://europepmc.org/articles/PMC12964609",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/0d/66/13048_2026_Article_1976.PMC12964609.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0d/66/PMC12964609.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "PMID:41634747",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Molecular time machines unleashed: small-molecule-driven reprogramming to reverse the senescence.",
+      "authors": "Tang C; Zhang Z; Yang C; Li L; Li J; Cheng X; Zhou W; Lin Y; Zeng L; Zhang L",
+      "year": 2026,
+      "doi": "10.1093/stcltm/szaf069",
+      "pmid": "41528804",
+      "pmcid": "PMC12798543",
+      "abstract": "Cellular reprogramming, a method of \"resetting\" the epigenetic clock by reversing the differentiation state of cells, has emerged as a promising approach to anti-aging, offering new strategies to slow down the aging process. Researchers convert differentiated cells into a pluripotent stem cell state through transcription factors or chemicals, restoring cellular youthfulness and regenerative capacity. This technology holds potential for tissue repair, lifespan extension, organ function improvement, and treatment of age-related diseases. In addition, cell reprogramming provides a novel pathway for disease modeling and drug screening, potentially accelerating the development and clinical application of anti-aging drugs. However, it faces challenges including safety, efficiency, and ethical considerations. This article focuses on the prospects of small-molecule-induced cell reprogramming for anti-aging, covering its mechanisms, applications, current limitations, and future directions to facilitate clinical translation and breakthroughs in human healthspan extension.",
+      "url": "https://europepmc.org/articles/PMC12798543",
+      "pdf_url": "https://europepmc.org/articles/PMC12798543?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/19/2b/PMC12798543.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "PMID:41528804",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "NUPR1 as a central stress-adaptation node in cancer: integrating metabolic rewiring, cell death, and therapy resistance.",
+      "authors": "Long T; Wang Q; Le Y; Zhang M; Sun Y; Iovanna J; Li L; Xu C; Liu J",
+      "year": 2026,
+      "doi": "10.1186/s12929-026-01254-x",
+      "pmid": "42104400",
+      "pmcid": "PMC13156883",
+      "abstract": "Nuclear protein 1 (NUPR1) is an intrinsically disordered, stress-adaptive regulator that sits at the intersection of transcriptional plasticity and proteostatic control, broadly upregulated across malignancies and tightly associated with poor prognosis. Here, we synthesize evidence positioning NUPR1 as a central node of tumor adaptation that integrates metabolic rewiring, proteostatic balance, and cell-death checkpoints into a unified stress-response framework. NUPR1 orchestrates lipogenic and glycolytic programs, sustains lysosomal biogenesis and autophagic flux, and governs cell-fate decisions by restraining apoptosis and ferroptosis through iron and redox control. Beyond tumor-intrinsic roles, NUPR1 remodels the tumor microenvironment by driving immunosuppressive macrophage polarization and amplifying inflammatory signaling, collectively sustaining a pro-survival niche. These circuits underpin broad therapeutic resistance across modalities, spanning chemotherapy, targeted agents, endocrine therapy, and immune checkpoint blockade. We further discuss the development of small-molecule NUPR1 antagonists-including ZZW-115 and emerging chemotypes-that disrupt nuclear trafficking and stress tolerance, alongside formulation strategies to optimize pharmacodynamic potency and safety. Together, these insights establish NUPR1 as a druggable stress-response node and provide a mechanistic framework to overcome resistance and refine adaptive cancer therapy paradigms.",
+      "url": "https://europepmc.org/articles/PMC13156883",
+      "pdf_url": "https://europepmc.org/articles/PMC13156883?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fc/c2/PMC13156883.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "PMID:42104400",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Promises of reprogramming-induced rejuvenation.",
+      "authors": "Daniel J. Simpson; N. Arif; Yossawat Suwanlikit; Kristina Kirschner; Tamir Chandra",
+      "year": 2026,
+      "doi": "10.1016/j.gde.2026.102484",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Reprogramming-induced rejuvenation (RIR) reverses cellular aging by transiently engaging early reprogramming states without full dedifferentiation. This review examines current developments in the molecular mechanisms, technological advances, and tissue-specific applications of RIR. Recent mechanistic insights highlight persisting questions in timing, heterogeneity, and pathways engaged in the epigenetic response. New technological advances have expanded RIR modalities beyond traditional Yamanaka factors to include mRNA-based delivery, CRISPRa, and chemical cocktails, while high-throughput screening platforms are systematically identifying novel rejuvenation factors with improved safety profiles. Recent tissue-specific applications demonstrate functional restoration across brain, liver, intestine, cardiovascular, and epithelial systems through reversal of cellular senescence, reduction of DNA damage and epigenetic age, and enhanced regenerative capacity. However, clinical translation faces challenges including narrow therapeutic windows, incomplete mechanistic understanding, and limited biomarker standardization. We discuss how single-cell technologies, computational prediction tools, and systematic in vivo testing may advance RIR toward geroscience therapies for age-related diseases.",
+      "url": "https://www.semanticscholar.org/paper/40a069c9d1640911bd9ed273fa42d25b4bbad0b7",
+      "pdf_url": "https://doi.org/10.1016/j.gde.2026.102484",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "40a069c9d1640911bd9ed273fa42d25b4bbad0b7",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA Modifications: Current Understandings and Future Perspectives",
+      "authors": "Xiao S; Xiang T; Yang C; Wang X; Huang G; Luo F; Xie Z; Chen Y",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13092963",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13092963/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13092963/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8b/0d/PMC13092963.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "PMC13092963",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Redox-sensitive N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine RNA epitranscriptomic mechanisms in environmental stress and hazard.",
+      "authors": "Wāng Y",
+      "year": 2026,
+      "doi": "10.1016/j.redox.2026.104017",
+      "pmid": "41616571",
+      "pmcid": "PMC12874273",
+      "abstract": "Oxidative stress is a central driver of environmental stress responses and disease pathogenesis. Increasing evidence indicates that RNA epigenetic regulation, particularly N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) modification, represents a critical interface linking redox imbalance to cellular dysfunction. Arsenic, a prototypical redox-active toxicant, provides a robust model for understanding how environmental oxidative stress disrupts m<sup>6</sup>A-mediated post-transcriptional control. Recent studies demonstrate that arsenic-induced redox perturbation reshapes the expression and activity of m<sup>6</sup>A writers (METTL3/METTL14), erasers (FTO/ALKBH5), and readers (YTHDF/YTHDC families), leading to widespread alterations in mRNA stability, translation, and metabolic reprogramming. Mechanistic findings from cellular and animal models implicate m<sup>6</sup>A-dependent pathways in modulating oxidative stress responses, mitochondrial function, inflammation, and senescence-biological processes fundamental to redox biology. These insights reveal that m<sup>6</sup>A is not merely a downstream marker of stress, but an active mediator of adaptive and maladaptive responses to redox disruption. Despite significant progress, population-level evidence and high-resolution mapping of RNA modifications under oxidative conditions remain limited. Future work integrating advanced epitranscriptomic profiling, multi-omics approaches, and exploration of additional RNA modifications (m<sup>7</sup>G, m<sup>1</sup>A, m<sup>5</sup>C) will be essential for defining how redox-sensitive RNA regulation shapes disease risk. Collectively, this review highlights m<sup>6</sup>A modification as a dynamic regulatory node connecting environmental redox stress to gene expression control, providing new mechanistic insight and potential targets for intervention in redox-related diseases.",
+      "url": "https://europepmc.org/articles/PMC12874273",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/09/41/main.PMC12874273.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/09/41/PMC12874273.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "PMID:41616571",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The PANoptotic mosaic of rheumatoid arthritis: epitranscriptomic regulation, systemic relays, and precision death-mode editing.",
+      "authors": "Li S; Wan L; Zhang X",
+      "year": 2026,
+      "doi": "10.3389/fimmu.2026.1785209",
+      "pmid": "41836433",
+      "pmcid": "PMC12979385",
+      "abstract": "The persistence of difficult-to-treat rheumatoid arthritis (D2T-RA) underscores a fundamental disruption in synovial cell death homeostasis, transcending the limitations of conventional cytokine blockade. By integrating multi-omics, molecular imaging, and bio-responsive nanotechnologies, we characterized the PANoptosis framework-a synergistic programmed cell death (PCD) system converging apoptosis, pyroptosis, and necroptosis. Our findings reveal that environmental stressors perturb cellular antioxidant defenses, thereby precipitating PANoptosome assembly through mechanisms such as autoantibody-mediated biophysical triggers. Systemic crosstalk, spanning lung-derived inflammatory signals and gut metabolic rheostats, orchestrates synovial fate. Mechanistically, epitranscriptomic RNA methylation and dysregulated molecular switches within the PANoptosome drive inflammatory flares, while distal effects involve extracellular vesicle-mediated cartilage damage. Therapeutic interventions, such as bio-responsive nanoplatforms, effectively reprogram death modes toward inflammatory resolution. We conclude that PANoptosis is a central driver of RA pathogenesis, and its precision targeting via \"death-mode editing\" represents a paradigm shift from broad immunosuppression toward curative interventions. This work establishes a comprehensive PANoptic model and identifies actionable therapeutic avenues, offering transformative potential for the clinical management of RA.",
+      "url": "https://europepmc.org/articles/PMC12979385",
+      "pdf_url": "https://europepmc.org/articles/PMC12979385?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c4/8c/PMC12979385.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "PMID:41836433",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of N&lt;sup&gt;6&lt;/sup&gt;-Methyladenosine Modification in Health and Disease.",
+      "authors": "Li L; Sun Y; Zheng W; Li L; Feng Y; Qi M; Li H",
+      "year": 2026,
+      "doi": "10.1002/mco2.70767",
+      "pmid": "42164653",
+      "pmcid": "PMC13183813",
+      "abstract": "Emerging evidence highlights that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most prevalent internal RNA modification in eukaryotes, serves as a critical epitranscriptomic regulator of RNA metabolism. This posttranscriptional modification modulates alternative splicing, nuclear export, stability, and translation, thereby regulating various physiological processes. Notably, dysregulation of m<sup>6</sup>A-associated modifiers (writers/erasers/readers) is implicated in a variety of diseases, such as metabolic disorders and cancer. Despite the rapid progress of m<sup>6</sup>A-mediated emerging therapeutic strategies, there remains an imperative to bridge the gap between basic epitranscriptomics and clinical application. This review systematically depicts recent advances in understanding m<sup>6</sup>A-mediated epitranscriptomic regulation, with particular focus on its dual role in maintaining cellular homeostasis and driving disease progression upon dysregulation, provides a dedicated exploration of m<sup>6</sup>A-regulated mitochondrial remodeling, and outlines cutting-edge technologies for m<sup>6</sup>A mapping and inhibitors targeting m<sup>6</sup>A modifiers. Furthermore, we conduct an in-depth exploration of the existing limitations and therapeutic potential associated with targeting m<sup>6</sup>A modification. Acting as a pivotal link between epitranscriptomics and medicine, m<sup>6</sup>A modification provides novel perspectives for developing precision interventions in complex human diseases.",
+      "url": "https://europepmc.org/articles/PMC13183813",
+      "pdf_url": "https://europepmc.org/articles/PMC13183813?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/04/PMC13183813.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "PMID:42164653",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The YTHDC1-m&lt;sup&gt;6&lt;/sup&gt;A-GADD45B axis promotes chondrogenesis of hPDLSCs via suppressing senescence through p53/p21 signalling pathway.",
+      "authors": "Tan D; Tao Q; Ye L; Long X; Ye Q; Li Q; Song J; Xiao J",
+      "year": 2026,
+      "doi": "10.1038/s41368-026-00441-8",
+      "pmid": "42297785",
+      "pmcid": "PMC13269875",
+      "abstract": "Temporomandibular joint osteoarthritis (TMJOA) is a degenerative disease with limited therapeutic options. Stem cell-based tissue engineering, particularly utilizing human periodontal ligament stem cells (hPDLSCs), represents a promising approach for cartilage regeneration. However, we have previously demonstrated that chronic inflammation and hypoxic stress in the TMJOA microenvironment markedly accelerate cellular senescence in hPDLSCs, severely impairing their regenerative potential. Here, we identify the YTHDC1-m⁶A-GADD45B axis as a critical regulator of senescence and chondrogenic differentiation in hPDLSCs. We show that YTHDC1, an m⁶A reader protein, is downregulated under inflammatory and senescent conditions. Functional studies reveal that YTHDC1 overexpression attenuates senescence and enhances chondrogenesis, whereas its knockdown exacerbates senescence and suppresses differentiation. Mechanistically, YTHDC1 recognizes m⁶A modifications on GADD45B mRNA and promotes its decay, leading to inhibition of the p53/p21 signaling pathway. Mutation of the m⁶A site in GADD45B abolishes the regulatory effects of YTHDC1. In rats with TMJOA, transplantation of YTHDC1-overexpressing hPDLSCs ameliorated disease phenotypes, an effect reversed by co-expression of wild-type GADD45B. Our findings reveal a novel epitranscriptomic mechanism that regulates hPDLSCs senescence and subsequently affects chondrogenic differentiation, and highlight the therapeutic potential of targeting the YTHDC1-GADD45B-p53/p21 axis.",
+      "url": "https://europepmc.org/articles/PMC13269875",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/ed/be/41368_2026_Article_441.PMC13269875.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ed/be/PMC13269875.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "PMID:42297785",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "VSMCs and the immune microenvironment: a multidimensional regulatory network driving vascular injury and repair.",
+      "authors": "Wei Y; Liao Y; Zhang C; Guo J",
+      "year": 2026,
+      "doi": "10.3389/fimmu.2026.1844567",
+      "pmid": "42327765",
+      "pmcid": "PMC13278886",
+      "abstract": "The dynamic interplay between vascular smooth muscle cells (VSMCs) and the immune microenvironment governs vascular repair and disease progression. This review systematically elucidates this multidimensional regulatory network. We primarily dissect the molecular mechanisms driving pathological VSMC remodeling, encompassing inflammatory signaling, regulated cell death, senescence-associated DNA damage, and organelle dysfunction. Furthermore, we delineate the bidirectional crosstalk connecting VSMCs with the extracellular matrix (ECM) and tissue-infiltrating leukocytes, notably macrophages, T cells, and neutrophils. Subsequently, we evaluate how this network dictates disease-specific pathophysiology across various cardiovascular diseases. Specifically, we analyze metabolic reprogramming and epigenetic regulation in atherosclerosis (AS), mechanosensitive inflammation-contraction coupling in hypertension, and kinase-driven organelle stress in aortic aneurysms and dissection. Moreover, we examine the secretory profile of VSMCs in pulmonary arterial hypertension (PAH) and their contribution to microvascular dysfunction in arteritis and cardiomyopathy. Ultimately, we highlight emerging therapeutic strategies targeting VSMC-immune interactions and discuss future translational prospects.",
+      "url": "https://europepmc.org/articles/PMC13278886",
+      "pdf_url": "https://europepmc.org/articles/PMC13278886?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9f/39/PMC13278886.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "PMID:42327765",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular senescence: from homeostasis to pathological implications and therapeutic strategies",
+      "authors": "Chunhong Li; Yixiao Yuan; YingDong Jia; Qiang Zhou; Qiang Wang; Xiulin Jiang",
+      "year": 2025,
+      "doi": "10.3389/fimmu.2025.1534263",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular aging is a multifactorial and intricately regulated physiological process with profound implications. The interaction between cellular senescence and cancer is complex and multifaceted, senescence can both promote and inhibit tumor progression through various mechanisms. M6A methylation modification regulates the aging process of cells and tissues by modulating senescence-related genes. In this review, we comprehensively discuss the characteristics of cellular senescence, the signaling pathways regulating senescence, the biomarkers of senescence, and the mechanisms of anti-senescence drugs. Notably, this review also delves into the complex interactions between senescence and cancer, emphasizing the dual role of the senescent microenvironment in tumor initiation, progression, and treatment. Finally, we thoroughly explore the function and mechanism of m6A methylation modification in cellular senescence, revealing its critical role in regulating gene expression and maintaining cellular homeostasis. In conclusion, this review provides a comprehensive perspective on the molecular mechanisms and biological significance of cellular senescence and offers new insights for the development of anti-senescence strategies.",
+      "url": "https://doi.org/10.3389/fimmu.2025.1534263",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1534263/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\chunhong_2025_cellular_senescence_from_homeostasis_to_pathological_implications_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "W4407112674",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Depletion of Fat Mass and Obesity-Associated Protein (FTO) Drives Heterochromatin Loss via Lysine Acetyltransferase 8 (KAT8)-Mediated Remodeling and Spacing Factor 1 (RSF1) Acetylation in Skin Aging.",
+      "authors": "Wang F; Zhou L; Zhong Y; Cai Y; Meng X; Chen M; Mao R; Xiao X; Yi C; Guo Y; Xie H; Zhang Y; Li J",
+      "year": 2025,
+      "doi": "10.1002/mco2.70205",
+      "pmid": "40636284",
+      "pmcid": "PMC12238725",
+      "abstract": "N6-methyladenosine (m6A), as the most common RNA modification at the post-transcriptional level, plays a role in various pathophysiological processes. However, its underlying mechanism in skin aging remains enigmatic. Here, we identified that fat mass and obesity-associated protein (FTO) serves as a protective factor against skin aging. FTO expression is downregulated in aging skin tissues and senescent fibroblasts. Furthermore, the depletion or inhibition of FTO exacerbates dermal fibroblasts senescence and accelerates skin aging. Additionally, RNA-seq combined with MeRIP-seq revealed that lysine acetyltransferase 8 (KAT8) is the downstream target of FTO. FTO deficiency leads to an increase in m6A levels and a decrease in mRNA stability of KAT8 in a m6A-YTHDF2-dependent manner. Notably, our integrated analysis of m6A sequencing and acetylation proteomics links changes in heterochromatin structure with aging. Mechanistically, KAT8 depletion leads to heterochromatin loss and the subsequent aging by acetylating remodeling and spacing factor 1 (RSF1) at K1050. Overall, our finding reveals a pivotal role of FTO-mediated m6A modification in the skin aging by regulating KAT8/RSF1-involved heterochromatin formation. It provides new insights into the mechanisms and strategies for delaying aging and improving healthspan.",
+      "url": "https://europepmc.org/articles/PMC12238725",
+      "pdf_url": "https://europepmc.org/articles/PMC12238725?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/80/91/PMC12238725.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "PMID:40636284",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ISEV2025 Abstract Book.",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1002/jev2.70157",
+      "pmid": "41147645",
+      "pmcid": "PMC12560119",
+      "abstract": "",
+      "url": "https://europepmc.org/articles/PMC12560119",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/4c/0c/JEV2-14-e70157.PMC12560119.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4c/0c/PMC12560119.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "PMID:41147645",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Navigating the paradox of senescence and chemoresistance in pancreatic cancer",
+      "authors": "Amal Jeiroshi; Juan Deng; Ziyao Xu; Annalisa Comandatore; Geng Xu; Antonino Glaviano; Luca Morelli; Ingrid Garajová; Elisa Giovannetti",
+      "year": 2025,
+      "doi": "10.1016/j.semcancer.2025.06.007",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence, described as a mechanism of irreversible cell cycle arrest, has emerged as a complex and multifaceted process with significant implications in cancer biology, particularly in pancreatic ductal adenocarcinoma (PDAC). This literature review aims to explore the intricate role of senescence in PDAC, focusing on its dual nature during tumorigenesis, in addition to therapy resistance, and its potential as a therapeutic target. Senescence escape was found to play a crucial role in PDAC progression, prompting the development of various pro-senescence therapies. However, recent studies have revealed a paradoxical aspect of the senescence-associated secretory phenotype, revealing its pro-tumorigenic effects and contribution to immune evasion in PDAC. By integrating insights from recent molecular studies, this review synthesizes current knowledge on the role of senescence in PDAC tumorigenesis and chemoresistance, with an emphasis on the emerging role of the tumor microenvironment and explores current and promising avenues for future research and potential therapeutic interventions.",
+      "url": "https://doi.org/10.1016/j.semcancer.2025.06.007",
+      "pdf_url": "https://doi.org/10.1016/j.semcancer.2025.06.007",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "W4411200519",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nicotinamide boosts oocyte quantity and quality by promoting N4-acetylation modification in lupus mice.",
+      "authors": "Xie Y; Zhou C; Guo Q; Guo Y; Guo J; Chen L; Liu X; Zeng Y; Liang Q; Wu T; Liu J; Liang X",
+      "year": 2025,
+      "doi": "10.1126/sciadv.adu0955",
+      "pmid": "40680131",
+      "pmcid": "PMC12273787",
+      "abstract": "Patients with systemic lupus erythematosus (SLE) often have decreased fertility. Gene translation is crucial to oocyte meiosis and development. However, it remains unclear how SLE affects this process. Here, we used single-cell transcriptome and translatome sequencing to uncover a notable disruption in protein translation in oocytes from SLE mice, associated with the <i>N</i><sup>4</sup>-acetylcytidine (ac<sup>4</sup>C) modification. Inhibition of ac<sup>4</sup>C levels in vitro substantially reduced oocyte translation efficiency. Notably, through trace-cell ac<sup>4</sup>C-RNA immunoprecipitation (acRIP) sequencing, we mapped the ac<sup>4</sup>C landscape in SLE mouse oocytes and found that deficient ac<sup>4</sup>C modification substantially impaired the translation of <i>Zygote arrest 1</i>. Furthermore, we demonstrated that nicotinamide treatment notably and safely improved the quantity and quality of oocytes in SLE mice by enhancing ac<sup>4</sup>C modification levels. Our findings highlight the essential role of <i>N</i>- acetyltransferase 10 (NAT10)-mediated ac<sup>4</sup>C modification in abnormal oocyte development in SLE and suggest that nicotinamide holds promise for improving fertility in patients with SLE.",
+      "url": "https://europepmc.org/articles/PMC12273787",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/c0/72/sciadv.adu0955.PMC12273787.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c0/72/PMC12273787.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "PMID:40680131",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Polystyrene nanoplastics induce ovarian granulosa cell senescence via autophagy suppression.",
+      "authors": "Haoyue Hu; Haotong Ouyang; Lien Ma; Qianhan Xu; You Peng; Meng Meng; Tao Zhang",
+      "year": 2025,
+      "doi": "10.1016/j.impact.2025.100607",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polystyrene nanoplastics (PS-NPs) pose escalating threats to female reproductive health, yet their impact on ovarian granulosa cell senescence remains poorly understood. This study investigates the mechanisms by which 50 nm PS-NPs induce senescence in human ovarian granulosa KGN cells. Exposure to PS-NPs (50-250 μg/mL) triggered concentration-dependent cellular senescence in KGN cells, as evidenced by increased senescence-associated β-galactosidase (SA-β-gal) activity, suppressed Lamin B1 expression, and enhanced activation of the P53/P16 signaling axis. PS-NPs also triggered both a senescence-associated secretory phenotype (SASP) and senescence-associated mitochondrial dysfunction (SAMD), marked by upregulated pro-inflammatory cytokines (IL-6, IL-8, IL-1β) and increased reactive oxygen species (ROS) levels coupled with mitochondrial membrane potential (ΔΨm) disruption. Mechanistically, we demonstrated that PS-NP-induced senescence in KGN cells is mediated by autophagy suppression. Autophagy modulation experiments revealed that rapamycin (an autophagy activator) reversed PS-NP-triggered senescence, SASP and SAMD, whereas 3-methyladenine (3-MA, an autophagy inhibitor) exacerbated these effects. These results establish autophagy suppression as a critical mediator of PS-NP-induced granulosa cell senescence and highlight the therapeutic potential of autophagy enhancement to mitigate PS-NPs-associated reproductive toxicity. Our study provides novel insights into the molecular pathways linking environmental nanoplastics to premature ovarian aging, underscoring the urgent need for strategies to address nanoplastics exposure in reproductive health.",
+      "url": "https://www.semanticscholar.org/paper/09bb1e3c7734ed881f50819dbf0ff5d26eb82197",
+      "pdf_url": "https://doi.org/10.1016/j.impact.2025.100607",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "09bb1e3c7734ed881f50819dbf0ff5d26eb82197",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"PARP inhibitors induce a senescence phenotype in non-small cell lung carcinoma cell lines\"",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1002/2211-5463.70206/v1/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/2211-5463.70206/v1/review2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "10.1002/2211-5463.70206/v1/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"PARP inhibitors induce a senescence phenotype in non-small cell lung carcinoma cell lines\"",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1002/2211-5463.70206/v2/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/2211-5463.70206/v2/review2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "10.1002/2211-5463.70206/v2/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"PARP inhibitors induce a senescence phenotype in non-small cell lung carcinoma cell lines\"",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1002/2211-5463.70206/v1/review1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/2211-5463.70206/v1/review1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "10.1002/2211-5463.70206/v1/review1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "hnRNPA2B1 restrains granulosa cell ferroptosis by m6A/SLC7A11 in premature ovarian failure",
+      "authors": "Jing Xiong; Ling He; Yongjing Zhang; Xing Zhao",
+      "year": 2025,
+      "doi": "10.1186/s13048-025-01718-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Premature ovarian failure (POF) is a relatively severe gynecological disorder that is often accompanied by other systemic diseases. Here, this study identified that N6-methyladenosine (m6A) key enzyme heterogeneous nuclear ribonucleoprotein A2/B1 (hnRNPA2B1) was associated with POF pathophysiological process. In the chemotherapy induced POF animal and cells, hnRNPA2B1 was down-regulated upon cisplatin (CDDP) treatment. Functionally, hnRNPA2B1 inhibited the ferroptosis phenotype by m6A/SLC7A11 of granulosa cells. Moreover, hnRNPA2B1 up-regulated the autophagy by inhibiting PI3K/AKT/mTOR pathway of granulosa cells. Besides, rescue experiments confirmed that hnRNPA2B1/SLC7A11 axis repressed the ferroptosis of granulosa cells through m6A-dependent manner. In summary, the research identified the critical role of hnRNPA2B1 in granulosa cells ferroptosis, which provides novel insight for POF treatment.",
+      "url": "https://www.semanticscholar.org/paper/7b71e1732b21c9b17be7fa7715a27c974d73bada",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12297619",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "7b71e1732b21c9b17be7fa7715a27c974d73bada",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A demethylase FTO/ALKBH5 promotes diabetes-induced endothelial cell dysfunction by negatively regulating lncRNA H19.",
+      "authors": "Yan Luo; W. Luo; Yanan Cao; Zhanpeng Wang",
+      "year": 2025,
+      "doi": "10.1016/j.yexmp.2025.104970",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Endothelial cell dysfunction induced by glucose is the most important cause of diabetic vascular complications, which are the leading causes of blindness, disability, renal failure, heart failure, stroke, and even death in diabetic patients. RNA m6A modification is involved in the pathogenesis of human disease. However, the role and underlying mechanism of RNA m6A modification in high glucose-induced endothelial cell dysfunction is not well understood. Herein, this study first demonstrated that m6A levels were decreased and that the demethylases FTO and ALKBH5 were upregulated in diabetic patients and an STZ-induced diabetic mouse model. This study revealed that high glucose induced decreased m6A levels and increased expression of FTO and ALKBH5, and silencing of FTO and ALKBH5 restored high glucose-induced decreases in m6A levels and dysfunction of HUVECs. Next, this study systematically screened differentially expressed lncRNAs, including H19, in HUVECs under high glucose conditions. This study revealed that FTO-ALKBH5 inhibited H19 expression by decreasing m6A modification in H19 transcripts. In addition, this study demonstrated the role of the FTO/ALKBH5/H19 pathway in high glucose-induced cellular dysfunction of HUVECs. Ultimately, this study uncovered that silencing of H19 promoted the expression of cell cycle-related genes, including PTEN, p21 and p27 via interacting with EZH2 and affecting the H3K27me3 histone modification. Overall, this study is the first to dissect the regulation of lncRNA by m6A modification in hyperglycaemia, identifying a new regulatory pathway in high glucose-induced cellular dysfunction and providing biomarkers with the potential to serve as therapeutic targets for high glucose-induced cellular dysfunction.",
+      "url": "https://www.semanticscholar.org/paper/e23d3e3b51058a0f7f4b3413d3bdf0c326d00193",
+      "pdf_url": "https://doi.org/10.1016/j.yexmp.2025.104970",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "e23d3e3b51058a0f7f4b3413d3bdf0c326d00193",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+      "authors": "",
+      "year": 2024,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC11627200",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11627200/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11627200/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "PMC11627200",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "An update on chronic complications of diabetes mellitus: from molecular mechanisms to therapeutic strategies with a focus on metabolic memory",
+      "authors": "Tongyue Yang; Qi Feng; Feng Guo; Mingwei Shao; Yi Song; Gaofei Ren; Linlin Zhao; Guijun Qin; Yanyan Zhao",
+      "year": 2024,
+      "doi": "10.1186/s10020-024-00824-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Diabetes mellitus, a chronic metabolic disease, often leads to numerous chronic complications, significantly contributing to global morbidity and mortality rates. High glucose levels trigger epigenetic modifications linked to pathophysiological processes like inflammation, immunity, oxidative stress, mitochondrial dysfunction, senescence and various kinds of cell death. Despite glycemic control, transient hyperglycemia can persistently harm organs, tissues, and cells, a latent effect termed \"metabolic memory\" that contributes to chronic diabetic complications. Understanding metabolic memory's mechanisms could offer a new approach to mitigating these complications. However, key molecules and networks underlying metabolic memory remain incompletely understood. This review traces the history of metabolic memory research, highlights its key features, discusses recent molecules involved in its mechanisms, and summarizes confirmed and potential therapeutic compounds. Additionally, we outline in vitro and in vivo models of metabolic memory. We hope this work will inform future research on metabolic memory's regulatory mechanisms and facilitate the development of effective therapeutic compounds to prevent diabetic complications.",
+      "url": "https://doi.org/10.1186/s10020-024-00824-9",
+      "pdf_url": "https://molmed.biomedcentral.com/counter/pdf/10.1186/s10020-024-00824-9",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\tongyue_2024_an_update_on_chronic_complications_of_diabetes_mellitus.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "W4399026747",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Decoding T cell senescence in cancer: Is revisiting required?",
+      "authors": "Sophia Magkouta; Efrosyni Markaki; Konstantinos Evangelou; Russell Petty; Panayotis Verginis; Vassilis G. Gorgoulis",
+      "year": 2024,
+      "doi": "10.1016/j.semcancer.2024.11.003",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.semcancer.2024.11.003",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "W4404869854",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Drug tolerant persister cell plasticity in cancer: a revolutionary strategy for more effective anticancer therapies",
+      "authors": "Jun He; Zejing Qiu; Jingjing Fan; Xiaohong Xie; Qinsong Sheng; Xinbing Sui",
+      "year": 2024,
+      "doi": "10.1038/s41392-024-01891-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Non-genetic mechanisms have recently emerged as important drivers of anticancer drug resistance. Among these, the drug tolerant persister (DTP) cell phenotype is attracting more and more attention and giving a predominant non-genetic role in cancer therapy resistance. The DTP phenotype is characterized by a quiescent or slow-cell-cycle reversible state of the cancer cell subpopulation and inert specialization to stimuli, which tolerates anticancer drug exposure to some extent through the interaction of multiple underlying mechanisms and recovering growth and proliferation after drug withdrawal, ultimately leading to treatment resistance and cancer recurrence. Therefore, targeting DTP cells is anticipated to provide new treatment opportunities for cancer patients, although our current knowledge of these DTP cells in treatment resistance remains limited. In this review, we provide a comprehensive overview of the formation characteristics and underlying drug tolerant mechanisms of DTP cells, investigate the potential drugs for DTP (including preclinical drugs, novel use for old drugs, and natural products) based on different medicine models, and discuss the necessity and feasibility of anti-DTP therapy, related application forms, and future issues that will need to be addressed to advance this emerging field towards clinical applications. Nonetheless, understanding the novel functions of DTP cells may enable us to develop new more effective anticancer therapy and improve clinical outcomes for cancer patients.",
+      "url": "https://doi.org/10.1038/s41392-024-01891-4",
+      "pdf_url": "https://www.nature.com/articles/s41392-024-01891-4.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\jun_2024_drug_tolerant_persister_cell_plasticity_in_cancer_a.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "W4401593571",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO-overexpressing extracellular vesicles from BM-MSCs reverse cellular senescence and aging to ameliorate osteoarthritis by modulating METTL3/YTHDF2-mediated RNA m6A modifications.",
+      "authors": "Lei Chen; Jia Liu; Zhitao Rao",
+      "year": 2024,
+      "doi": "10.1016/j.ijbiomac.2024.134600",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Extracellular vesicles secreted by bone marrow mesenchymal stem cells (BM-MSCs) exert therapeutic effects in osteoarthritis (OA). As an important N6-Methyladenosine (m6A) demethylase, it is reported that fat mass and obesity-associated protein (FTO) involves in regulating OA progression. Here, we generated MSCs-derived FTO-overexpressing EVs (FTO-EVs) to investigate whether FTO-EVs could be used for the potential treatment of OA. Our experiments verify that FTO-EVs suppressed cellular senescence, aging, apoptosis, and enhanced cell autophagy in LPS-treated chondrocytes in vitro and monosodium iodoacetate (MIA)-treated mice tissues in vivo. Also, ROS scavenger NAC reversed LPS-induced detrimental effects in chondrocytes. Mechanical experiments illustrated that FTO-EVs induced m6A-demethylation in autophagy-associated genes (Atg5 and Atg7) and pro-apoptosis gene (BNIP3), subsequently inducing the upregulation of Atg5/Atg7 and downregulation of BNIP3 in a YTHDF2-dependent manner, and the effects of FTO-EVs on the expressions of Atg5/Atg7 and BNIP3 were all reversed by upregulating m6A methyltransferase METTL3. Furthermore, FTO-EVs-induced suppressing effects on LPS-treated chondrocytes senescence and aging were abolished by Atg5/Atg7 knockdown and BNIP3 overexpression. In conclusion, this study evidenced that BM-MSCs-derived FTO-EVs suppressed cellular senescence and apoptosis, and triggered protective autophagy to suppress OA development through demethylating m6A modifications, and the engineering FTO-EVs could be potentially used to treat OA in clinic.",
+      "url": "https://www.semanticscholar.org/paper/db0dceb4651323bd66950b857f61c9ffdf2668ef",
+      "pdf_url": "https://doi.org/10.1016/j.ijbiomac.2024.134600",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "db0dceb4651323bd66950b857f61c9ffdf2668ef",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fat Mass and Obesity-Associated Protein Regulates Granulosa Cell Aging by Targeting Matrix Metalloproteinase-2 Gene Via an N6-Methyladenosine-YT521-B Homology Domain Family Member 2-Dependent Pathway in Aged Mice",
+      "authors": "Linshuang Li; Le Yang; Lin Shen; Yiqing Zhao; Lan Wang; Hanwang Zhang",
+      "year": 2024,
+      "doi": "10.1007/s43032-024-01632-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "In this study, we aimed to investigate the molecular mechanisms of RNA N6-methyladenosine (m6A) modification and how its associated proteins affect granulosa cell aging. A granulosa cell senescence model was constructed to detect the differences in total RNA m6A modification levels and the expression of related enzymes. Changes in downstream molecular expression and the effects on the cellular senescence phenotype were explored by repeatedly knocking down and overexpressing the key genes fat mass and obesity-associated protein (FTO), YT521-B homology domain family member 2 (YTHDF2), and matrix metalloproteinase-2 (MMP2). There was an increased total RNA m6A modification and decreased expression of the demethylase FTO and target gene MMP2 in senescent granulosa cells. FTO and MMP2 knockdown promoted granulosa cell senescence, whereas FTO and MMP2 overexpression retarded it. YTHDF2 and FTO can bind to the messenger RNA of MMP2. The extracellular signal-regulated kinase (ERK) pathway, which is downstream of MMP2, retarded the process of granulosa cell senescence through ERK activators. In granulosa cells, FTO can regulate the expression of MMP2 in an m6A-YTHDF2-dependent manner, influencing the activation status of the ERK pathway and contributing to the aging process of granulosa cells.",
+      "url": "https://www.semanticscholar.org/paper/fa6415a52f18f137e2b8ce759405a21679905537",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43032-024-01632-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\linshuang_2024_fat_mass_and_obesity_associated_protein_regulates_granulosa.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "fa6415a52f18f137e2b8ce759405a21679905537",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Klotho-derived peptide 1 inhibits cellular senescence in the fibrotic kidney by restoring Klotho expression via posttranscriptional regulation",
+      "authors": "Xiaoyao Zhang; Li Li; Huishi Tan; Xue Hong; Qian Yuan; Fan Fan Hou; Lili Zhou; Youhua Liu",
+      "year": 2024,
+      "doi": "10.7150/thno.89105",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7150/thno.89105",
+      "pdf_url": "https://www.thno.org/v14p0420.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xiaoyao_2024_klotho_derived_peptide_1_inhibits_cellular_senescence_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "10.7150/thno.89105",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis",
+      "authors": "Xiaolan Zhu; Wenxin Li; Minjun Lu; Junyu Shang; Jiamin Zhou; Li Lin; Yueqin Liu; Jie Xing; Mengxue Zhang; Shijie Zhao; Jingjing Lu; Xuyan Shi",
+      "year": 2024,
+      "doi": "10.1186/s12951-024-02583-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Premature ovarian insufficiency (POI) is an important cause of female infertility and seriously impacts the physical and psychological health of patients. Human umbilical cord mesenchymal stem cell-derived exosomes (HucMSCs-Exs, H-Exs) have exhibited protective effects on ovarian function with unclear mechanisms. A comprehensive analysis of the Gene Expression Omnibus (GEO) database were used to identify POI-associated circRNAs and miRNAs. The relationship between HucMSC-derived exosomal circBRCA1/miR-642a-5p/FOXO1 axis and POI was examined by RT-qPCR, Western blotting, reactive oxygen species (ROS) staining, senescence-associated β-gal (SA-β-gal) staining, JC-1 staining, TEM, oxygen consumption rate (OCR) measurements and ATP assay in vivo and in vitro. RT-qPCR detected the expression of circBRCA1 in GCs and serum of patients with normal ovarian reserve function (n = 50) and patients with POI (n = 50); then, the correlation of circBRCA1 with ovarian reserve function indexes was analyzed. Herein, we found that circBRCA1 was decreased in the serum and ovarian granulosa cells (GCs) of patients with POI and was associated with decreased ovarian reserve. H-Exs improved the disorder of the estrous cycles and reproductive hormone levels, reduced the number of atretic follicles, and alleviated the apoptosis and senescence of GCs in rats with POI. Moreover, H-Exs mitigated mitochondrial damage and reversed the reduced circBRCA1 expression induced by oxidative stress in GCs. Mechanistically, FTO served as an eraser to increase the stability and expression of circBRCA1 by mediating the m6A demethylation of circBRCA1, and exosomal circBRCA1 sponged miR-642a-5p to block its interaction with FOXO1. CircBRCA1 insufficiency aggravated mitochondrial dysfunction, mimicking FTO or FOXO1 depletion effects, which was counteracted by miR-642a-5p inhibition. H-Exs secreted circBRCA1 regulated by m6A modification, directly sponged miR-642a-5p to upregulate FOXO1, resisted oxidative stress injuries in GCs and protected ovarian function in rats with POI. Exosomal circBRCA1 supplementation may be a general prospect for the prevention and treatment of POI.",
+      "url": "https://www.semanticscholar.org/paper/282d813fbd52e4a86e54149955ea74693f383bd9",
+      "pdf_url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-024-02583-5",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "282d813fbd52e4a86e54149955ea74693f383bd9",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Understanding the complexity of p53 in a new era of tumor suppression",
+      "authors": "Yanqing Liu; Zhenyi Su; Omid Tavana; Wei Gu",
+      "year": 2024,
+      "doi": "10.1016/j.ccell.2024.04.009",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.ccell.2024.04.009",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11190820/pdf/nihms-2002053.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "W4396769373",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Bone Marrow Mesenchymal Stem Cells Reversed Ovarian Aging-related m6A RNA Methylation Modification Profile in Aged Granulosa Cells",
+      "authors": "Chuan Tian; Yuanyuan An; Jing Zhao; Xiangqing Zhu; Wei Wei; Guang‐Ping Ruan; Ye Li; Xinghua Pan",
+      "year": 2023,
+      "doi": "10.1007/s12015-022-10485-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: Ovarian ageing causes endocrine disturbances and the degeneration of systemic tissue and organ functions to seriously affect women's physical and mental health, and effective treatment methods are urgently needed. Based on our previous studies using juvenile rhesus monkey bone marrow mesenchymal stem cells (BMMSCs) to treat ovarian ageing in rhesus monkey, we found that BMMSCs improved ovarian structure and function. This study continues to explore the mechanism by which BMMSCs reversed granulosa cell (GC) ageing. METHODS: A GC ageing model and coculture system of BMMSCs were established, changes in the level of the N6-methyladenosine (m6A) methylation modification were detected, m6A-modified RNA immunoprecipitation sequencing (MeRIP-seq) were performed, correlations between m6A peaks and mRNA expression were determined, and the expression of hub genes was identified using Q-PCR, immunofluorescence staining, and western blot. RESULTS: successfully induced GC ageing and that BMMSCs reversed measures of GC ageing. BMMSCs increased the expression of the FTO protein and reduced the overall level of m6A. We identified 797 m6A peaks (348 hypomethylated and 449 hypermethylated peaks) and 817 differentially expressed genes (DEGs) (412 upregulated and 405 downregulated) after aged GCs were cocultured with BMMSCs, which significantly associated with ovarian function and epigenetic modification. The epigenetic repressive mark and important cell cycle regulator lysine demethylase 8 (KDM8) was downregulated at both the mRNA and protein levels, histone H3 was upregulated in aged GCs after BMMSC coculture, and KDM8 was upregulated after FTO was inhibited through FB23. CONCLUSIONS: Our study revealed an essential role for m6A in BMMSCs in reversing GC ageing, and FTO regulated KDM8 mediates histone H3 changes may as a novel regulatory mechanism in BMMSCs to reverse GC ageing.",
+      "url": "https://doi.org/10.1007/s12015-022-10485-y",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12015-022-10485-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\chuan_2023_bone_marrow_mesenchymal_stem_cells_reversed_ovarian_aging.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "W4313656951",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular Senescence in Intervertebral Disc Aging and Degeneration: Molecular Mechanisms and Potential Therapeutic Opportunities",
+      "authors": "Prashanta Silwal; Allison M. Nguyen-Thai; Haneef Ahamed Mohammad; Yanshan Wang; Paul D. Robbins; Joon Y. Lee; Nam V. Vo",
+      "year": 2023,
+      "doi": "10.3390/biom13040686",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Closely associated with aging and age-related disorders, cellular senescence (CS) is the inability of cells to proliferate due to accumulated unrepaired cellular damage and irreversible cell cycle arrest. Senescent cells are characterized by their senescence-associated secretory phenotype that overproduces inflammatory and catabolic factors that hamper normal tissue homeostasis. Chronic accumulation of senescent cells is thought to be associated with intervertebral disc degeneration (IDD) in an aging population. This IDD is one of the largest age-dependent chronic disorders, often associated with neurological dysfunctions such as, low back pain, radiculopathy, and myelopathy. Senescent cells (SnCs) increase in number in the aged, degenerated discs, and have a causative role in driving age-related IDD. This review summarizes current evidence supporting the role of CS on onset and progression of age-related IDD. The discussion includes molecular pathways involved in CS such as p53-p21CIP1, p16INK4a, NF-κB, and MAPK, and the potential therapeutic value of targeting these pathways. We propose several mechanisms of CS in IDD including mechanical stress, oxidative stress, genotoxic stress, nutritional deprivation, and inflammatory stress. There are still large knowledge gaps in disc CS research, an understanding of which will provide opportunities to develop therapeutic interventions to treat age-related IDD.",
+      "url": "https://doi.org/10.3390/biom13040686",
+      "pdf_url": "https://www.mdpi.com/2218-273X/13/4/686/pdf?version=1681804094",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "W4366277558",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Decreased expression of m6A demethylase ALKBH5 in decidua contributes to preeclampsia via m6A-CORIN-HuR pathway",
+      "authors": "Jieqiong Yang; Jing Tong; Hongwanyu Li; Shijian Lv; Weiya Li; Cong Zhang; Wen Di",
+      "year": 2023,
+      "doi": "10.1016/j.gendis.2022.05.032",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.gendis.2022.05.032",
+      "pdf_url": "https://doi.org/10.1016/j.gendis.2022.05.032",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "10.1016/j.gendis.2022.05.032",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "M6A demethylase ALKBH5 regulates FOXO1 mRNA stability and chemoresistance in triple-negative breast cancer",
+      "authors": "Xi Liu; Pan Li; Yuanfeng Huang; Hongsheng Li; Xin Liu; Yaqian Du; Xin Lin; Danyang Chen; Hao Liu; Yongchun Zhou",
+      "year": 2023,
+      "doi": "10.1016/j.redox.2023.102993",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Resistance to chemotherapy is the main reason for treatment failure and poor prognosis in patients with triple-negative breast cancer (TNBC). Although the association of RNA N6-methyladenosine (m6A) modifications with therapy resistance is noticed, its role in the development of therapeutic resistance in TNBC is not well documented. This study aimed to investigate the potential mechanisms underlying reactive oxygen species (ROS) regulation in doxorubicin (DOX)-resistant TNBC. Here, we found that DOX-resistant TNBC cells displayed low ROS levels because of increased expression of superoxide dismutase (SOD2), thus maintaining cancer stem cells (CSCs) characteristics and DOX resistance. FOXO1 is a master regulator that reduces cellular ROS in DOX-resistant TNBC cells, and knockdown of FOXO1 significantly increased ROS levels by inhibiting SOD2 expression. Moreover, the m6A demethylase ALKBH5 promoted m6A demethylation of FOXO1 mRNA and increased FOXO1 mRNA stability in DOX-resistant TNBC cells. The analysis of clinical samples revealed that the increased expression levels of ALKBH5, FOXO1, and SOD2 were significantly positively correlated with chemoresistance and poor prognosis in patients with TNBC. To our knowledge, this is the first study to highlight that ALKBH5-mediated FOXO1 mRNA demethylation contributes to CSCs characteristics and DOX resistance in TNBC cells. Furthermore, pharmacological targeting of FOXO1 profoundly restored the response of DOX-resistant TNBC cells, both in vitro and in vivo. In conclusion, we demonstrated a critical function of ALKBH5-mediated m6A demethylation of FOXO1 mRNA in restoring redox balance, which in turn promoting CSCs characteristics and DOX resistance in TNBC, and suggested that targeting the ALKBH5/FOXO1 axis has therapeutic potential for patients with TNBC refractory to chemotherapy.",
+      "url": "https://www.semanticscholar.org/paper/0c51a3723dacb80263d55b0afc27e3b8fac97a27",
+      "pdf_url": "https://doi.org/10.1016/j.redox.2023.102993",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "0c51a3723dacb80263d55b0afc27e3b8fac97a27",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL3-mediated m6A modification of SIRT1 mRNA inhibits progression of endometriosis by cellular senescence enhancing",
+      "authors": "Xiaotong Wang; Jing Wang; Xibo Zhao; Han Wu; Jixin Li; Yan Cheng; Qiuyan Guo; Xuejiao Cao; Tian Liang; Liyuan Sun; Guangmei Zhang",
+      "year": 2023,
+      "doi": "10.1186/s12967-023-04209-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: Endometriosis (EMs), the ectopic planting of functional endometrium outside of the uterus, is a leading cause of infertility and pelvic pain. As a fundamental mRNA modification, N6-methyladenosine (m6A) participates in various pathological processes. However, the role of m6A RNA modification in endometriosis remains unclear. The present study explores METTL3-mediated m6A modification and the mechanisms involved in endometriosis. METHODS: The dominant m6A regulators in EMs were analysed using RT‒PCR. Candidate targets and possible mechanisms of METTL3 were assessed by m6A-mRNA epitranscriptomic microarray and RNA sequencing. A primary ESCs model was employed to verify the effect of METTL3 on m6A modification of SIRT1 mRNA, and the mechanism was elucidated by RT‒PCR, Western blotting, MeRIP, and RIP assays. CCK-8 viability assays, Transwell invasion assays, EdU proliferation assays, wound healing migration assays, and senescence-associated β-galactosidase staining were performed to illuminate the potential biological mechanism of METTL3 and SIRT1 in ESCs in vitro. An in vivo PgrCre/ + METTL3 -/- female homozygous mouse model and a nude mouse xenograft model were employed to further investigate the physiologic consequences of METTL3-mediated m6A alteration on EMs. RESULTS: Our data show that decreased METTL3 expression significantly downregulates m6A RNA methylation levels in ESCs. Silencing m6A modifications mediated by METTL3 accelerates ESCs viability, proliferation, migration, and invasion in vitro. The m6A reader protein YTHDF2 binds to m6A modifications to induce the degradation of SIRT1 mRNA. SIRT1/FOXO3a signalling pathway activation is subsequently inhibited, promoting the cellular senescence of ESCs and inhibiting the ectopic implantation of ESCs in vitro and in vivo. CONCLUSIONS: Our findings demonstrate that METTL3-mediated m6A methylation epigenetically regulates the ectopic implantation of ESCs, resulting in the progression of endometriosis. Our study establishes METTL3-YTHDF2-SIRT1/FOXO3a as a critical axis and potential mechanism in endometriosis.",
+      "url": "https://doi.org/10.1186/s12967-023-04209-0",
+      "pdf_url": "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-023-04209-0",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xiaotong_2023_mettl3_mediated_m6a_modification_of_sirt1_mrna_inhibits.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "W4381798680",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Methylation across the central dogma in health and diseases: new therapeutic strategies",
+      "authors": "Ruochen Liu; Erhu Zhao; Huijuan Yu; Chaoyu Yuan; Muhammad Nadeem Abbas; Hongjuan Cui",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01528-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The proper transfer of genetic information from DNA to RNA to protein is essential for cell-fate control, development, and health. Methylation of DNA, RNAs, histones, and non-histone proteins is a reversible post-synthesis modification that finetunes gene expression and function in diverse physiological processes. Aberrant methylation caused by genetic mutations or environmental stimuli promotes various diseases and accelerates aging, necessitating the development of therapies to correct the disease-driver methylation imbalance. In this Review, we summarize the operating system of methylation across the central dogma, which includes writers, erasers, readers, and reader-independent outputs. We then discuss how dysregulation of the system contributes to neurological disorders, cancer, and aging. Current small-molecule compounds that target the modifiers show modest success in certain cancers. The methylome-wide action and lack of specificity lead to undesirable biological effects and cytotoxicity, limiting their therapeutic application, especially for diseases with a monogenic cause or different directions of methylation changes. Emerging tools capable of site-specific methylation manipulation hold great promise to solve this dilemma. With the refinement of delivery vehicles, these new tools are well positioned to advance the basic research and clinical translation of the methylation field.",
+      "url": "https://doi.org/10.1038/s41392-023-01528-y",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01528-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype",
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "W4386125701",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA m6A demethylase ALKBH5 drives emergency granulopoiesis and neutrophil mobilization by upregulating G-CSFR expression",
+      "authors": "Xuetao Cao; Yang Liu; Renjie Song; Zhike Lu; Lu Zhao; Xinyi Zhan; Yini Li",
+      "year": 2023,
+      "doi": "10.21203/rs.3.rs-2676926/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>Emergency granulopoiesis and neutrophil mobilization that can be triggered by granulocyte colony-stimulating factor (G-CSF) through its receptor G-CSFR are essential for antibacterial innate defense. Yet the epigenetic modifiers crucial for intrinsically regulating G-CSFR expression and neutrophil innate response against bacterial infection remain largely unclear. <jats:italic>N</jats:italic><jats:sup>6</jats:sup>-methyladenosine (m<jats:sup>6</jats:sup>A) RNA modification and its demethylase alkB homolog 5 (ALKBH5) are key epigenetic regulators of immunity and inflammation, whereas their roles in neutrophil generation and mobilization are still unknown. Using cecal ligation and puncture (CLP)-induced polymicrobial sepsis to model systemic bacterial infection, here we report that ALKBH5 is required for emergency granulopoiesis and neutrophil mobilization. ALKBH5 depletion significantly impaired the generation of immature neutrophils in bone marrow of sepsis mice. Meanwhile, <jats:italic>Alkbh5</jats:italic>-deficient mice exhibited higher retention of mature neutrophils in bone marrow and defective neutrophil release into blood, leading to less neutrophils in the infected site than wild-type littermates undergoing sepsis. Mechanistically, ALKBH5 imprinted generation- and mobilization-promoting transcriptome signatures in both mouse and human neutrophils during bacterial infection, especially upregulated G-CSFR expression by erasing m<jats:sup>6</jats:sup>A methylation on <jats:italic>CSF3R</jats:italic> mRNAs to inhibit their decay, consequently increasing the cell-surface G-CSFR expression and JAK-STAT signaling. RIP-qPCR confirmed a direct binding of ALKBH5 to <jats:italic>CSF3R</jats:italic> mRNAs and the binding strength was declined upon bacterial infection, accounting for the decreased G-CSFR on bacteria-infected neutrophils. Together, we define a new role of ALKBH5 in intrinsically driving neutrophil generation and mobilization through m<jats:sup>6</jats:sup>A demethylation-dependent post-transcriptional regulation, indicating neutrophil m<jats:sup>6</jats:sup>A RNA modification as the potential target for treating bacterial infections and neutropenia.</jats:p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-2676926/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-2676926/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xuetao_2023_rna_m6a_demethylase_alkbh5_drives_emergency_granulopoiesis_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "10.21203/rs.3.rs-2676926/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulation of adult stem cell quiescence and its functions in the maintenance of tissue integrity",
+      "authors": "Antoine de Morrée; Thomas A. Rando",
+      "year": 2023,
+      "doi": "10.1038/s41580-022-00568-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Adult stem cells are important for mammalian tissues, where they act as a cell reserve that supports normal tissue turnover and can mount a regenerative response following acute injuries. Quiescent stem cells are well established in certain tissues, such as skeletal muscle, brain, and bone marrow. The quiescent state is actively controlled and is essential for long-term maintenance of stem cell pools. In this Review, we discuss the importance of maintaining a functional pool of quiescent adult stem cells, including haematopoietic stem cells, skeletal muscle stem cells, neural stem cells, hair follicle stem cells, and mesenchymal stem cells such as fibro-adipogenic progenitors, to ensure tissue maintenance and repair. We discuss the molecular mechanisms that regulate the entry into, maintenance of, and exit from the quiescent state in mice. Recent studies revealed that quiescent stem cells have a discordance between RNA and protein levels, indicating the importance of post-transcriptional mechanisms, such as alternative polyadenylation, alternative splicing, and translation repression, in the control of stem cell quiescence. Understanding how these mechanisms guide stem cell function during homeostasis and regeneration has important implications for regenerative medicine. Pools of quiescent adult stem cells support tissue turnover and regeneration in mammals. Recent studies shed new light on the roles of post-transcriptional mechanisms in controlling entry into, maintenance of and exit from the quiescent state, with important implications for regenerative medicine.",
+      "url": "https://doi.org/10.1038/s41580-022-00568-6",
+      "pdf_url": "https://pure.au.dk/portal/en/publications/783dbb77-b81f-450d-bfad-cd705210e5e3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "W4327681888",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The RUNX Family of Proteins, DNA Repair, and Cancer",
+      "authors": "Vaidehi Krishnan",
+      "year": 2023,
+      "doi": "10.3390/cells12081106",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The RUNX family of transcription factors, including RUNX1, RUNX2, and RUNX3, are key regulators of development and can function as either tumor suppressors or oncogenes in cancer. Emerging evidence suggests that the dysregulation of RUNX genes can promote genomic instability in both leukemia and solid cancers by impairing DNA repair mechanisms. RUNX proteins control the cellular response to DNA damage by regulating the p53, Fanconi anemia, and oxidative stress repair pathways through transcriptional or non-transcriptional mechanisms. This review highlights the importance of RUNX-dependent DNA repair regulation in human cancers.",
+      "url": "https://doi.org/10.3390/cells12081106",
+      "pdf_url": "https://www.mdpi.com/2073-4409/12/8/1106/pdf?version=1680878527",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "W4363676353",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The epigenetic regulatory mechanisms of ferroptosis and its implications for biological processes and diseases",
+      "authors": "Molin Yang; Hanshen Luo; Xin Yi; Xiang Wei; Ding‐Sheng Jiang",
+      "year": 2023,
+      "doi": "10.1002/mco2.267",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Ferroptosis is a form of regulated cell death triggered by the iron‐dependent peroxidation of phospholipids. Interactions of iron and lipid metabolism factors jointly promote ferroptosis. Ferroptosis has been demonstrated to be involved in the development of various diseases, such as tumors and degenerative diseases (e.g., aortic dissection), and targeting ferroptosis is expected to be an effective strategy for the treatment of these diseases. Recent studies have shown that the regulation of ferroptosis is affected by multiple mechanisms, including genetics, epigenetics, posttranscriptional modifications, and protein posttranslational modifications. Epigenetic changes have garnered considerable attention due to their importance in regulating biological processes and potential druggability. There have been many studies on the epigenetic regulation of ferroptosis, including histone modifications (e.g., histone acetylation and methylation), DNA methylation, and noncoding RNAs (e.g., miRNAs, circRNAs, and lncRNAs). In this review, we summarize recent advances in research on the epigenetic mechanisms involved in ferroptosis, with a description of RNA N 6 ‐methyladenosine (m 6 A) methylation included, and the importance of epigenetic regulation in biological processes and ferroptosis‐related diseases, which provides reference for the clinical application of epigenetic regulators in the treatment of related diseases by targeting ferroptosis.",
+      "url": "https://doi.org/10.1002/mco2.267",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mco2.267",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "W4378083781",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Aging and aging-related diseases: from molecular mechanisms to interventions and treatments",
+      "authors": "Jun Guo; Xiuqing Huang; Lin Dou; Mingjing Yan; Tao Shen; Weiqing Tang; Jian Li",
+      "year": 2022,
+      "doi": "10.1038/s41392-022-01251-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Aging is a gradual and irreversible pathophysiological process. It presents with declines in tissue and cell functions and significant increases in the risks of various aging-related diseases, including neurodegenerative diseases, cardiovascular diseases, metabolic diseases, musculoskeletal diseases, and immune system diseases. Although the development of modern medicine has promoted human health and greatly extended life expectancy, with the aging of society, a variety of chronic diseases have gradually become the most important causes of disability and death in elderly individuals. Current research on aging focuses on elucidating how various endogenous and exogenous stresses (such as genomic instability, telomere dysfunction, epigenetic alterations, loss of proteostasis, compromise of autophagy, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, deregulated nutrient sensing) participate in the regulation of aging. Furthermore, thorough research on the pathogenesis of aging to identify interventions that promote health and longevity (such as caloric restriction, microbiota transplantation, and nutritional intervention) and clinical treatment methods for aging-related diseases (depletion of senescent cells, stem cell therapy, antioxidative and anti-inflammatory treatments, and hormone replacement therapy) could decrease the incidence and development of aging-related diseases and in turn promote healthy aging and longevity.",
+      "url": "https://doi.org/10.1038/s41392-022-01251-0",
+      "pdf_url": "https://www.nature.com/articles/s41392-022-01251-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\jun_2022_aging_and_aging_related_diseases_from_molecular_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "W4311744984",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA damage, sirtuins, and epigenetic marks",
+      "authors": "Débora Kristina Alves-Fernandes; Miriam Galvonas Jasiulionis",
+      "year": 2022,
+      "doi": "10.1016/b978-0-323-91081-1.00016-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/b978-0-323-91081-1.00016-9",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "10.1016/b978-0-323-91081-1.00016-9",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic therapy and DNA damage response",
+      "authors": "Marina Baretti; Nilofer S. Azad",
+      "year": 2022,
+      "doi": "10.1016/b978-0-323-91081-1.00009-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/b978-0-323-91081-1.00009-1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "10.1016/b978-0-323-91081-1.00009-1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO stabilizes MIS12 and counteracts senescence",
+      "authors": "Sheng Zhang; Zeming Wu; Yue Shi; Si Wang; Jie Ren; Zihui Yu; Daoyuan Huang; Kaowen Yan; Yifang He; Xiaoqian Liu; Qianzhao Ji; Beibei Liu; Zunpeng Liu; Jing Qu; Guang‐Hui Liu; Weimin Ci; Xiaoqun Wang; Weiqi Zhang",
+      "year": 2022,
+      "doi": "10.1007/s13238-022-00914-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s13238-022-00914-6",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13238-022-00914-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\sheng_2022_fto_stabilizes_mis12_and_counteracts_senescence.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "W4226138532",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Impact of m6A demethylase (ALKBH5, FTO) genetic polymorphism and expression levels on the development of pulmonary tuberculosis",
+      "authors": "Tian-Ping Zhang; Rui Li; Li-Jun Wang; Hong-Miao Li",
+      "year": 2022,
+      "doi": "10.3389/fcimb.2022.1074380",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p>The m6A methylation was involved in the pathogenesis of pulmonary tuberculosis (PTB), and our study aimed to reveal the potential association of m6A demethylase (ALKBH5, FTO) genes variation, expression levels and PTB.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>Eight SNPs (<jats:italic>ALKBH5</jats:italic>gene rs8400, rs9913266, rs12936694, rs4925144 and<jats:italic>FTO</jats:italic>gene rs6499640, rs8047395, rs1121980, rs9939609) were selected for genotyping by SNPscan technique in 449 PTB patients and 463 healthy controls.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The mRNA expression levels of ALKBH5, FTO were detected by qRT-PCR. There were no significant differences in genotype, allele distributions of all SNPs between PTB patients and healthy controls. Haplotype analysis demonstrated that the frequency of<jats:italic>FTO</jats:italic>gene GAAA haplotype was significantly reduced in PTB patients when compared to controls.<jats:italic>ALKBH5</jats:italic>rs8400 AA genotype, A allele frequencies were associated with the decreased risk of sputum smear-positive, while AA genotype frequency was related to the increased risk of hypoproteinemia in PTB patients. In addition, rs9913266 variant was linked to the occurrence of drug-induced liver injury, sputum smear-positive, and rs4925144 variant was associated with leukopenia among PTB patients. In<jats:italic>FTO</jats:italic>gene, rs8047395 GG genotype and G allele frequencies were significantly higher in the PTB patients with drug resistance than that in the PTB patients without drug resistance. The ALKBH5, FTO expression levels were significantly decreased in PTB patients in comparison to controls. Moreover, ALKBH5 level was increased in PTB patients with drug resistance, and FTO level was decreased in PTB patients with sputum smear-positive.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p><jats:italic>FTO</jats:italic>gene polymorphisms might be associated with PTB susceptibility, and ALKBH5, FTO levels were decreased in PTB patients, suggesting that these m6A demethylase played important roles in PTB.</jats:p></jats:sec>",
+      "url": "https://doi.org/10.3389/fcimb.2022.1074380",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcimb.2022.1074380/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\tian_ping_2022_impact_of_m6a_demethylase_alkbh5_fto_genetic_polymorphism.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "10.3389/fcimb.2022.1074380",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of Epigenetic Modifications in Human Cancers and the Use of Natural Compounds as Epidrugs: Mechanistic Pathways and Pharmacodynamic Actions",
+      "authors": "Abdelhakim Bouyahya; Hamza Mechchate; Loubna Oumeslakht; Ikrame Zeouk; Sara Aboulaghras; Abdelaali Balahbib; Gökhan Zengin; Mohammad Amjad Kamal; Monica Gallo; Domenico Montesano; Nasreddine El Omari",
+      "year": 2022,
+      "doi": "10.3390/biom12030367",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cancer is a complex disease resulting from the genetic and epigenetic disruption of normal cells. The mechanistic understanding of the pathways involved in tumor transformation has implicated a priori predominance of epigenetic perturbations and a posteriori genetic instability. In this work, we aimed to explain the mechanistic involvement of epigenetic pathways in the cancer process, as well as the abilities of natural bioactive compounds isolated from medicinal plants (flavonoids, phenolic acids, stilbenes, and ketones) to specifically target the epigenome of tumor cells. The molecular events leading to transformation, angiogenesis, and dissemination are often complex, stochastic, and take turns. On the other hand, the decisive advances in genomics, epigenomics, transcriptomics, and proteomics have allowed, in recent years, for the mechanistic decryption of the molecular pathways of the cancerization process. This could explain the possibility of specifically targeting this or that mechanism leading to cancerization. With the plasticity and flexibility of epigenetic modifications, some studies have started the pharmacological screening of natural substances against different epigenetic pathways (DNA methylation, histone acetylation, histone methylation, and chromatin remodeling) to restore the cellular memory lost during tumor transformation. These substances can inhibit DNMTs, modify chromatin remodeling, and adjust histone modifications in favor of pre-established cell identity by the differentiation program. Epidrugs are molecules that target the epigenome program and can therefore restore cell memory in cancerous diseases. Natural products isolated from medicinal plants such as flavonoids and phenolic acids have shown their ability to exhibit several actions on epigenetic modifiers, such as the inhibition of DNMT, HMT, and HAT. The mechanisms of these substances are specific and pleiotropic and can sometimes be stochastic, and their use as anticancer epidrugs is currently a remarkable avenue in the fight against human cancers.",
+      "url": "https://doi.org/10.3390/biom12030367",
+      "pdf_url": "https://www.mdpi.com/2218-273X/12/3/367/pdf?version=1646302161",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "W4214720244",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A RNA methylation in cancer metabolism",
+      "authors": "Yuanyuan An; Hua Duan",
+      "year": 2022,
+      "doi": "10.1186/s12943-022-01500-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Metabolic reprogramming is one of the main characteristics of malignant tumors, which is due to the flexible changes of cell metabolism that can meet the needs of cell growth and maintain the homeostasis of tissue environments. Cancer cells can obtain metabolic adaptation through a variety of endogenous and exogenous signaling pathways, which can not only promote the growth of malignant cancer cells, but also start the transformation process of cells to adapt to tumor microenvironment. Studies show that m6A RNA methylation is widely involved in the metabolic recombination of tumor cells. In eukaryotes, m6A methylation is the most abundant modification in mRNA, which is involved in almost all the RNA cycle stages, including regulation the transcription, maturation, translation, degradation and stability of mRNA. M6A RNA methylation can be involved in the regulation of physiological and pathological processes, including cancer. In this review, we discuss the role of m6A RNA methylation modification plays in tumor metabolism-related molecules and pathways, aiming to show the importance of targeting m6A in regulating tumor metabolism.",
+      "url": "https://doi.org/10.1186/s12943-022-01500-4",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-022-01500-4",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\yuanyuan_2022_the_role_of_m6a_rna_methylation_in_cancer.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "W4206368060",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Overexpression of FTO Protects Human Granulosa Cells From Cisplatin-Induced Injury",
+      "authors": "Rongli Wang; Xinyuan Yang",
+      "year": 2021,
+      "doi": "10.21203/rs.3.rs-929583/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p><bold>Background: </bold>Premature ovarian failure (POF) is a serious problem for young women who received chemotherapy, and its pathophysiological basis is the dysfunction of granulosa cells. The RNA methylation on the sixth Natom of adenylate (m<sup>6</sup>A) plays an important role in epigenetic regulation, and previous studies have demonstrated that the fat mass- and obesity-associated (FTO) was decreased in POF and may be a biomarker for the occurrence of POF. Furthermore, to preserve the fertility of these young females, various approaches have been used to prevent chemotherapy-induced ovarian failure, and menstrual-derived stem cells (MenSCs) have been considered as a promising treatment strategy. Here, we aimed to explore the role of FTO in the MenSCs recovering the function of injured granulosa cells.<bold>Method: </bold>First, the cisplatin was used to make a granulosa cell injury model. Then, the menstrual-derived stem cells (MenSCs)-injured granulosa cells co-culture model and POF mouse model were established in this study to explore the role of FTO. Human ovarian granulosa cell lines (KGN) were used to explore the effect of FTO on cell proliferation and apoptosis. Furthermore, gain- and loss-of-function studies, small interfering RNA transfection, and  meclofenamic acid (MA), a highly selective inhibitor of FTO, were also conducted to clarified the regulation mechanism of FTO in granulosa.<bold>Results: </bold>MenSCs co-culture could improve the function of injured granulosa cells by increasing the expression of FTO. MenSCs transplantation could restore the expression of FTO in the ovary of POF mice. Overexpression of FTO could restore the injured cells’ proliferation and decrease its apoptosis through regulating the expression of BNIP3. Down-regulation of FTO got the opposite results.<bold>Conclusion: </bold>FTO has a protective effect, which could improve the viability of granulosa cells after cisplatin treatment by decreasing the expression of BNIP3, and it may provide new insight into the therapeutic targets for the cisplatin-induced POF.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-929583/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-929583/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\rongli_2021_overexpression_of_fto_protects_human_granulosa_cells_from.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "10.21203/rs.3.rs-929583/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "REPRODUCTIVE SENESCENCE IMPAIRS THE ENERGY METABOLISM OF HUMAN GRANULOSA CELLS",
+      "authors": "Gustavo Nardini Cecchino; Juan A. García-Velasco; Eduardo Rial",
+      "year": 2021,
+      "doi": "10.1101/2021.03.11.434795",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Female age is the single greatest factor influencing reproductive performance. It is widely known that mitochondrial dysfunction plays a key role in reproductive senescence. Ovarian bioenergetics includes a sophisticated metabolic synergism between oocytes and human mural granulosa cells (GCs), which is crucial for oocyte maturation during follicular growth. These cells are believed to be potential biomarkers of oocyte quality. It has been proposed that alterations in their energy metabolism could lead to infertility. We investigated if there is an age-related effect on the energy metabolism of human mural granulosa cells. We performed an observational prospective cohort and experimental study including 127 women that underwent in vitro fertilization cycles allocated to two groups: a control group comprising oocyte donors aged less than 35 years and a group of infertile women aged over 38 years. The bioenergetics of cumulus cells and purified mural GCs were determined from oxidative phosphorylation parameters, aerobic glycolysis and adenine nucleotide levels. We have found that human mural GCs and cumulus cells present a high glycolytic profile and that the follicular fluid is critical to sustain their energy metabolism. GCs from older women present lower mitochondrial respiration and glycolysis than those from young donors which is not accompanied by a lower respiratory capacity. The diminished energy metabolism leads to a decrease in the total cellular energy charge. We conclude that, as women age, mural granulosa cells exhibit a reduction in their energy metabolism that is likely to influence female reproductive potential.</jats:p>",
+      "url": "https://doi.org/10.1101/2021.03.11.434795",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2021/03/12/2021.03.11.434795.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\gustavo_2021_reproductive_senescence_impairs_the_energy_metabolism_of_human.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "10.1101/2021.03.11.434795",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging",
+      "authors": "Zhongxin Jiang; Yining Wang; Zi-Yuan Li; Zhihui Dai; Yi He; Kun Chu; Jiayi Gu; Yixuan Ji; Ningxia Sun; Fu Yang; Li Wen",
+      "year": 2021,
+      "doi": "10.1038/s41419-021-04016-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Multifunctional N6-methyladenosine (m6A) has been revealed to be an important epigenetic component in various physiological and pathological processes, but its role in female ovarian aging remains unclear. Thus, we demonstrated m6A demethylase FTO downregulation and the ensuing increased m6A in granulosa cells (GCs) of human aged ovaries, while FTO-knockdown GCs showed faster aging-related phenotypes mediated. Using the m6A-RNA-sequence technique (m6A-seq), increased m6A was found in the FOS-mRNA-3'UTR, which is suggested to be an erasing target of FTO that slows the degradation of FOS-mRNA to upregulate FOS expression in GCs, eventually resulting in GC-mediated ovarian aging. FTO acts as a senescence-retarding protein via m6A, and FOS knockdown significantly alleviates the aging of FTO-knockdown GCs. Altogether, the abovementioned results indicate that FTO in GCs retards FOS-dependent ovarian aging, which is a potential diagnostic and therapeutic target against ovarian aging and age-related reproductive diseases.",
+      "url": "https://doi.org/10.1038/s41419-021-04016-9",
+      "pdf_url": "https://www.nature.com/articles/s41419-021-04016-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "W3184485367",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A demethylase FTO induces NELL2 expression by inhibiting E2F1 m6A modification leading to metastasis of non-small cell lung cancer",
+      "authors": "Yanyun Wang; Man Li; Lin Zhang; Yitong Chen; Shoudan Zhang",
+      "year": 2021,
+      "doi": "10.1016/j.omto.2021.04.011",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.omto.2021.04.011",
+      "pdf_url": "http://www.cell.com/article/S2372770521000619/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "restoring m6A demethylase expression reverses cellular senescence"
+      ],
+      "paper_id": "10.1016/j.omto.2021.04.011",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Excessive oxidative stress in cumulus granulosa cells induced cell senescence contributes to endometriosis-associated infertility",
+      "authors": "Xiang-guo Lin; Y. Dai; X. Tong; Wenzhi Xu; Qianmeng Huang; Xiao-ying Jin; Chao Li; F. Zhou; Hanjing Zhou; Xiaona Lin; Dong-long Huang; Songying Zhang",
+      "year": 2020,
+      "doi": "10.1016/j.redox.2020.101431",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Endometriosis an important cause of female infertility and seriously impact physical and psychological health of patients. Endometriosis is now considered to be a public health problem that deserves in-depth investigation, especially the etiopathogenesis of endometriosis-associated infertility. We aimed to illuminate the etiopathogenesis of endometriosis-associated infertility that involve excessive oxidative stress (OS) induced pathological changes of ovary cumulus granulosa cell (GCs). Senescence-associated β-galactosidase (SA β-gal) activity in GCs from endometriosis patients, soluble isoform of advanced glycation end products receptor (sRAGE) expression in follicular fluid from endometriosis patients and differentially expressed senescence-associated secretory phenotype factors (IL-1β, MMP-9, KGF and FGF basic protein) are all useful indexes to evaluate oocyte retrieval number and mature oocyte number. RNA-sequencing and bioinformatics analysis indicated senescent phenotype of endometriosis GCs and aggravated endoplasmic reticulum (ER) stress in endometriosis GCs. Targeting ER stress significantly alleviated OS-induced GCs senescence as well as mitochondrial membrane potential (MMP) and adenosine triphosphate (ATP) reduction in GCs. Moreover, melatonin administration rescued OS-enhanced ER stress, cellular senescence, and MMP and ATP abnormities of endometriosis GCs in vitro and in vivo. In conclusion, our results indicated excessive reactive oxygen species induces senescence of endometriosis GCs via arouse ER stress, which finally contributes to endometriosis-associated infertility, and melatonin may represent a novel adjuvant therapy strategy for endometriosis-associated infertility.",
+      "url": "https://www.semanticscholar.org/paper/cf5263fe4c20cd630a3fdb36e46a0913628557a9",
+      "pdf_url": "https://doi.org/10.1016/j.redox.2020.101431",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "cf5263fe4c20cd630a3fdb36e46a0913628557a9",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic Dysregulation at the Crossroad of Women’s Cancer",
+      "authors": "Rakesh Kumar; Aswathy Mary Paul; Pranela Rameshwar; M. Radhakrishna Pillai",
+      "year": 2019,
+      "doi": "10.3390/cancers11081193",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "An increasingly number of women of all age groups are affected by cancer, despite substantial progress in our understanding of cancer pathobiology, the underlying genomic alterations and signaling cascades, and cellular-environmental interactions. Though our understanding of women's cancer is far more complete than ever before, there is no comprehensive model to explain the reasons behind the increased incidents of certain reproductive cancer among older as well as younger women. It is generally suspected that environmental and life-style factors affecting hormonal and growth control pathways might help account for the rise of women's cancers in younger age, as well, via epigenetic mechanisms. Epigenetic regulators play an important role in orchestrating an orderly coordination of cellular signals in gene activity in response to upstream signaling and/or epigenetic modifiers present in a dynamic extracellular milieu. Here we will discuss the broad principles of epigenetic regulation of DNA methylation and demethylation, histone acetylation and deacetylation, and RNA methylation in women's cancers in the context of gene expression, hormonal action, and the EGFR family of cell surface receptor tyrosine kinases. We anticipate that a better understanding of the epigenetics of women's cancers may provide new regulatory leads and further fuel the development of new epigenetic biomarkers and therapeutic approaches.",
+      "url": "https://doi.org/10.3390/cancers11081193",
+      "pdf_url": "https://www.mdpi.com/2072-6694/11/8/1193/pdf?version=1565957245",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "W2969110782",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reprogramming the Epigenome With Vitamin C",
+      "authors": "Taylor Lee Chong; Emily L. Ahearn; Luisa Cimmino",
+      "year": 2019,
+      "doi": "10.3389/fcell.2019.00128",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The erasure of epigenetic modifications across the genome of somatic cells is an essential requirement during their reprogramming into induced pluripotent stem cells (iPSCs). Vitamin C plays a pivotal role in remodeling the epigenome by enhancing the activity of Jumonji-C domain-containing histone demethylases (JHDMs) and the ten-eleven translocation (TET) proteins. By maintaining differentiation plasticity in culture, vitamin C also improves the quality of tissue specific stem cells derived from iPSCs that are highly sought after for use in regenerative medicine. The ability of vitamin C to potentiate the activity of histone and DNA demethylating enzymes also has clinical application in the treatment of cancer. Vitamin C deficiency has been widely reported in cancer patients and has recently been shown to accelerate cancer progression in disease models. Therapies involving high-dose vitamin C administration are currently gaining traction in the treatment of epigenetic dysregulation, by targeting aberrant histone and DNA methylation patterns associated with cancer progression.",
+      "url": "https://doi.org/10.3389/fcell.2019.00128",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2019.00128/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\taylor_2019_reprogramming_the_epigenome_with_vitamin_c.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal",
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "W2959533867",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Milk: an epigenetic amplifier of FTO-mediated transcription? Implications for Western diseases",
+      "authors": "Bodo C. Melnik",
+      "year": 2015,
+      "doi": "10.1186/s12967-015-0746-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Single-nucleotide polymorphisms within intron 1 of the FTO (fat mass and obesity-associated) gene are associated with enhanced FTO expression, increased body weight, obesity and type 2 diabetes mellitus (T2DM). The N (6) -methyladenosine (m(6)A) demethylase FTO plays a pivotal regulatory role for postnatal growth and energy expenditure. The purpose of this review is to provide translational evidence that links milk signaling with FTO-activated transcription of the milk recipient. FTO-dependent demethylation of m(6)A regulates mRNA splicing required for adipogenesis, increases the stability of mRNAs, and affects microRNA (miRNA) expression and miRNA biosynthesis. FTO senses branched-chain amino acids (BCAAs) and activates the nutrient sensitive kinase mechanistic target of rapamycin complex 1 (mTORC1), which plays a key role in translation. Milk provides abundant BCAAs and glutamine, critical components increasing FTO expression. CpG hypomethylation in the first intron of FTO has recently been associated with T2DM. CpG methylation is generally associated with gene silencing. In contrast, CpG demethylation generally increases transcription. DNA de novo methylation of CpG sites is facilitated by DNA methyltransferases (DNMT) 3A and 3B, whereas DNA maintenance methylation is controlled by DNMT1. MiRNA-29s target all DNMTs and thus reduce DNA CpG methylation. Cow´s milk provides substantial amounts of exosomal miRNA-29s that reach the systemic circulation and target mRNAs of the milk recipient. Via DNMT suppression, milk exosomal miRNA-29s may reduce the magnitude of FTO methylation, thereby epigenetically increasing FTO expression in the milk consumer. High lactation performance with increased milk yield has recently been associated with excessive miRNA-29 expression of dairy cow mammary epithelial cells (DCMECs). Notably, the galactopoietic hormone prolactin upregulates the transcription factor STAT3, which induces miRNA-29 expression. In a retrovirus-like manner milk exosomes may transfer DCMEC-derived miRNA-29s and bovine FTO mRNA to the milk consumer amplifying FTO expression. There is compelling evidence that obesity, T2DM, prostate and breast cancer, and neurodegenerative diseases are all associated with increased FTO expression. Maximization of lactation performance by veterinary medicine with enhanced miRNA-29s and FTO expression associated with increased exosomal miRNA-29 and FTO mRNA transfer to the milk consumer may represent key epigenetic mechanisms promoting FTO/mTORC1-mediated diseases of civilization.",
+      "url": "https://doi.org/10.1186/s12967-015-0746-z",
+      "pdf_url": "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-015-0746-z",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\bodo_2015_milk_an_epigenetic_amplifier_of_fto_mediated_transcription.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "W2218864292",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Genome-Wide DNA Methylation Analysis of Human Pancreatic Islets from Type 2 Diabetic and Non-Diabetic Donors Identifies Candidate Genes That Influence Insulin Secretion",
+      "authors": "Tasnim Dayeh; Petr Volkov; Sofia Salö; Elin Hall; Emma Nilsson; Anders H. Olsson; Clare L. Kirkpatrick; Claes B. Wollheim; Lena Eliasson; Tina Rönn; Karl Bacos; Charlotte Ling",
+      "year": 2014,
+      "doi": "10.1371/journal.pgen.1004160",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Impaired insulin secretion is a hallmark of type 2 diabetes (T2D). Epigenetics may affect disease susceptibility. To describe the human methylome in pancreatic islets and determine the epigenetic basis of T2D, we analyzed DNA methylation of 479,927 CpG sites and the transcriptome in pancreatic islets from T2D and non-diabetic donors. We provide a detailed map of the global DNA methylation pattern in human islets, β- and α-cells. Genomic regions close to the transcription start site showed low degrees of methylation and regions further away from the transcription start site such as the gene body, 3'UTR and intergenic regions showed a higher degree of methylation. While CpG islands were hypomethylated, the surrounding 2 kb shores showed an intermediate degree of methylation, whereas regions further away (shelves and open sea) were hypermethylated in human islets, β- and α-cells. We identified 1,649 CpG sites and 853 genes, including TCF7L2, FTO and KCNQ1, with differential DNA methylation in T2D islets after correction for multiple testing. The majority of the differentially methylated CpG sites had an intermediate degree of methylation and were underrepresented in CpG islands (∼ 7%) and overrepresented in the open sea (∼ 60%). 102 of the differentially methylated genes, including CDKN1A, PDE7B, SEPT9 and EXOC3L2, were differentially expressed in T2D islets. Methylation of CDKN1A and PDE7B promoters in vitro suppressed their transcriptional activity. Functional analyses demonstrated that identified candidate genes affect pancreatic β- and α-cells as Exoc3l silencing reduced exocytosis and overexpression of Cdkn1a, Pde7b and Sept9 perturbed insulin and glucagon secretion in clonal β- and α-cells, respectively. Together, our data can serve as a reference methylome in human islets. We provide new target genes with altered DNA methylation and expression in human T2D islets that contribute to perturbed insulin and glucagon secretion. These results highlight the importance of epigenetics in the pathogenesis of T2D.",
+      "url": "https://doi.org/10.1371/journal.pgen.1004160",
+      "pdf_url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1004160&type=printable",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\tasnim_2014_genome_wide_dna_methylation_analysis_of_human_pancreatic.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "W2132464305",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Central Immune Senescence, Reversal Potentials",
+      "authors": "Krisztian Kvell; Judit E.",
+      "year": 2012,
+      "doi": "10.5772/32905",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.5772/32905",
+      "pdf_url": "https://www.intechopen.com/chapters/30062",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "10.5772/32905",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA Damage Caused by Polycyclic Aromatic Hydrocarbons: Mechanisms and Markers",
+      "authors": "Balam Munoz; Arnulfo Albores",
+      "year": 2011,
+      "doi": "10.5772/22527",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.5772/22527",
+      "pdf_url": "https://doi.org/10.5772/22527",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "10.5772/22527",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RelA/p65 functions to maintain cellular senescence by regulating genomic stability and DNA repair",
+      "authors": "Jingxin Wang; Naduparambil K. Jacob; Katherine J. Ladner; Amer A. Beg; James D. Perko; Stephan M. Tanner; Sandya Liyanarachchi; Richard Fishel; Denis C. Guttridge",
+      "year": 2009,
+      "doi": "10.1038/embor.2009.197",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/embor.2009.197",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/embor.2009.197",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "W1988226967",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Partial reversal of transformed fusiform phenotype by overexpression of calreticulin",
+      "authors": "Michal Opas; Marc Fadel",
+      "year": 2007,
+      "doi": "10.2478/s11658-006-0065-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Calreticulin, a Ca2+-storage and chaperone protein of the ER, has also been shown to affect cell adhesiveness. To examine the effects of differential expression of calreticulin on cellular adhesiveness, we used L fibroblast cell lines stably expressing either elevated or reduced amounts of full length, ER-targeted calreticulin. Overexpression of calreticulin correlates with an increase in adhesiveness of L fibroblasts such that these transformed cells acquire epithelioid morphology and form an epithelial-cell sheet when crowded. Functionally, the “reversal” of transformed phenotype in L fibroblasts differentially overexpressing calreticulin can be accounted for by changes in levels of expression of N-cadherin and vinculin. Structurally, however, although the form and extent of cell-cell contacts in L fibroblasts overexpressing calreticulin mimicked those in normal epithelia, electron microscopical examination revealed that cell-cell junctions formed by these transformed cells bore only superficial resemblance to those of normal epithelia in culture. Our data imply that overexpression of calreticulin, while partially reverses fusiform transformed phenotype is in itself insufficient to re-establish bona fide zonulae adherens in transformed fibroblasts.</jats:p>",
+      "url": "https://doi.org/10.2478/s11658-006-0065-8",
+      "pdf_url": "http://link.springer.com/content/pdf/10.2478/s11658-006-0065-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\michal_2007_partial_reversal_of_transformed_fusiform_phenotype_by_overexpression.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "10.2478/s11658-006-0065-8",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dysfunction of lamin A triggers a DNA damage response and cellular senescence",
+      "authors": "Susan P. Lees-Miller",
+      "year": 2006,
+      "doi": "10.1016/j.dnarep.2005.10.007",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.dnarep.2005.10.007",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "10.1016/j.dnarep.2005.10.007",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Erratum to “Dysfunction of lamin A triggers a DNA damage response and cellular senescence” [DNA Repair 5 (2006) 286–289]",
+      "authors": "Susan P. Lees-Miller",
+      "year": 2006,
+      "doi": "10.1016/j.dnarep.2006.02.006",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.dnarep.2006.02.006",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "10.1016/j.dnarep.2006.02.006",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Faculty Opinions recommendation of Full reversal of Alzheimer's disease-like phenotype in a mouse model with conditional overexpression of glycogen synthase kinase-3.",
+      "authors": "James Woodgett",
+      "year": 2006,
+      "doi": "10.3410/f.1033262.375792",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.3410/f.1033262.375792",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "10.3410/f.1033262.375792",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 4—source data 4. Processed phenotype data for the C15ISO rescue experiment (Used to generate Figure 4C).",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.40260.065",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.40260.065",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO rescue experiment granulosa cell senescence phenotype"
+      ],
+      "paper_id": "10.7554/elife.40260.065",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Metabolic consequences of DNA damage and cellular senescence",
+      "authors": "Andrea Postmus",
+      "year": 1970,
+      "doi": "10.33612/diss.854164577",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.33612/diss.854164577",
+      "pdf_url": "https://research.rug.nl/files/854164579/Title_and_contents.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "10.33612/diss.854164577",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of FTO in DNA damage response",
+      "authors": "Tianyi Zhu",
+      "year": 1970,
+      "doi": "10.14264/aee8925",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.14264/aee8925",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers",
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "10.14264/aee8925",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Senescence And The Senescence Associated Secretory Phenotype In Salivary Hypofunction",
+      "authors": "Quetsia Jean-Baptiste",
+      "year": 1970,
+      "doi": "10.54014/2f5r-h13w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.54014/2f5r-h13w",
+      "pdf_url": "https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=4585&context=legacy-etd",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\quetsia_1970_senescence_and_the_senescence_associated_secretory_phenotype_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO overexpression restoration senescence phenotype reversal"
+      ],
+      "paper_id": "10.54014/2f5r-h13w",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Table 1: LLPS of DNA repair factors and their function in DNA damage repair.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.19402/table-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.19402/table-1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO gain of function DNA damage repair senescence markers"
+      ],
+      "paper_id": "10.7717/peerj.19402/table-1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Table 2: DNA damage-induced cell cycle arrest and senescence.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.20087/table-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.20087/table-2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "epigenetic editing FTO restoration DNA damage senescence reversal"
+      ],
+      "paper_id": "10.7717/peerj.20087/table-2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

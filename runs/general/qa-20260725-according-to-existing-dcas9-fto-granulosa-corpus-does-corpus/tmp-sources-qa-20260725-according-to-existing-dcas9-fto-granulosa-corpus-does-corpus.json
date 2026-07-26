@@ -1,0 +1,397 @@
+{
+  "notebook_id": "23960ed1-7a4a-4cda-80ec-ae1055d55897",
+  "notebook_title": "Corpus - QA 2026-07-25 - according-to-existing-dcas9-fto-granulosa",
+  "sources": [
+    {
+      "index": 1,
+      "id": "ff5e1541-3b25-4102-ba46-affd22c6b735",
+      "title": "constantine_2018_transcriptional_repression_by_fact_is_linked_to_regulation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:39"
+    },
+    {
+      "index": 2,
+      "id": "62e00980-2880-4c91-b21b-7be177f247a6",
+      "title": "daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:40"
+    },
+    {
+      "index": 3,
+      "id": "8102a496-e75e-44d4-849f-3d4250be9360",
+      "title": "javaid_2021_crispr_cas_system_and_factors_affecting_its_precision.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:40"
+    },
+    {
+      "index": 4,
+      "id": "c03a1088-800c-49f7-bff5-7f7f9862924d",
+      "title": "joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:41"
+    },
+    {
+      "index": 5,
+      "id": "b412e4ed-8cfa-49f9-a6af-4d474e9b86d7",
+      "title": "kailong_2020_interrogation_of_enhancer_function_by_enhancer_targeting_crispr.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:45"
+    },
+    {
+      "index": 6,
+      "id": "9d00f199-8b55-4637-beef-e863ac09baec",
+      "title": "kevin_2018_gene_editing_in_the_context_of_an_increasingly.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:46"
+    },
+    {
+      "index": 7,
+      "id": "d24d3814-2dfd-4f3f-9293-b4986c8f5bca",
+      "title": "lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:46"
+    },
+    {
+      "index": 8,
+      "id": "75b7a02e-c96c-4875-b2a0-e1b859483782",
+      "title": "lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:47"
+    },
+    {
+      "index": 9,
+      "id": "6a6d226c-85cd-4ecb-9a19-18cf71d9c195",
+      "title": "li_2025_mechanism_of_crosstalk_between_dna_methylation_and_histone.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:54"
+    },
+    {
+      "index": 10,
+      "id": "54b55002-ad09-4951-8adc-7a8342418739",
+      "title": "liang_2026_chromatin_remodeling_and_epigenetic_regulation_in_chronic_kidney.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:53"
+    },
+    {
+      "index": 11,
+      "id": "42b9c35b-9de9-4322-a1b7-9d7adb987e3d",
+      "title": "liliana_2021_epigenetic_mechanisms_in_breast_cancer_therapy_and_resistance.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:52"
+    },
+    {
+      "index": 12,
+      "id": "3d3a08e4-24ce-4157-839f-6d69a35ee627",
+      "title": "liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:52"
+    },
+    {
+      "index": 13,
+      "id": "a18a97ab-de25-41c9-8417-3332ebc8c6cf",
+      "title": "martin_2019_distinct_contribution_of_dna_methylation_and_histone_acetylation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:01"
+    },
+    {
+      "index": 14,
+      "id": "9175249d-1df6-49de-a82a-b5930cf5ff9f",
+      "title": "matthew_2013_dna_methylation_alone_does_not_cause_most_cell.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:22:58"
+    },
+    {
+      "index": 15,
+      "id": "b28e1f13-60f2-479f-9785-87276494e16f",
+      "title": "matthew_2019_sufficiency_analysis_of_estrogen_responsive_enhancers_using_synthetic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:00"
+    },
+    {
+      "index": 16,
+      "id": "d6cce4a5-d3f8-4423-878f-2637dc33dead",
+      "title": "mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:02"
+    },
+    {
+      "index": 17,
+      "id": "4f27ccfa-593f-4102-bff5-8b0a8efa91c2",
+      "title": "meneghini_2021_delivery_platforms_for_crispr_cas9_genome_editing_of.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:06"
+    },
+    {
+      "index": 18,
+      "id": "8503f72f-25ee-46e7-90ed-7641da84bc88",
+      "title": "mengqi_2021_impacts_of_epigenetic_processes_on_the_health_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:04"
+    },
+    {
+      "index": 19,
+      "id": "0eac69d0-c3f3-426d-a0f8-5073e75ded27",
+      "title": "paper_2021_abstracts_of_the_79th_annual_meeting_of_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:06"
+    },
+    {
+      "index": 20,
+      "id": "5dd6bf2a-cdbb-417c-a3f3-7512c6a2a33a",
+      "title": "paper_2023_reviewer_2_public_review_cell_type_specific_cis.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:07"
+    },
+    {
+      "index": 21,
+      "id": "5da70603-0e26-4d12-b491-cc8656d34d10",
+      "title": "paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:13"
+    },
+    {
+      "index": 22,
+      "id": "889790d3-89dc-4ace-961f-ca12d133e6ba",
+      "title": "pawe_2023_oocyte_aging_a_multifactorial_phenomenon_in_a_unique.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:13"
+    },
+    {
+      "index": 23,
+      "id": "1731f42b-5d72-4311-8018-d6ac5b87d61e",
+      "title": "samuel_2017_deciphering_causal_genetic_determinants_of_red_blood_cell.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:14"
+    },
+    {
+      "index": 24,
+      "id": "e997c129-e1e0-4578-84b3-68df1eacb61b",
+      "title": "srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:22"
+    },
+    {
+      "index": 25,
+      "id": "d42ed95e-527b-4ee9-ae67-8b58410cbdfd",
+      "title": "tatyana_2008_dicer_regulates_xist_promoter_methylation_in_es_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:20"
+    },
+    {
+      "index": 26,
+      "id": "0bc32b0d-e300-4598-9c05-5b43e4bba49f",
+      "title": "turna_2026_epigenetic_alterations_in_cancer_metastasis_molecular_mechanisms_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:21"
+    },
+    {
+      "index": 27,
+      "id": "f1240a3b-cad6-4e40-a2ed-154a96ead657",
+      "title": "wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:23"
+    },
+    {
+      "index": 28,
+      "id": "364544e1-42b3-44bb-a9bd-cdd2a3afae0a",
+      "title": "wu_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:28"
+    },
+    {
+      "index": 29,
+      "id": "0ca08473-75f4-4079-8b42-652157141af9",
+      "title": "xin_2024_regulatory_mechanisms_of_pd_1_pd_l1_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:27"
+    },
+    {
+      "index": 30,
+      "id": "aa6ea71d-4a7e-4575-a383-d599d1802289",
+      "title": "xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:28"
+    },
+    {
+      "index": 31,
+      "id": "9fb92386-3808-4aab-9342-f0c5deabfea7",
+      "title": "yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:34"
+    },
+    {
+      "index": 32,
+      "id": "7745364f-4fd7-4a93-b0af-d6263002b825",
+      "title": "yang_2018_n6_methyladenosine_rna_modification_regulates_embryonic_neural_stem.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:29"
+    },
+    {
+      "index": 33,
+      "id": "783ccec9-c97d-4b79-92dd-63ad792dcbf1",
+      "title": "yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:35"
+    },
+    {
+      "index": 34,
+      "id": "8cf35ef8-f0a4-4b67-b4b2-c3961c39665d",
+      "title": "youlin_2023_methyltransferase_3a_mediated_promoter_methylation_represses_retinoic_acid.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:33"
+    },
+    {
+      "index": 35,
+      "id": "0b0f4dcc-7486-44ea-a697-2a2e691c7880",
+      "title": "yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:36"
+    },
+    {
+      "index": 36,
+      "id": "62eb760e-a2cc-4f8f-bf33-d6dbe1ed2f58",
+      "title": "zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:42"
+    },
+    {
+      "index": 37,
+      "id": "21a7130c-4097-451f-ae93-36bc5bbe7de0",
+      "title": "zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:40"
+    },
+    {
+      "index": 38,
+      "id": "c9bbeed5-72fa-4d65-a9e0-bc2b9179f8e2",
+      "title": "zheng_2026_histone_modifications_in_cardiovascular_disease_mechanisms_and_therapeutic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:40"
+    },
+    {
+      "index": 39,
+      "id": "70e531a0-1571-416b-8647-220a61c38d71",
+      "title": "zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-25T19:23:43"
+    }
+  ],
+  "count": 39
+}

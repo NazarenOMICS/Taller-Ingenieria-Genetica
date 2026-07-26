@@ -1,0 +1,11 @@
+[17:59:08] Starting parallel upload: 18 PDFs, 4 workers
+[17:59:17] OK - chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf
+[17:59:18] OK - cheng_2021_comprehensive_analysis_of_dna_methylation_regulator_dna_methyltransferase.pdf
+[17:59:18] OK - jing_2023_epigenetic_regulation_in_the_tumor_microenvironment_molecular_mechanisms.pdf
+[17:59:18] OK - kirstin_2014_dnmt_inhibitors_reverse_a_specific_signature_of_aberrant.pdf
+[17:59:22] OK - lijiao_2025_dna_methylation_and_demethylation_in_adipocyte_biology_roles.pdf
+[17:59:24] OK - lin_2023_epigenetic_targeting_of_autophagy_for_cancer_dna_and.pdf
+[17:59:24] OK - liang_2024_epigenetic_control_of_skeletal_muscle_atrophy.pdf
+[17:59:25] OK - lin_yong_2020_mapping_the_epigenetic_modifications_of_dna_and_rna.pdf
+[17:59:28] OK - qiaofeng_2021_the_role_of_rna_m_sup_5_sup.pdf
+[17:59:30] OK - sanabil_2020_the_role_of_dna_methylation_in_the_pathogenesis.pdf

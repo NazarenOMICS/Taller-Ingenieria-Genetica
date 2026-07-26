@@ -1,0 +1,87 @@
+{
+  "notebook_id": "d1d79b7f-7751-4fa1-84ac-110bc93c9954",
+  "notebook_title": "dCas9-p300 activation efficiency (q01)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "9c6323ff-154c-4585-b59e-1b62455229db",
+      "title": "daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:24:30"
+    },
+    {
+      "index": 2,
+      "id": "639eec10-ce8d-43b2-9bc6-6e2352966f82",
+      "title": "hilton_2015.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T16:37:52"
+    },
+    {
+      "index": 3,
+      "id": "58356661-e527-4bea-815b-0bbba8026200",
+      "title": "jere_2018_human_pluripotent_reprogramming_with_crispr_activators.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:24:31"
+    },
+    {
+      "index": 4,
+      "id": "a0cb286d-389a-46b8-a0df-30890cbc93aa",
+      "title": "joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:24:32"
+    },
+    {
+      "index": 5,
+      "id": "85fd3ab8-b11c-4cf7-91c9-da2427d69c25",
+      "title": "kenly_2020_prevention_of_tumor_risk_associated_with_the_reprogramming.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:24:33"
+    },
+    {
+      "index": 6,
+      "id": "05fc98bc-d686-495d-9790-d61c63a14a74",
+      "title": "kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:24:35"
+    },
+    {
+      "index": 7,
+      "id": "9e850582-e0f2-4cee-aa61-032190dc3d8a",
+      "title": "mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:24:38"
+    },
+    {
+      "index": 8,
+      "id": "f9dac8d2-b17e-4845-8def-795eb21aa191",
+      "title": "tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:24:38"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,1353 @@
+{
+  "slug": "q16-cebpa-promotor-fto",
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "Cell signaling and transcriptional regulation of osteoclast lineage commitment, differentiation, bone resorption and diseases.",
+      "authors": "Zhu S; Yan MQ; Masson A; Chen W; Li YP",
+      "year": 2026,
+      "doi": "10.1038/s41421-025-00853-6",
+      "pmid": "41559024",
+      "pmcid": "PMC12820293",
+      "abstract": "Osteoclasts are bone-resorbing cells that play a central role in normal bone remodeling and contribute to bone loss associated with pathological conditions such as osteoporosis, osteoarthritis, rheumatoid arthritis, periodontal disease, and bone metastases of cancer. The commitment, differentiation, and function of osteoclasts depend on the establishment of specific gene expression patterns orchestrated through a network of transcription factors, which are sequentially activated by osteoclastogenic signals. This review provides an updated overview of the roles of key signaling pathways (e.g., RANKL signaling, NF-κB signaling and Gα<sub>13</sub> signaling), transcription factors (e.g., PU.1, C/EBP-α, NFATc1 and IRF8), cytokines (e.g., TNF-α, IL-1β and IL-6), and epigenetic regulators (e.g., DNMT3a, EZH2 and ASXL1) in osteoclast lineage commitment, differentiation and bone resorption under both physiological and pathological inflammatory conditions, along with insights from corresponding mouse models. We described the mechanism by which osteoclast-mediated bone resorption occurs through extracellular acidification driven by osteoclast-specific proton pump subunits (e.g., ATP6i and ATP6v0d2), followed by matrix protein degradation mediated by cathepsin K and MMP-9. Additionally, this review examines the interplay among molecular mechanisms that regulate osteoclast differentiation and activation under pathological and inflammatory conditions, elucidates their roles in osteoclast hyperactivation-related human diseases, and provides a comprehensive framework for understanding these processes. Finally, it underscores potential novel therapeutic strategies for osteoclast-related skeletal lytic diseases and highlights perspectives for future investigations.",
+      "url": "https://europepmc.org/articles/PMC12820293",
+      "pdf_url": "https://europepmc.org/articles/PMC12820293?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/63/03/PMC12820293.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhu_2026_cell_signaling_and_transcriptional_regulation_of_osteoclast_lineage.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress"
+      ],
+      "paper_id": "PMID:41559024",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Inside the Battle Against Acute Myeloid Leukemia: Biology, Breakthroughs, and Hope.",
+      "authors": "Bao J; Freund O; Sund L; Du W",
+      "year": 2026,
+      "doi": "10.3390/cells15040338",
+      "pmid": "41744781",
+      "pmcid": "PMC12939906",
+      "abstract": "Acute myeloid leukemia (AML) is a biologically heterogeneous and clinically aggressive hematologic malignancy defined by the clonal expansion of immature myeloid progenitors, resulting in progressive bone marrow (BM) failure, peripheral cytopenias, and fatal infectious or hemorrhagic sequelae. The adverse clinical outcomes associated with AML arise from the combined effects of disrupted physiological hematopoiesis, persistence of therapy-refractory leukemic stem cells (LSCs), and extensive inter- and intratumoral genetic and epigenetic heterogeneity that underlies rapid disease progression and relapse. AML constitutes a prototypical disorder of hematopoietic dysregulation, wherein aberrant self-renewal capacity and arrested differentiation programs drive malignant transformation through the integrated influence of recurrent genomic lesions, epigenetic reprogramming, metabolic alterations, dysregulated signaling cascades, and reciprocal interactions with the BM microenvironment. These processes collectively reconfigure transcriptional landscapes and cellular hierarchies within the leukemic compartment. The objectives of this review are to provide an integrated framework for understanding AML pathobiology encompassing chromosomal abnormalities, transcriptional and epigenetic regulatory networks, and microenvironmental cues and to emphasize emerging analytical paradigms, including integrative multi-omics, single-cell and spatial technologies, and system-level approaches, which are reshaping conceptual models of malignant hematopoiesis and accelerating the development of mechanism-based therapeutic strategies.",
+      "url": "https://europepmc.org/articles/PMC12939906",
+      "pdf_url": "https://europepmc.org/articles/PMC12939906?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ea/be/PMC12939906.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\bao_2026_inside_the_battle_against_acute_myeloid_leukemia_biology.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress",
+        "CEBPA FTO promoter binding transcription regulation",
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "PMID:41744781",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Lifestyle Intervention Therapy Modulates Global DNA Methylation and Adipogenic Gene Expression in Severely Obese Hypogonadal Men.",
+      "authors": "Bathina S; Fuenmayor Lopez V; Prado M; Teo SB; Villareal DT; Chen R; Qualls C; Armamento-Villareal R",
+      "year": 2026,
+      "doi": "10.3390/metabo16030198",
+      "pmid": "41893347",
+      "pmcid": "PMC13028031",
+      "abstract": "<b>Background/Objectives:</b> Previous studies have suggested that lifestyle intervention (LSI) therapies involving diet and exercise can modulate DNA methylation; however, whether this occurs in severely obese hypogonadal men undergoing weight loss from diet and exercise remains unclear. <b>Methods:</b> In this study, we investigated the effects of weight loss from diet and exercise on global DNA methylation as well as on the mRNA expression of specific demethylation enzymes, <i>DNMT1</i>, <i>DNMT3A</i>, and <i>DNMT3B</i>-in peripheral blood mononuclear cells (PBMCs) and DNA methylation markers in DNA of severely obese hypogonadal men. This is a secondary analysis of samples of severely obese (body mass index of ≥35 kg/m<sup>2</sup>) hypogonadal men undergoing weight loss from diet and exercise in addition to an aromatase inhibitor (anastrozole) or placebo for a total of 12 months. <b>Results:</b> LSI therapy significantly reduced global DNA methylation and 5-methylcytosine (5-mC) levels, decreased <i>DNMT1</i>, <i>DNMT3A</i>, and <i>DNMT3B</i> (<i>p</i> < 0.05) mRNA levels and markedly decreased <i>CEBPα</i>, <i>FTO</i>, and <i>PPARγ</i> mRNA expression. The reduction in global methylation was independent of aromatase inhibitor use. <b>Conclusions:</b> In summary, our findings suggest that LSI induces epigenetic modifications in leukocytes, possibly through the regulation of <i>DNMT</i> gene expression. Future studies are warranted to clarify the mechanistic pathways linking lifestyle-induced epigenetic alterations to metabolic health outcomes.",
+      "url": "https://europepmc.org/articles/PMC13028031",
+      "pdf_url": "https://europepmc.org/articles/PMC13028031?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b9/a0/PMC13028031.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\bathina_2026_lifestyle_intervention_therapy_modulates_global_dna_methylation_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "PMID:41893347",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanisms coordinating exit from the stem cell state in mammals.",
+      "authors": "Park EJ; Levin-Ferreyra F; Di Stefano B",
+      "year": 2026,
+      "doi": "10.1101/gad.353584.125",
+      "pmid": "42156139",
+      "pmcid": "PMC13267984",
+      "abstract": "Differentiation requires coordinated exit from the stem cell state, during which gene regulatory networks sustaining self-renewal are dismantled, while lineage-specific programs are activated. This transition is governed by chromatin modifications, transcriptional networks, RNA processing, translational control, and metabolic rewiring that must operate with temporal precision. Despite significant progress in identifying individual regulatory components, understanding how these layers integrate to orchestrate irreversible cell fate commitment remains a fundamental challenge. This review examines common and unique regulatory principles governing stem cell exit, from totipotency during early embryogenesis to tissue-specific stem cell differentiation in adults. We synthesize recent findings on regulatory mechanisms across mammalian species, highlight species-specific adaptations, and explore the concept of reversibility in differentiation. Elucidating these principles has broad implications for regenerative medicine, cellular reprogramming, and diseases in which differentiation programs are corrupted.",
+      "url": "https://europepmc.org/articles/PMC13267984",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/50/b7/982.PMC13267984.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/50/b7/PMC13267984.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "PMID:42156139",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Metabolic oxidoreductases: central regulators of the epigenetic landscapes in stemness.",
+      "authors": "Lee HT; Roe JS; Youn HD",
+      "year": 2026,
+      "doi": "10.1038/s12276-026-01687-2",
+      "pmid": "41974890",
+      "pmcid": "PMC13144531",
+      "abstract": "Cell metabolism has long been recognized as a fundamental process for energy production, biomolecule synthesis, and cell survival. During transitions between stem and somatic states, central carbon metabolism is rewired with concurrent changes in chromatin regulation and gene expression. Because a specific central carbon metabolic transition occurs simultaneously during the epigenetic transition from stem cells to somatic cells or vice versa, metabolism has an important role in determining the epigenetic landscape that influences cell fate. Oxidoreductases are key enzymes that catalyze oxidation-reduction reactions during central carbon metabolism. They also have important roles in determining the metabolic flux and epigenetic landscapes by supplying epigenetic metabolites, directly shaping chromatin structures through posttranslational modifications, and acting as scaffold proteins for epigenetic complexes to affect chromatin states. In this Review, we outline emerging mechanisms by which oxidoreductases couple metabolic flux to epigenetic landscapes that maintain or dissolve stemness.",
+      "url": "https://europepmc.org/articles/PMC13144531",
+      "pdf_url": "https://europepmc.org/articles/PMC13144531?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1e/36/PMC13144531.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "PMID:41974890",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modifications in cancer stem cells: molecular mechanisms and targeted therapeutic strategies.",
+      "authors": "Zhang J; Yuan Y; Li C; Jiang X; Song W",
+      "year": 2026,
+      "doi": "10.3389/fcell.2026.1818554",
+      "pmid": "41960187",
+      "pmcid": "PMC13057498",
+      "abstract": "Cancer stem cells (CSCs) are a key subpopulation within tumors, characterized by their self-renewal and differentiation potential, and they drive tumor initiation, progression, metastasis, and recurrence. Recent epitranscriptomic studies have revealed that RNA modifications, including m<sup>6</sup>A, m<sup>5</sup>C, ac<sup>4</sup>C, m<sup>7</sup>G, and m<sup>1</sup>A, play critical roles in maintaining CSC stemness, determining cell fate, reprogramming metabolism, and promoting therapy resistance. This review systematically summarizes the functions of different RNA modifications and their associated enzymes in CSCs. We also discuss how RNA modifications regulate core CSC signaling pathways, such as Wnt/β-catenin, Notch, Hedgehog, PI3K-AKT-mTOR, JAK/STAT, Hippo/YAP, and TGF-β/SMAD, and we highlight strategies targeting RNA modifications for CSC intervention along with their potential challenges. These findings suggest that RNA modifications and their regulators represent promising therapeutic targets in CSCs, providing a rationale for developing highly selective or combination treatment strategies.",
+      "url": "https://europepmc.org/articles/PMC13057498",
+      "pdf_url": "https://europepmc.org/articles/PMC13057498?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e7/43/PMC13057498.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhang_2026_rna_modifications_in_cancer_stem_cells_molecular_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "PMID:41960187",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of N&lt;sup&gt;6&lt;/sup&gt;-Methyladenosine Modification in Health and Disease.",
+      "authors": "Li L; Sun Y; Zheng W; Li L; Feng Y; Qi M; Li H",
+      "year": 2026,
+      "doi": "10.1002/mco2.70767",
+      "pmid": "42164653",
+      "pmcid": "PMC13183813",
+      "abstract": "Emerging evidence highlights that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most prevalent internal RNA modification in eukaryotes, serves as a critical epitranscriptomic regulator of RNA metabolism. This posttranscriptional modification modulates alternative splicing, nuclear export, stability, and translation, thereby regulating various physiological processes. Notably, dysregulation of m<sup>6</sup>A-associated modifiers (writers/erasers/readers) is implicated in a variety of diseases, such as metabolic disorders and cancer. Despite the rapid progress of m<sup>6</sup>A-mediated emerging therapeutic strategies, there remains an imperative to bridge the gap between basic epitranscriptomics and clinical application. This review systematically depicts recent advances in understanding m<sup>6</sup>A-mediated epitranscriptomic regulation, with particular focus on its dual role in maintaining cellular homeostasis and driving disease progression upon dysregulation, provides a dedicated exploration of m<sup>6</sup>A-regulated mitochondrial remodeling, and outlines cutting-edge technologies for m<sup>6</sup>A mapping and inhibitors targeting m<sup>6</sup>A modifiers. Furthermore, we conduct an in-depth exploration of the existing limitations and therapeutic potential associated with targeting m<sup>6</sup>A modification. Acting as a pivotal link between epitranscriptomics and medicine, m<sup>6</sup>A modification provides novel perspectives for developing precision interventions in complex human diseases.",
+      "url": "https://europepmc.org/articles/PMC13183813",
+      "pdf_url": "https://europepmc.org/articles/PMC13183813?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/04/PMC13183813.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "PMID:42164653",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dynamic Rendition of Adipose Genes Under Epigenetic Regulation: Revealing New Mechanisms of Obesity Occurrence.",
+      "authors": "Wen W; Gu S; Guo F; Chen Z; Yan S; Mo Z",
+      "year": 2025,
+      "doi": "10.3390/cimb47070540",
+      "pmid": "40729009",
+      "pmcid": "PMC12293253",
+      "abstract": "Obesity is a chronic metabolic disorder and a growing global public health challenge, affecting hundreds of millions of individuals worldwide. While diet and physical activity are well-established contributors, increasing evidence underscores the critical role of epigenetic mechanisms in mediating obesity-related processes. Epigenetic modifications-such as DNA methylation, RNA methylation (particularly N6-methyladenosine), histone modifications, non-coding RNAs, and chromatin remodeling-modulate gene expression without altering the DNA sequence. This review aims to provide an overview of the epigenetic mechanisms involved in obesity, with an emphasis on their molecular functions and regulatory networks. Integrating findings from relevant studies, we discuss how these modifications influence obesity-related outcomes through regulating key processes such as adipocyte differentiation and energy metabolism. Advancing our understanding of epigenetic regulation may pave the way for novel, targeted strategies in the prevention and treatment of obesity.",
+      "url": "https://europepmc.org/articles/PMC12293253",
+      "pdf_url": "https://europepmc.org/articles/PMC12293253?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/aa/f8/PMC12293253.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\wen_2025_dynamic_rendition_of_adipose_genes_under_epigenetic_regulation.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress"
+      ],
+      "paper_id": "PMID:40729009",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "From bone marrow mesenchymal stem cells to diseases: the crucial role of m&lt;sup&gt;6&lt;/sup&gt;A methylation in orthopedics.",
+      "authors": "Li P; Zhang C; Yin W; Tao M; Niu Z; Cui Y; Wu D; Gao F",
+      "year": 2025,
+      "doi": "10.1186/s13287-025-04364-9",
+      "pmid": "40329380",
+      "pmcid": "PMC12057228",
+      "abstract": "Elucidating the molecular mechanisms underlying orthopedic diseases is crucial for guiding therapeutic strategies and developing innovative interventions. N6-methyladenosine (m<sup>6</sup>A)-an epitranscriptomic modification-has emerged as a key regulator of cellular fate and tissue homeostasis. Specifically, m<sup>6</sup>A plays a pivotal role in several RNA biological processes such as precursor RNA splicing, 3'-end processing, nuclear export, translation, and stability. Recent advancements indicate that m<sup>6</sup>A methylation regulates stem cell proliferation and osteogenic differentiation by modulating various signaling pathways. Extensive research has shown that abnormalities in m<sup>6</sup>A methylation contribute significantly to the onset and progression of various orthopedic diseases such as osteoporosis (OP), osteoarthritis (OA), rheumatoid arthritis (RA), and bone tumors. This review aims to summarize the key proteases involved in m<sup>6</sup>A methylation and their functions. The detailed mechanisms by which m<sup>6</sup>A methylation regulates osteogenic differentiation of bone marrow mesenchymal stem cells (BMSCs) through direct and indirect ways are also discussed, with a focus on specific molecular pathways. Finally, this review analyzes the roles and mechanisms of m<sup>6</sup>A modification in the development and progression of multiple orthopedic diseases, offering a comprehensive understanding of the pathophysiology of these conditions and proposing new directions and molecular targets for innovative treatment strategies.",
+      "url": "https://europepmc.org/articles/PMC12057228",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/03/8e/13287_2025_Article_4364.PMC12057228.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/03/8e/PMC12057228.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress"
+      ],
+      "paper_id": "PMID:40329380",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "HSF1 Activation Mechanisms, Disease Roles, and Small Molecule Therapeutics.",
+      "authors": "Zhang B; Fan Y; Tan K",
+      "year": 2025,
+      "doi": "10.7150/ijbs.110447",
+      "pmid": "40520012",
+      "pmcid": "PMC12160081",
+      "abstract": "The heat shock factor 1 (HSF1) is a master transcription regulator that orchestrates the expression of heat shock proteins (HSPs) in response to various cellular stresses. Dysfunction of HSF1 contributes to the pathogenesis of a spectrum of acute and chronic diseases, including cancer. Consequently, the modulation of HSF1 activity through the development of small molecules emerges as a promising therapeutic strategy for disease treatment. The activation of HSF1 is a multifaceted process, governed by a complex interplay of regulatory mechanisms, including post-translational modifications, protein-protein interactions, and a balance between its activation and inactivation. Recently, a plethora of compounds, ranging from synthetic to naturally derived, that either inhibit or activate HSF1 was identified, holding considerable potential for the treatment of numerous human diseases. In this comprehensive review, we elucidate the sophisticated mechanisms underlying activation of human HSF1, introduce its role in the etiology of diseases, and provide a comprehensive summary of the inhibitors and activators of HSF1 that have been discovered to date. This review not only offers novel insights for the development of small molecule therapeutics targeting HSF1 but also charts new territories in the design of innovative interventions for the amelioration of disease.",
+      "url": "https://europepmc.org/articles/PMC12160081",
+      "pdf_url": "https://www.ijbs.com/v21p3351.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/07/e2/PMC12160081.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhang_2025_hsf1_activation_mechanisms_disease_roles_and_small_molecule.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "PMID:40520012",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Hyperactivation of the m6A demethylase FTO to down-regulate SLC7A11/xCT-mediated redox homeostasis and epigenetic remodeling in facial infiltrating lipomatosis.",
+      "authors": "Chen H; Gao W; Huang Z; Chang SJ; Qiu Y; Sun B; Lin X; Hua C",
+      "year": 2025,
+      "doi": "10.1016/j.freeradbiomed.2025.08.001",
+      "pmid": "40769313",
+      "pmcid": null,
+      "abstract": "Facial infiltrating lipomatosis (FIL) is a rare congenital disorder characterized by excessive adipose tissue accumulation and infiltration, leading to severe functional and aesthetic impairments. Current surgical interventions face high recurrence rates and complications, necessitating exploration of molecular mechanisms driving FIL. N6-methyladenosine (m6A) RNA modification plays an essential role in modulating RNA stability and contribute to the regulation of adipogenesis. However, the detailed mechanism by which m6A regulator regulates the pathogenesis of FIL remains unclear. We focused on FTO-mediated m6A demethylation and evaluated FTO expression in FIL adipose tissues and adipose stem and progenitor cells (ASPCs) using Western blotting, qPCR, immunohistochemistry, and single-cell RNA sequencing. The regulatory mechanism of FTO on SLC7A11 was explored via MeRIP-seq, RIP-qPCR, and luciferase reporter assays. In vivo effects were evaluated using xenograft, NAC gavage, and AAV8-mediated SLC7A11 overexpression models. The mechanisms by which SLC7A11 influenced adipogenesis were investigated through ATAC-seq, ChIP-qPCR, and enzyme activity assays. FTO was upregulated in FIL tissues and ASPCs, correlating with reduced m6A levels, enhanced adipogenesis, and disease severity. Mechanistically, FTO decreased m6A modification of SLC7A11, impairing IGF2BP1-mediated stabilization and reducing SLC7A11 expression. This lowered cystine uptake and GSH/GSSG ratio, inhibiting SIRT6 activity and elevating H3K9ac at promoters of adipogenic genes (PPARG, CEBPA, FABP4), thereby enhancing chromatin openness and transcriptional activation. In vivo, SLC7A11 overexpression impaired adipogenic effects. Modulating GSH/GSSG ratios via NAC or BSO validated the redox-epigenetic axis in regulating adipogenesis. Our findings collectively demonstrate that FTO drives FIL progression by m6A-dependent suppression of SLC7A11, disrupting redox balance and regulating SIRT6-H3K9ac-mediated epigenetic reprogramming to promote adipogenesis. Targeting the FTO/SLC7A11/GSH/SIRT6 axis offers a promising therapeutic strategy for FIL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40769313/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "40769313",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "MSC-derived exosomes alleviate oxidative stress-induced lysosomal membrane permeabilization damage in degenerated nucleus pulposus cells via promoting m6A demethylation of Nrf2.",
+      "authors": "Xuran Gao; Shu Jia; Long-fei Gao; Shang Chen; Yanan Zhang; Xiao Liang; Lu Zhang; Bin Zhang; Chunyang Meng",
+      "year": 2025,
+      "doi": "10.1016/j.freeradbiomed.2025.04.051",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Lysosomal membrane permeabilization (LMP) is a specific feature of lysosomal dysfunction; however, its specific role and underlying mechanisms involved in intervertebral disc degeneration (IVDD) remain elusive. Although the therapeutic potential of mesenchymal stem cell-derived exosomes (MSC-Exo) in ameliorating IVDD has been verified, it remains unclear whether their protective effects are referred to LMP damage. This work revealed that oxidative stress induced-LMP damage directly mediated the pathological process of human IVDD, which aggravated nucleus pulposus cells (NPCs) senescence by disrupting lysosomal autophagy function. Conversely, umbilical cord derived MSC-Exo inhibited LMP damage in degenerated NPCs by activating Nrf2-medaited anti-oxidative stress effects. Specifically, MSC-Exo facilitated H3K27ac modification in the demethylase FTO promoter by promoting histone acetyltransferase activity of p300/CBP, resulting in the enhanced FTO transcription. This process inhibited the elevation of N6-methyladenosine (m6A) modification of Nrf2 in degenerated NPCs, resulting in less recognition of YTHDF2 and enhanced stability of Nrf2 expression. Here, our finding demonstrates oxidative stress induced-LMP damage potentially establishing pathological conditions conducive to the progression of IVDD, and providing epigenetic regulatory targets for MSC-Exo in the treatment of IVDD.",
+      "url": "https://www.semanticscholar.org/paper/2846be39f47f0600d30a587189fed4209867b513",
+      "pdf_url": "https://doi.org/10.1016/j.freeradbiomed.2025.04.051",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "2846be39f47f0600d30a587189fed4209867b513",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "TEAD1 is a novel regulator of NRF2 and oxidative stress response in cardiomyocytes",
+      "authors": "Rajaganapathi Jagannathan; Jeongkyung Lee; Evan Devallance; V. Negi; V. Mandi; Hridyanshu Vyas; Feng Li; Patrick J. Pagano; V. Yechoor; M. Moulik",
+      "year": 2025,
+      "doi": "10.1101/2025.04.06.647438",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND TEAD1, the mammalian Hippo pathway-regulated transcription factor, plays a critical and non-redundant role in maintaining cardiomyocyte (CM) homeostasis. However, the specific cellular pathways regulated by TEAD1 in CMs remain poorly defined. We hypothesized that TEAD1 has an essential, cell-autonomous role in the CM oxidative stress response by directly regulating the transcription of NRF2, the master regulator of oxidative stress response. METHODS AND RESULTS Tamoxifen-induced conditional CM-specific TEAD1 deletion in adult mice leads to acute heart failure (HF) and altered expression of antioxidant genes. In silico analysis of publicly available RNA-seq data from human hearts with end-stage dilated (DCM) and ischemic (ICM) cardiomyopathy revealed significant downregulation of TEAD1 transcript levels and a positive correlation between TEAD1 and NRF2 gene expression. ChIP-seq and ATAC-seq in adult mouse hearts confirmed TEAD1 occupancy at promoter/enhancer elements within open chromatin regions of multiple antioxidant genes, including NRF2 and its targets. Ex vivo and in vitro TEAD1 knockout in primary neonatal and adult murine CMs, as well as in H9C2 cells, resulted in significantly increased cellular and mitochondrial ROS le, accompanied by a marked decrease in NRF2 expression and promoter-luciferase activity, under both basal and oxidative stress conditions. Mosaic, conditional deletion of TEAD1 in ∼40–50% of murine heart CMs provided a novel in vivo model for studying TEAD1-regulated pathways in the heart, independent of the confounding effects of HF. This model demonstrated reduced NRF2 expression and heightened oxidative stress in neonatal and adult TEAD1 mosaic knockout hearts. Notably, 8OHdG staining identified oxidative DNA damage in TEAD1-deficient CMs compared to TEAD1-expressing CMs within the mosaic knockout hearts. Upon in vivo AngII infusion, TEAD1 mosaic knockout hearts showed a significant increase in oxidative stress markers and an impaired NRF2 response. Overexpression of human TEAD1 restored NRF2 activity and mitigated ROS accumulation in TEAD1 knockout CMs in vitro. Furthermore, TEAD1 deletion in human iPSC-derived CMs resulted in increased oxidative stress and downregulation of NRF2 expression and functional activity, confirming the requirement of TEAD1 in NRF2-mediated oxidative stress response in human CMs. Collectively, these findings establish that TEAD1 is essential for NRF2 expression and activity under both basal and AngII-induced conditions and plays a crucial role in the oxidative stress response in CMs. CONCLUSIONS TEAD1 is a cell-autonomous, direct transcriptional regulator of NRF2 and the cardiomyocyte (CM) oxidative stress response. Its gene expression, which directly correlates with NRF2 transcript levels in the human myocardium, is significantly downregulated in human end-stage heart failure, potentially compromising the oxidative stress response in the failing heart.",
+      "url": "https://www.semanticscholar.org/paper/88440447b7ac5a63adf24f82939b6c5dfa1afcf5",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2025/04/06/2025.04.06.647438.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\rajaganapathi_2025_tead1_is_a_novel_regulator_of_nrf2_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "88440447b7ac5a63adf24f82939b6c5dfa1afcf5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting the Epigenetic Remodeler GCN5 Prevents Vascular Oxidative Stress and Endothelial Dysfunction in Obesity: Insights in Patients with Cardiometabolic Disease",
+      "authors": "S. Costantino; S. Mohammed; A. Mengozzi; E. Duranti; Valentina Delfine; Martin A. Geiger; Nazha Hamdani; S. Taddei; S. Masi; A. Virdis; F. Paneni",
+      "year": 2025,
+      "doi": "10.1007/s40292-025-00739-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetic changes are important modulators of gene expression. The histone acetyltransferase gene non-derepressible 5 (Gcn5) is emerging as a pivotal epigenetic player in metabolism and cancer, yet its role in obesity and cardiovascular disease remains elusive. To investigate Gcn5 role in obesity-related endothelial dysfunction. Human aortic endothelial cells (HAECs) were exposed to vehicle or palmitic acid (200 uM) in the presence or in the absence of the Gcn5 pharmacological inhibitor CPTH2 or gene silencing. Ex-vivo inhibition of Gcn5 was performed in aortic rings from diet-induced obese and control mice. Chromatin immunoprecipitation (ChIP) was performed to investigate the epigenetic regulation of Nox2 promoter. In parallel, Gcn5/Nox2 expression was assessed by real-time PCR in vascular specimens isolated from obese patients and age-matched healthy controls. Endothelial-dependent vasodilation was also assessed in human vessels. PA increased Gcn5 gene expression in HAECs. Gcn5 upregulation was associated with increased expression of the pro-oxidant enzyme Nox2. Interestingly, either Gcn5 inhibition or gene silencing prevented PA-induced Nox2 upregulation and oxidative stress accumulation. ChiP assay showed increased Gcn5 occupancy and enhanced histone 3 acetylation of lysine 14 (H3K14ac) on Nox2 promoter. In aortic rings from obese mice, pharmacological inhibition of Gcn5 by CPTH2 rescued endothelial-dependent vasorelaxation as compared to vehicle. Finally, Gcn5 was increased in vessels from obese patients and correlated with Nox2 expression and endothelial dysfunction. Our findings shed light on the importance of epigenetic regulation in obesity and pinpoint Gcn5 as a therapeutic target to prevent endothelial dysfunction in cardiometabolic disease.",
+      "url": "https://www.semanticscholar.org/paper/bf627f79b935715369167371619e9252126690d3",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12474637",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "bf627f79b935715369167371619e9252126690d3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Increased FTO Expression Demethylates XBP1 m6A, Thereby Regulating XBP1-C/EBPα and Promoting Hepatocellular Carcinoma Growth",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.23812/j.biol.regul.homeost.agents.20243806.384",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.23812/j.biol.regul.homeost.agents.20243806.384",
+      "pdf_url": "https://doi.org/10.23812/j.biol.regul.homeost.agents.20243806.384",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress"
+      ],
+      "paper_id": "10.23812/j.biol.regul.homeost.agents.20243806.384",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Insights into the m6A demethylases FTO and ALKBH5 : structural, biological function, and inhibitor development",
+      "authors": "Zewei Gao; Xuan Zha; Min Li; Xueli Xia; Shengjun Wang",
+      "year": 2024,
+      "doi": "10.1186/s13578-024-01286-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract N6-methyladenosine (m 6 A) is dynamically regulated by methyltransferases (termed “writers”) and demethylases (referred to as “erasers”), facilitating a reversible modulation. Changes in m 6 A levels significantly influence cellular functions, such as RNA export from the nucleus, mRNA metabolism, protein synthesis, and RNA splicing. They are intricately associated with a spectrum of pathologies. Moreover, dysregulation of m 6 A modulation has emerged as a promising therapeutic target across many diseases. m 6 A plays a pivotal role in controlling vital downstream molecules and critical biological pathways, contributing to the pathogenesis and evolution of numerous conditions. This review provides an overview of m 6 A demethylases, explicitly detailing the structural and functional characteristics of FTO and ALKBH5. Additionally, we explore their distinct involvement in various diseases, examine factors regulating their expression, and discuss the progress in inhibitor development.",
+      "url": "https://doi.org/10.1186/s13578-024-01286-6",
+      "pdf_url": "https://cellandbioscience.biomedcentral.com/counter/pdf/10.1186/s13578-024-01286-6",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "W4401908039",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Recruitment of CTCF to the SIRT1 promoter after Oxidative Stress mediates Cardioprotective Transcription",
+      "authors": "Tobias Wagner; Priyanka Priyanka; R. Micheletti; Meyer J. Friedman; Sreejith J. Nair; A. Gamliel; Havilah Taylor; Xiaoyuan Song; Miook Cho; Soohwan Oh; Wenbo Li; Jeehae Han; K. Ohgi; Madeline Abrass; Agnieszka D’Antonio-Chronowska; M. D’Antonio; Helen P. Hazuda; R. Duggirala; J. Blangero; Sheng Ding; Carlos Guzmann; K. Frazer; Aneel K. Aggarwal; Alice E. Zemljic-Harpf; M. Rosenfeld; Y. Suh",
+      "year": 2024,
+      "doi": "10.1101/2024.05.17.594600",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Because most DNA-binding transcription factors (dbTFs), including the architectural regulator CTCF, bind RNA and exhibit di-/multimerization, a central conundrum is whether these distinct properties are regulated post-transcriptionally to modulate transcriptional programs. Here, investigating stress-dependent activation of SIRT1, encoding an evolutionarily-conserved protein deacetylase, we show that induced phosphorylation of CTCF acts as a rheostat to permit CTCF occupancy of low-affinity promoter DNA sites to precisely the levels necessary. This CTCF recruitment to the SIRT1 promoter is eliciting a cardioprotective cardiomyocyte transcriptional activation program and provides resilience against the stress of the beating heart in vivo. Mice harboring a mutation in the conserved low-affinity CTCF promoter binding site exhibit an altered, cardiomyocyte-specific transcriptional program and a systolic heart failure phenotype. This transcriptional role for CTCF reveals that a covalent dbTF modification regulating signal-dependent transcription serves as a previously unsuspected component of the oxidative stress response.",
+      "url": "https://www.semanticscholar.org/paper/33ce91530176fc3426bb0d99bc81ef89341ee643",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2024/05/19/2024.05.17.594600.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\tobias_2024_recruitment_of_ctcf_to_the_sirt1_promoter_after.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "33ce91530176fc3426bb0d99bc81ef89341ee643",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulatory RNAs: role as scaffolds assembling protein complexes and their epigenetic deregulation.",
+      "authors": "Poltronieri P",
+      "year": 2024,
+      "doi": "10.37349/etat.2024.00252",
+      "pmid": "39280246",
+      "pmcid": "PMC11390297",
+      "abstract": "Recently, new data have been added to the interaction between non-coding RNAs (ncRNAs) and epigenetic machinery. Epigenetics includes enzymes involved in DNA methylation, histone modifications, and RNA modifications, and mechanisms underlying chromatin structure, repressive states, and active states operating in transcription. The main focus is on long ncRNAs (lncRNAs) acting as scaffolds to assemble protein complexes. This review does not cover RNA's role in sponging microRNAs, or decoy functions. Several lncRNAs were shown to regulate chromatin activation and repression by interacting with Polycomb repressive complexes and mixed-lineage leukemia (MLL) activating complexes. Various groups reported on enhancer of zeste homolog 2 (EZH2) interactions with regulatory RNAs. Knowledge of the function of these complexes opens the perspective to develop new therapeutics for cancer treatment. Lastly, the interplay between lncRNAs and epitranscriptomic modifications in cancers paves the way for new targets in cancer therapy. The approach to inhibit lncRNAs interaction with protein complexes and perspective to regulate epitrascriptomics-regulated RNAs may bring new compounds as therapeuticals in various types of cancer.",
+      "url": "https://europepmc.org/articles/PMC11390297",
+      "pdf_url": "https://europepmc.org/articles/PMC11390297?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ca/a2/PMC11390297.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\poltronieri_2024_regulatory_rnas_role_as_scaffolds_assembling_protein_complexes.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "PMID:39280246",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of N6-methyladenosine methylation in nasopharyngeal carcinoma: current insights and future prospective.",
+      "authors": "Zhao Y; Li J; Dian M; Bie Y; Peng Z; Zhou Y; Zhou B; Hao W; Wang X",
+      "year": 2024,
+      "doi": "10.1038/s41420-024-02266-y",
+      "pmid": "39695216",
+      "pmcid": "PMC11655975",
+      "abstract": "Nasopharyngeal carcinoma (NPC) is a distinct type of head and neck squamous cell carcinoma prevalent in Southern China, Southeast Asia, and North Africa. Despite advances in treatment options, the prognosis for advanced NPC remains poor, underscoring the urgent need to explore its underlying mechanisms and develop novel therapeutic strategies. Epigenetic alterations have been shown to play a key role in NPC progression. Recent studies indicate that dysregulation of RNA modifications in NPC specifically affects tumor-related transcripts, influencing various oncogenic processes. This review provides a comprehensive overview of altered RNA modifications and their regulators in NPC, with a focus on m<sup>6</sup>A and its regulatory mechanisms. We discuss how m<sup>6</sup>A RNA modification influences gene expression and affects NPC initiation and progression at the molecular level, analyzing its impact on cancer-related biological functions. Understanding these modifications could reveal new biomarkers and therapeutic targets for NPC, offering promising directions for future research and precision medicine.",
+      "url": "https://europepmc.org/articles/PMC11655975",
+      "pdf_url": "https://europepmc.org/articles/PMC11655975?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/16/44/PMC11655975.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhao_2024_role_of_n6_methyladenosine_methylation_in_nasopharyngeal_carcinoma.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "PMID:39695216",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Correction: C/EBPα Confers Dependence to Fatty Acid Anabolic Pathways and Vulnerability to Lipid Oxidative Stress–Induced Ferroptosis in <i>FLT3</i>-Mutant Leukemia",
+      "authors": "",
+      "year": 2023,
+      "doi": "10.1158/2159-8290.cd-23-0768",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1158/2159-8290.cd-23-0768",
+      "pdf_url": "https://aacrjournals.org/cancerdiscovery/article-pdf/13/9/2106/3362212/2106.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress"
+      ],
+      "paper_id": "10.1158/2159-8290.cd-23-0768",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic regulation in metabolic diseases: mechanisms and advances in clinical study",
+      "authors": "Yanlin Wu; Zhengjun Lin; Changchun Li; Xiao Lin; Su‐Kang Shan; Bei Guo; Ming-Hui Zheng; Fu‐Xing‐Zi Li; Ling‐Qing Yuan; Zhihong Li",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01333-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetics regulates gene expression and has been confirmed to play a critical role in a variety of metabolic diseases, such as diabetes, obesity, non-alcoholic fatty liver disease (NAFLD), osteoporosis, gout, hyperthyroidism, hypothyroidism and others. The term 'epigenetics' was firstly proposed in 1942 and with the development of technologies, the exploration of epigenetics has made great progresses. There are four main epigenetic mechanisms, including DNA methylation, histone modification, chromatin remodelling, and noncoding RNA (ncRNA), which exert different effects on metabolic diseases. Genetic and non-genetic factors, including ageing, diet, and exercise, interact with epigenetics and jointly affect the formation of a phenotype. Understanding epigenetics could be applied to diagnosing and treating metabolic diseases in the clinic, including epigenetic biomarkers, epigenetic drugs, and epigenetic editing. In this review, we introduce the brief history of epigenetics as well as the milestone events since the proposal of the term 'epigenetics'. Moreover, we summarise the research methods of epigenetics and introduce four main general mechanisms of epigenetic modulation. Furthermore, we summarise epigenetic mechanisms in metabolic diseases and introduce the interaction between epigenetics and genetic or non-genetic factors. Finally, we introduce the clinical trials and applications of epigenetics in metabolic diseases.",
+      "url": "https://doi.org/10.1038/s41392-023-01333-7",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01333-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "W4322770791",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modification: mechanisms and therapeutic targets",
+      "authors": "Lei Qiu; Jing Qian; Yanbo Li; Junhong Han",
+      "year": 2023,
+      "doi": "10.1186/s43556-023-00139-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "RNA modifications are dynamic and reversible chemical modifications on substrate RNA that are regulated by specific modifying enzymes. They play important roles in the regulation of many biological processes in various diseases, such as the development of cancer and other diseases. With the help of advanced sequencing technologies, the role of RNA modifications has caught increasing attention in human diseases in scientific research. In this review, we briefly summarized the basic mechanisms of several common RNA modifications, including m6A, m5C, m1A, m7G, Ψ, A-to-I editing and ac4C. Importantly, we discussed their potential functions in human diseases, including cancer, neurological disorders, cardiovascular diseases, metabolic diseases, genetic and developmental diseases, as well as immune disorders. Through the \"writing-erasing-reading\" mechanisms, RNA modifications regulate the stability, translation, and localization of pivotal disease-related mRNAs to manipulate disease development. Moreover, we also highlighted in this review all currently available RNA-modifier-targeting small molecular inhibitors or activators, most of which are designed against m6A-related enzymes, such as METTL3, FTO and ALKBH5. This review provides clues for potential clinical therapy as well as future study directions in the RNA modification field. More in-depth studies on RNA modifications, their roles in human diseases and further development of their inhibitors or activators are needed for a thorough understanding of epitranscriptomics as well as diagnosis, treatment, and prognosis of human diseases.",
+      "url": "https://doi.org/10.1186/s43556-023-00139-x",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s43556-023-00139-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "W4386089664",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dynamic regulation and functions of mRNA m6A modification",
+      "authors": "Shanshan Wang; Wei Lv; Tao Li; Shubing Zhang; Huihui Wang; Xuemei Li; Lianzi Wang; Dongyue Ma; Yan Zang; Jilong Shen; Yuanhong Xu; Wei Wei",
+      "year": 2022,
+      "doi": "10.1186/s12935-022-02452-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "-Methyladenosine (m6A), the most abundant internal modification associated with eukaryotic mRNAs, has emerged as a dynamic regulatory mechanism controlling the expression of genes involved in many physiological activities by affecting various steps of mRNA metabolism, including splicing, export, translation, and stability. Here, we review the general role of m6A, highlighting recent advances related to the three major types enzymes that determine the level of m6A modification (i.e., writers, erasers, and readers) and the regulatory mechanism by which m6A influences multiple stages of RNA metabolism. This review clarifies the close connection and interaction between m6A modification and nuclear gene expression, and provides key background information for further studies of its roles in numerous physiological and pathophysiological processes. Among them, perhaps the most eye-catching process is tumorigenesis. Clarifying the molecular mechanism of tumorigenesis, development and metastasis in various tissues of the human body is conducive to curbing out-of-control cell activities from the root and providing a new strategy for human beings to defeat tumors.",
+      "url": "https://doi.org/10.1186/s12935-022-02452-x",
+      "pdf_url": "https://cancerci.biomedcentral.com/counter/pdf/10.1186/s12935-022-02452-x",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\shanshan_2022_dynamic_regulation_and_functions_of_mrna_m6a_modification.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "W4210804906",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "M6A RNA Methylation-Based Epitranscriptomic Modifications in Plasticity-Related Genes via miR-124-C/EBPα-FTO-Transcriptional Axis in the Hippocampus of Learned Helplessness Rats.",
+      "authors": "Roy B; Ochi S; Dwivedi Y",
+      "year": 2022,
+      "doi": "10.1093/ijnp/pyac068",
+      "pmid": "36161325",
+      "pmcid": "PMC9743968",
+      "abstract": "<h4>Background</h4>Impaired synaptic plasticity has been linked to dynamic gene regulatory network changes. Recently, gene regulation has been introduced with the emerging concept of unique N6-methyladenosine (m6A)-based reversible transcript methylation. In this study, we tested whether m6A RNA methylation may potentially serve as a link between the stressful insults and altered expression of plasticity-related genes.<h4>Methods</h4>Expression of plasticity genes Nr3c1, Creb1, Ntrk2; m6A-modifying enzymes Fto, methyltransferase like (Mettl)-3 and 14; DNA methylation enzymes Dnmt1, Dnmt3a; transcription factor C/ebp-α; and miRNA-124-3p were determined by quantitative polymerase chain reaction (qPCR) in the hippocampus of rats that showed susceptibility to develop stress-induced depression (learned helplessness). M6A methylation of plasticity-related genes was determined following m6A mRNA immunoprecipitation. Chromatin immunoprecipitation was used to examine the endogenous binding of C/EBP-α to the Fto promoter. MiR-124-mediated post-transcriptional inhibition of Fto via C/EBPα was determined using an in vitro model.<h4>Results</h4>Hippocampus of learned helplessness rats showed downregulation of Nr3c1, Creb1, and Ntrk2 along with enrichment in their m6A methylation. A downregulation in demethylating enzyme Fto and upregulation in methylating enzyme Mettl3 were also noted. The Fto promoter was hypomethylated due to the lower expression of Dnmt1 and Dnmt3a. At the same time, there was a lower occupancy of transcription factor C/EBPα on the Fto promoter. Conversely, C/ebp-α transcript was downregulated via induced miR-124-3p expression.<h4>Conclusions</h4>Our study mechanistically linked defective C/EBP-α-FTO-axis, epigenetically influenced by induced expression of miR-124-3p, in modifying m6A enrichment in plasticity-related genes. This could potentially be linked with abnormal neuronal plasticity in depression.",
+      "url": "https://europepmc.org/articles/PMC9743968",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/71/09/pyac068.PMC9743968.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/71/09/PMC9743968.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress"
+      ],
+      "paper_id": "PMID:36161325",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "BACH1, the master regulator of oxidative stress, has a dual effect on CFTR expression",
+      "authors": "Monali NandyMazumdar; Alekh Paranjapye; James A. Browne; S. Yin; S. Leir; A. Harris",
+      "year": 2021,
+      "doi": "10.1042/BCJ20210252",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The cystic fibrosis transmembrane conductance regulator (CFTR) gene lies within a topologically associated domain (TAD) in which multiple cis-regulatory elements (CREs) and transcription factors (TFs) regulate its cell-specific expression. The CREs are recruited to the gene promoter by a looping mechanism that depends upon both architectural proteins and specific TFs. An siRNA screen to identify TFs coordinating CFTR expression in airway epithelial cells suggested an activating role for BTB domain and CNC homolog 1 (BACH1). BACH1 is a ubiquitous master regulator of the cellular response to oxidative stress. Here, we show that BACH1 may have a dual effect on CFTR expression by direct occupancy of CREs at physiological oxygen (∼8%), while indirectly modulating expression under conditions of oxidative stress. Hence BACH1, can activate or repress the same gene, to fine tune expression in response to environmental cues such as cell stress. Furthermore, our 4C-seq data suggest that BACH1 can also directly regulate CFTR gene expression by modulating locus architecture through occupancy at known enhancers and structural elements, and depletion of BACH1 alters the higher order chromatin structure.",
+      "url": "https://www.semanticscholar.org/paper/dece6b19bdea14d0bfc4599bbd819d80f326cb3b",
+      "pdf_url": "https://portlandpress.com/biochemj/article-pdf/478/20/3741/922193/bcj-2021-0252.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "dece6b19bdea14d0bfc4599bbd819d80f326cb3b",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cyclin C promoter occupancy directs changes in stress-dependent transcription",
+      "authors": "David C. Stieg; Katrina F. Cooper; Randy Strich",
+      "year": 2020,
+      "doi": "10.1101/2020.07.14.202580",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>The Cdk8 kinase module (CKM) is a detachable Mediator subunit composed of cyclin C, and one each of paralogs Cdk8/Cdk19, Med12/Med12L and Med13/Med13L. In addition to regulating transcription, a portion of cyclin C also leaves the nucleus following cytotoxic stress to induce mitochondrial fragmentation and apoptosis. Our previous RNA-seq studies demonstrated that cyclin C represses a subset of hydrogen peroxide-induced genes under normal conditions, while also being required for the full induction of other loci following stress. Here, we show that cyclin C directs this transcriptional reprograming through changes in its promoter occupancy. Following peroxide stress, cyclin C promoter occupancy increased for genes it activates while decreasing at loci it represses under normal conditions. Promoter occupancy of other CKM components generally mirrored cyclin C indicating that the CKM moves as a single unit. However, CKM integrity appeared compromised at a subset of repressed promoters suggesting a source of cyclin C that is targeted for nuclear release. Interestingly, mTOR inhibition induced a new pattern of cyclin C promoter occupancy indicating that this control is fine-tuned to the individual stress. Using inhibitors, we found that Cdk8 kinase activity is not required for CKM movement or repression but was necessary for full gene activation. In conclusion, this study revealed that different stress stimuli elicit specific changes in CKM promoter occupancy correlating to altered transcriptional outputs. Finally, although CKM components were recruited or expelled from promoters as a unit, heterogeneity was observed at individual promoters suggesting a mechanism to generate gene- and stress-specific responses.</jats:p>",
+      "url": "https://doi.org/10.1101/2020.07.14.202580",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/07/15/2020.07.14.202580.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\david_2020_cyclin_c_promoter_occupancy_directs_changes_in_stress.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress",
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "10.1101/2020.07.14.202580",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of m6A RNA methylation in cardiovascular disease (Review)",
+      "authors": "Yuhan Qin; Linqing Li; Erfei Luo; Jiantong Hou; Gaoliang Yan; Dong Wang; Yong Qiao; Chengchun Tang",
+      "year": 2020,
+      "doi": "10.3892/ijmm.2020.4746",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6‑methyladenosine (m6A) is the most prevalent and abundant type of internal post‑transcriptional RNA modification in eukaryotic cells. Multiple types of RNA, including mRNAs, rRNAs, tRNAs, long non‑coding RNAs and microRNAs, are involved in m6A methylation. The biological function of m6A modification is dynamically and reversibly mediated by methyltransferases (writers), demethylases (erasers) and m6A binding proteins (readers). The methyltransferase complex is responsible for the catalyzation of m6A modification and is typically made up of methyltransferase‑like (METTL)3, METTL14 and Wilms tumor 1‑associated protein. Erasers remove methylation by fat mass and obesity‑associated protein and ALKB homolog 5. Readers play a role through the recognition of m6A‑modified targeted RNA. The YT521‑B homology domain family, heterogeneous nuclear ribonucleoprotein and insulin‑like growth factor 2 mRNA‑binding protein serve as m6A readers. The m6A methylation on transcripts plays a pivotal role in the regulation of downstream molecular events and biological functions, such as RNA splicing, transport, stability and translatability at the post‑transcriptional level. The dysregulation of m6A modification is associated with cancer, drug resistance, virus replication and the pluripotency of embryonic stem cells. Recently, a number of studies have identified aberrant m6A methylation in cardiovascular diseases (CVDs), including cardiac hypertrophy, heart failure, arterial aneurysm, vascular calcification and pulmonary hypertension. The aim of the present review article was to summarize the recent research progress on the role of m6A modification in CVD and give a brief perspective on its prospective applications in CVD.",
+      "url": "https://doi.org/10.3892/ijmm.2020.4746",
+      "pdf_url": "https://www.spandidos-publications.com/10.3892/ijmm.2020.4746/download",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\yuhan_2020_role_of_m6a_rna_methylation_in_cardiovascular_disease.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "W3091905639",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Critical Role of RNA m6A Methylation in Cancer",
+      "authors": "Qing Lan; Pei Y. Liu; Jacob Haase; Jessica L. Bell; Stefan Hüttelmaier; Tao Liu",
+      "year": 2019,
+      "doi": "10.1158/0008-5472.can-18-2965",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Since the identification of the first RNA demethylase and the establishment of methylated RNA immunoprecipitation-sequencing methodology 6 to 7 years ago, RNA methylation has emerged as a widespread phenomenon and a critical regulator of transcript expression. This new layer of regulation is termed “epitranscriptomics.” The most prevalent RNA methylation, N6-methyladenosine (m6A), occurs in approximately 25% of transcripts at the genome-wide level and is enriched around stop codons, in 5′- and 3′-untranslated regions, and within long internal exons. RNA m6A modification regulates RNA splicing, translocation, stability, and translation into protein. m6A is catalyzed by the RNA methyltransferases METTL3, METTL14, and METTL16 (writers), is removed by the demethylases FTO and ALKBH5 (erasers), and interacts with m6A-binding proteins, such as YTHDF1 and IGF2BP1 (readers). RNA methyltransferases, demethylases, and m6A-binding proteins are frequently upregulated in human cancer tissues from a variety of organ origins, increasing onco-transcript and oncoprotein expression, cancer cell proliferation, survival, tumor initiation, progression, and metastasis. Although RNA methyltransferase inhibitors are not available yet, FTO inhibitors have shown promising anticancer effects in vitro and in animal models of cancer. Further screening for selective and potent RNA methyltransferase, demethylase, or m6A-binding protein inhibitors may lead to compounds suitable for future clinical trials in cancer patients.",
+      "url": "https://doi.org/10.1158/0008-5472.can-18-2965",
+      "pdf_url": "https://cancerres.aacrjournals.org/content/canres/79/7/1285.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "W2922969171",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A RNA methylation in human cancer",
+      "authors": "Xiaoyu Chen; Jing Zhang; Jin‐Shui Zhu",
+      "year": 2019,
+      "doi": "10.1186/s12943-019-1033-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) is identified as the most common, abundant and conserved internal transcriptional modification, especially within eukaryotic messenger RNAs (mRNAs). M6A modification is installed by the m6A methyltransferases (METTL3/14, WTAP, RBM15/15B and KIAA1429, termed as “writers”), reverted by the demethylases (FTO and ALKBH5, termed as “erasers”) and recognized by m6A binding proteins (YTHDF1/2/3, IGF2BP1 and HNRNPA2B1, termed as “readers”). Acumulating evidence shows that, m6A RNA methylation has an outsize effect on RNA production/metabolism and participates in the pathogenesis of multiple diseases including cancers. Until now, the molecular mechanisms underlying m6A RNA methylation in various tumors have not been comprehensively clarified. In this review, we mainly summarize the recent advances in biological function of m6A modifications in human cancer and discuss the potential therapeutic strategies.",
+      "url": "https://doi.org/10.1186/s12943-019-1033-z",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-019-1033-z",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\xiaoyu_2019_the_role_of_m6a_rna_methylation_in_human.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "W2947674709",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Zfp217 mediates m6A mRNA methylation to orchestrate transcriptional and post-transcriptional regulation to promote adipogenic differentiation",
+      "authors": "Tongxing Song; Yang Yang; Hongkui Wei; Xiaowei Xie; Jinxin Lü; Qianhui Zeng; Jie Peng; Jie Peng; Yuanfei Zhou; Siwen Jiang; Jian Peng; Jian Peng",
+      "year": 2019,
+      "doi": "10.1093/nar/gkz312",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "A complex and highly orchestrated gene expression program chiefly establishes the properties that define the adipocyte phenotype, in which the vast majority of factors are involved in transcriptional regulation. However, the mechanisms by post-transcriptional modulation are poorly understood. Here, we showed that zinc finger protein (Zfp217) couples gene transcription to m6A mRNA modification to facilitate adipogenesis. Zfp217 modulates m6A mRNA methylation by activating the transcription of m6A demethylase FTO. Consistently, depletion of Zfp217 compromises adipogenic differentiation of 3T3L1 cells and results in a global increase of m6A modification. Moreover, the interaction of Zfp217 with YTHDF2 is critical for allowing FTO to maintain its interaction with m6A sites on various mRNAs, as loss of Zfp217 leads to FTO decrease and augmented m6A levels. These findings highlight a role for Zfp217-dependent m6A modification to coordinate transcriptional and post-transcriptional regulation and thus promote adipogenic differentiation.",
+      "url": "https://doi.org/10.1093/nar/gkz312",
+      "pdf_url": "https://academic.oup.com/nar/article-pdf/47/12/6130/28916978/gkz312.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "W2943595344",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO-Dependent N <sup>6</sup> -Methyladenosine Regulates Cardiac Function During Remodeling and Repair",
+      "authors": "Prabhu Mathiyalagan; Marta Adamiak; Joshua Mayourian; Yassine Sassi; Yaxuan Liang; Neha Agarwal; Divya Jha; Shihong Zhang; Erik Kohlbrenner; Elena Chepurko; Jiqiu Chen; Maria G. Trivieri; Rajvir Singh; Rihab Bouchareb; Kenneth Fish; Kiyotake Ishikawa; Djamel Lebeche; Roger J. Hajjar; Susmita Sahoo",
+      "year": 2018,
+      "doi": "10.1161/circulationaha.118.033794",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: -methyladenosine (m6A) in the heart are lacking. Here, we show that the FTO (fat mass and obesity-associated protein), an m6A demethylase, plays a critical role in cardiac contractile function during homeostasis, remodeling, and regeneration. METHODS: We used clinical human samples, preclinical pig and mouse models, and primary cardiomyocyte cell cultures to study the functional role of m6A and FTO in the heart and in cardiomyocytes. We modulated expression of FTO by using adeno-associated virus serotype 9 (in vivo), adenovirus (both in vivo and in vitro), and small interfering RNAs (in vitro) to study its function in regulating cardiomyocyte m6A, calcium dynamics and contractility, and cardiac function postischemia. We performed methylated (m6A) RNA immunoprecipitation sequencing to map transcriptome-wide m6A, and methylated (m6A) RNA immunoprecipitation quantitative polymerase chain reaction assays to map and validate m6A in individual transcripts, in healthy and failing hearts, and in myocytes. RESULTS: We discovered that FTO has decreased expression in failing mammalian hearts and hypoxic cardiomyocytes, thereby increasing m6A in RNA and decreasing cardiomyocyte contractile function. Improving expression of FTO in failing mouse hearts attenuated the ischemia-induced increase in m6A and decrease in cardiac contractile function. This is performed by the demethylation activity of FTO, which selectively demethylates cardiac contractile transcripts, thus preventing their degradation and improving their protein expression under ischemia. In addition, we demonstrate that FTO overexpression in mouse models of myocardial infarction decreased fibrosis and enhanced angiogenesis. CONCLUSIONS: Collectively, our study demonstrates the functional importance of the FTO-dependent cardiac m6A methylome in cardiac contraction during heart failure and provides a novel mechanistic insight into the therapeutic mechanisms of FTO.",
+      "url": "https://doi.org/10.1161/circulationaha.118.033794",
+      "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.118.033794",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "W2837459302",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Genetics of Transcription Factor DNA Binding Variation",
+      "authors": "Bart Deplancke; Daniel Alpern; Vincent Gardeux",
+      "year": 2016,
+      "doi": "10.1016/j.cell.2016.07.012",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cell.2016.07.012",
+      "pdf_url": "http://www.cell.com/article/S0092867416309187/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "W2481378334",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CCAAT/enhancer-binding protein α is a crucial regulator of human fat mass and obesity associated gene transcription and expression.",
+      "authors": "Ren W; Guo J; Jiang F; Lu J; Ding Y; Li A; Liang X; Jia W",
+      "year": 2014,
+      "doi": "10.1155/2014/406909",
+      "pmid": "24877091",
+      "pmcid": null,
+      "abstract": "Several susceptibility loci have been reported associated with obesity and T2DM in GWAS. Fat mass and obesity associated gene (FTO) is the first gene associated with body mass index (BMI) and risk for diabetes in diverse patient populations. FTO is highly expressed in the brain and pancreas, and is involved in regulating dietary intake and energy expenditure. While much is known about the epigenetic mutations contributing to obesity and T2DM, less is certain with the expression regulation of FTO gene. In this study, a highly conserved canonical C/EBP α binding site was located around position -45~-54 bp relative to the human FTO gene transcriptional start site. Site-directed mutagenesis of the putative C/EBP α binding sites decreased FTO promoter activity. Overexpression and RNAi studies also indicated that C/EBP α was required for the expression of FTO. Chromatin immunoprecipitation (ChIP) experiment was carried out and the result shows direct binding of C/EBP α to the putative binding regions in the FTO promoter. Collectively, our data suggest that C/EBP α may act as a positive regulator binding to FTO promoter and consequently, activates the gene transcription.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24877091/",
+      "pdf_url": "https://downloads.hindawi.com/journals/bmri/2014/406909.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "24877091",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Orchestration of Oxidative Stress Responses in<i>Drosophila melanogaster</i>: A Promoter Analysis Study of Circadian Regulatory Motifs",
+      "authors": "Kuntol Rakshit; Natraj Krishnan",
+      "year": 2011,
+      "doi": "10.1002/9781118148143.ch23",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/9781118148143.ch23",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "10.1002/9781118148143.ch23",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mapping of Oxidative Stress Response Elements of the Caveolin-1 Promoter",
+      "authors": "Janine N. Bartholomew; Ferruccio Galbiati",
+      "year": 2009,
+      "doi": "10.1007/978-1-60761-411-1_29",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-60761-411-1_29",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3707498",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress",
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "10.1007/978-1-60761-411-1_29",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Novel Subgroup of Poor Prognostic AML with Low CEBPA Expression, CEBPA Promoter Hypermethylation and DNMT3b Overexpression.",
+      "authors": "Hendrik Rudolpf Delwel; Claudia Erpelinck; Roel Verhaak; Ivo P. Touw; Bob Lowenberg; Peter J.M. Valk",
+      "year": 2004,
+      "doi": "10.1182/blood.v104.11.418.418",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The CCAAT/Enhancer Binding Protein a (CEBPA) is a 37kDa transcription factor essential for granulocytic differentiation. The C-terminal part is composed of a basic region that binds to DNA and a leucine zipper that mediates dimerization (bZIP). Recent studies reported N and C-terminal mutations in approximately 5 – 10% of patients with acute myeloid leukemia (AML). In case a C-terminal mutation is observed in one CEBPA allele, the other allele most frequently harbors an N-terminal mutation. N-terminal mutations cause the expression of a 30kDa protein, whereas C-terminal mutations usually represent in-frame insertions or deletions in the bZIP-domain resulting in deficient DNA-binding of CEBPA. Gene array analysis carried out on 285 AML cases, revealed a group of AML patients with a unique gene expression profile, which contained most of AML cases with biallelic, CEBPA mutations (Valk et al. N Engl J Med. 2004, 350: pp1617–28). Interestingly, among this cluster 50% of the cases did not harbor any CEBPA mutation, while presenting exactly the same gene expression profile. Instead of carrying CEBPA mutations, these particular cases did not express CEBPA mRNA at all. Moreover, the patients with low CEBPA expression showed a poor response to anti leukemic treatment, whereas the CEBPA mutant AML cases respond favorably to therapy. To study the mechanism by which CEBPA expression might have been down regulated, methylation-specific PCR was applied using the bisulfite method. This analysis revealed that in most of the cases with low CEBPA mRNA levels, the CEBPA promoter was silenced by hypermethylation. None of the other AML cases that we analyzed showed CEBPA hyper methylation. To verify whether the hypermethylation correlated with the expression levels of any of the distinct DNA-methyl transferase (DNMTs), the expression of these genes was studies in all 285 AML cases. Intriguingly, AML blasts in which CEBPA was methylated showed significant overexpression of the DNA-methyl transferase DNMT3B, whereas the expression this gene was low in the cases with CEBPA mutations. The fact that AML cases with mutated CEBPA show the same gene expression profile as the cases that harbored methylated CEBPA, indicate that the same pathways are affected within those two subclasses of AML. Intriguingly, the majority of the genes within this profile are strongly down regulated, suggesting that they may represent CEBPA target genes whose expression is negatively affected by the absence of wt-CEBPA or the presence of mutated CEBPA. The gene that was most significantly down regulated in AML cases with either CEBPA mutations or CEBPA methylation is alpha-catenin (CTNNA1) (10 fold downregulation), a gene that we previously identified as a common virus integration site in retrovirally induced myeloid leukemias in mice (Erkeland et al., J Virol.2004;78, pp1971–80). We suggest that down regulation of CTNNA1 in CEBPA defective AML may be a critical step in leukemic transformation. Here we report the identification of a novel subgroup of AML with poor-prognosis, which overexpress DNMT3B and in which CEBPA expression is turned off, frequently as the result of hypermethylation of the CEBPA promoter.</jats:p>",
+      "url": "https://doi.org/10.1182/blood.v104.11.418.418",
+      "pdf_url": "https://ashpublications.org/blood/article/104/11/418/73199/A-Novel-Subgroup-of-Poor-Prognostic-AML-with-Low",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "10.1182/blood.v104.11.418.418",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Differential binding of transcription factor E2F-2 to the endothelin-converting enzyme-1b promoter affects blood pressure regulation",
+      "authors": "H. Funke-Kaiser",
+      "year": 2003,
+      "doi": "10.1093/hmg/ddg040",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/hmg/ddg040",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "10.1093/hmg/ddg040",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Differential binding of transcription factor E2F-2 to the endothelin-converting enzyme-1b promoter affects blood pressure regulation",
+      "authors": "H. Funke-Kaiser",
+      "year": 2003,
+      "doi": "10.1093/hmg/ddg091",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/hmg/ddg091",
+      "pdf_url": "https://academic.oup.com/hmg/article-pdf/12/8/947/1815985/ddg091.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "10.1093/hmg/ddg091",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Differential binding of transcription factor E2F-2 to the endothelin-converting enzyme-1b promoter affects blood pressure regulation",
+      "authors": "H. Funke-Kaiser",
+      "year": 2003,
+      "doi": "10.1093/hmg/12.4.423",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/hmg/12.4.423",
+      "pdf_url": "https://academic.oup.com/hmg/article-pdf/12/4/423/1571104/ddg040.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "10.1093/hmg/12.4.423",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulation of human CETP gene promoter activity: Role of multiple binding sites for SP1 and SP3 transcription factors",
+      "authors": "",
+      "year": 2002,
+      "doi": "10.1016/s1567-5688(02)80390-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s1567-5688(02)80390-7",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "10.1016/s1567-5688(02)80390-7",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 10: RFX5 activates IER3 transcription by binding to the IER3 promoter region.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.12944/fig-10",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.12944/fig-10",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "CEBPA FTO promoter binding transcription regulation"
+      ],
+      "paper_id": "10.7717/peerj.12944/fig-10",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Supplementary file 7. Gene expression profile of genes with FXR1 occupancy at promoter.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.26129.053",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.26129.053",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "C/EBPα FTO promoter occupancy oxidative stress",
+        "oxidative stress CEBPA promoter occupancy FTO"
+      ],
+      "paper_id": "10.7554/elife.26129.053",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

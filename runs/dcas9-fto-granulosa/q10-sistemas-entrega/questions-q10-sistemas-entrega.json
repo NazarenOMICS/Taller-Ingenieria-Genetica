@@ -1,0 +1,65 @@
+{
+  "slug": "q10-sistemas-entrega",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q10-sistemas-entrega",
+  "goal": "Determinar que sistemas de entrega (transfeccion transitoria, lentivirus, nanoparticulas, ARN mensajero o ribonucleoproteina) son viables y menos perturbadores para dCas9-p300 en KGN, COV434 y granulosa primaria.",
+  "dashboard": "dCas9-p300 delivery systems",
+  "notebook_id": "c260e72e-2999-41de-a676-fa883c7298a5",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, how do chemical transfection, electroporation, and lentiviral transduction compare in efficiency and cellular perturbation for delivering large CRISPR/dCas9 constructs?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/answers/2026-07-14 Q01 - according-to-these-sources-how-do.md"
+    },
+    {
+      "id": 2,
+      "theme": "core-evidence",
+      "question": "According to these sources, what delivery platforms (lipid nanoparticles, viral vectors, RNP) have been used specifically for dCas9-based (nuclease-dead) constructs, and what are their reported efficiencies?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/answers/2026-07-14 Q02 - according-to-these-sources-what-delivery.md"
+    },
+    {
+      "id": 3,
+      "theme": "mechanisms",
+      "question": "What challenges do these sources describe in delivering large Cas9/dCas9-fusion payloads (e.g., dCas9-p300, ~5-6 kb) via lentivirus, nanoparticles, or mRNA/RNP compared to smaller CRISPR cargos?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/answers/2026-07-14 Q03 - what-challenges-do-these-sources-describe.md"
+    },
+    {
+      "id": 4,
+      "theme": "context",
+      "question": "According to these sources, what transfection or transduction approaches have been used or would be expected to work in granulosa-derived cell lines (KGN, COV434) or hard-to-transfect primary/stem-like cells, and what perturbation or toxicity concerns are noted?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/answers/2026-07-14 Q04 - according-to-these-sources-what-transfection.md"
+    },
+    {
+      "id": 5,
+      "theme": "comparisons",
+      "question": "Based on these sources, which delivery method (transient transfection, lentivirus, nanoparticle, mRNA, or RNP) offers the best balance of efficiency versus minimal cellular perturbation/immunogenicity for a large CRISPRa effector like dCas9-p300?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/answers/2026-07-14 Q05 - based-on-these-sources-which-delivery.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding delivery of dCas9-p300 specifically (as opposed to Cas9 nuclease or smaller dCas9 fusions) into KGN, COV434, or primary human granulosa cells?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q10-sistemas-entrega\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/answers/2026-07-14 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/summaries/2026-07-14 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/summaries/2026-07-14 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/summaries/2026-07-14 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q10-sistemas-entrega/QA/summaries/2026-07-14 dCas9-p300 delivery systems - NotebookLM block summary.md"
+}

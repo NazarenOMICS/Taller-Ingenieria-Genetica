@@ -1,0 +1,22 @@
+[17:11:25] Starting parallel upload: 20 PDFs, 4 workers
+[17:11:33] OK - desmawati_2018_dna_methylation_of_the_androgen_receptor_gene_promoter.pdf
+[17:11:34] OK - dilek_2019_psychological_and_oxidative_stress_induce_apoptosis_through_trpv1.pdf
+[17:11:35] OK - kordowitzki_2024_oocyte_aging_a_multifactorial_phenomenon_in_a_unique.pdf
+[17:11:36] OK - kuai_2026_unravelling_multilayered_rna_modification_networks_in_female_reproduction.pdf
+[17:11:38] OK - lina_2025_effects_of_liraglutide_on_leptin_promoter_methylation_in.pdf
+[17:11:39] OK - liu_2023_mechanisms_of_and_potential_medications_for_oxidative_stress.pdf
+[17:11:40] OK - li_2025_mechanism_of_crosstalk_between_dna_methylation_and_histone.pdf
+[17:11:41] OK - li_2026_the_role_of_n_lt_sup_gt_6.pdf
+[17:11:42] OK - mila_2019_epigenetics_in_disease_etiopathogenesis.pdf
+[17:11:45] OK - paper_2022_abstracts_from_the_54_sup_th_sup_european.pdf
+[17:11:45] OK - rongli_2021_overexpression_of_fto_protects_human_granulosa_cells_from.pdf
+[17:11:48] OK - ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf
+[17:11:49] OK - tianyi_2020_the_potential_role_of_rna_n6_methyladenosine_in.pdf
+[17:11:52] OK - wen_2024_rna_modifications_emerging_players_in_the_regulation_of.pdf
+[17:11:52] OK - xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf
+[17:11:53] OK - xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf
+[17:11:55] OK - yamada_2025_interplay_of_oxidative_stress_autophagy_and_rubicon_in.pdf
+[17:11:57] OK - zhaowei_2022_plumbagin_rescues_the_granulosa_cell_s_pyroptosis_by.pdf
+[17:11:57] OK - yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf
+[17:11:58] OK - zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf
+[17:11:58] DONE: 20 OK, 0 FAIL (of 20)

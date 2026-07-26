@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q08-restauracion-fto-fenotipos",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q08-restauracion-fto-fenotipos",
+    "goal":  "Determinar si existen antecedentes de restauracion de FTO por sobreexpresion o por edicion epigenetica, y que fenotipos de senescencia o de daño al ADN revierten.",
+    "notebook_title":  "FTO restoration phenotypes (q08)",
+    "dashboard":  "FTO restoration phenotypes",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T16:56:25",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q08-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\questions-q08-restauracion-fto-fenotipos.json",
+    "notebook_id":  "361a29b3-7eda-4a7a-83e5-bc7b8e4c1524",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\tmp-sources-q08-restauracion-fto-fenotipos.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q08-restauracion-fto-fenotipos\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q08-restauracion-fto-fenotipos\" -Goal \"Determinar si existen antecedentes de restauracion de FTO por sobreexpresion o por edicion epigenetica, y que fenotipos de senescencia o de daño al ADN revierten.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q08-queries.json\" -NotebookTitle \"FTO restoration phenotypes (q08)\" -Dashboard \"FTO restoration phenotypes\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"361a29b3-7eda-4a7a-83e5-bc7b8e4c1524\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

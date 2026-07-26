@@ -1,0 +1,2050 @@
+{
+  "slug": "q10-sistemas-entrega",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "Application of Gene Editing Technology in Poultry.",
+      "authors": "Liao R; Ran R; Liu Y; Zhou X; Tan M; Wang Q; Wang H; Lan X",
+      "year": 2026,
+      "doi": "10.3390/vetsci13050484",
+      "pmid": "42188954",
+      "pmcid": "PMC13211502",
+      "abstract": "Gene editing technology, a revolutionary tool in molecular biology, enables precise modifications of genomic sequences and gene expression patterns, thereby conferring desired traits to cells or organisms. Since 2014, CRISPR/Cas9 has rapidly become the most widely used gene editing method in agricultural animals due to its high editing efficiency. Subsequently, the development of novel gene editing systems, such as base editors and prime editors, has provided enhanced precision and reduced off-target effects. These advancements have facilitated the transition of gene editing from laboratory research to clinical and agricultural applications. Gene editing has been extensively utilized to enhance production traits, improve disease resistance, facilitate disease detection, and establish disease models. This review outlines the development of gene editing technologies, discusses the advantages and limitations of key gene editing tools, and explores their applications in poultry. Furthermore, it examines the challenges and future prospects of gene editing in animal husbandry, including off-target effects, ethical concerns, and technical complexities.",
+      "url": "https://europepmc.org/articles/PMC13211502",
+      "pdf_url": "https://europepmc.org/articles/PMC13211502?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ff/1d/PMC13211502.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "PMID:42188954",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Application of extracellular vesicles in the CRISPR-based diagnosis and treatment: possibilities and challenges.",
+      "authors": "Cho E; Lee J; Kim J; Choi J; Kang M; Song J",
+      "year": 2026,
+      "doi": "10.1186/s13036-026-00673-6",
+      "pmid": "41992329",
+      "pmcid": "PMC13202827",
+      "abstract": "The CRISPR–Cas system has revolutionized molecular diagnostics and gene editing, yet its clinical translation is hindered by delivery barriers, off-target activity, immunogenicity, and manufacturing challenges. Compared with viral vectors and synthetic non-viral carriers such as lipid nanoparticles, extracellular vesicles (EVs) offer a biologically derived delivery platform with superior biocompatibility, reduced immunogenicity, intrinsic cargo protection, and natural barrier-crossing capability. Engineered EVs can further achieve cell- or tissue-specific targeting. In diagnostics, endogenous EV proteins and nucleic acids provide disease-informative signatures that can interface with CRISPR nuclease readouts for highly sensitive detection. This review summarizes the therapeutic and diagnostic potential of EV-CRISPR platforms, covering strategies for loading CRISPR cargos (producer-cell engineering, post-isolation methods), cargo formats, and surface targeting approaches. We evaluate preclinical performance with attention to biodistribution, safety, innate and adaptive immune responses, and genomic integrity, as well as analytical assays and scalable manufacturing considerations essential for clinical translation. Finally, we discuss emerging opportunities, including AI-guided optimization of EV-CRISPR design and integrated EV platforms that combine disease detection with therapeutic intervention, highlighting their promise for advancing precision medicine.",
+      "url": "https://europepmc.org/articles/PMC13202827",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/09/99/13036_2026_Article_673.PMC13202827.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/09/99/PMC13202827.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "PMID:41992329",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CDH4/UBA1/RBMX axis promotes polycystic ovary syndrome progression through YAP1 activation.",
+      "authors": "Xu N; Yu B; Li Y; Yang Y; Wang Y; Fang L; Wu H; Luan Y; Yin C",
+      "year": 2026,
+      "doi": "10.1186/s11658-026-00900-4",
+      "pmid": "41882537",
+      "pmcid": "PMC13109888",
+      "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS) is the most common endocrine disorder among women of childbearing age. In addition, it is a heterogeneous disease with numerous etiologies, multiple levels, and uneven manifestation. In patients with PCOS, the number of antral follicles is abnormally increased. Several studies indicate and preliminarily support that Hippo pathway abnormalities may contribute to PCOS development by promoting excessive antral follicle proliferation. Moreover, the key Hippo pathway effector, Yes-associated protein 1 (YAP1), contributes to PCOS susceptibility. Furthermore, dysfunction of ovaries in patients with PCOS leads to irregular granulosa cell (GC) growth, which can affect ovulation and cause infertility. Nevertheless, few studies have investigated the key mechanism regulating Hippo activation in PCOS. METHODS: Hippo-associated gene sets and publicly available sequencing databases were used to screen potential PCOS-driving genes, and cadherin 4 (CDH4, R-cadherin) was found to exhibit abnormally high expression in ovarian granulosa cells. Functional studies were conducted to investigate the effects of CDH4 inhibition on PCOS-related ovarian function. RESULTS: A lower CDH4 level ameliorated ovarian function in patients with PCOS by decreasing chronic inflammation and modulating mitochondrial function and apoptosis in GCs. Mechanistically, CDH4 interacts with UBA1 and RBMX, increasing the ubiquitin-dependent degradation of RBMX and finally resulting in the transcriptional activation of YAP1. These results highlight the pivotal role of CDH4 in PCOS, which is achieved through the regulation of the Hippo–YAP1 signaling axis. CONCLUSIONS: This study demonstrates that CDH4 plays a pivotal role in PCOS pathogenesis by regulating the Hippo–YAP1 signaling axis. The finding that reduced CDH4 could enhance the prognosis of individuals with PCOS by regulating ovarian GC activity could potentially inform novel treatment strategies.",
+      "url": "https://europepmc.org/articles/PMC13109888",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8c/09/11658_2026_Article_900.PMC13109888.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8c/09/PMC13109888.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "PMID:41882537",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Circular RNAs: Key Regulators of Tumor Metabolic Reprogramming and Clinical Translation.",
+      "authors": "Wu Y; Liu Y; Sun R; Zhang Y; Zhang Q; Li C; Li M",
+      "year": 2026,
+      "doi": "10.32604/or.2026.075012",
+      "pmid": "41799520",
+      "pmcid": "PMC12963675",
+      "abstract": "Tumor metabolic reprogramming is a core hallmark of cancer, characterized by pathways such as aerobic glycolysis, aberrant lipid metabolism, and glutaminolysis that support rapid proliferation and immunosuppressive microenvironments. Circular RNAs (circRNAs) are highly stable, evolutionarily conserved non-coding RNAs that have emerged as critical modulators of these metabolic shifts. This review aims to systematically elucidate the roles and mechanisms of circRNAs in reprogramming tumor metabolism, and to discuss their clinical potential as biomarkers and therapeutic targets. Through mechanisms including miRNA sponging, protein interactions, regulation of mitochondrial dynamics, and modulation of metabolic enzymes, circRNAs influence key metabolic pathways by targeting glycolytic enzymes, lipid synthesis regulators, and glutaminolysis-related molecules to either facilitate or inhibit their expression. This review systematically summarizes the unique contributions of circRNAs to tumor metabolic reprogramming, highlighting key mechanisms such as regulation of peptide-encoding protein translation, mitochondrial localization function, gene promoter-targeted transcriptional regulation, and cross-pathway metabolic mediation, which underscore their distinct biological advantages and regulatory roles in tumor metabolism. The stability and tissue specificity of circRNAs make them promising diagnostic biomarkers, while their role in drug resistance mediated by metabolic reprogramming highlights their potential as therapeutic targets. Strategies such as circRNA inhibitors, mimics, and nanoparticle-based delivery systems are being explored to modulate tumor metabolism. Despite challenges including complex regulatory networks and limited manipulation tools, advances in high-throughput technologies and clinical trials hold promise for translating circRNA research into novel cancer therapies.",
+      "url": "https://europepmc.org/articles/PMC12963675",
+      "pdf_url": "https://europepmc.org/articles/PMC12963675?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9d/34/PMC12963675.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "PMID:41799520",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Delivering the future of immunotherapy: A state-of-the-art review of gene editing in immune cells with lipid nanoparticles.",
+      "authors": "Ciganek I; Delehedde C; Galy A; Cogné M; Rameix N; Bordeianu C; Pichon C",
+      "year": 2026,
+      "doi": "10.1016/j.mtbio.2026.103334",
+      "pmid": "42326077",
+      "pmcid": "PMC13276603",
+      "abstract": "CRISPR-based genome editing has rapidly advanced immune cell engineering, creating opportunities to enhance functionality, persistence, and specificity in cancer, infectious, and autoimmune diseases. The translation of these strategies depends critically on safe and efficient delivery systems. Viral vectors achieve high efficiency, but face limitations related to immunogenicity, genomic integration, and manufacturing scalability. Non-viral methods such as electroporation are effective for <i>ex vivo</i> editing yet remain unsuitable for <i>in vivo</i> use. Lipid nanoparticles (LNPs) have emerged as a clinically validated, scalable, and biocompatible alternative capable of delivering CRISPR cargo in the form of DNA, mRNA, or ribonucleoproteins. Recent innovations, including selective organ targeting, ligand conjugation, and sequence-level translational control are expanding their precision and versatility in immune cell engineering. Despite these advances, major challenges remain, including suboptimal endosomal escape, extrahepatic targeting, and immune trade-offs such as the PEG dilemma. By critically synthesizing current progress and limitations, this review highlights the central role of LNPs in enabling CRISPR-based immune engineering and outlines future directions for clinical translation<b>.</b>",
+      "url": "https://europepmc.org/articles/PMC13276603",
+      "pdf_url": "https://europepmc.org/articles/PMC13276603?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/51/d9/PMC13276603.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP",
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "PMID:42326077",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Engineering Immortalized Bovine Granulosa Cells Using a Triple-Gene Approach: Mutant CDK4, Cyclin D1, and TERT.",
+      "authors": "Bai L; Takahashi M; Kobayashi J; Eitsuka T; Matsusaka H; Ozaki T; Sugano E; Tomita H; Xu Y; Kawamura K; Nakagawa K; Kiyono T; Fukuda T",
+      "year": 2026,
+      "doi": "10.1002/cbin.70126",
+      "pmid": "41562311",
+      "pmcid": "PMC12821082",
+      "abstract": "Advancing reproductive technologies in livestock is essential to improve both productivity and genetic potential of cattle. Despite this importance, application of reproductive biotechnologies in cattle breeding remains limited. Bovine granulosa cells (bGCs), which are key components of the ovarian follicle, are critical in female reproduction as they produce steroid hormones and growth factors necessary for oocyte development. However, primary bGCs exhibit restricted proliferative capacity in vitro, limiting their utility in large-scale studies on mechanisms related to follicular development. To address this limitation, we attempted to immortalize bGCs by co-expressing human mutant cyclin-dependent kinase 4 (CDK4<sup>R24C</sup>), cyclin D1, and telomerase reverse transcriptase (TERT) using lentiviral vectors. The resulting immortalized cells (bGCs-K4DT) displayed extended proliferative lifespans, surpassing 100 population doublings without exhibiting signs of senescence. The transduced cells demonstrated a more active cell cycle profile and higher telomerase activity relative to parental bGCs. Importantly, they retained the bGC-specific marker, aromatase, albeit at reduced expression levels. This immortalized bGC offers a promising model for investigating the role of bioactive components of platelet-rich plasma (PRP) in follicular activation and growth, thereby supporting innovations in livestock reproductive technologies.",
+      "url": "https://europepmc.org/articles/PMC12821082",
+      "pdf_url": "https://europepmc.org/articles/PMC12821082?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/09/71/PMC12821082.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "PMID:41562311",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Establishment and identification of immortalized sheep ovarian granulosa cells.",
+      "authors": "Chen H; Yuan Y; Xiao R; Ding X; Zhao Z; Li P; Zhao B; Zhang T; Zhaxi Y; Huo S",
+      "year": 2026,
+      "doi": "10.1186/s12917-026-05472-1",
+      "pmid": "42015225",
+      "pmcid": "PMC13255389",
+      "abstract": "BACKGROUND: Follicular granulosa cells (GCs) are an important cellular resource for studying animal reproductive functions. RESULTS: This study aimed to investigate SV40T lentiviral vector-mediated gene transfection in sheep ovarian granulosa cells (GCs) and systematically validate their biological characteristics and functions after immortalization. By optimizing infection conditions (MOI = 10), efficient transfection of the GFP-tagged SV40T gene was successfully achieved (approximately 90% efficiency), leading to the establishment of an immortalized sheep granulosa cell line (GCs-SV40T-GFP). This cell line could be stably passaged for over 50 generations while maintaining consistent cellular morphology and stable fluorescence expression. Compared to primary cells, the immortalized cells exhibited significantly accelerated proliferation, with flow cytometry revealing a marked increase in the proportion of cells in S and G1 phases (P < 0.05). Functional assays confirmed that these cells continuously secreted estradiol (P < 0.05). Further experiments demonstrated that even at the 50th passage, the immortalized cells still highly expressed key granulosa cell functional markers, FSHR and CYP19A1. Karyotype analysis confirmed the maintenance of a normal chromosomal karyotype across different passages (primary, 10th, 25th, and 50th). Additionally, the cells exhibited a dose-dependent functional response to hormonal stimulation, with FSHR protein expression significantly upregulated in response to increasing concentrations of exogenous estradiol (P < 0.05). In vivo safety evaluation showed that GCs-SV40T-GFP cells did not induce tumor formation in mice. CONCLUSIONS: In this study, a functionally stable immortalized sheep granulosa cell model was successfully constructed. At the same time, it also provides an important tool for animal reproductive function research and hormone regulation mechanism exploration.",
+      "url": "https://europepmc.org/articles/PMC13255389",
+      "pdf_url": "https://europepmc.org/articles/PMC13255389?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6b/0a/PMC13255389.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "PMID:42015225",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Expanding the Microbial Genomic Landscape and Biotechnological Applications of CRISPR-Cas Systems.",
+      "authors": "Singh S; Tiwari H; Singh M; Gautam V; Gautam A; Gautam HK",
+      "year": 2026,
+      "doi": "10.3390/biology15100748",
+      "pmid": "42187710",
+      "pmcid": "PMC13203232",
+      "abstract": "The CRISPR-Cas systems, identified initially as adaptive immune mechanisms in bacteria and archaea against viral threats, have rapidly evolved into transformative tools in genetic engineering and biotechnology. These RNA-guided systems are broadly classified into Class 1, comprising multi-subunit complexes, and Class 2, characterized by compact single-effector protein, such as Cas9, Cas12, and Cas13. Their remarkable structural and functional diversity enables microorganisms to adapt to diverse ecological niches, offering a vast repertoire of genome-editing strategies. Beyond their natural role in maintaining genome integrity and defense, CRISPR-Cas systems have been extensively repurposed for precise genome modification, transcriptional regulation, epigenetic editing, and nucleic acid detection. Recent advances in computational mining of microbial genomes and metagenomes have uncovered a broad range of novel CRISPR effectors with unique properties, distinct protospacer adjacent motif (PAM) requirements, RNA-targeting capabilities, miniature architectures, and promiscuous cleavage activities that significantly expand the molecular biology toolkit. The development of CRISPR-based technologies such as base editing, prime editing, gene knock-in/out, and live-cell DNA/RNA imaging exemplifies the versatility of these systems. Despite the challenges associated with delivering complex Class 1 systems, both classes are now being actively harnessed across diverse microbial platforms. Concurrently, the CRISPR-Cas research, particularly for guide RNA (gRNA) design and activity prediction, has revolutionized target specificity and editing efficiency. This review presents a comprehensive overview of CRISPR-Cas system diversity, their genomic landscape in microorganisms, and their cutting-edge biotechnological applications. It also emphasizes the transformative potential of CRISPR in synthetic biology, therapeutics, diagnostics, environmental remediation, and agriculture, while also addressing the ethical and biosafety considerations surrounding its deployment. As CRISPR-Cas systems continue to evolve, they stand at the forefront of innovations that bridge natural microbial immunity with engineered precision tools for next-generation biotechnology.",
+      "url": "https://europepmc.org/articles/PMC13203232",
+      "pdf_url": "https://europepmc.org/articles/PMC13203232?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ba/0f/PMC13203232.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "PMID:42187710",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Follicular fluid-derived exosomal LINC02701 promotes granulosa cell apoptosis through the GRP75-P53 axis in active endometriosis.",
+      "authors": "Zhou F; Tang X; Li K; Lu N; Mao Y",
+      "year": 2026,
+      "doi": "10.3389/fcell.2026.1805254",
+      "pmid": "42255479",
+      "pmcid": "PMC13236687",
+      "abstract": "<h4>Background</h4>Endometriosis (EMs)-associated infertility has been linked to alterations in the follicular microenvironment; however, the role of exosomal long non-coding RNAs (lncRNAs) in granulosa cell dysfunction remains incompletely understood.<h4>Methods</h4>Follicular fluid-derived exosomes were isolated from patients with active endometriosis (EMs_A), controlled endometriosis (EMs_C), and non-endometriosis controls. Transcriptomic sequencing was performed to identify differentially expressed exosomal lncRNAs. Functional assays, loss-of-function experiments, mechanistic analyses, and pharmacological inhibition studies were conducted in granulosa cells.<h4>Results</h4>LINC02701 was identified as one of the most significantly enriched exosomal lncRNAs in active endometriosis. Functional assays demonstrated that LINC02701 can be transferred into granulosa cells, where it suppresses proliferation and promotes apoptosis. Knockdown of LINC02701 attenuated granulosa cell apoptosis, whereas pharmacological inhibition of P53 partially reversed the pro-apoptotic effects induced by LINC02701. Mechanistically, LINC02701 directly interacted with GRP75, disrupted the GRP75-P53 interaction, enhanced nuclear accumulation of P53, and activated downstream apoptotic signaling, including BAX and PUMA. Clinically, EMs_A patients exhibited elevated CA125 levels, increased uterosacral ligament tenderness, and reduced Day-3 high-quality embryo rates, which were consistent with the observed cellular phenotypes.<h4>Conclusion</h4>These findings suggest that exosomal LINC02701 may contribute to granulosa cell dysfunction through modulation of the GRP75-P53 axis and may be associated with impaired early embryo quality in active endometriosis, highlighting its potential as a candidate biomarker for EMs-associated infertility.",
+      "url": "https://europepmc.org/articles/PMC13236687",
+      "pdf_url": "https://europepmc.org/articles/PMC13236687?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/79/27/PMC13236687.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "PMID:42255479",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "In Vivo CAR-Based Immune Cell Engineering: Future Applications and Challenges in Malignant Glioma",
+      "authors": "Yamaguchi J; Bergquist A; Lu J; Lakshmanachetty S; Khan S; Okada H",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13297562",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13297562/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13297562/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/72/82/PMC13297562.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "PMC13297562",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nanotechnology-Assisted Co-Delivery of Immunotherapeutic Agents for Targeting Ovarian Cancer: Prospects and Challenges.",
+      "authors": "Jiao L; Li M; Tan M; Zheng L; Liu Y; Cao Y",
+      "year": 2026,
+      "doi": "10.2147/ijn.s603950",
+      "pmid": "42052515",
+      "pmcid": "PMC13117850",
+      "abstract": "<h4>Background</h4>Ovarian cancer is one of the most lethal gynecologic malignancies, mainly due to late diagnoses and chemoresistance. The immune checkpoint inhibitors and other immunotherapies achieve very low response rates in ovarian cancer. Nanotechnology-assisted co-delivery can helpful by simultaneously delivering multiple therapeutic agents together with their collective advantages.<h4>Methods</h4>This review documents recent advances in nanocarrier-based co-delivery of immunotherapeutics for ovarian cancer, including organic (liposomes, Polymeric nanoparticles, dendrimers), inorganic (gold nanoparticles, mesoporous silica nanoparticles, and metal-organic frameworks), and hybrid (polymer-drug conjugates combined with gene vectors, polymer-lipid nanoparticles) nanocarrier systems. Early clinical trial data show that such systems can reprogram the myeloid cells in ovarian cancer. Key co-delivery strategies covered include combinations of chemotherapy with checkpoint inhibitors, cytokines with adjuvants, and gene therapies with conventional drugs.<h4>Results</h4>Nanocarrier-based co-delivery enables synergistic therapy by simultaneously targeting tumor cells and the immune microenvironment. The co-delivery of chemotherapeutics with immune checkpoint inhibitors promotes antigen expression by relieving immune suppression within the tumor microenvironment, hence improving the subsequent immune activation while increasing the infiltration of T-cells. Similarly, nanoparticle delivery of immunostimulatory cytokines produces local immune activation with reduced systemic toxicity, and gene-editing nanotherapies have also emerged.<h4>Conclusion</h4>Nanotechnology-assisted co-delivery strategies overcome the immunotherapy limitations in ovarian cancer. Preclinical and early clinical outcomes are encouraging, with some challenges in safety, synthesis, and regulatory concerns. Continued innovation in biodegradable nanocarriers and rigorous clinical evaluation are crucial to fully realize the clinical impact in ovarian cancer.",
+      "url": "https://europepmc.org/articles/PMC13117850",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/ea/c6/IJN-21-603950.PMC13117850.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ea/c6/PMC13117850.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "PMID:42052515",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Next generation technologies for CRISPR-based epigenome and transcriptional modulation.",
+      "authors": "Pattali RK; Divekar NS; Nuñez JK",
+      "year": 2026,
+      "doi": "10.1016/j.cobme.2026.100654",
+      "pmid": "42266835",
+      "pmcid": "PMC13246158",
+      "abstract": "Technologies for editing epigenetic modifications and controlling transcription in mammalian cells have revolutionized targeted gene perturbation, functional genomics, and basic research. By avoiding the generation of DNA breaks, epigenome editing serves as a safe and precise approach for altering gene expression and has emerged as a promising platform for therapeutic applications. The advent of CRISPR has contributed significantly to the expansion of the existing toolkit for programmable modulation of epigenetic and transcriptional states. This review highlights recent discoveries in engineering novel tools for epigenome editing and transcriptional modulation through rational design, high throughput screening methods, and mutational scans, which leverage the endogenous reservoir of chromatin and transcriptional effectors for targeted gene repression and activation. We also discuss the therapeutic potential of epigenome modulators and highlight the key challenges that need to be addressed to improve their safety and efficacy. Advancing our understanding of the complex mechanisms driving gene expression and overcoming current limitations will pave the way for the development of novel technologies that advance fundamental research and translational applications.",
+      "url": "https://europepmc.org/articles/PMC13246158",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/e5/cf/nihms-2182105.PMC13246158.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e5/cf/PMC13246158.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "PMID:42266835",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Optimization of sgRNA synthesis and transfection for use in CRISPR-Cas9 studies using RNP complex delivery",
+      "authors": "Joshua J. Morris; Zachary C. Murphy",
+      "year": 2026,
+      "doi": "10.1893/bios-d-25-00014",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1893/bios-d-25-00014",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "10.1893/bios-d-25-00014",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Research progress and applications of gene activation editing technology in crops.",
+      "authors": "Lv J; He X; Wu Q; Sun Y; Pu W; Dai C",
+      "year": 2026,
+      "doi": "10.3389/fpls.2026.1787461",
+      "pmid": "41937789",
+      "pmcid": "PMC13047105",
+      "abstract": "In recent years, CRISPR/Cas gene editing technology has become a fundamental method in biological breeding. As a vital tool for overcoming technological obstacles, it is currently widely used in functional gene research and genetic enhancement across a variety of organisms. Currently, CRISPR activation (CRISPRa) technology based on dCas9 fusion transcription activation domains has emerged as a powerful tool for expanding the application of CRISPR/Cas systems in improving traits in plants, animals, and microorganisms. This overview starts by going over the underlying principles and components of gene activation editing technology, as well as the phases of development of its three generations. It summarises the present difficulties and potential directions in this field while concentrating on the use of gene activation editing in important crop traits including growth and development regulation, stress resistance, and quality regulation. The objective is to offer valuable insights for the research and development of crop breeding.",
+      "url": "https://europepmc.org/articles/PMC13047105",
+      "pdf_url": "https://europepmc.org/articles/PMC13047105?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/73/0b/PMC13047105.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "PMID:41937789",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Atractylenolide III mitigates polycystic ovary syndrome by activating FDX1-mediated proliferation of ovarian granulocyte cells via PI3K/AKT/mTOR.",
+      "authors": "Zhou N; Tai W; Lv W; He Q; He S; Chen K; Wang Q; Zhang J; Li S; Cao Y; Zhou X",
+      "year": 2025,
+      "doi": "10.1186/s13048-025-01941-7",
+      "pmid": "41469708",
+      "pmcid": "PMC12870249",
+      "abstract": "BACKGROUND: Polycystic ovary syndrome (PCOS) is the most common endocrine and metabolic disorder among women of reproductive age worldwide. This study aimed to investigate the therapeutic potential and molecular mechanisms of Atractylenolide III (ATL-III), a bioactive compound derived from Atractylodes macrocephala Koidz., in PCOS. METHODS: Follicular fluid and granulosa cells (GCs) were collected from women with PCOS. A PCOS mice model was established using dehydroepiandrosterone (DHEA). The body weight, estrous cycle, glucose tolerance, insulin tolerance, and ovarian morphology were measured to assess ovarian function. The knockdown and overexpression of ferredoxin 1 (FDX1) were conducted in human granulosa-like tumor cells (KGN). Viability and proliferation of GCs were evaluated by CCK-8 and EdU staining. RT-qPCR, Western blotting, and immunohistochemical staining were performed to detect molecule expressions in the PCOS patients, PCOS mice, and KGN cells. RESULTS: FDX1 expression was significantly decreased in both follicular fluid and GCs of PCOS patients. In PCOS mice, ATL-III was first found that improved the estrous cycle, disordered folliculogenesis, glucose tolerance, insulin resistance, and ovarian morphology, and upregulated ovarian FDX1, and proliferating cell nuclear antigen (PCNA) expression. DHEA-induced KGN cells demonstrated FDX1 suppression associated with proliferation inhibition, whereas FDX1 overexpression rescued proliferative capacity. ATL-III restored KGN cell viability and proliferation through FDX1 upregulation. Mechanistically, ATL-III activated PI3K/AKT/mTOR signaling by regulating FDX1 in both PCOS mice and KGN cells. CONCLUSION: Our findings establish ATL-III as a novel regulator of FDX1 that alleviates PCOS via PI3K/AKT/mTOR-mediated GCs proliferation enhancement, positioning it as a promising therapeutic agent for PCOS treatment.",
+      "url": "https://europepmc.org/articles/PMC12870249",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/04/4a/13048_2025_Article_1941.PMC12870249.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/04/4a/PMC12870249.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "PMID:41469708",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Base and Prime Editing for Inherited Retinal Diseases: Delivery Platforms, Safety, Efficacy, and Translational Perspectives.",
+      "authors": "Zhang H; Li Y; Li J; Li X; Li T",
+      "year": 2025,
+      "doi": "10.3390/pharmaceutics17111405",
+      "pmid": "41304743",
+      "pmcid": "PMC12655462",
+      "abstract": "Inherited retinal diseases (IRDs) are a clinically and genetically heterogeneous spectrum of disorders that lead to progressive and irreversible vision loss. Gene therapy is the most promising emerging treatment for IRDs. While gene augmentation strategies have demonstrated clinical benefit and results within the first approved ocular gene therapy, their application is restricted by adeno-associated virus (AAV) packaging capacity and limited efficacy for dominant mutations. Recent breakthroughs in precision genome editing, particularly base editing (BE) and prime editing (PE), have provided alternatives capable of directly correcting pathogenic variants. BE enables targeted single-nucleotide conversions, whereas PE further allows for precise insertions and deletions, both circumventing the double-strand DNA cleavage or repair processes typically induced by conventional CRISPR-Cas editing systems, thereby offering advantages in post-mitotic retinal cells. Preclinical investigations across murine and non-human primate models have demonstrated the feasibility, molecular accuracy, and preliminary safety profiles of these platforms in targeting IRD-associated mutations. However, critical challenges remain before clinical application can be realized, including limited editing efficiency in photoreceptors, interspecies variability in therapeutic response, potential risks of off-target effects, and barriers in large-scale vector manufacturing. Moreover, the delivery of genome editors to the outer retina remains suboptimal, prompting intensive efforts in capsid engineering and the development of non-viral delivery systems. This review synthesizes the current progress in BE and PE optimization, highlights innovations in delivery platforms that encompass viral and emerging non-viral systems and summarizes the major barriers to clinical translation. We further discuss AI-driven strategies for the rational design of BE/PE systems, thereby outlining their future potential and perspectives in the treatment of IRDs.",
+      "url": "https://europepmc.org/articles/PMC12655462",
+      "pdf_url": "https://europepmc.org/articles/PMC12655462?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/80/8e/PMC12655462.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "PMID:41304743",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR Technology in Disease Management: An Updated Review of Clinical Translation and Therapeutic Potential.",
+      "authors": "Far BF; Akbari M; Habibi MA; Katavand M; Nasseri S",
+      "year": 2025,
+      "doi": "10.1111/cpr.70099",
+      "pmid": "40685330",
+      "pmcid": "PMC12584872",
+      "abstract": "CRISPR-Cas9 technology has rapidly advanced as a transformative genome-editing platform, facilitating precise genetic modifications and expanding therapeutic opportunities across various diseases. This review explores recent developments and clinical translations of CRISPR applications in oncology, genetic and neurological disorders, infectious diseases, immunotherapy, diagnostics, and epigenome editing. CRISPR has notably progressed in oncology, where it enables the identification of novel cancer drivers, elucidation of resistance mechanisms, and improvement of immunotherapies through engineered T cells, including PD-1 knockout CAR-T cells. Clinical trials employing CRISPR-edited cells are demonstrating promising results in hematologic malignancies and solid tumours. In genetic disorders, such as hemoglobinopathies and muscular dystrophies, CRISPR-Cas9 alongside advanced editors like base and prime editors show significant potential for correcting pathogenic mutations. This potential was affirmed with the FDA's first approval of a CRISPR-based therapy, Casgevy, for sickle cell disease in 2023. Neurological disorders, including Alzheimer's, ALS, and Huntington's disease, are increasingly targeted by CRISPR approaches for disease modelling and potential therapeutic intervention. In infectious diseases, CRISPR-based diagnostics such as SHERLOCK and DETECTR provide rapid, sensitive nucleic acid detection, particularly valuable in pathogen outbreaks like SARS-CoV-2. Therapeutically, CRISPR systems target viral and bacterial genomes, offering novel treatment modalities. Additionally, CRISPR-mediated epigenome editing enables precise regulation of gene expression, expanding therapeutic possibilities. Despite these advances, significant challenges remain, including off-target effects, delivery methodologies, immune responses, and long-term genomic safety concerns. Future improvements in editor precision, innovative delivery platforms, and enhanced safety assessments will be essential to fully integrate CRISPR-based interventions into standard clinical practice, significantly advancing personalised medicine.",
+      "url": "https://europepmc.org/articles/PMC12584872",
+      "pdf_url": "https://europepmc.org/articles/PMC12584872?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4e/76/PMC12584872.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "PMID:40685330",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-based Transcriptional Regulation: Technologies, Applications, and Future Directions.",
+      "authors": "Srinivasa MA; Escobar M",
+      "year": 2025,
+      "doi": "10.3390/dna5040057",
+      "pmid": "41877893",
+      "pmcid": "PMC13007986",
+      "abstract": "CRISPR-based transcriptional regulation technologies, including CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi), offer precise and programmable control over gene expression, representing a major advance in gene and epigenetic therapy. CRISPRa uses nuclease-inactive Cas proteins fused to transcriptional activators to upregulate target genes, while CRISPRi employs repressor domains for gene silencing. Preclinical studies have demonstrated the efficacy of CRISPRa/i in models of metabolic, neurological, muscular, and oncological diseases. Notably, CRISPRi-based therapies have entered clinical trials for conditions like hepatitis B and muscular dystrophy, showing encouraging safety and efficacy profiles. Despite ongoing challenges related to delivery efficiency, immunogenicity, and off-target activity, innovations in protein engineering and guide RNA design are rapidly enhancing the precision and safety of these technologies. Overall, CRISPRa and CRISPRi are poised to transform the treatment of genetic and epigenetic disorders, with continued optimization expected to accelerate their clinical adoption and broaden their therapeutic impact.",
+      "url": "https://europepmc.org/articles/PMC13007986",
+      "pdf_url": "https://europepmc.org/articles/PMC13007986?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e9/39/PMC13007986.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "PMID:41877893",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Enhancing Specificity, Precision, Accessibility, Flexibility, and Safety to Overcome Traditional CRISPR/Cas Editing Challenges and Shape Future Innovations.",
+      "authors": "Alariqi M; Ramadan M; Yu L; Hui F; Hussain A; Zhou X; Yu Y; Zhang X; Jin S",
+      "year": 2025,
+      "doi": "10.1002/advs.202416331",
+      "pmid": "40548648",
+      "pmcid": "PMC12302564",
+      "abstract": "Derived from the bacterial immune system, CRISPR/Cas9 induces DSBs at specific DNA sequences, which are repaired by the cell's endogenous mechanisms, leading to gene insertions, deletions, or substitutions. Despite its transformative potential, several challenges remain in optimizing of CRISPR/Cas systems, including off-target effects, delivery methods, PAM restrictions, and the limitations of traditional editing approaches. This review focuses on the interplay between these challenges and their contributions to gene editing precision, specificity, accessibility, flexibility, and safety. How reducing off-target effects enhances specificity and safety is explored, while discussing the role of HDR-based editing in achieving precise gene modifications, alongside alternative methods such as base editing and prime editing. Improved delivery mechanisms are examined for their impact on accessibility and efficiency, while the reduction of PAM restrictions is highlighted for its contributions to flexibility. Lastly, emerging cleavage-free editing technologies are evaluated as they relate to safety and accessibility. This focused review aims to clarify the connections among these aspects and outline future research directions for advancing CRISPR-based applications.",
+      "url": "https://europepmc.org/articles/PMC12302564",
+      "pdf_url": "https://europepmc.org/articles/PMC12302564?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/d5/PMC12302564.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "PMID:40548648",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Lentiviral vector production and primary astrocyte transduction v1",
+      "authors": "Shiyi Wang; Sarah van Veen",
+      "year": 2025,
+      "doi": "10.17504/protocols.io.x54v9rkb1v3e/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>This protocol describes the production of lentivirus and their transduction into astrocytes. It provides detailed steps for generating lentivirus, transducing astrocytes efficiently, and selecting for stable transduction, enabling the study of primary gene function in primary astrocytes.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.x54v9rkb1v3e/v1",
+      "pdf_url": "https://www.protocols.io/view/lentiviral-vector-production-and-primary-astrocyte-dxea7jae.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\shiyi_2025_lentiviral_vector_production_and_primary_astrocyte_transduction_v1.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "10.17504/protocols.io.x54v9rkb1v3e/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Applications of CRISPR/Cas as a Toolbox for Hepatitis B Virus Detection and Therapeutics.",
+      "authors": "Kumar A; Combe E; Mougené L; Zoulim F; Testoni B",
+      "year": 2024,
+      "doi": "10.3390/v16101565",
+      "pmid": "39459899",
+      "pmcid": "PMC11512240",
+      "abstract": "Hepatitis B virus (HBV) infection remains a significant global health challenge, leading to chronic hepatitis, liver cirrhosis, and hepatocellular carcinoma (HCC). Covalently closed circular DNA (cccDNA) and integrated HBV DNA are pivotal in maintaining viral persistence. Recent advances in CRISPR/Cas technology offer innovative strategies to inhibit HBV by directly targeting both cccDNA and integrated HBV DNA or indirectly by degrading HBV RNAs or targeting host proteins. This review provides a comprehensive overview of the latest advancements in using CRISPR/Cas to inhibit HBV, with a special highlight on newer non-double-strand (non-DSB) break approaches. Beyond the canonical use of CRISPR/Cas for target inhibition, we discuss additional applications, including HBV diagnosis and developing models to understand cccDNA biology, highlighting the diverse use of this technology in the HBV field.",
+      "url": "https://europepmc.org/articles/PMC11512240",
+      "pdf_url": "https://europepmc.org/articles/PMC11512240?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/03/7e/PMC11512240.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "PMID:39459899",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comparing Chemical Transfection, Electroporation, and Lentiviral Vector Transduction to Achieve Optimal Transfection Conditions in the Vero Cell Line",
+      "authors": "Parisa Jamour; Abbas Jamali; Arash Ghalyanchi Langeroudi; Behrouz Ebadi sharafabad; Asghar Abdoli",
+      "year": 2024,
+      "doi": "10.21203/rs.3.rs-3894744/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p><jats:bold>Background</jats:bold>: Transfection is an important analytical method for studying gene expression in the cellular environment. There are some barriers to efficient DNA transfection in host cells, including circumventing the plasma membrane, escaping endosomal compartmentalization, autophagy, immune sensing pathways, and translocating the nuclear envelope. Therefore, it would be very useful to introduce an optimum transfection approach to achieve high transfection efficiency in the Vero cell line.The aim of this study was to compare various transfection techniques and introduce a highly efficient method for gene delivery in the Vero cell line.\n<jats:bold>Methods</jats:bold>: In the current study, three transfection methods were performed, including chemical transfection, electroporation, and lentiviral vector transduction, to obtain the optimum transfection conditions in the Vero cell line. Vero cells were cultured and transfected with chemical transfection reagents, electroporation, and HIV-1-based lentivectors under different experimental conditions. Transfection efficiency was assessed using flow cytometry and fluorescence microscopy to detect GFP-positive cells.\n<jats:bold>Results</jats:bold>: Among the tested methods, TurboFect™ chemical transfection exhibited the highest efficiency. Optimal transfection conditions were achieved using 1 μg DNA and 4 µL TurboFect™ on 6×10<jats:sup>4</jats:sup> Vero cells.\n<jats:bold>Conclusion</jats:bold>: TurboFect™, a cationic polymer transfection reagent, demonstrated superior transfection efficiency in Vero cells compared with electroporation and lentivirus particles and is the optimal choice for chemical transfection in the Vero cell line.</jats:p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-3894744/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-3894744/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\parisa_2024_comparing_chemical_transfection_electroporation_and_lentiviral_vector_transduction.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "10.21203/rs.3.rs-3894744/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "siRNA Transfection and Lentiviral Transduction of Primary Mouse Rete testis Cells",
+      "authors": "A. Yu. Kulibin; A. V. Kaminsky; E. A. Malolina",
+      "year": 2024,
+      "doi": "10.1134/s1062360424700176",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1134/s1062360424700176",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1134/S1062360424700176.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "10.1134/s1062360424700176",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-Cas-mediated transcriptional modulation: The therapeutic promises of CRISPRa and CRISPRi",
+      "authors": "Louise Bendixen; Trine I. Jensen; Rasmus O. Bak",
+      "year": 2023,
+      "doi": "10.1016/j.ymthe.2023.03.024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The CRISPR-Cas system is commonly known for its ability to cleave DNA in a programmable manner, which has democratized gene editing and facilitated recent breakthroughs in gene therapy. However, newer iterations of the technology using nuclease-disabled Cas enzymes have spurred a variety of different types of genetic engineering platforms such as transcriptional modulation using the CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi) systems. This review introduces the creation of these programmable transcriptional modulators, various methods of delivery utilized for these systems, and recent technological developments. CRISPRa and CRISPRi have also been implemented in genetic screens for interrogating gene function and discovering genes involved in various biological pathways. We describe recent compelling examples of how these tools have become powerful means to unravel genetic networks and uncovering important information about devastating diseases. Finally, we provide an overview of preclinical studies in which transcriptional modulation has been used therapeutically, and we discuss potential future directions of these novel modalities. The CRISPR-Cas system is commonly known for its ability to cleave DNA in a programmable manner, which has democratized gene editing and facilitated recent breakthroughs in gene therapy. However, newer iterations of the technology using nuclease-disabled Cas enzymes have spurred a variety of different types of genetic engineering platforms such as transcriptional modulation using the CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi) systems. This review introduces the creation of these programmable transcriptional modulators, various methods of delivery utilized for these systems, and recent technological developments. CRISPRa and CRISPRi have also been implemented in genetic screens for interrogating gene function and discovering genes involved in various biological pathways. We describe recent compelling examples of how these tools have become powerful means to unravel genetic networks and uncovering important information about devastating diseases. Finally, we provide an overview of preclinical studies in which transcriptional modulation has been used therapeutically, and we discuss potential future directions of these novel modalities.",
+      "url": "https://doi.org/10.1016/j.ymthe.2023.03.024",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10362391/pdf/main.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "W4360604655",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 Landscape: Current State and Future Perspectives",
+      "authors": "Marina A. Tyumentseva; Marina A. Tyumentseva; В. Г. Акимкин",
+      "year": 2023,
+      "doi": "10.3390/ijms242216077",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR (clustered regularly interspaced short palindromic repeats)/Cas9 is a unique genome editing tool that can be easily used in a wide range of applications, including functional genomics, transcriptomics, epigenetics, biotechnology, plant engineering, livestock breeding, gene therapy, diagnostics, and so on. This review is focused on the current CRISPR/Cas9 landscape, e.g., on Cas9 variants with improved properties, on Cas9-derived and fusion proteins, on Cas9 delivery methods, on pre-existing immunity against CRISPR/Cas9 proteins, anti-CRISPR proteins, and their possible roles in CRISPR/Cas9 function improvement. Moreover, this review presents a detailed outline of CRISPR/Cas9-based diagnostics and therapeutic approaches. Finally, the review addresses the future expansion of genome editors' toolbox with Cas9 orthologs and other CRISPR/Cas proteins.",
+      "url": "https://doi.org/10.3390/ijms242216077",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/22/16077/pdf?version=1699434611",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "W4388492075",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Delivery of RNP complexes for CRISPRi (dCas9) silencing in vitro and in vivo using crystalline ultrasmall particles (CUSP)",
+      "authors": "Gretchen Unger; Viccie L Korman; Betsy T Kren; Diane L Tobolt",
+      "year": 2023,
+      "doi": "10.14293/p2199-8442.1.sop-.pegp0u.v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>Delivery of ribonucleoprotein complexes (RNP) for CRISPR gene editing has emerged as a powerful strategy that minimizes off-targeting risks and simplifies dosing. However, RNP delivery approaches often rely upon bursting of endosomes for RNP release, a strategy that also triggers inflammatory responses, which can be exacerbated by the bacterial Cas9 endonuclease. Here, we describe initial results after encapsulating spCas9 or dead spCas9 (dCas9) RNPs in hepatocyte-targeting CUSP particles, comprising a shell with the glycoprotein ligand Asialoorosomucoid. CUSP particles are ~ 20 nm diameter and enter cells through size-limited lipid raft uptake to reach the nucleus without endosome capture. This design has been shown effective in plasmid delivery and treatment in vivo (1). Presently, we found CRISPR/Cas9 RNPs encapsulated in neutral-charge CUSP particles knocked down target F7 mRNA and protein in murine liver tissue and in 3D hepatocyte cell culture. Surprisingly, knockdown was via CRISPR interference (CRISPRi) and not CRISPR cleavage. A maximum effective dose of ~10e13 particles was observed in vivo \n                    <jats:italic>(</jats:italic>40-85% knockdown of the three F7 protein fragments, 30% F7 mRNA knockdown by qPCR\n                    <jats:italic>) </jats:italic>beyond which efficacy decreased. This finding corresponds with isotopic biodistribution studies and apparent dysregulation of intracellular trafficking, suggesting optimal dosing of CUSP-RNP particles could consist of repeat dosing at a non-saturating dose. We found no evidence of inflammation at the effective treatment dose. We further investigated CUSP delivery of dCas9 RNP and confirmed dCas9 mechanism, in knocking down F7 mRNA and protein in vitro. We observe that achieving DNA-cleaving activity with nanocapsule spCas9 RNPs may be particularly challenging, possibly due to large conformational changes required for activity (2). Conversely, dCas9 does not require large conformational changes, and CUSP’s repeatable-dosing and nuclear-homing platform can potentially exploit the efficient, inherently short-term activity of dCas9 RNP. We conclude CUSP RNP delivery is a promising strategy for overcoming CRISPR barriers to the clinic.</jats:p>\n                <jats:p>References</jats:p>\n                <jats:p>\n<jats:list list-type=\"order\">\n                    <jats:list-item>\n                        <jats:p>Kren et al, 2009, JCI 119(7); 2086-99, PMCID: PMC2861417</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                        <jats:p>Jiang &amp; Doudna, 2016, Annu Rev Biophys 46; 505–29, DOI: \n                            <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://doi.org/10.1146/annurev-biophys-062215-010822\">doi.org/10.1146/annurev-biophys-062215-010822</jats:ext-link>\n         </jats:p>\n                    </jats:list-item>\n                </jats:list>\n</jats:p>",
+      "url": "https://doi.org/10.14293/p2199-8442.1.sop-.pegp0u.v1",
+      "pdf_url": "https://www.scienceopen.com/document_file/245792cf-d001-45bf-bd16-9c710a3243d1/ScienceOpen/Unger%20CRISPR%20poster%20Keystone%2030Jan18%20.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "10.14293/p2199-8442.1.sop-.pegp0u.v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Follicular fluid derived exosomal miR-4449 regulates cell proliferation and oxidative stress by targeting KEAP1 in human granulosa cell lines KGN and COV434",
+      "authors": "Min Wang; Yixuan Sun; Dong Yuan; Song Yue; Zhu Yang",
+      "year": 2023,
+      "doi": "10.1016/j.yexcr.2023.113735",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.yexcr.2023.113735",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "KGN COV434 granulosa cell line transfection efficiency CRISPR delivery"
+      ],
+      "paper_id": "10.1016/j.yexcr.2023.113735",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "LP-60: Bisphenol A and its effects on human ovarian granulosa cell line COV434",
+      "authors": "D. Celar Šturm; P. Škerl; S. Novaković; I. Virant Klun",
+      "year": 2023,
+      "doi": "10.1016/s0378-4274(23)01023-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s0378-4274(23)01023-8",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "KGN COV434 granulosa cell line transfection efficiency CRISPR delivery"
+      ],
+      "paper_id": "10.1016/s0378-4274(23)01023-8",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Passive, active and endogenous organ-targeted lipid and polymer nanoparticles for delivery of genetic drugs",
+      "authors": "Sean A. Dilliard; Daniel J. Siegwart",
+      "year": 2023,
+      "doi": "10.1038/s41578-022-00529-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41578-022-00529-7",
+      "pdf_url": "https://www.nature.com/articles/s41578-022-00529-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "W4317436849",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Engineering the next generation of cell-based therapeutics",
+      "authors": "Caleb J. Bashor; Isaac B. Hilton; Hozefa S. Bandukwala; Devyn M. Smith; Omid Veiseh",
+      "year": 2022,
+      "doi": "10.1038/s41573-022-00476-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41573-022-00476-6",
+      "pdf_url": "https://www.nature.com/articles/s41573-022-00476-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "W4281750571",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "PROTAC targeted protein degraders: the past is prologue",
+      "authors": "Miklós Békés; David R. Langley; Craig M. Crews",
+      "year": 2022,
+      "doi": "10.1038/s41573-021-00371-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41573-021-00371-6",
+      "pdf_url": "https://www.nature.com/articles/s41573-021-00371-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "W4205379795",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Preparation of selective organ-targeting (SORT) lipid nanoparticles (LNPs) using multiple technical methods for tissue-specific mRNA delivery",
+      "authors": "Xu Wang; Shuai Liu; Yehui Sun; Xueliang Yu; Sang M. Lee; Qiang Cheng; Tuo Wei; Junyu Gong; Joshua Robinson; Di Zhang; Xizhen Lian; Pratima Basak; Daniel J. Siegwart",
+      "year": 2022,
+      "doi": "10.1038/s41596-022-00755-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41596-022-00755-x",
+      "pdf_url": "https://www.nature.com/articles/s41596-022-00755-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "W4307715647",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "B2M gene knockout in HEK293T cells by non-viral delivery of CRISPR-Cas9 for the induction of universal cell",
+      "authors": "Maryam Ranjbar; Farshid Amiri; Marjan Nourigorji; Farid Torabizadeh; Mahintaj Dara; Mehdi Dianatpour",
+      "year": 2021,
+      "doi": "10.21203/rs.3.rs-595457/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p>Allogeneic stem cells have been introduced as a potential approach to generate grafts in regenerative medicine. But the clinical usage of them is limited due to the risk of immune rejection that is induced by the incompatibility of human leukocyte antigens (HLAs) between donors and recipients. To overcome this limitation, we knocked out the β2 microglobulin (B2M) gene which is crucial for HLA class I expression, using CRISPR/Cas9 approach. Non-viral transfer of two gRNAs targeting exon 1 and intron 1 in B2M gene caused in large and predictable deletion in region between two loci, which was defined by sequencing and polymerase chain reaction (PCR). Furthermore, results revealed that roughly 11.11% and 22.22% of the GFP expressing cells reflecting a homozygous and heterozygous pattern of genomic modifications. We demonstrated that the dual guide RNA approach is a simple and efficient method for gene disruption. Significantly, these engineered hypoimmunogenic cells could be proposed as universal cells that are not distinguishable to the recipient immune system in cell therapy and transplantation.</jats:p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-595457/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-595457/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\maryam_2021_b2m_gene_knockout_in_hek293t_cells_by_non.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "10.21203/rs.3.rs-595457/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Delivery Platforms for CRISPR/Cas9 Genome Editing of Glial Cells in the Central Nervous System",
+      "authors": "Vasco Meneghini; Marco Peviani; Marco Luciani; Giada Zambonini; Angela Gritti",
+      "year": 2021,
+      "doi": "10.3389/fgeed.2021.644319",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Glial cells (astrocytes, oligodendrocytes, and microglia) are emerging as key players in several physiological and pathological processes of the central nervous system (CNS). Astrocytes and oligodendrocytes are not only supportive cells that release trophic factors or regulate energy metabolism, but they also actively modulate critical neuronal processes and functions in the tripartite synapse. Microglia are defined as CNS-resident cells that provide immune surveillance; however, they also actively contribute to shaping the neuronal microenvironment by scavenging cell debris or regulating synaptogenesis and pruning. Given the many interconnected processes coordinated by glial cells, it is not surprising that both acute and chronic CNS insults not only cause neuronal damage but also trigger complex multifaceted responses, including neuroinflammation, which can critically contribute to the disease progression and worsening of symptoms in several neurodegenerative diseases. Overall, this makes glial cells excellent candidates for targeted therapies to treat CNS disorders. In recent years, the application of gene editing technologies has redefined therapeutic strategies to treat genetic and age-related neurological diseases. In this review, we discuss the advantages and limitations of clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9-based gene editing in the treatment of neurodegenerative disorders, focusing on the development of viral- and nanoparticle-based delivery methods for in vivo glial cell targeting.",
+      "url": "https://doi.org/10.3389/fgeed.2021.644319",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fgeed.2021.644319/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\vasco_2021_delivery_platforms_for_crispr_cas9_genome_editing_of.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "W3133666077",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Delivery of dCas9 CRISPR System Into the Hard Transfection Cells by Magnetofection Approach",
+      "authors": "Mahdi Mohammadi Ghanbarlou; Shahriyar Abdoli; Hadi Bamehr; Leila Qazizadeh; Hamed Omid; Hamidreza Iranpour; Hosein Shahsavarani; Morteza Karimipour; Mohammad Ali Shokrgozar",
+      "year": 2021,
+      "doi": "10.21203/rs.3.rs-999842/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p><jats:bold>Background:</jats:bold> The CRISPR-Cas9 system, a powerful tool, has revolutionized genome engineering in eukaryotic cells and living organisms. However, this approach poses unique concerns and limitations when used by conventional transfection methods, including limited packaging size and low delivery efficiency. Here, we aim at assessing the transfection efficiency of DNA encoding for the CRISPR-Cas9 system by PEI coated Magnetic NanoParticle (MNPs) to improve the delivery of CRISPR/Cas9 constructs into eukaryotic cells. <jats:bold>Results:</jats:bold> Superparamagnetic iron oxide nanoparticles (SPIONs) coated with polyethylenimine (PEI) and then complexed with pCXLE-dCas9VPH-T2A-GFP-shP53 plasmid DNA. We used HEK-293 (human embryonic kidney) and Human foreskin fibroblasts (HFF) cells to express GFP after transfection to evaluate delivery efficiency with MNPs and Lipofection methods. PEI-coated nanoparticles with magnetic iron oxide core were synthesized by co-precipitation technique resulting in an average size of ~ 20 nm in diameter. Characterization of Magnetic Nano Particle (MNPs) revealed that particles have narrow size distribution sufficient colloidal stability. The result showed that the magnetofection method with an efficiency around 85.7% for HEK-293 and 28.2% for HFF. Also, transfection efficiency by lipofection method was 83.2% and 7.89% for HEK-293 and HFF respectively. <jats:bold>Conclusion:</jats:bold> The magnetofection was revealed to be more efficient than classic Lipofectamine transfection as measured by GFP expression. We show that PEI-MNPs enable effective delivery and improved safety of plasmids encoding CRISPR/Cas9 into eukaryote cells.</jats:p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-999842/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-999842/latest.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\mahdi_2021_delivery_of_dcas9_crispr_system_into_the_hard.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "10.21203/rs.3.rs-999842/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nanoparticle Delivery of CRISPR/Cas9 for Genome Editing",
+      "authors": "Li Duan; Kan Ouyang; Xiao Xu; Limei Xu; Caining Wen; Xiaoying Zhou; Zhuan Qin; Zhiyi Xu; Wei Sun; Yujie Liang",
+      "year": 2021,
+      "doi": "10.3389/fgene.2021.673286",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The emerging clustered regularly interspaced short palindromic repeat (CRISPR)/CRISPR-associated system (Cas) gene-editing system represents a promising tool for genome manipulation. However, its low intracellular delivery efficiency severely compromises its use and potency for clinical applications. Nanocarriers, such as liposomes, polymers, and inorganic nanoparticles, have shown great potential for gene delivery. The remarkable development of nanoparticles as non-viral carriers for the delivery of the CRISPR/Cas9 system has shown great promise for therapeutic applications. In this review, we briefly summarize the delivery components of the CRISPR/Cas9 system and report on the progress of nano-system development for CRISPR/Cas9 delivery. We also compare the advantages of various nano-delivery systems and their applications to deliver CRISPR/Cas9 for disease treatment. Nano-delivery systems can be modified to fulfill the tasks of targeting cells or tissues. We primarily emphasize the novel exosome-based CRISPR/Cas9 delivery system. Overall, we review the challenges, development trends, and application prospects of nanoparticle-based technology for CRISPR/Cas9 delivery.",
+      "url": "https://doi.org/10.3389/fgene.2021.673286",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fgene.2021.673286/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\li_2021_nanoparticle_delivery_of_crispr_cas9_for_genome_editing.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "W3161260932",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Non-viral Alternatives to Delivery of CRISPR-Cas Gene Editing Components",
+      "authors": "Kate Senger; Benjamin Haley",
+      "year": 2021,
+      "doi": "10.1201/9781003088516-10",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1201/9781003088516-10",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "10.1201/9781003088516-10",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "mRNA vaccines for infectious diseases: principles, delivery and clinical translation",
+      "authors": "Namit Chaudhary; Drew Weissman; Kathryn A. Whitehead",
+      "year": 2021,
+      "doi": "10.1038/s41573-021-00283-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41573-021-00283-5",
+      "pdf_url": "https://www.nature.com/articles/s41573-021-00283-5.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\namit_2021_mrna_vaccines_for_infectious_diseases_principles_delivery_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "W3193427089",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Advances in oligonucleotide drug delivery",
+      "authors": "Thomas C. Roberts; Róbert Langer; Matthew J. A. Wood",
+      "year": 2020,
+      "doi": "10.1038/s41573-020-0075-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41573-020-0075-7",
+      "pdf_url": "https://www.nature.com/articles/s41573-020-0075-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "W3048788919",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Engineering precision nanoparticles for drug delivery",
+      "authors": "Michael J. Mitchell; Margaret M. Billingsley; Rebecca M. Haley; Marissa E. Wechsler; Nicholas A. Peppas; Róbert Langer",
+      "year": 2020,
+      "doi": "10.1038/s41573-020-0090-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41573-020-0090-8",
+      "pdf_url": "https://www.nature.com/articles/s41573-020-0090-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "W3109746568",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exosomal microRNAs derived from mesenchymal stem cells: cell-to-cell messages",
+      "authors": "Kasra Asgarpour; Zahra Shojaei; Fatemeh Amiri; Jafar Ai; Maryam Mahjoubin‐Tehran; Faezeh Ghasemi; Reza Arefnezhad; Michael R. Hamblin; Hamed Mirzaei",
+      "year": 2020,
+      "doi": "10.1186/s12964-020-00650-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Exosomes are extracellular vesicles characterized by their size, source, release mechanism and contents. MicroRNAs (miRNAs) are single stranded non-coding RNAs transcribed from DNA. Exosomes and miRNAs are widespread in eukaryotic cells, especially in mesenchymal stem cells (MSCs). MSCs are used for tissue regeneration, and also exert paracrine, anti-inflammatory and immunomodulatory effects. However, the use of MSCs is controversial, especially in the presence or after the remission of a tumor, due to their secretion of growth factors and their migration ability. Instead of intact MSCs, MSC-derived compartments or substances could be used as practical tools for diagnosis, follow up, management and monitoring of diseases. Herein, we discuss some aspects of exosomal miRNAs derived from MSCs in the progression, diagnosis and treatment of various diseases. Video Abstract.",
+      "url": "https://doi.org/10.1186/s12964-020-00650-6",
+      "pdf_url": "https://biosignaling.biomedcentral.com/track/pdf/10.1186/s12964-020-00650-6",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\kasra_2020_exosomal_micrornas_derived_from_mesenchymal_stem_cells_cell.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "W3086028255",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas Genome Editing and Precision Plant Breeding in Agriculture",
+      "authors": "Kunling Chen; Yanpeng Wang; Rui Zhang; Huawei Zhang; Caixia Gao",
+      "year": 2019,
+      "doi": "10.1146/annurev-arplant-050718-100049",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Enhanced agricultural production through innovative breeding technology is urgently needed to increase access to nutritious foods worldwide. Recent advances in CRISPR/Cas genome editing enable efficient targeted modification in most crops, thus promising to accelerate crop improvement. Here, we review advances in CRISPR/Cas9 and its variants and examine their applications in plant genome editing and related manipulations. We highlight base-editing tools that enable targeted nucleotide substitutions and describe the various delivery systems, particularly DNA-free methods, that have linked genome editing with crop breeding. We summarize the applications of genome editing for trait improvement, development of techniques for fine-tuning gene regulation, strategies for breeding virus resistance, and the use of high-throughput mutant libraries. We outline future perspectives for genome editing in plant synthetic biology and domestication, advances in delivery systems, editing specificity, homology-directed repair, and gene drives. Finally, we discuss the challenges and opportunities for precision plant breeding and its bright future in agriculture.",
+      "url": "https://doi.org/10.1146/annurev-arplant-050718-100049",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-050718-100049",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "W2918418208",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Dextran Enhances the Lentiviral Transduction Efficiency of Murine and Human Primary NK Cells",
+      "authors": "Arash Nanbakhsh; Subramaniam Malarkannan",
+      "year": 2019,
+      "doi": "10.1007/978-1-0716-0203-4_7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-0716-0203-4_7",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "10.1007/978-1-0716-0203-4_7",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The CRISPR tool kit for genome editing and beyond",
+      "authors": "Mazhar Adli",
+      "year": 2018,
+      "doi": "10.1038/s41467-018-04252-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CRISPR is becoming an indispensable tool in biological research. Once known as the bacterial immune system against invading viruses, the programmable capacity of the Cas9 enzyme is now revolutionizing diverse fields of medical research, biotechnology, and agriculture. CRISPR-Cas9 is no longer just a gene-editing tool; the application areas of catalytically impaired inactive Cas9, including gene regulation, epigenetic editing, chromatin engineering, and imaging, now exceed the gene-editing functionality of WT Cas9. Here, we will present a brief history of gene-editing tools and describe the wide range of CRISPR-based genome-targeting tools. We will conclude with future directions and the broader impact of CRISPR technologies.",
+      "url": "https://doi.org/10.1038/s41467-018-04252-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-018-04252-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "W2803581084",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comparative analysis of chimeric ZFP-, TALE- and Cas9-piggyBac transposases for integration into a single locus in human cells.",
+      "authors": "Luo W; Galvan DL; Woodard LE; Dorset D; Levy S; Wilson MH",
+      "year": 2017,
+      "doi": "10.1093/nar/gkx572",
+      "pmid": "28666380",
+      "pmcid": null,
+      "abstract": "Integrating DNA delivery systems hold promise for many applications including treatment of diseases; however, targeted integration is needed for improved safety. The piggyBac (PB) transposon system is a highly active non-viral gene delivery system capable of integrating defined DNA segments into host chromosomes without requiring homologous recombination. We systematically compared four different engineered zinc finger proteins (ZFP), four transcription activator-like effector proteins (TALE), CRISPR associated protein 9 (SpCas9) and the catalytically inactive dSpCas9 protein fused to the amino-terminus of the transposase enzyme designed to target the hypoxanthine phosphoribosyltransferase (HPRT) gene located on human chromosome X. Chimeric transposases were evaluated for expression, transposition activity, chromatin immunoprecipitation at the target loci, and targeted knockout of the HPRT gene in human cells. One ZFP-PB and one TALE-PB chimera demonstrated notable HPRT gene targeting. In contrast, Cas9/dCas9-PB chimeras did not result in gene targeting. Instead, the HPRT locus appeared to be protected from transposon integration. Supplied separately, PB permitted highly efficient isolation of Cas9-mediated knockout of HPRT, with zero transposon integrations in HPRT by deep sequencing. In summary, these tools may allow isolation of 'targeted-only' cells, be utilized to protect a genomic locus from transposon integration, and enrich for Cas9-mutated cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28666380/",
+      "pdf_url": "https://academic.oup.com/nar/article-pdf/45/14/8411/25367443/gkx572.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "28666380",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Effects of <i>NRF1</i> on steroidogenesis and apoptosis in goat luteinized granulosa cells",
+      "authors": "Guomin Zhang; Mingtian Deng; Zhihai Lei; Yongjie Wan; Haitao Nie; Zi-Yu Wang; Yixuan Fan; Feng Wang; Yanli Zhang",
+      "year": 2017,
+      "doi": "10.1530/rep-16-0583",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract During goat follicular development, abnormal expression of nuclear respiratory factor 1 (NRF1) in granulosa cells may drive follicular atresia with unknown regulatory mechanisms. In this study, we investigated the effects of NRF1 on steroidogenesis and cell apoptosis by overexpressing or silencing it in goat luteinized granulosa cells (LGCs). Results showed that knockdown of NRF1 expression significantly inhibited the expression of STAR and CYP19A1, which are involved in sex steroid hormones synthesis, and led to lower estrogen levels. Knockdown of NRF1 resulted in an increased percentage of apoptosis, probably due to the release of cytochrome c from mitochondria, accompanied by upregulating mRNA and protein levels of apoptosis-related markers BAX, caspase 3 and caspase 9. These data indicate that NRF1 might be related with steroidogenesis and cell apoptosis. Furthermore, NRF1 silence reduced mitochondrial transcription factor A (TFAM) transcription activity, mtDNA copy number and ATP level. Simultaneously, knockdown of NRF1 suppressed the transcription and translation levels of SOD, GPx and CAT, decreased glutathione level and increased 8-OHdG level. However, the overexpression of NRF1 in LGCs or gain of TFAM in NRF1 silenced LGCs increased the expression of genes involved in mitochondrial function and biogenesis, and elevated the antioxidant stress system and steroids synthesis. Taken together, aberrant expression of NRF1 could induce mitochondrial dysfunction and disturb the cellular redox balance, which lead to disturbance of steroid hormone synthesis, and trigger LGC apoptosis through the mitochondria-dependent pathway. These findings will be helpful for understanding the role of NRF1 in goat ovarian follicular development and atresia.",
+      "url": "https://doi.org/10.1530/rep-16-0583",
+      "pdf_url": "https://rep.bioscientifica.com/downloadpdf/journals/rep/154/2/REP-16-0583.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "W2627050554",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR/Cas9 in Genome Editing and Beyond",
+      "authors": "Haifeng Wang; Marie La Russa; Lei S. Qi",
+      "year": 2016,
+      "doi": "10.1146/annurev-biochem-060815-014607",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The Cas9 protein (CRISPR-associated protein 9), derived from type II CRISPR (clustered regularly interspaced short palindromic repeats) bacterial immune systems, is emerging as a powerful tool for engineering the genome in diverse organisms. As an RNA-guided DNA endonuclease, Cas9 can be easily programmed to target new sites by altering its guide RNA sequence, and its development as a tool has made sequence-specific gene editing several magnitudes easier. The nuclease-deactivated form of Cas9 further provides a versatile RNA-guided DNA-targeting platform for regulating and imaging the genome, as well as for rewriting the epigenetic status, all in a sequence-specific manner. With all of these advances, we have just begun to explore the possible applications of Cas9 in biomedical research and therapeutics. In this review, we describe the current models of Cas9 function and the structural and biochemical studies that support it. We focus on the applications of Cas9 for genome editing, regulation, and imaging, discuss other possible applications and some technical considerations, and highlight the many advantages that CRISPR/Cas9 technology offers.",
+      "url": "https://doi.org/10.1146/annurev-biochem-060815-014607",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060815-014607",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP",
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "W2182456467",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Protein Kinase A: A Master Kinase of Granulosa Cell Differentiation",
+      "authors": "Pawan Puri; Lynda Little-Ihrig; Uma Chandran; Nathan C. Law; Mary Hunzicker-Dunn; Anthony J. Zeleznik",
+      "year": 2016,
+      "doi": "10.1038/srep28132",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Activation of protein kinase A (PKA) by follicle stimulating hormone (FSH) transduces the signal that drives differentiation of ovarian granulosa cells (GCs). An unresolved question is whether PKA is sufficient to initiate the complex program of GC responses to FSH. We compared signaling pathways and gene expression profiles of GCs stimulated with FSH or expressing PKA-CQR, a constitutively active mutant of PKA. Both FSH and PKA-CQR stimulated the phosphorylation of proteins known to be involved in GC differentiation including CREB, ß-catenin, AKT, p42/44 MAPK, GAB2, GSK-3ß, FOXO1, and YAP. In contrast, FSH stimulated the phosphorylation of p38 MAP kinase but PKA-CQR did not. Microarray analysis revealed that 85% of transcripts that were up-regulated by FSH were increased to a comparable extent by PKA-CQR and of the transcripts that were down-regulated by FSH, 76% were also down-regulated by PKA-CQR. Transcripts regulated similarly by FSH and PKA-CQR are involved in steroidogenesis and differentiation, while transcripts more robustly up-regulated by PKA-CQR are involved in ovulation. Thus, PKA, under the conditions of our experimental approach appears to function as a master upstream kinase that is sufficient to initiate the complex pattern of intracellular signaling pathway and gene expression profiles that accompany GC differentiation.",
+      "url": "https://doi.org/10.1038/srep28132",
+      "pdf_url": "https://www.nature.com/articles/srep28132.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\pawan_2016_protein_kinase_a_a_master_kinase_of_granulosa.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "W2460203703",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "GSTT1 is upregulated by oxidative stress through p38-MK2 signaling pathway in human granulosa cells: possible association with mitochondrial activity",
+      "authors": "Megumu Ito; Misa Imai; Miho Muraki; Kenji Miyado; Junwen Qin; Shigeru Kyuwa; Yasuhiro Yoshikawa; Yoshihiko Hosoi; Hidekazu Saito; Yuji Takahashi",
+      "year": 2011,
+      "doi": "10.18632/aging.100418",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "We previously reported that GSTT1 was upregulated in human granulosa cells during aging and that activation and localization of p38 MAPK was changed in parallel. Although oxidative stress is responsible for these changes, the age-associated expression of GSTT1 regulated by MAPKs and the role of GSTT1 in aged granulosa cells remain unclear. Therefore, we examined the relationship between the expression of GSTT1 and MAPK signaling pathways using human granulosa-like KGN cells stimulated with H(2)O(2) in the presence or absence of various MAPK inhibitors. Interestingly, H(2)O(2)-induced GSTT1 was only inhibited by a p38 inhibitor. An inhibitor of MK2, a downstream regulator of p38, also diminished H(2)O(2)-induced GSTT1 upregulation. Notably, both p38 and MK2 were significantly inactivated in cells carrying an shRNA construct of GSTT1 (∆GSTT1 cells), suggesting that the p38-MK2 pathway is essential for age-associated upregulation of GSTT1. The relevance of GSTT1 in mitochondrial activity was then determined. ∆GSTT1 cells displayed enhanced polarization of mitochondrial membrane potential without increasing the apoptosis, suggesting that the age-associated upregulation of GSTT1 may influence the mitochondrial activity of granulosa cells.",
+      "url": "https://doi.org/10.18632/aging.100418",
+      "pdf_url": "https://www.aging-us.com/article/100418/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "W2170064963",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Micro-RNA378 (miR-378) Regulates Ovarian Estradiol Production by Targeting Aromatase",
+      "authors": "Shengyu Xu; Katja Linher‐Melville; Burton B. Yang; De Wu; Julang Li",
+      "year": 2011,
+      "doi": "10.1210/en.2011-1147",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Estradiol is a steroid hormone that not only plays an important role in ovarian follicular development but also is associated with many reproductive disorders. Owing to the importance of aromatase in the production of estradiol, the regulation of aromatase gene expression at the transcriptional level has been an extensive area of study for over two decades. However, its regulation at the posttranscriptional level has remained unclear. Here, we show that micro-RNA378 (miR-378) is spatiotemporally expressed in porcine granulosa cells, the cells that generate estradiol in the ovary during follicular development, in an inverse manner compared with the expression of aromatase. In vitro overexpression and inhibition experiments revealed that aromatase expression, and therefore estradiol production, by granulosa cells, is posttranscriptionally down-regulated by miR-378. Furthermore, site-directed mutation studies identified two binding sites in the 3'-untranslated region (3'-UTR) of the aromatase coding sequence that are critical for the action of miR-378. Interestingly, overexpression of the aromatase 3'-UTR enhanced aromatase expression at the protein level in granulosa cells, possibly mediated by the binding of miR-378 within this region, thereby reducing the binding of this micro-RNA to the endogenous aromatase 3'-UTR.",
+      "url": "https://doi.org/10.1210/en.2011-1147",
+      "pdf_url": "https://academic.oup.com/endo/article-pdf/152/10/3941/9014787/endo3941.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "W2140681541",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The AhR is constitutively activated and affects granulosa cell features in the human cell line KGN",
+      "authors": "K. Horling; A. N. Santos; B. Fischer",
+      "year": 2010,
+      "doi": "10.1093/molehr/gaq074",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/molehr/gaq074",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "KGN COV434 granulosa cell line transfection efficiency CRISPR delivery"
+      ],
+      "paper_id": "10.1093/molehr/gaq074",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "46. Production of Lentivirus by Transient Transfection of HEK 293T Grown on Spherical, Polystyrene Microcarriers",
+      "authors": "",
+      "year": 2009,
+      "doi": "10.1016/s1525-0016(16)38404-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s1525-0016(16)38404-0",
+      "pdf_url": "http://www.cell.com/article/S1525001616384040/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "10.1016/s1525-0016(16)38404-0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "PROSTAGLANDIN E2 (PGE2) STIMULATES CELL PROLIFERATION IN THE HUMAN OVARIAN GRANULOSA-LIKE TUMOR CELL LINE KGN",
+      "authors": "Chao Jiang; Lynn Roy; Steven Remmenga; John Davis",
+      "year": 2007,
+      "doi": "10.1093/biolreprod/77.s1.196",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/biolreprod/77.s1.196",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "KGN COV434 granulosa cell line transfection efficiency CRISPR delivery"
+      ],
+      "paper_id": "10.1093/biolreprod/77.s1.196",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Characterization of an immortalized human granulosa cell line (COV434)",
+      "authors": "H. Zhang",
+      "year": 2000,
+      "doi": "10.1093/molehr/6.2.146",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/molehr/6.2.146",
+      "pdf_url": "https://academic.oup.com/molehr/article-pdf/6/2/146/9894325/060146.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "KGN COV434 granulosa cell line transfection efficiency CRISPR delivery"
+      ],
+      "paper_id": "10.1093/molehr/6.2.146",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A Universal GSH-Responsive Nanoplatform for the Delivery of DNA, mRNA, and Cas9/sgRNA Ribonucleoprotein",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsami.8b03496.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsami.8b03496.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acsami.8b03496/suppl_file/am8b03496_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "10.1021/acsami.8b03496.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-dCas9-Guided and Telomerase-Responsive Nanosystem for Precise Anti-Cancer Drug Delivery",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsami.0c19217.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsami.0c19217.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acsami.0c19217/suppl_file/am0c19217_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "10.1021/acsami.0c19217.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CRISPR-dCas9-Guided and Telomerase-Responsive Nanosystem for Precise Anti-Cancer Drug Delivery",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsami.0c19217.s002",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsami.0c19217.s002",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "non-viral delivery CRISPR activator dCas9 fusion protein cells"
+      ],
+      "paper_id": "10.1021/acsami.0c19217.s002",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cas9 Protein Outperforms mRNA in Lipid Nanoparticle-Mediated CFTR Repair",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.nanolett.5c03548.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.nanolett.5c03548.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.nanolett.5c03548/suppl_file/nl5c03548_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "10.1021/acs.nanolett.5c03548.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Evaluation of mRNA Transfection Reagents for mRNA Delivery and Vaccine Efficacy via Intramuscular Injection in Mice",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsabm.5c00424.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsabm.5c00424.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acsabm.5c00424/suppl_file/mt5c00424_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "10.1021/acsabm.5c00424.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ex vivo modification of natural killer cells: The Role of Lipid Nanoparticle-Mediated mRNA Delivery",
+      "authors": "Stefania Douka",
+      "year": 1970,
+      "doi": "10.33540/2788",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p xml:lang=\"en\">Cellular immunotherapy is an increasingly prominent field in oncology that prolongs patient survival by enhancing tumor surveillance and clearance. In addition, immunotherapy boosts the suppressed and weakened immune system either by targeting immune cells with monoclonal antibodies (mAbs), engagers, and immune checkpoint inhibitors (ICIs), or through adoptive cell transfer via intravenous infusion of autologous or allogeneic effector cells. Over the past decade, major pharmaceutical companies have been focusing on T cell-based therapies, including genetically modified chimeric antigen receptor (CAR) T cells, which have demonstrated substantial clinical benefit. Nevertheless, extensive research has highlighted associated toxicities, such as cytokine release syndrome (CRS), graft-versus-host disease (GvHD), and neurotoxicity linked to CAR-T cells. Given these risks, along with the significant costs of manufacturing, research efforts are increasingly shifting towards alternative effector cell sources, including natural killer (NK) cells. Unlike T cells, NK cells offer the advantage of not targeting healthy self-tissue, thereby diminishing the risk of triggering a GvHD, making them a promising alternative for the development of allogeneic (“off-the-shelf”) cell products. Their efficacy in treating hematological malignancies has been demonstrated in numerous clinical studies. However, challenges remain in enhancing their effectiveness in solid tumors, improving their penetration in tumor sites, and increasing their proliferation and persistence in the body. To address these limitations, researchers are now focusing on engineering NK cells to support tumor infiltration and to overcome resistance to immunosuppression by the tumor microenvironment (TME). Strategies involve the overexpression of activating and chemotactic signals, as well as downregulation of inhibitory signals. These engineering approaches are often applied in combination with mAbs and engagers to enhance their therapeutic efficacy. Delivery of genetic material is essential for successful modification of NK cells, however, NK cells are hard-to-transfect cells and existing gene delivery methods present significant limitations. While viral vectors are highly effective in transducing NK cells, their large-scale production under good manufacturing practice (GMP) standards is associated with considerable costs and genotoxic risks. Moreover, electroporation has been linked to cellular toxicity and phenotypic alterations of NK cells. Consequently, to advance the field of adoptive cell therapy and generate modified NK cells with enhanced cytotoxicity against both hematological malignancies and solid tumors, the development of a scalable, non-toxic gene delivery system is of high importance. The aim of this thesis was to contribute to the field of NK cell therapeutics by developing a non-viral nanoparticle-based delivery system to efficiently and safely deliver mRNA into NK cells. Additionally, this work investigated the simultaneous delivery of two mRNA molecules for dual NK cell targeting and examined how the incorporation of cell penetrating peptides (CPPs) within the nanoparticles can enhance endosomal escape and mRNA transfection efficiency. Finally, this thesis explored the potential of nanoparticle-mediated overexpression of an activating receptor in NK cells as a synergistic approach with mAbs to enhance the antibody-dependent cellular cytotoxicity (ADCC) function of NK cells.</jats:p>",
+      "url": "https://doi.org/10.33540/2788",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "10.33540/2788",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 2: Lentivirus preparation and transfection detection.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.5192/fig-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.5192/fig-2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "dCas9-p300 delivery transient transfection lentivirus nanoparticle mRNA RNP"
+      ],
+      "paper_id": "10.7717/peerj.5192/fig-2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "In Vitro Engineering Chimeric Antigen Receptor Macrophages and T Cells by Lipid Nanoparticle-Mediated mRNA Delivery",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acsbiomaterials.1c01532.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsbiomaterials.1c01532.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acsbiomaterials.1c01532/suppl_file/ab1c01532_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "10.1021/acsbiomaterials.1c01532.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Lipid Nanoparticle-Mediated Delivery of CRISPR-Cas9 for Therapeutic Gene Correction",
+      "authors": "Johanna Walther",
+      "year": 1970,
+      "doi": "10.33540/2032",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p xml:lang=\"en\">The thesis “Lipid Nanoparticle-Mediated Delivery of CRISPR-Cas9 for Therapeutic Gene Correction” delves into the potential of CRISPR-Cas9 as a gene therapy tool for treating hereditary disorders. Originally a bacterial defense mechanism, CRISPR-Cas9 has been modified into a precision gene editing tool. It functions like molecular scissors, creating specific DNA breaks that trigger DNA repair processes, which, when coupled with repair DNA, can correct gene mutations causing hereditary diseases. However, the challenge lies in safely and efficiently delivering CRISPR-Cas9 to affected organs in patients.\n\nThe thesis explores the use of lipid nanoparticles, small, virus-sized particles composed of naturally occurring body fats, as a viable delivery system for CRISPR-Cas9. The work in this thesis demonstrates that the designed lipid nanoparticles can effectively transport CRISPR-Cas9 into both cultured cells and later in liver cells of mice as well. Moreover, the results show that the delivered CRISPR-Cas9 generates precise genome edits. Furthermore, it addresses the potential immune responses against CRISPR-Cas9, given it bacterial origin, and introduces a strategy to mitigate such reactions. \n\nIn summary, this thesis presents a promising approach to deliver CRISPR-Cas9 to diseased cells, enabling the precise correction of pathogenic gene mutations, marking a significant advancement in the field of gene therapy for hereditary disorders.</jats:p>",
+      "url": "https://doi.org/10.33540/2032",
+      "pdf_url": "https://dspace.library.uu.nl/bitstream/handle/1874/433468/walther%20thesis%20-%20654df20919e26.pdf?sequence=1&isAllowed=y",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\johanna_1970_lipid_nanoparticle_mediated_delivery_of_crispr_cas9_for.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "lipid nanoparticle mRNA delivery Cas9 ribonucleoprotein ovarian cells"
+      ],
+      "paper_id": "10.33540/2032",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Structural and functional investigations of designed histidine-rich peptides with potent antimicrobial, transfection, and lentiviral transduction activities",
+      "authors": "Morane Lointier",
+      "year": 1970,
+      "doi": "10.70675/12e7ffdczd5eaz4e82zb8edz9b36a9c93190",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Recherches structurales et fonctionnelles sur les peptides riches en histidine présentant des activités élevées antimicrobienne, de transfection et de transduction lentivirale.</jats:title>\n                <jats:p xml:lang=\"fr\">La famille LAH4 comprend des dérivés de ce peptide, cationiques et capables de se structurer en hélice α amphipathique en fonction du pH de l’environnement. Ils interagissent et perturbent les membranes, sont utilisées pour diverses applications biologiques : antimicrobiennes, de transfection et de transduction. Le travail de cette thèse a pour but de comprendre la relation entre la similitude des séquences et la variété des activités biologiques. Il s’articule en trois parties : tout d’abord, l’étude de l’effet de la modification de la séquence sur deux séries « LAH4-An » et « LAH4-Ln » basées sur le changement de l’angle hydrophile ; puis l’étude des conditions de fibrillation de LAH4-A4, LAH4-L1 et LAH4 afin de mieux comprendre leurs auto-assemblages puisque la formation de fibres s’est montrée important pour la transduction. Et enfin, la détermination de la structure des fibres de LAH4-A4 puisqu’elle est essentielle pour comprendre leurs mécanismes d’action.</jats:p>",
+      "url": "https://doi.org/10.70675/12e7ffdczd5eaz4e82zb8edz9b36a9c93190",
+      "pdf_url": "http://www.theses.fr/2020STRAF025/document",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\morane_1970_structural_and_functional_investigations_of_designed_histidine_rich.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "primary granulosa cell transfection lentiviral transduction efficiency"
+      ],
+      "paper_id": "10.70675/12e7ffdczd5eaz4e82zb8edz9b36a9c93190",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

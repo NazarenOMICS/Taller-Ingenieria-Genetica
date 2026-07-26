@@ -1,0 +1,137 @@
+{
+  "notebook_id": "cc690df9-1e9b-4c72-873c-91e915a72f5d",
+  "notebook_title": "dCas9-p300 H3K27ac reversibility (q02)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "8ac370b9-29d4-42e7-b6f9-16f4ed432766",
+      "title": "benjamin_2015_strategies_for_precision_modulation_of_gene_expression_by.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:45"
+    },
+    {
+      "index": 2,
+      "id": "4b5ab4be-3ba0-4494-a316-5823ef4f6cc8",
+      "title": "chenya_2021_spatiotemporal_control_of_crispr_cas9_gene_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:45"
+    },
+    {
+      "index": 3,
+      "id": "dc4d41b8-886d-4432-8106-3548a3efece1",
+      "title": "daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:47"
+    },
+    {
+      "index": 4,
+      "id": "16851046-cd7b-4fa6-abfe-dfb1507d0066",
+      "title": "dirk_2017_drug_tunable_multidimensional_synthetic_gene_control_using_inducible.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:47"
+    },
+    {
+      "index": 5,
+      "id": "317ddae5-cca6-41b7-8cdb-6d93e8cad29c",
+      "title": "gough_2023_dissection_of_a_non_coding_risk_locus_at.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:52"
+    },
+    {
+      "index": 6,
+      "id": "ef2385fb-8cf8-4a81-8feb-54f1e1bffa5b",
+      "title": "hilton_2015.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T16:38:05"
+    },
+    {
+      "index": 7,
+      "id": "5e440f09-07e8-42d3-9c13-29c68168394b",
+      "title": "hongxin_2020_cell_cell_contact_induced_gene_editing_activation_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:53"
+    },
+    {
+      "index": 8,
+      "id": "3742cdb8-b7a3-4aec-abe1-02be902e566b",
+      "title": "jackson_2022_a_histone_deacetylase_network_regulates_epigenetic_reprogramming_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:53"
+    },
+    {
+      "index": 9,
+      "id": "d07fe106-ded0-424e-8923-032c4f4b9b3c",
+      "title": "liao_2026.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T16:38:10"
+    },
+    {
+      "index": 10,
+      "id": "87749aac-5085-4394-86b9-8bf9e67fadd4",
+      "title": "matthew_2019_sufficiency_analysis_of_estrogen_responsive_enhancers_using_synthetic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:53"
+    },
+    {
+      "index": 11,
+      "id": "39014e8c-7acc-4cc3-a3f5-d58c8e8ff055",
+      "title": "mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:59"
+    },
+    {
+      "index": 12,
+      "id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "title": "minhee_2016_the_epigenome_the_next_substrate_for_engineering.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:35:59"
+    },
+    {
+      "index": 13,
+      "id": "39df89e0-fece-4eba-8e14-2e1ee783634b",
+      "title": "t_2018_sirt6_haploinsufficiency_induces_brafv600e_melanoma_cell_resistance_to.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:36:02"
+    }
+  ],
+  "count": 13
+}

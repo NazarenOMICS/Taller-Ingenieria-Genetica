@@ -1,0 +1,207 @@
+{
+  "notebook_id": "88cd18f7-147a-46da-adea-544dfdab4816",
+  "notebook_title": "Public ChIP-seq and ATAC-seq at FTO promoter (q21)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "5532c87b-c78b-4e00-9d47-8ed390d4ebb7",
+      "title": "angelo_2007_genome_wide_association_scan_shows_genetic_variants_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:39"
+    },
+    {
+      "index": 2,
+      "id": "9a0ee980-54c2-422a-b3fc-0cce45043bd5",
+      "title": "anthony_2018_shared_genetic_contribution_to_type_1_and_type.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:39"
+    },
+    {
+      "index": 3,
+      "id": "5c7400ea-f1a8-4ba7-a0df-3c49a81e94fd",
+      "title": "carrasco_2026_novel_genome_editing_approaches_to_manipulate_apical_meristem.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:40"
+    },
+    {
+      "index": 4,
+      "id": "53a379e3-47ec-47de-a5d0-f1e9686e63ca",
+      "title": "e_2021_disease_associated_genetic_variants_in_the_regulatory_regions.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:41"
+    },
+    {
+      "index": 5,
+      "id": "d901665d-3d06-477b-b80b-13eb92bfc472",
+      "title": "haiyan_2024_ythdf2_upregulation_and_subcellular_localization_dictate_cd8_t.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:44"
+    },
+    {
+      "index": 6,
+      "id": "60b4d0d6-aeab-4cb0-acda-0f101289acd1",
+      "title": "huan_2023_scm6a_seq_reveals_single_cell_landscapes_of_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:46"
+    },
+    {
+      "index": 7,
+      "id": "849a9199-e447-440d-b322-51b46b75dc32",
+      "title": "jiang_2025_fto_mediated_m_lt_sup_gt_6_lt.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:45"
+    },
+    {
+      "index": 8,
+      "id": "6e94068e-dfc8-41bd-b237-aec8f143e6b7",
+      "title": "joshi_2024_epidecoder_a_functional_exploration_tool_for_epigenetic_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:46"
+    },
+    {
+      "index": 9,
+      "id": "58b2fa01-eb83-48cc-a42f-6605f7319b17",
+      "title": "madhusudhan_2019_atac_seq_reveals_alterations_in_open_chromatin_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:49"
+    },
+    {
+      "index": 10,
+      "id": "b773a511-ac74-42d9-9770-0ba0d47b625e",
+      "title": "paola_2018_using_three_dimensional_regulatory_chromatin_interactions_from_adult.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:52"
+    },
+    {
+      "index": 11,
+      "id": "2b757c23-90a2-4ed2-b251-b0eb6899ba38",
+      "title": "paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:55"
+    },
+    {
+      "index": 12,
+      "id": "49227af1-333c-4504-89d0-de5d98fecfea",
+      "title": "srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:51"
+    },
+    {
+      "index": 13,
+      "id": "455cb590-644c-4e2e-bcbd-36d5c133fc48",
+      "title": "wu_2026_n6_methyladenosine_modification_in_the_context_of_viral.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:55"
+    },
+    {
+      "index": 14,
+      "id": "a61faf83-9d78-4025-bb02-67e2556b441b",
+      "title": "yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:56"
+    },
+    {
+      "index": 15,
+      "id": "a4216d30-4acf-4641-a848-4a3b783b6003",
+      "title": "yang_2026_the_orchestrated_interplay_between_dna_methylation_and_n6.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:39:02"
+    },
+    {
+      "index": 16,
+      "id": "c03c5bf4-d8b9-4575-9f3d-6da922bba9da",
+      "title": "yi_chun_2010_hypothalamic_specific_manipulation_of_fto_the_ortholog_of.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:39:00"
+    },
+    {
+      "index": 17,
+      "id": "7b91c3fa-e006-4067-9ab7-eb773d2adf3d",
+      "title": "yige_2023_epigenetic_and_transcriptomic_characterization_reveals_progression_markers_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:38:56"
+    },
+    {
+      "index": 18,
+      "id": "daf5cc42-d13c-4397-b7d2-99a678c46432",
+      "title": "yongli_2024_pan_cistrome_analysis_of_the_leaf_accessible_chromatin.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:39:02"
+    },
+    {
+      "index": 19,
+      "id": "63f1790d-5ee3-4c4a-aca5-566f1341df5e",
+      "title": "yunxia_2021_a_compendium_and_comparative_epigenomics_analysis_of_cis.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:39:07"
+    },
+    {
+      "index": 20,
+      "id": "2e8c71ab-5cc9-48a5-8db5-9964557b3324",
+      "title": "zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:39:04"
+    }
+  ],
+  "count": 20
+}

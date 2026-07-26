@@ -1,0 +1,3 @@
+[16:38:09] Starting parallel upload: 1 PDFs, 1 workers
+[16:38:18] OK - hilton_2015.pdf
+[16:38:18] DONE: 1 OK, 0 FAIL (of 1)

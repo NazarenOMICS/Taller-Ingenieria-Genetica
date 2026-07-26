@@ -1,0 +1,152 @@
+{
+  "answer": "According to the sources, the number of guide RNAs (sgRNAs) and their combination (multiplexing) affect **dCas9-p300** activation efficiency in a manner distinct from traditional activators like dCas9-VP64. While multiplexing often enhances activation, dCas9-p300 is uniquely capable of achieving robust results with a **single guide RNA** and is subject to specific physical constraints. [1, 2]\n\n### Efficiency with a Single Guide RNA\nUnlike first-generation activators that typically require a pool of multiple guides for robust gene induction, **dCas9-p300** can achieve high levels of transcription using only a **single sgRNA**. [1, 2] \n*   **Gene-Specific Results:** In human HEK293T cells, experiments targeting the ***IL1RN*** and ***MYOD*** promoters found **no significant difference** in activation magnitude between the best individual guide and a pool of four guides. [2]\n*   **Comparison to VP64:** While dCas9-VP64 consistently requires multiple guides to reach effective levels, a single potent guide for p300 can sometimes match the efficiency of a **four-guide pool** used with VP64. [2]\n\n### Synergistic and Additive Effects of Multiplexing\nMultiplexing can provide further enhancement, but it often leads to **non-additive** or strictly additive results rather than the strong synergy seen in other systems. [3, 4]\n*   **Additive vs. Synergistic:** For the ***OCT4*** promoter, pooling four gRNAs with p300 produced **additive effects**, whereas dCas9-VP64 demonstrated synergistic effects (where the total is greater than the sum of its parts) in every case tested. [2]\n*   **Scaffolded Enhancement:** Multiplexing three sgRNAs with the enhanced **p300+MV** system (which combines p300 with MS2-MCP-scaffolded VP64) was found to significantly increase activation of ***ASCL1*** and ***MYOD1***, even outperforming the high-potency SAM system when SAM was used with only a single guide. [5-7]\n\n### Physical Constraints and Limitations\nThe sources highlight that the large physical size of the p300 core domain creates limitations when using multiple guides: [8, 9]\n*   **Steric Hindrance:** Because the dCas9-p300 complex is large, placing multiple sgRNAs too close to one another can cause **steric hindrance**. [8] In a plant model, using two sgRNAs separated by only **118 bp** resulted in **lower gene expression** than using either guide alone, as the complexes may have destabilized each other on the DNA. [8]\n*   **Repetitive Site Sensitivity:** In experiments using the **TRE3G promoter** (which contains seven repetitive binding sites), the p300+MV system showed **limited increases in activity** compared to smaller activators like VP64 variants. [9, 10] This is attributed to the **spatial constraints** of the p300 core, which is described as a \"relatively large protein\" that may struggle to access crowded binding sites. [9, 11]\n*   **Saturation:** The sources suggest that dCas9-p300 does not display the same degree of synergy with additional guides or TALEs as smaller, non-enzymatic activators do. [4, 12]",
+  "conversation_id": "0ea03736-cdf4-4dab-9b2f-9508a5e7d6b5",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "639eec10-ce8d-43b2-9bc6-6e2352966f82",
+      "citation_number": 1,
+      "cited_text": null,
+      "start_char": 0,
+      "end_char": 1,
+      "chunk_id": "7cea4a6a-00bf-4251-84dd-8bc91b72f156",
+      "passage_id": null,
+      "answer_start_char": 0,
+      "answer_end_char": 1320,
+      "score": 0.7434986714105979
+    },
+    {
+      "source_id": "639eec10-ce8d-43b2-9bc6-6e2352966f82",
+      "citation_number": 2,
+      "cited_text": "$$ d coscos\\ P64 $$",
+      "start_char": 21771,
+      "end_char": 21791,
+      "chunk_id": "12f39843-5cf4-41a5-a13f-5da77544ef19",
+      "passage_id": null,
+      "answer_start_char": 21771,
+      "answer_end_char": 23423,
+      "score": 0.8223573132884111
+    },
+    {
+      "source_id": "9c6323ff-154c-4585-b59e-1b62455229db",
+      "citation_number": 3,
+      "cited_text": null,
+      "start_char": 31979,
+      "end_char": 31980,
+      "chunk_id": "23014a20-d906-42bb-aefb-af4c704b532a",
+      "passage_id": null,
+      "answer_start_char": 31979,
+      "answer_end_char": 32621,
+      "score": 0.8050024258622279
+    },
+    {
+      "source_id": "639eec10-ce8d-43b2-9bc6-6e2352966f82",
+      "citation_number": 4,
+      "cited_text": "dCas9p300 Core is more potent than existing engineered transcription factors made with single activator domains. Although synergy among other synthetic transcriptional activators, including dCas9<supVP64</sup (refs. 8,15-17,19-22,24,25), has been widely observed, the p300 Core effector domain did not display similar synergy with either additional gRNAs or TALEs (Figs. 5 and 6 and Supplementary Figs. 3 and 5) or in combination with VP64 (Supplementary Fig. 7). Moreover, the p300 Core effector was capable of robustly activating gene expression through a single gRNA at promoters and characterized enhancers (Figs. 5 and 6 and Supplementary Fig. 3). This effector was also capable of potent gene activation when targeted by a single TALE recognition site (Fig. 6 and Supplementary Fig. 5). Notably, certain loci appear to be less Nature America, Inc. All rights reserved.responsive to transactivation by the localization of a single dCas9p300 Core effector to a corresponding regulatory region (Fig. 5e-g and Supplementary Fig. 3). This does not appear to be related to chromatin accessibility based on ENCODE data (Supplementary Fig. 8), but may be related to transcription factor occupancy or competition (including endogenous p300; Supplementary Figs. 3 and 8), gRNA and genetic composition<sup46</sup, transcription start site proximity<sup14</sup, and/or the underlying local epigenetic circuitry, none of which are mutually exclusive. These factors are relevant to the function of all programmable DNAbinding proteins and their effects may be mitigated by the use of optimal gRNAs.",
+      "start_char": 32568,
+      "end_char": 34158,
+      "chunk_id": "648557a0-5c08-4920-8a9d-c3f26a427d9b",
+      "passage_id": null,
+      "answer_start_char": 32568,
+      "answer_end_char": 34158,
+      "score": 0.8042904998190046
+    },
+    {
+      "source_id": "05fc98bc-d686-495d-9790-d61c63a14a74",
+      "citation_number": 5,
+      "cited_text": "activity better than did direct VP64 fusion to the N-terminus of dCas9. dCas9-VP64+MCP-",
+      "start_char": 1089,
+      "end_char": 1176,
+      "chunk_id": "aa277aeb-4300-4747-9b97-ee01d9b8b28a",
+      "passage_id": null,
+      "answer_start_char": 1089,
+      "answer_end_char": 1590,
+      "score": 0.8071143474679763
+    },
+    {
+      "source_id": "05fc98bc-d686-495d-9790-d61c63a14a74",
+      "citation_number": 6,
+      "cited_text": "vation by dCas9-VP64 [8, 9] and other CRISPRa systems [30]. Here we focused on 2VP, VP",
+      "start_char": 17600,
+      "end_char": 17687,
+      "chunk_id": "54131e00-0dda-492e-9e87-359bd97855c1",
+      "passage_id": null,
+      "answer_start_char": 17600,
+      "answer_end_char": 18115,
+      "score": 0.8112604429747502
+    },
+    {
+      "source_id": "05fc98bc-d686-495d-9790-d61c63a14a74",
+      "citation_number": 7,
+      "cited_text": "higher activity than 2VP with multiplexed gRNAs (Fig 4C). Further analyses showed that the",
+      "start_char": 18115,
+      "end_char": 18206,
+      "chunk_id": "a8b9d39b-146e-4de0-8b29-c3d5b79c14bc",
+      "passage_id": null,
+      "answer_start_char": 18115,
+      "answer_end_char": 18639,
+      "score": 0.79850976518104
+    },
+    {
+      "source_id": "a0cb286d-389a-46b8-a0df-30890cbc93aa",
+      "citation_number": 8,
+      "cited_text": "Challenge of the dCas9 constructs in a GUS reporter system. To evaluate the dCas9HAT construct, we set up a surrogate reporter system based on regulation of GUS reporter gene expression. We used the 170-bp minimal truncated version of the Glycine max ubiquitin promoter, herein designated GmUcesMin28,29. We selected two sgRNAs near the transcription start site (TSS) of GmUcesMin (Fig. 2A, Table S2). The efficiency of dCas9HAT in activating the GUS reporter system was quantified by its enzymatic activity. Seedlings of stably transformed Arabidopsis lines expressing dCas9HAT were incubated with Agrobacterium carrying Ti plasmids to perform transient ectopic expression of GmUcesMin-GUS in combination with the expression of one or two sgRNAs. Significantly elevated enzymatic activity was observed for sgRNA1 (~2.4-fold increase) and sgRNA2 (~2-fold increase), while enzymatic activity was elevated ~1.4-fold for the combination of the two sgRNAs. This result indicates that the expression of dCas9HAT enhanced the expression of the GUS gene in trans when targeted to GmUcesMin promoter. Remarkably, some substantial differences were noted depending on the location of the sgRNA and/or the sgRNA combination. Previous studies have suggested that the distance of the sgRNA from the TSS might influence the transcriptional regulation of the gene of interest. While some studies have reported that a specific sgRNA binding distance from the TSS (−50 bp to +300 bp) corresponds to higher target gene expression30,31, others have pointed out that dCas9 might generate steric hindrance and thus interfere with transcriptional machinery activities21,32. Regarding the construct GmUcesMin, our two sgRNAs are separated only by 118 bp. Considering the 3D conformation of the DNA, the 30 bp length occupied by the dCas9 on DNA33 and the space taken by the HAT domain, a steric hindrance effect could be responsible for destabilizing locally the protein complexes standing on DNA. Compared to the use of only one sgRNA, this collateral effect might result to lower gene expression rather than improve it.",
+      "start_char": 9069,
+      "end_char": 11168,
+      "chunk_id": "2d081705-fcfd-4c6e-ac65-f84671376708",
+      "passage_id": null,
+      "answer_start_char": 9069,
+      "answer_end_char": 11168,
+      "score": 0.7683675338719791
+    },
+    {
+      "source_id": "05fc98bc-d686-495d-9790-d61c63a14a74",
+      "citation_number": 9,
+      "cited_text": "https://doi.org/10.1371/journal.pone.0270008.g002",
+      "start_char": 19707,
+      "end_char": 19757,
+      "chunk_id": "6942a6be-e484-4475-8db7-b9278d02ad30",
+      "passage_id": null,
+      "answer_start_char": 19707,
+      "answer_end_char": 20224,
+      "score": 0.7740010920037659
+    },
+    {
+      "source_id": "05fc98bc-d686-495d-9790-d61c63a14a74",
+      "citation_number": 10,
+      "cited_text": "plexing in exogenous genes by utilizing the miniCMV promoter reporter, which has only one",
+      "start_char": 26773,
+      "end_char": 26863,
+      "chunk_id": "e04fdbca-06a6-4b25-b3be-60a9cf07ab59",
+      "passage_id": null,
+      "answer_start_char": 26773,
+      "answer_end_char": 27289,
+      "score": 0.8290458975263206
+    },
+    {
+      "source_id": "05fc98bc-d686-495d-9790-d61c63a14a74",
+      "citation_number": 11,
+      "cited_text": "regarding the incorporation of the DNA demethylase Tet1-CD for CRISPRa using the SunTag",
+      "start_char": 26268,
+      "end_char": 26356,
+      "chunk_id": "fe95eab5-2d80-4b2f-a51a-11628ecbde78",
+      "passage_id": null,
+      "answer_start_char": 26268,
+      "answer_end_char": 26773,
+      "score": 0.8026219967381323
+    },
+    {
+      "source_id": "58356661-e527-4bea-815b-0bbba8026200",
+      "citation_number": 12,
+      "cited_text": "We present a method for the efficient conversion of primary human fibroblasts into bona fide iPSCs based entirely on the transcriptional control of endogenous genes by CRISPRa. Acti-vation of core reprogramming factor promoters alone was sufficient but inefficient, whereas additional targeting of a common Alu element brought the efficiency close to established reprogramming methods (Supplementary Fig. 5c). The more complex activator domains did not improve reprogramming efficiency, which mirrors previously reported results for gene activation33, and suggests that the benefit of simple additional fused activation domains may be limited.",
+      "start_char": 33176,
+      "end_char": 33820,
+      "chunk_id": "3106ecc6-f937-43c7-bc4d-ecb5693d95d8",
+      "passage_id": null,
+      "answer_start_char": 33176,
+      "answer_end_char": 33820,
+      "score": 0.7059665393571922
+    }
+  ]
+}

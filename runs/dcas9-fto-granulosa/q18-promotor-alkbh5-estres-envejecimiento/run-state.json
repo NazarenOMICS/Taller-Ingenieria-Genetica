@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q18-promotor-alkbh5-estres-envejecimiento",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento",
+    "goal":  "Evaluar qué se sabe del promotor de ALKBH5 bajo estrés oxidativo o envejecimiento y cuánto de ese mecanismo puede extrapolarse a FTO por homología funcional.",
+    "notebook_title":  "ALKBH5 promoter under stress and aging (q18)",
+    "dashboard":  "ALKBH5 promoter under stress and aging",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T18:34:40",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers",
+    "queries_file":  "C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q18-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\questions-q18-promotor-alkbh5-estres-envejecimiento.json",
+    "notebook_id":  "2afd3883-300f-4a23-b1c5-30e8e9567722",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\tmp-sources-q18-promotor-alkbh5-estres-envejecimiento.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q18-promotor-alkbh5-estres-envejecimiento\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento\" -Goal \"Evaluar qué se sabe del promotor de ALKBH5 bajo estrés oxidativo o envejecimiento y cuánto de ese mecanismo puede extrapolarse a FTO por homología funcional.\" -QueriesFile \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q18-queries.json\" -NotebookTitle \"ALKBH5 promoter under stress and aging (q18)\" -Dashboard \"ALKBH5 promoter under stress and aging\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"2afd3883-300f-4a23-b1c5-30e8e9567722\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

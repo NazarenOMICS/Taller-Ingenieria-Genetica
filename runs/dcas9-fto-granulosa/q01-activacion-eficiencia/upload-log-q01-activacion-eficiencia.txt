@@ -1,0 +1,9 @@
+[10:24:18] Starting parallel upload: 7 PDFs, 4 workers
+[10:24:29] OK - daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf
+[10:24:32] OK - joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf
+[10:24:32] OK - jere_2018_human_pluripotent_reprogramming_with_crispr_activators.pdf
+[10:24:32] OK - kenly_2020_prevention_of_tumor_risk_associated_with_the_reprogramming.pdf
+[10:24:34] OK - kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf
+[10:24:37] OK - mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf
+[10:24:38] OK - tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf
+[10:24:38] DONE: 7 OK, 0 FAIL (of 7)

@@ -1,0 +1,152 @@
+{
+  "answer": "Based on the provided sources, **heart tissue (myocardium and cardiomyocytes)** is the primary non-granulosa tissue where oxidative stress has been reported to reduce FTO expression.\n\nThe sources provide the following specific evidence regarding this downregulation:\n\n*   **Sepsis and Endotoxemia:** In animal models of endotoxemia and sepsis, as well as in cardiomyocyte cellular experiments, oxidative stress is associated with **reduced FTO expression in cardiomyocytes** [1-3]. This suppression of FTO leads to a pronounced increase in global m6A levels, which correlates with myocardial inflammation, contractile failure, and the upregulation of inflammatory cytokines like IL-6 and TNF-α [1-3].\n*   **Hypoxia and Heart Failure:** FTO expression has also been reported as **decreased in failing mammalian hearts and hypoxic cardiomyocytes** [4]. In these contexts, the downregulation of FTO is associated with impaired contractility, disrupted calcium homeostasis, and elevated global m6A levels [4, 5].\n*   **Cardioprotective Role:** The sources emphasize that FTO normally exerts cardioprotective effects under stress—such as ischemia-reperfusion—by stabilizing transcripts for anti-apoptotic and calcium-handling proteins [5, 6]. Consequently, its depletion or suppression by persistent oxidative stress exacerbates cardiac injury and promotes cardiomyocyte loss through pathways like ferroptosis and apoptosis [1, 2, 7, 8].\n\nWhile the sources also discuss FTO in other tissues, the effects of oxidative stress on its expression vary or are not as explicitly linked to a reduction in the provided excerpts:\n*   **Lung Tissue:** Conversely, in some lung injury models, obesity-induced **upregulation** of FTO has been reported to aggravate LPS-induced acute lung injury [9].\n*   **Brain Tissue:** While FTO is downregulated in the **hippocampus** in models of depression [10], the sources primarily focus on the effects of FTO *depletion* in the brain (such as increased neuronal damage in stroke) rather than explicitly stating that oxidative stress is the agent that reduces its expression in that specific tissue [11, 12].",
+  "conversation_id": "71ccdea8-4b06-401d-b7b0-6d6782067a2a",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 1,
+      "cited_text": "Conversely, impaired m6A demethylation exacerbates septic cardiac dysfunction. In endotoxemia animal models and cardiomyocyte cellular experiments, reduced FTO expression in cardiomyocytes leads to elevated m6A levels and aberrant upregulation of inflammatory mediators such as IL-6, TNF-α, and interleukin-10 (IL-10), ultimately contributing to myocardial inflammation and contractile failure [72]. These observations support a model in which m6A dysregulation actively participates in sepsis progression by amplifying inflammatory signaling.",
+      "start_char": 35789,
+      "end_char": 36333,
+      "chunk_id": "d661e2ea-cbe2-4bc0-878f-469aa5f030b9",
+      "passage_id": null,
+      "answer_start_char": 35789,
+      "answer_end_char": 36333,
+      "score": 0.7587257379060717
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 2,
+      "cited_text": "At the metabolic signaling level, LPS suppresses the peroxisome proliferator-activated receptor-α (PPAR–PGC-1α) pathway, impairing fatty acid transport into mitochondria and promoting lipid accumulation and lipotoxicity [119–122]. In septic mouse hearts, global m6A RNA methylation is increased, concomitant with reduced expression of the demethylase FTO, an enzyme closely linked to metabolic regulation [72]. These epitranscriptomic alterations correlate with marked upregulation of inflammatory cytokine genes (including IL-6, TNF-α, and IL-1β) and deterioration of left ventricular function in this animal model [72]. Consistently, in LPS-treated H9C2 cardiomyocyte cellular models, a similar pattern is observed, characterized by elevated m6A levels, enhanced inflammatory gene expression, and downregulation of FTO [72].",
+      "start_char": 63661,
+      "end_char": 64488,
+      "chunk_id": "ce165404-5244-4260-b1c0-c8de94cf5cbb",
+      "passage_id": null,
+      "answer_start_char": 63661,
+      "answer_end_char": 64488,
+      "score": 0.7422485633410718
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 3,
+      "cited_text": "[71] D. Jian, Y. Wang, L. Jian, H. Tang, L. Rao, K. Chen, Z. Jia, W. Zhang, Y. Liu, X. Chen, X. Shen, C. Gao, S. Wang, M. Li, METTL14 aggravates endothelial inflammation and atherosclerosis by increasing FOXO1 N6-methyladeosine modifications, Theranostics 10 (20) (2020) 8939–8956, https://doi.org/10.7150/ thno.45178.",
+      "start_char": 124425,
+      "end_char": 124744,
+      "chunk_id": "a80d231b-0c51-4868-9d2a-c68aa24620b4",
+      "passage_id": null,
+      "answer_start_char": 124425,
+      "answer_end_char": 125057,
+      "score": 0.7879536826177089
+    },
+    {
+      "source_id": "6ef39c58-e00f-4a7e-9e27-a6f8a7fa1cd9",
+      "citation_number": 4,
+      "cited_text": "closely related to the occurrence and progression of cardiovascular diseases, such as cardiac hypertrophy, heart failure, ischemic heart disease and pulmonary hypertension224,225. For example, the level of m6A methylation was significantly increased on transcripts involved in regulating kinases and intracellular signaling pathways in cardiomyocyte upon hypertrophic stimulation, and overexpression of METTL3 has been shown to promote cardiomyocyte hypertrophy both in vitro and in vivo226. In line with this finding, FTO was uncovered to be decreased in failing mammalian hearts and hypoxic cardiomyocytes, and cardiomyocyte restricted knockout of FTO showed an impaired cardiac function in mice, via selectively demethylating and enhancing the stability of Serca2a mRNA37,227. One more study showed that m6A modification level was increased in hypoxia/reoxygenation (H/R) treated cardiomyocytes and ischemia/reperfusion (I/R)-treated mice heart, and deletion of METTL3 enhanced autophagic flux and inhibited apoptosis in H/R-treated cardiomyocytes dependent on TFEB, a master regulator of lysosomal biogenesis and autophagy228. Furthermore, METTL14 expression was indentified to be upregulated in calcific arteries and primary human artery smooth muscle cell (HASMC) induced by indoxyl sulfate, which selectively methylates vascular osteogenic transcripts229. In addition, total Panax notoginseng saponin (TPNS) was recently found to inhibit the intimal hyperplasia and reverse the reduced m6A quantity in balloon catheter-injured rat carotid artery, by increasing WTAP expression, indicating that WTAP may serve as a novel biomarker and therapeutic target for arterial stenosis in the future230.",
+      "start_char": 53660,
+      "end_char": 55360,
+      "chunk_id": "23dbcf55-9b6e-4938-903a-b72f712198f4",
+      "passage_id": null,
+      "answer_start_char": 53660,
+      "answer_end_char": 55360,
+      "score": 0.7596418053567069
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 5,
+      "cited_text": "In contrast, the m6A “eraser” FTO exerts cardioprotective effects under ischemic stress. During ischemia–reperfusion injury, FTO stabilizes transcripts encoding anti-apoptotic and calcium-handling proteins such as BCL2 and SERCA2a, thereby reducing cardiomyocyte apoptosis in cellular and animal ischemia–reperfusion models [63]. Consistently, downregulation of FTO in heart failure is associated with elevated global m6A levels, impaired contractility, and disrupted calcium homeostasis in heart failure animal models and human cardiac samples [64]. ALKBH5 has also been implicated in cardiac regeneration. In myocardial infarction animal models, ALKBH5 upregulation reduces m6A modification on YTHDF1 mRNA, enhancing its stability and indirectly promoting translation of the regenerative regulator YAP, which drives cardiomyocyte cell-cycle re-entry, limits scar formation, and improves cardiac function [65].",
+      "start_char": 32862,
+      "end_char": 33774,
+      "chunk_id": "d3cf4177-3ec3-4777-9a54-be4590196959",
+      "passage_id": null,
+      "answer_start_char": 32862,
+      "answer_end_char": 33774,
+      "score": 0.7729124851559598
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 6,
+      "cited_text": "M. Chen et al.                                                                                                                                                                                                                                   Redox Biology 93 (2026) 104178",
+      "start_char": 67031,
+      "end_char": 67303,
+      "chunk_id": "95b9d7c4-0105-4b0a-bd0c-36336cd0cb86",
+      "passage_id": null,
+      "answer_start_char": 67031,
+      "answer_end_char": 68018,
+      "score": 0.7696600681469874
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 7,
+      "cited_text": "At the epitranscriptomic level, m6A modification emerges as a central regulator of mitophagic activity. The m6A demethylase FTO exerts a pronounced cardioprotective effect in SIMD. In cellular and animal sepsis or cardiac injury models, downregulation of FTO aggravates mtROS production, impairs respiratory capacity, and destabilizes membrane potential, whereas FTO overexpression restores mitochondrial homeostasis by targeting BNIP3 and activating mitophagic",
+      "start_char": 55610,
+      "end_char": 56072,
+      "chunk_id": "6d08218f-a209-4b8b-b1c4-867cde6f91b5",
+      "passage_id": null,
+      "answer_start_char": 55610,
+      "answer_end_char": 56384,
+      "score": 0.7627228456088613
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 8,
+      "cited_text": "Gao et al. showed that both Alkbh5 whole-body knockout and myocardial-specific knockout mice were more susceptible to doxorubicin-induced cardiotoxic injury; meanwhile, ALKBH5 deficiency led to mitochondrial damage, including the destruction of mitochondrial architecture, accumulation of ROS, and a decrease of mitochondrial membrane potential, whereas ALKBH5 overexpression rescued mitochondrial dysfunction and attenuated cardiotoxic injury [ 235 ]. In addition, they found that ALKBH5 downregulated the expression of RAS protein activator like 3 (RASAL3) in an m6 A-dependent manner through reduced Rasal3 mRNA lifespan, protecting against doxorubicin-induced myocardial mitochondria dysfunction and cardiotoxic injury. These novel findings contribute to the search for potential intervention targets to lessen the cardiac damage of anthracycline drugs in cancer patients. Consistently, FTO has a protective effect on mitochondria in cardiomyocytes [ 236 ]. FTO depletion elevated m6 A modification levels in BCL2-interacting protein 3 (BNIP3) transcripts and destabilized its mRNA in an m6 A-YTHDF2-dependent manner, thus suppressing mitophagy",
+      "start_char": 80877,
+      "end_char": 82025,
+      "chunk_id": "a3747e26-2f16-45dc-a2fe-0bfa2a6c1a31",
+      "passage_id": null,
+      "answer_start_char": 80877,
+      "answer_end_char": 82025,
+      "score": 0.7429360193029748
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 9,
+      "cited_text": "ETTL3 is upregulated in acute lung injury, exerting influence n cellular damage and inflammation by modulating signaling athways such as ACSL4 [ 202 ]. METTL3 promotes m6 A ethylation of spleen-associated tyrosine kinase (SYK) mRNA, nhancing its stability and transcription, along with SYK hosphorylation and downstream ERK/MEK activation, thereby nducing acute lung injury [ 246 ]. Similarly, METTL3/METTL14- ediated m6 A modification is enriched in ACSL4 or NRF2 , and heir mRNA stability is regulated through an YTHDC1/YTHDF2-ependent pathway [ 202, 247 ]. Inhibition of METTL3 or ETTL14 through knockdown effectively suppresses septic yperlactate-induced ferroptosis in alveolar epithelial cells and itigates lung injury in septic mice. METTL14-catalyzed NLRP3 RNA m6 A methylation enhances the stability of NLRP3 mRNA n an IGF2BP2-dependent manner in acute lung injury [ 248 ]. besity-induced upregulation of FTO inhibits the expression",
+      "start_char": 84811,
+      "end_char": 85751,
+      "chunk_id": "05abc7e1-0707-43ad-aead-6fa003fc508a",
+      "passage_id": null,
+      "answer_start_char": 84811,
+      "answer_end_char": 85751,
+      "score": 0.7381925973770449
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 10,
+      "cited_text": "m6 A RNA methylation plays a significant role in the regulation of mood and stress, with growing evidence linking it to psychiatric phenotypes. FTO was downregulated in the hippocampus of patients with major depressive disorder (MDD) and mouse models of depression [ 198 ]. Suppressing Fto expression in the mouse hippocampus results in depression-like behaviors in adult mice, whereas overexpression of FTO leads to rescue of the depression-like phenotype. Adrenoceptor beta 2 (Adrb2) mRNA, as a target of FTO, can rescue the depression-like behaviors in mice and spine loss induced by hippocampal Fto deficiency.",
+      "start_char": 67372,
+      "end_char": 67987,
+      "chunk_id": "0915beaa-c21b-4bc2-8426-778a1a7bc3ac",
+      "passage_id": null,
+      "answer_start_char": 67372,
+      "answer_end_char": 67987,
+      "score": 0.7811636956959751
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 11,
+      "cited_text": ".3 m6 A-Regulated in Neurological and",
+      "start_char": 64030,
+      "end_char": 64068,
+      "chunk_id": "dc5173d0-a1b8-4151-b7ec-fe6d21cde9dc",
+      "passage_id": null,
+      "answer_start_char": 64030,
+      "answer_end_char": 64887,
+      "score": 0.7836857172707463
+    },
+    {
+      "source_id": "6ef39c58-e00f-4a7e-9e27-a6f8a7fa1cd9",
+      "citation_number": 12,
+      "cited_text": "Under hypoxia conditions, deletion of ALKBH5 has been shown to promote cell proliferation and differentiation in the cerebellum by destroying the balance of RNA m6A methylation in different cell fate determination genes131. FTO was highly expressed in adult neural stem cells (NSCs) and neurons, loss of which not only reduces the proliferation and neuronal differentiation of NSCs, but also results in decreased brain size and body weight, leading to impaired learning and memory127. In the mouse brains, YTHDF1, one of the YTH domaincontaining m6A-modified mRNA binding protein family members, whose mRNA is preferentially increased in the hippocampus, a key region in spatial learning and memory132. YTHDF1 was also found to promote protein translation of targeted m6A-modified transcripts in response to neuronal stimuli in the adult mouse hippocampus, thereby facilitating learning and memory133. Importantly, recent findings showed that YTHDF1 binds to and promotes translation of m6A-modified Robo3.1 transcript, which is essential for midline crossing of spinal commissural axons105. It has been shown that sciatic nerve lesion increases m6A-modified transcripts encoding many regeneration associated genes in the adult mouse dorsal root ganglion (DRG), and inhibition of METTL14 or YTHDF1 dramatically reduces injury induced functional axon regeneration134. Similar results showed that depletion of YTHDF2 inhibits NSCs self-renewal and spatiotemporal generation of neurons in embryonic neocortex, leading to lethality at late embryonic developmental stages135. One in vitro study showed that knockdown of YTHDF1 or YTHDF3 m6A readers, respectively, in cultured primary hippocampal neurons, causes decreased spine head volume and dampened spontaneous excitatory synaptic transmission136. A novel m6A reader PRRC2A (Proline rich coiled-coil 2A) was found to control oligodendrocyte specification and myelination. Conditional ablation of PRRC2A induces marked hypomyelination, cognitive defects in mouse, and decreased lifespan137 (Fig. 3).",
+      "start_char": 24639,
+      "end_char": 26687,
+      "chunk_id": "d5e0aa71-9388-47e7-b691-80aaa5b9e137",
+      "passage_id": null,
+      "answer_start_char": 24639,
+      "answer_end_char": 26687,
+      "score": 0.7445925734137119
+    }
+  ]
+}

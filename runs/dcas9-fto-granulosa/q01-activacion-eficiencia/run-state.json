@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q01-activacion-eficiencia",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q01-activacion-eficiencia",
+    "goal":  "Determinar la eficiencia de activacion transcripcional de dCas9-p300 sobre promotores endogenos humanos y de que depende: posicion de la guia respecto al TSS, numero/combinacion de guias, arquitectura del promotor.",
+    "notebook_title":  "dCas9-p300 activation efficiency (q01)",
+    "dashboard":  "dCas9-p300 activation efficiency",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T16:46:45",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q01-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\questions-q01-activacion-eficiencia.json",
+    "notebook_id":  "d1d79b7f-7751-4fa1-84ac-110bc93c9954",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\tmp-sources-q01-activacion-eficiencia.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q01-activacion-eficiencia\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q01-activacion-eficiencia\" -Goal \"Determinar la eficiencia de activacion transcripcional de dCas9-p300 sobre promotores endogenos humanos y de que depende: posicion de la guia respecto al TSS, numero/combinacion de guias, arquitectura del promotor.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q01-queries.json\" -NotebookTitle \"dCas9-p300 activation efficiency (q01)\" -Dashboard \"dCas9-p300 activation efficiency\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"d1d79b7f-7751-4fa1-84ac-110bc93c9954\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

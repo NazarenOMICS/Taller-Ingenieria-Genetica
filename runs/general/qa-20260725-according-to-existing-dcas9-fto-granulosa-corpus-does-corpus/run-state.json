@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus",
+    "project":  "general",
+    "vault_slug":  "general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus",
+    "goal":  "According to the existing dcas9-fto-granulosa corpus, does Kachanov et al. (2025) provide any direct evidence about why FTO is basally low or repressed (for example promoter state, H3K27ac, chromatin repression, methylation, transcription factor loss), or does it only show technical activation of endogenous FTO with dCas9-p300? Also, which concrete results from that paper most strongly support that activating FTO with dCas9-p300 could plausibly work in our granulosa project, and what key caveats prevent overclaiming transferability?",
+    "notebook_title":  "Corpus - QA 2026-07-25 - according-to-existing-dcas9-fto-granulosa",
+    "dashboard":  "Hermes QA - qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-25T19:29:12",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers",
+    "queries_file":  "C:/Users/Administrator/Documents/EZresearchLM/runs/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does/queries-qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\questions-qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus.json",
+    "notebook_id":  "23960ed1-7a4a-4cda-80ec-ae1055d55897",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\tmp-sources-qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\" -Project \"general\" -VaultSlug \"general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\" -Goal \"According to the existing dcas9-fto-granulosa corpus, does Kachanov et al. (2025) provide any direct evidence about why FTO is basally low or repressed (for example promoter state, H3K27ac, chromatin repression, methylation, transcription factor loss), or does it only show technical activation of endogenous FTO with dCas9-p300? Also, which concrete results from that paper most strongly support that activating FTO with dCas9-p300 could plausibly work in our granulosa project, and what key caveats prevent overclaiming transferability?\" -QueriesFile \"C:/Users/Administrator/Documents/EZresearchLM/runs/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does/queries-qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does.json\" -NotebookTitle \"Corpus - QA 2026-07-25 - according-to-existing-dcas9-fto-granulosa\" -Dashboard \"Hermes QA - qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"23960ed1-7a4a-4cda-80ec-ae1055d55897\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus/QA/summaries/2026-07-25 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q05-fto-m6a-edad",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q05-fto-m6a-edad",
+    "goal":  "Determinar como varian la expresion de FTO y el nivel global de m6A en el ovario y en la granulosa con la edad, y con que tecnicas se cuantifican de forma sitio-especifica.",
+    "notebook_title":  "FTO m6A vs age ovary (q05)",
+    "dashboard":  "FTO m6A vs age ovary",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T16:27:32",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q05-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\questions-q05-fto-m6a-edad.json",
+    "notebook_id":  "dc4c4ee0-31fa-4a55-bf26-101bc3f90e8e",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\tmp-sources-q05-fto-m6a-edad.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q05-fto-m6a-edad\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q05-fto-m6a-edad\" -Goal \"Determinar como varian la expresion de FTO y el nivel global de m6A en el ovario y en la granulosa con la edad, y con que tecnicas se cuantifican de forma sitio-especifica.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q05-queries.json\" -NotebookTitle \"FTO m6A vs age ovary (q05)\" -Dashboard \"FTO m6A vs age ovary\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"dc4c4ee0-31fa-4a55-bf26-101bc3f90e8e\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

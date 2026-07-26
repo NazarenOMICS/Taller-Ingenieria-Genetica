@@ -1,0 +1,581 @@
+﻿{
+    "date":  "2026-07-24",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.20944/preprints202604.1155.v1",
+                        "title":  "5mC and 6mA DNA Methylation in the Fungal Kingdom: From Genome Defense to Epigenetic Regulation",
+                        "doi":  "10.20944/preprints202604.1155.v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/epigenomes10020037",
+                        "title":  "5mC and 6mA DNA Methylation in the Fungal Kingdom: From Genome Defense to Epigenetic Regulation",
+                        "doi":  "10.3390/epigenomes10020037",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:5mc and 6ma dna methylation in eukaryotic genomes",
+                        "title":  "5mC and 6mA DNA methylation in eukaryotic genomes",
+                        "doi":  "10.1016/j.tibs.2026.01.002",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42110184",
+                        "title":  "DNA Methylation: A Key Epigenetic Regulator of Cardiovascular Diseases.",
+                        "doi":  "10.31083/rcm46194",
+                        "pmid":  "42110184",
+                        "pmcid":  "PMC13155980",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf",
+                        "notebook_source_id":  "4532c491-9e8d-4838-91bf-154d10224296",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42212370",
+                        "title":  "Epigenetic orchestration of scar formation: Therapeutic potential of targeting DNA methylation and non‑coding RNAs in cutaneous fibrosis (Review).",
+                        "doi":  "10.3892/mmr.2026.13922",
+                        "pmid":  "42212370",
+                        "pmcid":  "PMC13261338",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42100560",
+                        "title":  "LINE-1 retrotransposons: Multifaceted functions and regulatory mechanisms in health and disease.",
+                        "doi":  "10.1016/j.omtn.2026.102934",
+                        "pmid":  "42100560",
+                        "pmcid":  "PMC13147398",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:methylation centric epigenetic regulation in dilated cardiomyopathy mechanisms metabolic interplay and translational potential",
+                        "title":  "Methylation-centric epigenetic regulation in dilated cardiomyopathy: mechanisms, metabolic interplay, and translational potential.",
+                        "doi":  "10.3389/fcvm.2026.1785320",
+                        "pmid":  "42199200",
+                        "pmcid":  "PMC13199325",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+                        "notebook_source_id":  "ade7df9b-7b9a-47fe-8690-9d3afa892e77",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41634788",
+                        "title":  "Targeting epigenetic regulators to boost T cell immunotherapy against cancer.",
+                        "doi":  "10.1186/s13578-026-01533-y",
+                        "pmid":  "41634788",
+                        "pmcid":  "PMC12958680",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\xiao_2026_targeting_epigenetic_regulators_to_boost_t_cell_immunotherapy.pdf",
+                        "notebook_source_id":  "e5757b17-e054-4213-80e3-764b801f2cd3",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the complex role of methylation in regulating vascular smooth muscle cell phenotypic states in vascular remodeling and atherosclerosis",
+                        "title":  "The Complex Role of Methylation in Regulating Vascular Smooth Muscle Cell Phenotypic States in Vascular Remodeling and Atherosclerosis",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC13296941",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13154011",
+                        "title":  "The role of epigenetic modifications in cancer-associated fibroblasts.",
+                        "doi":  "10.3389/fmed.2026.1780734",
+                        "pmid":  "42110420",
+                        "pmcid":  "PMC13154011",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+                        "notebook_source_id":  "08423cc7-f996-4140-89f2-313c58efa845",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fendo.2025.1591152",
+                        "title":  "DNA methylation and demethylation in adipocyte biology: roles of DNMT and TET proteins in metabolic disorders",
+                        "doi":  "10.3389/fendo.2025.1591152",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\lijiao_2025_dna_methylation_and_demethylation_in_adipocyte_biology_roles.pdf",
+                        "notebook_source_id":  "49f4c626-d87b-4aa8-9034-d777f5fe7803",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/dietetics4030030",
+                        "title":  "Nutrition and DNA Methylation: How Dietary Methyl Donors Affect Reproduction and Aging",
+                        "doi":  "10.3390/dietetics4030030",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:38978023",
+                        "title":  "Epigenetic control of skeletal muscle atrophy.",
+                        "doi":  "10.1186/s11658-024-00618-1",
+                        "pmid":  "38978023",
+                        "pmcid":  "PMC11229277",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\liang_2024_epigenetic_control_of_skeletal_muscle_atrophy.pdf",
+                        "notebook_source_id":  "602d122e-7f48-485d-9e25-c0a07e39d679",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:38726308",
+                        "title":  "Epigenetic modifications of DNA and RNA in Alzheimer\u0027s disease.",
+                        "doi":  "10.3389/fnmol.2024.1398026",
+                        "pmid":  "38726308",
+                        "pmcid":  "PMC11079283",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\martinez_feduchi_2024_epigenetic_modifications_of_dna_and_rna_in_alzheimer.pdf",
+                        "notebook_source_id":  "6ad513c1-2578-4673-b7bd-f55e8c0a1bdb",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:39727952",
+                        "title":  "Epigenetics of Homocystinuria, Hydrogen Sulfide, and Circadian Clock Ablation in Cardiovascular-Renal Disease.",
+                        "doi":  "10.3390/cimb46120824",
+                        "pmid":  "39727952",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:37762200",
+                        "title":  "Emerging Roles for DNA 6mA and RNA m6A Methylation in Mammalian Genome.",
+                        "doi":  "10.3390/ijms241813897",
+                        "pmid":  "37762200",
+                        "pmcid":  "PMC10531503",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic regulation in the tumor microenvironment molecular mechanisms and therapeutic targets",
+                        "title":  "Epigenetic regulation in the tumor microenvironment: molecular mechanisms and therapeutic targets",
+                        "doi":  "10.1038/s41392-023-01480-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\jing_2023_epigenetic_regulation_in_the_tumor_microenvironment_molecular_mechanisms.pdf",
+                        "notebook_source_id":  "2c33e7e6-e974-4c07-a4df-36dfd9d1ce77",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fonc.2023.1290330",
+                        "title":  "Epigenetic targeting of autophagy for cancer: DNA and RNA methylation.",
+                        "doi":  "10.3389/fonc.2023.1290330",
+                        "pmid":  "38148841",
+                        "pmcid":  "PMC10749975",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\lin_2023_epigenetic_targeting_of_autophagy_for_cancer_dna_and.pdf",
+                        "notebook_source_id":  "afb679bc-67cc-4b30-900e-bf65b4cbeab9",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-023-01528-y",
+                        "title":  "Methylation across the central dogma in health and diseases: new therapeutic strategies",
+                        "doi":  "10.1038/s41392-023-01528-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+                        "notebook_source_id":  "15ba78d4-fe61-4dcb-84dc-a87dcb774807",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1155/2023/9785630",
+                        "title":  "Retracted: ZNF354C Mediated by DNMT1 Ameliorates Lung Ischemia-Reperfusion Oxidative Stress Injury by Reducing TFPI Promoter Methylation to Upregulate TFPI",
+                        "doi":  "10.1155/2023/9785630",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:an evaluation of multitask transfer learning methods in identifying 6ma and 5mc methylation sites of rice and maize",
+                        "title":  "An Evaluation of Multitask Transfer Learning Methods in Identifying 6mA and 5mC Methylation Sites of Rice and Maize",
+                        "doi":  "10.2139/ssrn.4178244",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:comprehensive analysis of dna methylation regulator dna methyltransferase dnmt family and ten eleven translocation tet enzymes family in pan cancer",
+                        "title":  "Comprehensive Analysis of DNA Methylation Regulator DNA Methyltransferase (DNMT) Family and Ten-Eleven-Translocation (TET) Enzymes Family in Pan-Cancer",
+                        "doi":  "10.21203/rs.3.rs-154338/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\cheng_2021_comprehensive_analysis_of_dna_methylation_regulator_dna_methyltransferase.pdf",
+                        "notebook_source_id":  "c748fc65-9f84-4bf3-a359-e7b78a4ac756",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:methylation multiplicity and its clinical values in cancer",
+                        "title":  "Methylation multiplicity and its clinical values in cancer",
+                        "doi":  "10.1017/erm.2021.4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\xiaofeng_2021_methylation_multiplicity_and_its_clinical_values_in_cancer.pdf",
+                        "notebook_source_id":  "e2f25cde-c766-4edc-a410-b4645d0ad4ba",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7287/peerj.12146v0.1/reviews/1",
+                        "title":  "Peer Review #1 of \"DNMT family induces down-regulation of NDRG1 via DNA methylation and clinicopathological significance in gastric cancer (v0.1)\"",
+                        "doi":  "10.7287/peerj.12146v0.1/reviews/1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7287/peerj.12146v0.1/reviews/2",
+                        "title":  "Peer Review #2 of \"DNMT family induces down-regulation of NDRG1 via DNA methylation and clinicopathological significance in gastric cancer (v0.1)\"",
+                        "doi":  "10.7287/peerj.12146v0.1/reviews/2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:peer review 2 of dnmt family induces down regulation of ndrg1 via dna methylation and clinicopathological significance in gastric cancer v0 2",
+                        "title":  "Peer Review #2 of \"DNMT family induces down-regulation of NDRG1 via DNA methylation and clinicopathological significance in gastric cancer (v0.2)\"",
+                        "doi":  "10.7287/peerj.12146v0.2/reviews/2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7150/ijbs.61439",
+                        "title":  "The role of RNA m\u003csup\u003e5\u003c/sup\u003eC modification in cancer metastasis",
+                        "doi":  "10.7150/ijbs.61439",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\qiaofeng_2021_the_role_of_rna_m_sup_5_sup.pdf",
+                        "notebook_source_id":  "a77a170c-5ec9-4819-ba37-3e670e36761c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:aging mechanisms a perspective mostly from i drosophila i",
+                        "title":  "Aging mechanisms—A perspective mostly from \u003ci\u003eDrosophila\u003c/i\u003e",
+                        "doi":  "10.1002/ggn2.10026",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12943-020-01197-3",
+                        "title":  "Epigenetic regulation in human cancer: the potential role of epi-drug in cancer therapy",
+                        "doi":  "10.1186/s12943-020-01197-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\yuanjun_2020_epigenetic_regulation_in_human_cancer_the_potential_role.pdf",
+                        "notebook_source_id":  "2d6b839a-e477-47a7-9d9c-ea7a1c819a66",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mapping the epigenetic modifications of dna and rna",
+                        "title":  "Mapping the epigenetic modifications of DNA and RNA",
+                        "doi":  "10.1007/s13238-020-00733-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\lin_yong_2020_mapping_the_epigenetic_modifications_of_dna_and_rna.pdf",
+                        "notebook_source_id":  "f4bce619-5f46-43d3-86b7-2614771e16c1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of dna methylation in the pathogenesis of type 2 diabetes mellitus",
+                        "title":  "The role of DNA methylation in the pathogenesis of type 2 diabetes mellitus",
+                        "doi":  "10.1186/s13148-020-00896-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\sanabil_2020_the_role_of_dna_methylation_in_the_pathogenesis.pdf",
+                        "notebook_source_id":  "e8144c6d-41fe-45fa-b95f-dedf7737b3f8",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.2337/dbi18-0057",
+                        "title":  "Functional Implications of DNA Methylation in Adipose Biology",
+                        "doi":  "10.2337/dbi18-0057",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1262/jrd.2016-046",
+                        "title":  "Regulation of CpG methylation by Dnmt and Tet in pluripotent stem cells",
+                        "doi":  "10.1262/jrd.2016-046",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\takuro_2016_regulation_of_cpg_methylation_by_dnmt_and_tet.pdf",
+                        "notebook_source_id":  "032bf1ca-22e5-492e-bb56-dc4378b278d6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13059-014-0406-2",
+                        "title":  "DNMT inhibitors reverse a specific signature of aberrant promoter DNA methylation and associated gene silencing in AML",
+                        "doi":  "10.1186/s13059-014-0406-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\\kirstin_2014_dnmt_inhibitors_reverse_a_specific_signature_of_aberrant.pdf",
+                        "notebook_source_id":  "dae84bbd-bf32-488d-a970-58fe1db8df62",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mechanism and function of oxidative reversal of dna and rna methylation",
+                        "title":  "Mechanism and Function of Oxidative Reversal of DNA and RNA Methylation",
+                        "doi":  "10.1146/annurev-biochem-060713-035513",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/springerreference_100681",
+                        "title":  "Methylation of DNA (DNMT)",
+                        "doi":  "10.1007/springerreference_100681",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

@@ -1,0 +1,2458 @@
+{
+  "slug": "q09-marcadores-senescencia",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "Accelerated Vascular Aging in Women with Prior Preeclampsia: A Review of Epidemiology, Pathophysiological Mechanisms, and Geroprotective Strategies",
+      "authors": "Yeo M; Kwak D; Kim S; Choi A; Kwak M; Yang J",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC12986434",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12986434/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12986434/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a4/36/PMC12986434.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "PMC12986434",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Anti-Müllerian hormone induces a reversible quiescence-associated secretory phenotype in preantral follicles†.",
+      "authors": "Meinsohn MC; Cleverdon J; Mermin-Bunnell AM; de Mattos K; May P; Kashiwagi A; Stavely R; Nagykery N; Saunders D; Tsui EL; Chauvin M; Laronda MM; Pépin D",
+      "year": 2026,
+      "doi": "10.1093/biolre/ioaf230",
+      "pmid": "41074767",
+      "pmcid": "PMC12643070",
+      "abstract": "Anti-Müllerian hormone is a factor secreted by granulosa cells of growing follicles that regulates many aspects of ovarian function, including primordial follicle activation and early follicle development through inhibitory feedback. Treatment with exogenous anti-Müllerian hormone at supraphysiological levels can inhibit follicular development and prevent ovulation in mice, rats, and cats. Single-cell transcriptomic analysis of ovaries from mice treated postnatally with anti-Müllerian hormone identified a distinct quiescence signature in granulosa cells. Herein, we further characterized the anti-Müllerian hormone -induced quiescent cell state and drew parallels to developmental senescence by describing a reversible \"quiescence-associated secretory phenotype.\" This state was characterized by the induction of several hallmarks of senescence, including inhibition of proliferation (reduced KI67), upregulation of markers of senescence (Cdkn1a, Fn1, Cebpb, Timp3), and chemokines and their receptors (Cxcl14, Cxcl12, Ccl12, Ccl21, Cxcr2). However, quiescence-associated secretory phenotype did not recapitulate other senescence hallmarks, such as activation of beta-galactosidase activity or permanent exit from the cell cycle. Similar to classical senescence, we found that anti-Müllerian hormone induced quiescence-associated secretory phenotype, in part, through the upregulation of cyclin-dependent kinase inhibitors (Cdkn1a, Cdkn1b, and Cdkn1c) in granulosa cells and oocytes of mouse and human ovaries. Finally, we showed that the quiescence-associated secretory phenotype state could be reversed within a month of discontinuing anti-Müllerian hormone treatment. This recovery was marked by the return of growing primary, secondary, and antral follicles. In conclusion, these data suggest that anti-Müllerian hormone can pause follicle development by inducing quiescence-associated secretory phenotype, a reversible senescent-like state, which may benefit fertility preservation.",
+      "url": "https://europepmc.org/articles/PMC12643070",
+      "pdf_url": "https://europepmc.org/articles/PMC12643070?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "PMID:41074767",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DPHD from &lt;i&gt;Curcuma comosa&lt;/i&gt; Enhances the Expansion and Osteogenic Differentiation of Human Umbilical Cord-Derived Mesenchymal Stem Cells While Attenuating Senescence.",
+      "authors": "Boonmuen N; Paing MM; Sutjarit N; Kheolamai P; Manochantr S; Tantrawatpan C; Chaichompoo W; Suksamrarn A; Tantikanlayaporn D",
+      "year": 2026,
+      "doi": "10.1021/acsomega.5c08638",
+      "pmid": "42255595",
+      "pmcid": "PMC13234631",
+      "abstract": "Osteoporosis and other degenerative bone disorders are major health burdens, and current therapies are limited in restoring bone regeneration. Human umbilical cord-derived mesenchymal stem cells (hUC-MSCs) offer promise for regenerative medicine, but their clinical potential is restricted by replicative senescence during ex vivo expansion. In this study, we examined the effects of (3<i>R</i>)-1,7-diphenyl-(4<i>E</i>,6<i>E</i>)-4,6-heptadien-3-ol (DPHD), a diarylheptanoid derivative from <i>Curcuma comosa</i> Roxb, on hUC-MSC proliferation, senescence, migration, and osteogenic differentiation. Treatment with DPHD (2.5-5 μM) enhanced cell viability and proliferation while preserving MSC-specific marker expression and stemness-related genes (<i>NANOG</i>, <i>OCT4</i>, <i>SOX2</i>). DPHD significantly reduced senescence-associated β-galactosidase activity and reduced the expression levels of the cell cycle regulators p16 and p21, indicating an antisenescent effect. Moreover, DPHD suppressed the secretion of cytokines associated with the Senescence-Associated Secretory Phenotype (SASP), including IL-1β, IL-6, and MCP-1, and attenuated H<sub>2</sub>O<sub>2</sub> induced ROS accumulation, confirming its antioxidant property. Furthermore, DPHD promoted osteogenic differentiation, as shown by increased ALP activity, calcium deposition, and upregulation of osteogenic marker genes. Mechanistically, DPHD upregulated Wnt/β-catenin-associated genes during proliferation (<i>CTNNB1</i>, <i>C-MYC</i>, <i>AXIN2</i>, <i>CCND1</i>) and enhanced osteogenic gene expression during differentiation (<i>RUNX2</i>, <i>ALP</i>, <i>COL1A1</i>), while inhibition of Wnt/β-catenin signaling suppressed these increases. Therefore, both the proliferative and osteogenic effects of DPHD are at least partly mediated through activation of the Wnt/β-catenin pathway. Collectively, these findings suggest that DPHD enhances the expansion and osteogenic potential of hUC-MSCs by attenuating cellular senescence while preserving their functional properties, underscoring its potential as a natural compound for improving MSC-based therapies in regenerative medicine.",
+      "url": "https://europepmc.org/articles/PMC13234631",
+      "pdf_url": "https://europepmc.org/articles/PMC13234631?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/00/8b/PMC13234631.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "PMID:42255595",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Embryonic stem cell-derived extracellular vesicles alleviate ovarian dysfunction.",
+      "authors": "Li X; Ma R; Zhao M; Guo Y; Hu X; Liu J; Yu H; Li Z; Du X; Liu N",
+      "year": 2026,
+      "doi": "10.1016/j.mad.2026.112186",
+      "pmid": "42034223",
+      "pmcid": null,
+      "abstract": "Premature ovarian insufficiency (POI) causes irreversible follicular depletion and infertility, and current treatments do not reliably preserve fertility after gonadotoxic chemotherapy. Recent work suggests extracellular vesicles from embryonic stem cells (ESC-EVs) can promote tissue regeneration, but it is unknown whether ESC-EVs can prevent or reverse POI, and which cellular programs they engage to restore ovarian function. Here we tested ESC-EVs in a cyclophosphamide (Cy)-induced POI mouse model. We evaluated ovarian function by monitoring estrous cyclicity, follicle quantification, fertility, histology, fibrosis, and cellular senescence. We isolated granulosa cells for transcriptomic profiling to define ESC-EV-driven molecular changes. ESC-EV treatment restored estrous cyclicity and improved fertility in Cy-induced mice, recovered follicle numbers, reduced stromal fibrosis and senescence marker expression, and activated estrogen‑responsive and gametogenesis gene programs. Granulosa cell transcriptomes showed reversal of Cy‑induced dysregulation of POI‑related genes (Figla, Nobox, Gdf9, Bmp15, Bcl2, Nfe2l2) and modulation of Nrf2 and DNA damage-response pathways. ESC‑EVs rejuvenate the granulosa-oocyte niche by attenuating fibrosis and senescence and reactivating folliculogenic and estrogen‑responsive programs, thereby restoring ovarian function in a chemotherapy‑induced POI model. These results identify ESC‑EVs as a promising cell‑free regenerative approach for fertility preservation and ovarian rejuvenation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42034223/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "42034223",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fisetin Attenuates D-Gal-Induced Ovarian Aging by Modulating Mitophagy via the AMPK/mTOR Pathway.",
+      "authors": "Dong J; Zhu Y; Li Z; Chang Y; Yan X; Zhang C; Niu D",
+      "year": 2026,
+      "doi": "10.3390/antiox15050602",
+      "pmid": "42193224",
+      "pmcid": "PMC13203114",
+      "abstract": "This study aimed to explore the alleviating effects of fisetin, a polyphenolic flavonoid, on ovarian dysfunction in a D-galactose (D-gal)-induced aging mouse model, as well as the underlying mechanisms, using both in vivo and in vitro experiments. Mice were subcutaneously injected with D-gal (100 mg/kg/day) for 60 days to establish the ovarian aging model; during the final 30 days, fisetin (10, 20, 30 mg/kg/day) was given orally. In addition, a senescent model of granulosa cell (GC) was established using D-gal and treated with fisetin. Fisetin supplementation improved ovarian endocrine function and reproductive capacity in aging mice, as reflected by regularized estrous cycles, elevated estradiol levels, and increased embryo numbers. Furthermore, fisetin reduced the number of atretic follicles and the extent of ovarian fibrosis and senescence, while simultaneously restoring the proliferation-apoptosis balance in follicular GCs, as well as alleviating oxidative stress. RNA-sequencing revealed that AMP-activated protein kinase (AMPK)/mechanistic target of rapamycin (mTOR) signaling and mitophagy were involved in the protective effects of fisetin against ovarian aging. Consistently, fisetin treatment promoted mitophagy, accompanied by AMPK/mTOR activation in ovarian tissues and GCs following D-gal exposure. Inhibition of AMPK attenuated the effect of fisetin on mitophagy. Additionally, blockage of mitophagy also reversed the beneficial effects of fisetin on mitochondrial injury, oxidative stress, cell cycle arrest, and cellular senescence in D-gal-induced senescent GCs. These findings indicate that fisetin prevents ovarian aging by suppressing follicular GC oxidative damage and ameliorating cell cycle arrest via activation of AMPK/mTOR-mediated mitophagy, thereby preserving female fertility.",
+      "url": "https://europepmc.org/articles/PMC13203114",
+      "pdf_url": "https://europepmc.org/articles/PMC13203114?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a0/24/PMC13203114.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "PMID:42193224",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Glial cytokine modulation improves sleep and circadian disruption in female SAA knock-in mice of Alzheimer's-related pathology.",
+      "authors": "Macheda T; Hawkins MR; Johnson CE; Lapid MG; Whitlock HR; Shepard SM; Cox MF; Roberts KN; Bytyqi L; Hash HM; El-Ezz OAA; El-Ezz MA; Kohler K; Sunderam S; O'Hara BF; Van Eldik LJ; Murphy MP; Duncan MJ; Bachstetter AD",
+      "year": 2026,
+      "doi": "10.1002/alz.71314",
+      "pmid": "41913059",
+      "pmcid": "PMC13140929",
+      "abstract": "<h4>Introduction</h4>Sleep and circadian disturbances are early Alzheimer's disease (AD) features, yet mechanisms linking amyloid pathology, neuroinflammation, and sex differences remain unclear.<h4>Methods</h4>We longitudinally assessed sleep, circadian rhythms, and cognition in female and male hAPP<sup>SAA</sup> knock-in and control mice from 2 to 19 months using piezoelectric monitoring. Aged mice (15 months) received MW151, a glial cytokine inhibitor (2.5 mg/kg, every other day, 6 weeks).<h4>Results</h4>Only females exhibited midlife reductions in light-phase sleep, increased rhythm fragmentation, and reduced rhythm stability, coinciding with selective reversal learning deficits, effects independent of amyloid or cytokine burden. MW151 increased light-phase sleep and reduced cortical TNF-α without altering amyloid beta (Aβ) accumulation.<h4>Discussion</h4>HAPP<sup>SAA</sup> mice recapitulate female-predominant non-cognitive AD features, including sleep fragmentation and circadian instability preceding memory deficits. Sleep improved within weeks of MW151 treatment without Aβ reductions, implicating neuroinflammatory signaling as a rapid, modifiable driver of AD-related sleep disruption.",
+      "url": "https://europepmc.org/articles/PMC13140929",
+      "pdf_url": "https://europepmc.org/articles/PMC13140929?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e0/a0/PMC13140929.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "PMID:41913059",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Hydroxychloroquine alleviates cyclophosphamide-induced premature ovarian failure by attenuating granulosa cell senescence and modulating the mtDNA-cGAS pathway.",
+      "authors": "Su D; Ma R; Su H; Tan C; Zhu Y; Liu Y; Jiang X; Sun X; Lei T; Zhang M; Lin S; Qi Y; Yang X",
+      "year": 2026,
+      "doi": "10.1038/s41514-026-00359-9",
+      "pmid": "41839900",
+      "pmcid": "PMC13139422",
+      "abstract": "Cyclophosphamide (CTX) is a first-line chemotherapeutic agent for various cancers but is associated with a significant risk of ovarian dysfunction, which may even progress to premature ovarian failure (POF). Granulosa cell senescence is a key phenotypic manifestation of this process. Hydroxychloroquine (HCQ) exerts anti-senescence effects in age-related diseases; however, its efficacy in preventing CTX-induced ovarian damage remains elusive. We aimed to verify the protective effect of HCQ using a CTX-induced POF mouse model. In vitro validation was performed using the human ovarian granulosa cell line (KGN), which was treated with phosphoramide mustard (PM, the active metabolite of CTX) and HCQ. HCQ partially reversed CTX-induced impairment of ovarian function, reduced follicular depletion, and improved serum hormone levels as well as reproductive outcomes. HCQ attenuated CTX-induced cellular senescence, stabilized mitochondrial membranes, decreased reactive oxygen species (ROS) production and mitochondrial DNA (mtDNA) leakage, inhibited the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) signaling pathway, and suppressed the expression of senescence-associated secretory phenotype (SASP) factors. Collectively, our preclinical findings demonstrate that HCQ alleviates CTX-induced POF, which is associated with the mitigation of granulosa cell senescence and modulation of the mtDNA-cGAS signaling pathway.",
+      "url": "https://europepmc.org/articles/PMC13139422",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/21/f2/41514_2026_Article_359.PMC13139422.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/21/f2/PMC13139422.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "PMID:41839900",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ion-coupled transfersome complexes for enhanced transdermal NAD&lt;sup&gt;+&lt;/sup&gt; repletion and mitigation of cellular senescence signatures.",
+      "authors": "Kang S; Wei S; Koo BI; Jo Y; Park J; Xue Y; Ye S; Park J; Hwang BW; Kim JH; Jeong E; Kim J; Kang NG; Jun SH; Ryu D",
+      "year": 2026,
+      "doi": "10.1016/j.mtbio.2026.103218",
+      "pmid": "42170234",
+      "pmcid": "PMC13188140",
+      "abstract": "Nicotinamide adenine dinucleotide (NAD<sup>+</sup>) is a pivotal coenzyme whose decline drives mitochondrial dysfunction and senescence. However, NAD<sup>+</sup> delivery to skin is limited by poor stability and tissue accessibility. Here, we develop an ion-coupled NAD<sup>+</sup> transfersome (ICoN) that stabilizes NAD<sup>+</sup> and enables efficient, non-invasive transdermal delivery. ICoN restores intracellular NAD<sup>+</sup> levels and reverses transcriptomic programs associated with DNA damage, oxidative stress, and senescence <i>in vitro</i>. Functionally, ICoN promotes mitochondrial functional integrity and sustains proliferative and migratory competence under senescent and NAD<sup>+</sup>-depleted conditions. In <i>ex vivo</i> porcine and human skin explants, ICoN achieves superior intratissue NAD<sup>+</sup> penetration while attenuating senescent signatures compared with free NAD<sup>+</sup> or precursors. Integrated high-spatial-resolution transcriptomic profiling and bulk transcriptomic analyses of UV-stressed human skin reveal that ICoN mitigates histological disruption and senescence-associated transcriptional programs at the tissue level. Moreover, ICoN extends lifespan and enhances healthspan in <i>C</i>. <i>elegans</i>. These findings characterize ICoN as a transdermal NAD <sup>+</sup> delivery platform supporting localized NAD <sup>+</sup> restoration in the context of skin aging.",
+      "url": "https://europepmc.org/articles/PMC13188140",
+      "pdf_url": "https://europepmc.org/articles/PMC13188140?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/39/9a/PMC13188140.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "PMID:42170234",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Loss of HuD Sensitizes Neuroblastoma Cells to Palmitate-Driven Stress-Induced Premature Senescence via PPARα Downregulation and FAO Impairment.",
+      "authors": "Ryu S; Seo J; Sim YE; Jung SH; Zhang W; Jeong SM; Lee EK",
+      "year": 2026,
+      "doi": "10.3390/cells15040316",
+      "pmid": "41744759",
+      "pmcid": "PMC12939706",
+      "abstract": "Metabolic stress caused by lipid overload is a key driver of cellular dysfunction in aging and disease. Excess saturated fatty acids such as palmitate impair fatty acid oxidation (FAO), promote lipid accumulation, and increase reactive oxygen species (ROS), ultimately triggering premature senescence-like states. Senescence further amplifies vulnerability by worsening mitochondrial dysfunction, enhancing lipid imbalance, and sustaining pro-inflammatory signaling. Here, we investigated the role of the neuron-enriched RNA-binding protein HuD (ELAVL4) in protecting cells against lipotoxic stress. Using Neuro2a neuroblastoma cells, we found that HuD knockdown suppressed FAO, leading to increased lipid accumulation and elevated ROS following palmitate exposure. HuD-deficient cells also exhibited cytosolic mitochondrial DNA release, IRF phosphorylation, and upregulation of senescence markers. Mechanistically, RNA immunoprecipitation revealed that HuD binds directly to PPARα mRNA, sustaining its expression by competing with the PPARα-targeting microRNAs miR-9-5p and miR-22-3p. Loss of HuD reduced PPARα levels, thereby weakening the FAO capacity and sensitizing cells to palmitate-induced lipotoxic stress. These findings identify a previously unrecognized HuD-PPARα-FAO axis that restrains metabolic stress and senescence. By linking post-transcriptional regulation to lipid metabolism and inflammatory signaling, this work highlights stress-induced premature senescence as both an outcome and a propagator of metabolic dysfunction, providing insight into mechanisms of aging-related vulnerability.",
+      "url": "https://europepmc.org/articles/PMC12939706",
+      "pdf_url": "https://europepmc.org/articles/PMC12939706?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1b/f2/PMC12939706.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "PMID:41744759",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanistic understanding of female reproductive aging based on the chicken model.",
+      "authors": "Zhang J; Gao M; Sun C; Yang N",
+      "year": 2026,
+      "doi": "10.1186/s40104-026-01435-6",
+      "pmid": "42251437",
+      "pmcid": "PMC13242674",
+      "abstract": "Female reproductive aging is a fundamental biological process characterized by a progressive decline in ovarian function, oocyte quality, and endocrine homeostasis, ultimately leading to reduced fertility and increased susceptibility to age-related diseases. Accumulating evidence indicates that reproductive aging is not merely a passive consequence of time but rather a tightly regulated process governed by complex genetic, epigenetic, and metabolic mechanisms. However, mechanistic dissection and translational exploration of female reproductive aging remain constrained by the limited availability of suitable animal models that faithfully recapitulate the human reproductive trajectory. In this review, we synthesize the current advances in understanding the molecular regulatory networks underlying female reproductive aging, with particular emphasis on key signaling pathways, cellular senescence, epigenetic regulation, hormonal control, and mitochondrial dysfunction coupled with oxidative stress. We highlight how the dysregulation of these interconnected mechanisms contributes to ovarian reserve depletion, follicular atresia, and declining oocyte competence across species. We propose that laying hens are a powerful and underutilized model for studying female reproductive aging. Laying hens exhibit a well-defined and highly reproducible reproductive lifespan characterized by distinct phases of peak and declining reproductive output, closely paralleling the age-related fertility decline in women. At the molecular level, hens share conserved regulatory features with humans, including hormonal signaling via the hypothalamic-pituitary-ovarian axis, age-associated oxidative stress, mitochondrial dysfunction, and epigenetic modulation of reproductive tissues. The daily ovulation cycle, measurable reproductive output, and responsiveness to metabolic and environmental interventions in hens further facilitate high-resolution and high-throughput investigations into aging-related mechanisms. By integrating evidence from human studies, mammalian models, and avian systems, this review highlights the translational value of laying hens in elucidating conserved genetic and epigenetic drivers of female reproductive aging. We discuss the current limitations and future perspectives for cross-species validation and multi-omics integration, aiming to facilitate the identification of actionable targets for delaying reproductive aging and improving female reproductive health.",
+      "url": "https://europepmc.org/articles/PMC13242674",
+      "pdf_url": "https://europepmc.org/articles/PMC13242674?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d2/7c/PMC13242674.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "PMID:42251437",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Multi-omics analysis of long COVID (post-COVID-19 condition) reveals persistent mitochondrial dysfunction, suppressed oxidative phosphorylation, and immune dysregulation.",
+      "authors": "Tasoula A; Arif S; Waisberg E; Bauer L; Aslinger E; Guarnieri JW",
+      "year": 2026,
+      "doi": "10.3389/fimmu.2026.1776555",
+      "pmid": "42253978",
+      "pmcid": "PMC13234542",
+      "abstract": "<h4>Introduction</h4>Post-COVID Syndrome (PCS), or long-COVID, is a major public health burden, but its underlying mechanisms remain poorly understood. Because acute SARS-CoV-2 infection induces marked suppression of mitochondrial oxidative phosphorylation (OXPHOS), we investigated whether persistent immunometabolic remodeling is a recurring transcriptional, metabolic, and proteomic feature of PCS.<h4>Methods</h4>We performed an integrated multi-omics analysis of transcriptomic, proteomic, and metabolomic datasets across multiple tissues from Syrian hamster models and human cohorts spanning acute infection through post-acute and PCS stages extending up to 12 months post-infection.<h4>Results</h4>Across species and tissues, we observed overlapping signatures of mitochondrial dysfunction, including sustained suppression of OXPHOS, activation of mitochondrial stress responses, and enrichment of inflammatory pathways. Skeletal muscle exhibited the most pronounced and persistent mitochondrial repression in both hamsters and PCS patient biopsies, consistent with fatigue-associated phenotypes. Hamster heart and kidney tissues also showed persistent OXPHOS suppression, while lung tissue demonstrated prolonged inflammatory signaling despite partial metabolic recovery. In the nervous system, transcriptional profiles revealed region-specific patterns, including persistent cortical mitochondrial repression and partial recovery in sensory-associated regions. Peripheral blood mononuclear cells (PBMCs) transcriptomics and serum metabolic datasets suggested prolonged downregulation of OXPHOS-associated programs up to 12 months post-infection, potentially contributing to persistent immune dysregulation in susceptible individuals with underlying conditions. Longitudinal serum proteomics in PCS patients revealed sustained mitochondrial stress responses, increased oxidative stress signatures, and persistent immune activation at 1 and 6 months post-infection compared to recovered controls.<h4>Discussion</h4>Together, these multi-omics results identify persistent mitochondrial repression and immune dysregulation as recurring features across PCS-associated datasets, providing a framework linking bioenergetic dysfunction with chronic immune activation and supporting future mechanistic and therapeutic investigation.",
+      "url": "https://europepmc.org/articles/PMC13234542",
+      "pdf_url": "https://europepmc.org/articles/PMC13234542?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/32/3e/PMC13234542.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "PMID:42253978",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Multi-target modulation of the homologous recombination pathway by resveratrol promotes DNA damage repair in POI: integrated network pharmacology, molecular dynamics simulation, and experimental validation.",
+      "authors": "Yu Z; Peng W; Li M; Li F; Zhang T; Nong Y; Liu C; Liu W; Ding H; Lv X; Wang J; Zhang X; Liu F; Wu H",
+      "year": 2026,
+      "doi": "10.1097/JS9.0000000000004655",
+      "pmid": "41662145",
+      "pmcid": null,
+      "abstract": "Premature ovarian insufficiency (POI) is characterized by gonadotropin elevation, estrogen deficiency, and follicular loss. Resveratrol (RSV), a natural polyphenol with antioxidant and anti-aging properties, shows therapeutic promise for POI, but its molecular targets and mechanisms remain unclear. Network pharmacology analysis was used to identify overlapping targets of RSV and POI, followed by Gene Ontology (GO)/Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment, protein-protein interaction (PPI) network construction, and hub gene screening. Molecular docking and dynamics simulations were performed to characterize the affinity and binding stability. In vivo, a cyclophosphamide-induced POI rat model was established to evaluate the protective effects of RSV on ovarian morphology and hormone levels. In vitro, a 4-hydroperoxycyclophosphamide-induced granulosa cell model was used to assess DNA damage and homologous recombination (HR) activity through TUNEL staining, Western blotting, and nuclear foci analysis, with RAD51 inhibition applied to verify pathway dependence. About 609 overlapping genes between RSV- and POI-related targets were identified. GO and KEGG enrichment analyses revealed significant involvement in reproductive system development, DNA repair complex, and cellular senescence. PPI and topological analysis identified three core genes - ATM, BRCA1, and RAD51 - significantly enriched in the HR pathway. Molecular docking and dynamic simulations indicate that RSV has a strong affinity and stable binding mode with these three targets. In vivo, RSV ameliorated cyclophosphamide-induced ovarian injury, increasing serum anti-Müllerian hormone levels and secondary follicle counts. Mechanistically, in the POI cell model, RSV upregulated RAD51 and downregulated γH2AX expression, thereby promoting HR pathway activation and DNA double-strand break repair. The protective effect of RSV was abolished by the RAD51 inhibitor RI-1. Immunofluorescence foci analysis further verified that RSV enhanced the recruitment of RAD51 to DNA damage sites and reduced nuclear γH2AX accumulation. This study provides structural and experimental evidence for the target selection, structural optimization, and molecular mechanism of RSV in the treatment of POI.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41662145/",
+      "pdf_url": "https://doi.org/10.1097/js9.0000000000004655",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "41662145",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Rapamycin improves endometriosis‑related infertility involving ovarian senescence via the PPARα/IGFBP2 pathway.",
+      "authors": "Wu Q; Fan J; Sheng Q; He X",
+      "year": 2026,
+      "doi": "10.3892/mmr.2025.13722",
+      "pmid": "41170754",
+      "pmcid": "PMC12587475",
+      "abstract": "Endometriosis‑associated infertility is considered to be linked to cellular senescence. The present study assessed whether rapamycin, a senescence inhibitor, ameliorates endometriosis‑associated infertility by upregulating peroxisome proliferator‑activated receptor α (PPARα) and insulin‑like growth factor‑binding protein 2 (IGFBP2) expression. In the present study, mice were randomized into three groups: Control (CTL), endometriosis (EM) and rapamycin‑treated endometriosis (EM‑R). The expression of senescence‑associated markers at both the tissue and cellular levels were examined as well as the potential mechanisms underlying the effects of rapamycin treatment using ELSA and quantitative PCR. Oxidative stress markers (malondialdehyde and 8‑hydroxy‑2'‑deoxyguanosine) in peritoneal fluid were significantly elevated in the EM group compared with in the EM‑R and CTL groups, whilst antioxidant levels (superoxide dismutase and glutathione peroxidase) were lowest in the EM group. Senescence markers (p16, p21 and γH2AX) and gonadotropin receptors (follicle‑stimulating hormone receptor and luteinizing hormone receptor) were highest and lowest, respectively, in the EM group. Ovarian analysis revealed a higher primordial follicle count but fewer mature follicles in the EM group compared with the EM‑R and CTL groups. Rapamycin treatment increased PPARα and IGFBP2 expression in ovarian tissues, suggesting that its therapeutic effect on endometriosis‑related infertility may involve the PPARα/IGFBP2 pathway by mitigating cellular senescence. Rapamycin may potentially ameliorate follicular development in patients with endometriosis.",
+      "url": "https://europepmc.org/articles/PMC12587475",
+      "pdf_url": "https://europepmc.org/articles/PMC12587475?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/18/c6/PMC12587475.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "PMID:41170754",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Senogenic-senolytic treatment strategies enhance tumor control and can improve survival in murine cancer models: a systematic review.",
+      "authors": "Hamburger ECB; Brigato P; Rosenzweig DH; Haglund L",
+      "year": 2026,
+      "doi": "10.1186/s12885-026-15650-x",
+      "pmid": "41620649",
+      "pmcid": null,
+      "abstract": "BACKGROUND: Cellular senescence can be induced by therapeutic stress, contributing to tumor progression through the senescence-associated secretory phenotype (SASP). Senolytic drugs selectively eliminate senescent cells, offering a potential strategy to mitigate therapy-induced senescence (TIS) and improve cancer treatment outcomes. This review aimed to synthesize preclinical in vivo evidence evaluating the effects of senolytic and senogenic combination therapy on tumor burden and mechanistic outcomes, including senescence, SASP modulation, proliferation, apoptosis, and DNA damage markers. METHODS: Following PRISMA guidelines, a literature search was conducted using PubMed, Scopus, and Web of Science databases from inception to August 2025. Search terms included: “senolytic drugs,” “cellular senescence,” “senescence clearance,” “therapy-induced senescence,” “senomorphic drugs,” “chemotherapy,” “cancer treatment,” “in vivo,” and “xenograft,” “PARP inhibitor,” “CDK4/6 inhibitor,” “BCL-2 inhibitor,” “BH3-mimetic,” and “BET inhibitor”. Eligible studies included in vivo cancer models evaluating senolytic + senogenic combinations compared with the senogenic strategy alone, with outcomes related to tumor burden or mechanistic markers. Data extraction captured study design, animal model, tumor type, treatment regimen, and quantitative outcomes including senescence, SASP factors, proliferation, apoptosis, and DNA damage. Risk of bias was assessed using the SYRCLE tool for preclinical studies. RESULTS: The initial search identified 1,262 articles, of which 36 fulfilled the inclusion criteria after screening. All included studies were therapeutic mechanistic in vivo investigations. Across cancer types including colorectal, breast, ovarian, lung, melanoma, meningioma, prostate, head and neck, bladder, pancreatic, and hepatocellular carcinoma, senolytic co-treatment consistently reduced tumor burden compared with senogenic alone. Senescence markers such as SA-β-gal, p21, p53 and p16INK4a were decreased in the majority of combination groups, confirming attenuation of senescence-associated cell-cycle arrest. IL-6 was the most consistently suppressed SASP cytokine. Ki-67 was decreased and Caspase-3 activation increased across most models, supporting reduced proliferation and enhanced apoptosis. BCL2 downregulation and γ-H2AX elevation were observed in several studies, further suggesting increased apoptotic activity and DNA damage. CONCLUSION: Senolytic plus senogenic combinations demonstrate robust preclinical efficacy in reducing tumor growth and senescent burden while promoting apoptosis across diverse in vivo models. These findings highlight senotherapy as a promising adjunct to conventional senescence-inducing anticancer therapies and underscore the need for standardized in vivo methodologies and translational studies to guide clinical application. This review protocol was prospectively registered on PROSPERO (registration number: CRD420251161998).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41620649/",
+      "pdf_url": "https://doi.org/10.1186/s12885-026-15650-x",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "41620649",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Senolytics alleviate cyclophosphamide-induced premature ovarian insufficiency by eliminating senescent cells.",
+      "authors": "Su H; Ma R; Su D; Tan C; Zhu Y; Yang X",
+      "year": 2026,
+      "doi": "10.4081/ejh.2026.4537",
+      "pmid": "42011821",
+      "pmcid": "PMC13158733",
+      "abstract": "Alkylating agents, particularly cyclophosphamide (CY), are known for their high toxicity, which can lead to iatrogenic premature ovarian insufficiency (POI) and infertility in young cancer survivors. Currently, effective prevention and treatment strategies remain limited. Given that chemotherapy induces cellular senescence, we investigated the therapeutic potential of dasatinib (D) and quercetin (Q), a senolytic combination known to eliminate senescent cells. Using a CY-induced murine model of ovarian injury, we found that CY treatment increased the accumulation of senescent cells in the ovaries. The resulting senescence-associated secretory phenotype (SASP) led to a deterioration of the ovarian microenvironment, characterized by increased follicular atresia and a decline in follicle quantity, ultimately culminating in POI. Our findings demonstrate that DQ therapy effectively mitigated CY-induced damage by clearing senescent cells and reducing SASP secretion. Clinically, DQ administration restored sex hormone levels and regularity of the estrous cycle, resulting in an overall increase in follicle numbers across all developmental stages. Furthermore, DQ treatment significantly normalized estrous cyclicity, restoring regular cycles in 60% of the CY+DQ mice compared to only ~15% in the CY-alone group (p<0.0001). RNA sequencing analysis revealed that DQ treatment upregulated Pagr1a, a gene associated with extraembryonic development, while downregulating genes involved in senescence induction (Itgb3, Wnt10b, Vegfa) and immune function (A2m, Ccl21d). These results suggest that senescent cells drive CY-induced ovarian damage and that DQ represents a promising therapeutic strategy for preserving the ovarian reserve and endocrine function in female cancer patients.",
+      "url": "https://europepmc.org/articles/PMC13158733",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/c4/d3/ejh-70-2-4537.PMC13158733.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c4/d3/PMC13158733.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model",
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "PMID:42011821",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Evolving Landscape of Clinical Aging Clocks: From Epigenetic to Multi-Omics Integration.",
+      "authors": "Liu L; Lai Y; Tian C; Huang Y; Hao J; Zhao Y; Chen D; Wu T; Zhou D; Zheng X; Yang H; Yu Z; Li N; Yang J",
+      "year": 2026,
+      "doi": "10.1111/acel.70579",
+      "pmid": "42304052",
+      "pmcid": "PMC13271870",
+      "abstract": "Aging clocks are tools that quantify biological aging through the integration of multi-omics data, encompassing epigenetic, transcriptomic, proteomic, metabolic, and microbial information, together with functional biomarkers. These tools show significant potential for use in preventive medicine, early detection of chronic conditions, and monitoring the effectiveness of interventions designed to enhance population health. The advancement of artificial intelligence has facilitated the widespread adoption of ensemble learning and deep learning techniques in constructing aging clocks. Such methods are capable of efficiently synthesizing and analyzing high-dimensional, multi-modal biological data, thereby uncovering deeper insights and promoting a transition from epigenetic-based aging prediction to the development of multi-omics and multi-modal aging clocks. Aging clocks built on large-scale data and artificial intelligence have demonstrated notable progress in terms of accuracy, interpretability, and generalizability. Consequently, they provide a substantive foundation for understanding mechanisms of aging and contribute meaningful guidance for clinical practices aimed at delaying age-related diseases and fostering healthy aging.",
+      "url": "https://europepmc.org/articles/PMC13271870",
+      "pdf_url": "https://europepmc.org/articles/PMC13271870?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c8/a5/PMC13271870.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "PMID:42304052",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The inflammatory clock: how cGAS-STING ticks in the aging ovary.",
+      "authors": "Ma Y; Chen Y; Yuan X; Li T; Luo H; Gu Y",
+      "year": 2026,
+      "doi": "10.3389/fcell.2026.1771546",
+      "pmid": "41816108",
+      "pmcid": "PMC12972751",
+      "abstract": "Premature ovarian insufficiency (POI) is more than a fertility issue; it's a silent epidemic of accelerated systemic aging in young women, with current treatments failing to address its root cause. For too long, the relentless decline of ovarian function has been viewed as an inevitable mystery. But what if the ovary holds an internal \"inflammatory clock,\" ticking away with each cellular insult and dictating the pace of its own decline? Here, we spotlight a surprising culprit: the cGAS-STING signaling pathway. Far beyond its day job in antiviral defense, this pathway emerges as a master integrator of ovarian aging. We reveal how stresses like DNA damage and mitochondrial dysfunction leak genetic material into the cell's interior, where cGAS-STING sounds a relentless alarm. This alarm does not just trigger inflammation; it initiates a vicious, self-amplifying cycle of cellular senescence, tissue fibrosis, and follicle destruction-a cycle that may explain why ovarian aging often feels like a one-way street. Therapeutically, we move beyond mere symptom management to explore strategies for resetting this inflammatory clock. We dissect both direct \"brakes\"-novel small molecules that silence cGAS or STING-and upstream \"shields\" that protect cellular powerplants and genome integrity. Most provocatively, we introduce the concept of \"signal reprogramming\": not just shutting down the pathway, but cleverly rewiring its output to favor repair over destruction. By repositioning cGAS-STING from a simple sensor to the central processor of ovarian aging, this review charts a course for a new class of therapeutics aimed at preserving ovarian function, not just managing its loss. The goal is no less than transforming our approach to women's reproductive longevity.",
+      "url": "https://europepmc.org/articles/PMC12972751",
+      "pdf_url": "https://europepmc.org/articles/PMC12972751?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/91/a0/PMC12972751.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "PMID:41816108",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Differential expression of senescence markers p16, p21 and p21 transcript variants in oxidative stress mediated cellular senescence",
+      "authors": "Bhavishya Mundluru; Parmita Kar; Lun Cai; Rupa Lavarti; Swetha Mundanattu; Raju Raghavan Pillai",
+      "year": 2025,
+      "doi": "10.1016/j.freeradbiomed.2025.10.164",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.freeradbiomed.2025.10.164",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells"
+      ],
+      "paper_id": "10.1016/j.freeradbiomed.2025.10.164",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Modulating senescence-associated secretory phenotype–driven paracrine effects to overcome therapy -induced senescence: senolytic effects of hesperidin and quercetin in A549 lung adenocarcinoma cells",
+      "authors": "B. R. Iswarya; C. John",
+      "year": 2025,
+      "doi": "10.1007/s11033-025-10904-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/f10180555e6f79496cb1e3efe3c3ae4419b8f928",
+      "pdf_url": "https://doi.org/10.1007/s11033-025-10904-6",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "f10180555e6f79496cb1e3efe3c3ae4419b8f928",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Senescence-associated secretory phenotype in lung cancer: remodeling the tumor microenvironment for metastasis and immune suppression",
+      "authors": "Chen Chen; Ji Chen; Yanling Zhang; Qijun Zhang; Haixia Shi",
+      "year": 2025,
+      "doi": "10.3389/fonc.2025.1605085",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence exerts dual roles in lung cancer pathogenesis: initially suppressing tumorigenesis via p53/p21/p16-mediated cell cycle arrest, but promoting malignancy through the senescence-associated secretory phenotype (SASP). SASP secretes cytokines, proteases, and growth factors, reshaping the tumor microenvironment (TME) to drive immune evasion, metastasis, and therapy resistance. NF-κB activation induces APOBEC3B mutagenesis and PD-L1 overexpression, while mTOR signaling enhances glycolysis and OXPHOS to fuel tumor growth. Clinically, telomere attrition, p16/p21 expression, and SASP components serve as prognostic biomarkers. Therapeutic strategies target senescent cells and SASP. Future directions focus on single-cell multi-omics to decode senescence heterogeneity, spatially controlled drug delivery, and therapies targeting senescence-immune-metabolic crosstalk. By unraveling senescence’s dual regulatory mechanisms, this review highlights precision approaches to overcome resistance and improve lung cancer outcomes.",
+      "url": "https://www.semanticscholar.org/paper/a706a49cd4ec193c56147514a6ff6968a3746243",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12159025",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "a706a49cd4ec193c56147514a6ff6968a3746243",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts",
+      "authors": "",
+      "year": 2024,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC10902613",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10902613/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10902613/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells",
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "PMC10902613",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FOXP1 is a gatekeeper of cellular senescence with ovarian aging",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.1038/s43587-024-00608-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s43587-024-00608-0",
+      "pdf_url": "https://www.nature.com/articles/s43587-024-00608-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "10.1038/s43587-024-00608-0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Jianpi Qingre Tongluo prescription alleviates the senescence-associated secretory phenotype with osteoarthritis by regulating STAG1/TP53/P21 signaling pathway.",
+      "authors": "Qiao Zhou; Jian Liu; Y. Qi; Yuedi Hu; Yang Li; Chengzhi Cong; Yiming Chen",
+      "year": 2024,
+      "doi": "10.1016/j.jep.2024.118953",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE\nJianpi Qingre Chubi prescription primarily consists of a compound formula, also known as Huangqin Qingre Chubi Capsules (HQC), which strengthens the spleen and resolves dampness, clear heat, and collaterals. Long-term clinical use has shown that HQC improves joint swelling and pain in patients with osteoarthritis. Mechanistically, we demonstrated that HQC inhibits inflammatory responses, extracellular matrix degradation, and delays chondrocyte senescence.\n\n\nAIM\nTo determine the bioactivity and mechanism of action of Jianpi Qingre Tongluo prescription (HQC) on osteoarthritis (OA).\n\n\nMATERIALS AND METHODS\nFirst, the chondroprotective effects of HQC were assessed using histopathology, immunohistochemical staining and protein blotting in an OA rat model. Additionally, we identified key targets for crucial targets of HQC in OA using the Network Pharmacology and Gene Expression Omnibus (GEO) dataset (GSE98918 and GSE152805). In vitro conditions, IL-1β-treated chondrocytes served to study the impact of HQC on OA development and the senescence-associated secretory phenotype (SASP). This was evaluated using a series of approaches, such as flow cytometry assays, and immunofluorescence staining, and then verified by rescue experiments.\n\n\nRESULTS\nTherapy with HQC attenuated the severity of osteoarthritis (demonstrated by histopathology, OARSI grading scores, and Mankin scores) and SASP factors (as indicated by IL-1β, IL-6, IL-4, IL-37, MMP13, ADAMTS5, COL2A1, and ACAN levels, and apoptotic cell death). HQC might treat osteoarthritis via four important targets (STAG1, TP53, P21, and P16), with the p53 signalling pathway representing one of the main pathways. The HQC acts primarily on chondrocyte clusters. In vitro experiments indicated that STAG1 overexpression accelerates chondrocyte apoptosis, promotes SASP factor expression and extracellular matrix (ECM) degradation, and facilitates OA progression. HQC-containing serum suppressed the expression of the STAG1/ TP53/P21 pathway, regulated SASP factors, and restored ECM balance.\n\n\nCONCLUSION\nJianpi Qingre Tongluo prescription modulated SASP factors by regulating the STAG1/TP53/P21 signal transduction axis and decelerating cartilage senescence and degradation in patients with OA. Jianpi Qingre Tongluo may be an effective drug candidate.",
+      "url": "https://www.semanticscholar.org/paper/cee511fa8beebb8b8b92e915410fd8a3984079f8",
+      "pdf_url": "https://doi.org/10.1016/j.jep.2024.118953",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "cee511fa8beebb8b8b92e915410fd8a3984079f8",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "NLRP1 inflammasome promotes senescence and senescence-associated secretory phenotype",
+      "authors": "Inés Muela-Zarzuela; J. M. Suarez-Rivero; Andrea Gallardo-Orihuela; Chun Wang; Kumi Izawa; Marta de Gregorio-Procopio; I. Couillin; Bernhard Ryffel; J. Kitaura; Alberto Sanz; T. von Zglinicki; G. Mbalaviele; Mario D. Cordero",
+      "year": 2024,
+      "doi": "10.1007/s00011-024-01892-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Senescence is a cellular aging-related process triggered by different stresses and characterized by the secretion of various inflammatory factors referred to as senescence-associated secretory phenotype (SASP), some of which are produced by the NLRP3 inflammasome. Here, we present evidence that the NLRP1 inflammasome is a DNA damage sensor and a key mediator of senescence. Senescence was induced in fibroblasts in vitro and in mice. Cellular senescence was assessed by Western blot analysis of several proteins, including p16, p21, p53, and SASP factors, released in the culture media or serum. Inflammasome components, including NLRP1, NLRP3 and GSDMD were knocked out or silenced using siRNAs. In vitro and in vivo results suggest that the NLRP1 inflammasome promotes senescence by regulating the expression of p16, p21, p53, and SASP factors in a Gasdermin D (GSDMD)-dependent manner. Mechanistically, the NLRP1 inflammasome is activated in response to genomic damage detected by the cytosolic DNA sensor cGMP-AMP (cGAMP) synthase (cGAS). Our findings show that NLRP1 is a cGAS-dependent DNA damage sensor during senescence and a mediator of SASP release through GSDMD. This study advances the knowledge on the biology of the NLRP1 inflammasome and highlights this pathway as a potential pharmcological target to modulate senescence.",
+      "url": "https://www.semanticscholar.org/paper/269cb4ca341d620cd0d3493e26e8b9ad5908e308",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00011-024-01892-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\in_s_2024_nlrp1_inflammasome_promotes_senescence_and_senescence_associated_secretory.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "269cb4ca341d620cd0d3493e26e8b9ad5908e308",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of <scp>DNA</scp> damage response in cyclophosphamide‐induced premature ovarian failure in mice",
+      "authors": "Yi Song; Zhong Guo; Lei Song; Jianxiu Ma; Yanqing Ma; Lina Shang; Ya‐ping Meng; Zi‐qi Fan; Minghui Hao; Jin Zhao",
+      "year": 2024,
+      "doi": "10.1111/jog.16004",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "AIM: To investigate the DNA damage response (DDR) in a cyclophosphamide (CTX)-induced mouse model of premature ovarian failure (POF). METHODS: The POF model was established by injecting mice with CTX. The body, ovarian weights, the estrus cycle, and pathological changes of the ovaries were recorded. The serum levels of 17 β-estradiol (E2) and follicle-stimulating hormone (FSH) were measured. The expression of Ki67, β-galactosidase (β-gal), p21, p53, γH2AX, and pATM in ovarian tissues was detected by immunohistochemistry. The expression of β-gal, γH2AX, and pATM was analyzed by immunofluorescence staining of primary cultured granulosa cells (GCs). RESULTS: The body and ovarian weights decreased, the estrus cycles were erratic, and the FSH level increased, whereas the E2 level decreased in POF mice compared to controls. The pathological consequences of POF revealed an increase in atretic follicles, corpus luteum, and primordial follicles and a decrease in the number of primary, secondary, and tertiary follicles. Ki67 expression was reduced, β-gal, p21, p53, γH2AX, and pATM expression were elevated in the ovaries of POF mice. The expression of β-gal, γH2AX, and pATM increased in GCs with the concentration in a time-dependent manner. CONCLUSION: In total, CTX induced POF in mice, which was mediated by the DDR pathway of ATM-P53-P21.",
+      "url": "https://doi.org/10.1111/jog.16004",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jog.16004",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells"
+      ],
+      "paper_id": "W4400065537",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting senescence‐associated secretory phenotypes to remodel the tumour microenvironment and modulate tumour outcomes",
+      "authors": "Jiaqiang Xiong; Lu Dong; Qiongying Lv; Yutong Yin; Jiahui Zhao; Youning Ke; Shixuan Wang; Wei Zhang; Meng Wu",
+      "year": 2024,
+      "doi": "10.1002/ctm2.1772",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Tumour cell senescence can be induced by various factors, including DNA damage, inflammatory signals, genetic toxins, ionising radiation and nutrient metabolism. The senescence-associated secretory phenotype (SASP), secreted by senescent tumour cells, possesses the capacity to modulate various immune cells, including macrophages, T cells, natural killer cells and myeloid-derived suppressor cells, as well as vascular endothelial cells and fibroblasts within the tumour microenvironment (TME), and this modulation can result in either the promotion or suppression of tumorigenesis and progression. Exploring the impact of SASP on the TME could identify potential therapeutic targets, yet limited studies have dissected its functions. In this review, we delve into the causes and mechanisms of tumour cell senescence. We then concentrate on the influence of SASP on the tumour immune microenvironment, angiogenesis, extracellular matrix and the reprogramming of cancer stem cells, along with their associated tumour outcomes. Last, we present a comprehensive overview of the diverse array of senotherapeutics, highlighting their prospective advantages and challenge for the treatment of cancer patients. KEY POINTS: Senescence-associated secretory phenotype (SASP) secretion from senescent tumour cells significantly impacts cancer progression and biology. SASP is involved in regulating the remodelling of the tumour microenvironment, including immune microenvironment, vascular, extracellular matrix and cancer stem cells. Senotherapeutics, such as senolytic, senomorphic, nanotherapy and senolytic vaccines, hold promise for enhancing cancer treatment efficacy.",
+      "url": "https://doi.org/10.1002/ctm2.1772",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.1772",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "W4402509081",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The senescence-associated secretory phenotype and its physiological and pathological implications",
+      "authors": "Boshi Wang; Jin Han; Jennifer H. Elisseeff; M. Demaria",
+      "year": 2024,
+      "doi": "10.1038/s41580-024-00727-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://www.semanticscholar.org/paper/cf3fb14d66bd84891d12080b2de7339342d89311",
+      "pdf_url": "https://doi.org/10.1038/s41580-024-00727-x",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "cf3fb14d66bd84891d12080b2de7339342d89311",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Data from Identification of a DNA Damage–Induced Alternative Splicing Pathway That Regulates p53 and Cellular Senescence Markers",
+      "authors": "Jing Chen; John Crutchley; Dadong Zhang; Kouros Owzar; Michael B. Kastan",
+      "year": 2023,
+      "doi": "10.1158/2159-8290.c.6546641",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>&lt;div&gt;Abstract&lt;p&gt;Cellular responses to DNA damage are critical determinants of cancer development and aging-associated pathogenesis. Here, we identify and characterize a DNA-damage response (DDR) pathway that regulates alternative splicing of numerous gene products, including the human tumor suppressor &lt;i&gt;TP53&lt;/i&gt;, and controls DNA damage–induced cellular senescence. In brief, ionizing radiation (IR) inhibits the activity of SMG1, a phosphoinositide-3-kinase-like kinase family member, reducing the binding of SMG1 to a specific region near exon 9 of p53 precursor mRNA and promoting the binding of ribosomal protein L26 (RPL26) to p53 pre-mRNA. RPL26, in turn, is required for the recruitment of the serine/arginine-rich splicing factor SRSF7 to p53 pre-mRNA and generation of alternatively spliced p53β RNA. Disruption of this pathway via selective knockout of p53β by CRISPR/Cas9 or downregulation of pathway constituents significantly reduces IR-induced senescence markers, and cells lacking p53β expression fail to transcriptionally repress negative regulators of cellular senescence and aging.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Significance:&lt;/b&gt; We identified a new component of the DDR pathway that regulates alternative splicing of messenger RNAs, including human &lt;i&gt;TP53&lt;/i&gt; mRNA. Modulation of this regulatory pathway affects DNA-damage induction of cellular senescence markers. &lt;i&gt;Cancer Discov; 7(7); 766–81. ©2017 AACR.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;This article is highlighted in the In This Issue feature, p. 653&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;</jats:p>",
+      "url": "https://doi.org/10.1158/2159-8290.c.6546641",
+      "pdf_url": "http://dx.doi.org/10.1158/2159-8290.c.6546641",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "10.1158/2159-8290.c.6546641",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FROM MODEL ORGANISMS TO HUMANS, THE OPPORTUNITY FOR MORE RIGOR IN METHODOLOGIC AND STATISTICAL ANALYSIS, DESIGN, AND INTERPRETATION OF AGING AND SENESCENCE RESEARCH",
+      "authors": "Steven Austad",
+      "year": 2023,
+      "doi": "10.1093/geroni/igad104.0064",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>DOI: 10.1093/gerona/glab382</jats:p>",
+      "url": "https://doi.org/10.1093/geroni/igad104.0064",
+      "pdf_url": "https://academic.oup.com/innovateage/article-pdf/7/Supplement_1/20/54737589/igad104.0064.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "10.1093/geroni/igad104.0064",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Inflammation and aging: signaling pathways and intervention therapies",
+      "authors": "Xia Li; Chentao Li; Wanying Zhang; Yanan Wang; Pengxu Qian; He Huang",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01502-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Aging is characterized by systemic chronic inflammation, which is accompanied by cellular senescence, immunosenescence, organ dysfunction, and age-related diseases. Given the multidimensional complexity of aging, there is an urgent need for a systematic organization of inflammaging through dimensionality reduction. Factors secreted by senescent cells, known as the senescence-associated secretory phenotype (SASP), promote chronic inflammation and can induce senescence in normal cells. At the same time, chronic inflammation accelerates the senescence of immune cells, resulting in weakened immune function and an inability to clear senescent cells and inflammatory factors, which creates a vicious cycle of inflammation and senescence. Persistently elevated inflammation levels in organs such as the bone marrow, liver, and lungs cannot be eliminated in time, leading to organ damage and aging-related diseases. Therefore, inflammation has been recognized as an endogenous factor in aging, and the elimination of inflammation could be a potential strategy for anti-aging. Here we discuss inflammaging at the molecular, cellular, organ, and disease levels, and review current aging models, the implications of cutting-edge single cell technologies, as well as anti-aging strategies. Since preventing and alleviating aging-related diseases and improving the overall quality of life are the ultimate goals of aging research, our review highlights the critical features and potential mechanisms of inflammation and aging, along with the latest developments and future directions in aging research, providing a theoretical foundation for novel and practical anti-aging strategies.",
+      "url": "https://doi.org/10.1038/s41392-023-01502-8",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01502-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\xia_2023_inflammation_and_aging_signaling_pathways_and_intervention_therapies.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "W4379966446",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Loss of epigenetic information as a cause of mammalian aging",
+      "authors": "Jae-Hyun Yang; Motoshi Hayano; Patrick Griffin; João A. Amorim; Michael S. Bonkowski; John K. Apostolides; Elias Salfati; Marco Blanchette; Elizabeth M. Munding; Mital S. Bhakta; Yap Ching Chew; Wei Guo; Xiaojing Yang; Sun Y. Maybury‐Lewis; Xiao Tian; Jaime M. Ross; Giuseppe Coppotelli; Margarita Meer; Ryan Rogers-Hammond; Daniel L. Vera; Yuancheng Ryan Lu; Jeffrey W. Pippin; Michael Creswell; Zhixun Dou; Caiyue Xu; Sarah J. Mitchell; Abhirup Das; Brendan L. O’Connell; Sachin Thakur; Alice E. Kane; Qiao Su; Yasuaki Mohri; Emi K. Nishimura; Laura Schaevitz; Neha Garg; Ana-Maria Balta; Meghan A. Rego; Meredith Gregory‐Ksander; Tatjana Jakobs; Lei Zhong; Hiroko Wakimoto; Jihad El Andari; Dirk Grimm; Raúl Mostoslavsky; Amy J. Wagers; Kazuo Tsubota; Stephen J. Bonasera; Carlos M. Palmeira; Jonathan G. Seidman; Christine E. Seidman; Norman S. Wolf; Jill A. Kreiling; John M. Sedivy; Gëorge F. Murphy; Richard E. Green; Benjamin A. García; Shelley L. Berger; Philipp Oberdoerffer; Stuart J. Shankland; Vadim N. Gladyshev; Bruce R. Ksander; Andreas R. Pfenning; Luis A. Rajman; David Sinclair",
+      "year": 2023,
+      "doi": "10.1016/j.cell.2022.12.027",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cell.2022.12.027",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10166133/pdf/nihms-1859595.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "W4315705280",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Radiation-induced senescence: therapeutic opportunities",
+      "authors": "Jae Ho Kim; Stephen L. Brown; Marcia N. Gordon",
+      "year": 2023,
+      "doi": "10.1186/s13014-022-02184-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The limitation of cancer radiotherapy does not derive from an inability to ablate tumor, but rather to do so without excessively damaging critical tissues and organs and adversely affecting patient's quality of life. Although cellular senescence is a normal consequence of aging, there is increasing evidence showing that the radiation-induced senescence in both tumor and adjacent normal tissues contributes to tumor recurrence, metastasis, and resistance to therapy, while chronic senescent cells in the normal tissue and organ are a source of many late damaging effects. In this review, we discuss how to identify cellular senescence using various bio-markers and the role of the so-called senescence-associated secretory phenotype characteristics on the pathogenesis of the radiation-induced late effects. We also discuss therapeutic options to eliminate cellular senescence using either senolytics and/or senostatics. Finally, a discussion of cellular reprogramming is presented, another promising avenue to improve the therapeutic gain of radiotherapy.",
+      "url": "https://doi.org/10.1186/s13014-022-02184-2",
+      "pdf_url": "https://ro-journal.biomedcentral.com/counter/pdf/10.1186/s13014-022-02184-2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\jae_2023_radiation_induced_senescence_therapeutic_opportunities.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "W4315866362",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of hypoxia in cellular senescence",
+      "authors": "Haoyu Gao; Eugenie Nepovimová; Zbyněk Heger; Marián Valko; Qinghua Wu; Kamil Kuča; Vojtěch Adam",
+      "year": 2023,
+      "doi": "10.1016/j.phrs.2023.106841",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Senescent cells persist and continuously secrete proinflammatory and tissue-remodeling molecules that poison surrounding cells, leading to various age-related diseases, including diabetes, atherosclerosis, and Alzheimer’s disease. The underlying mechanism of cellular senescence has not yet been fully explored. Emerging evidence indicates that hypoxia is involved in the regulation of cellular senescence. Hypoxia-inducible factor (HIF)-1α accumulates under hypoxic conditions and regulates cellular senescence by modulating the levels of the senescence markers p16, p53, lamin B1, and cyclin D1. Hypoxia is a critical condition for maintaining tumor immune evasion, which is promoted by driving the expression of genetic factors (such as p53 and CD47) while triggering immunosenescence. Under hypoxic conditions, autophagy is activated by targeting BCL-2/adenovirus E1B 19-kDa interacting protein 3, which subsequently induces p21WAF1/CIP1 as well as p16Ink4a and increases β-galactosidase (β-gal) activity, thereby inducing cellular senescence. Deletion of the p21 gene increases the activity of the hypoxia response regulator poly (ADP-ribose) polymerase-1 (PARP-1) and the level of nonhomologous end joining (NHEJ) proteins, repairs DNA double-strand breaks, and alleviates cellular senescence. Moreover, cellular senescence is associated with intestinal dysbiosis and an accumulation of D-galactose derived from the gut microbiota. Chronic hypoxia leads to a striking reduction in the amount of Lactobacillus and D-galactose-degrading enzymes in the gut, producing excess reactive oxygen species (ROS) and inducing senescence in bone marrow mesenchymal stem cells. Exosomal microRNAs (miRNAs) and long noncoding RNAs (lncRNAs) play important roles in cellular senescence. miR-424-5p levels are decreased under hypoxia, whereas lncRNA-MALAT1 levels are increased, both of which induce cellular senescence. The present review focuses on recent advances in understanding the role of hypoxia in cellular senescence. The effects of HIFs, immune evasion, PARP-1, gut microbiota, and exosomal mRNA in hypoxia-mediated cell senescence are specifically discussed. This review increases our understanding of the mechanism of hypoxia-mediated cellular senescence and provides new clues for antiaging processes and the treatment of aging-related diseases. Not applicable.",
+      "url": "https://doi.org/10.1016/j.phrs.2023.106841",
+      "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S1043661823001974-ga1_lrg.jpg",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "W4382401345",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular senescence and senolytics: the path to the clinic",
+      "authors": "Selim Chaib; Tamar Tchkonia; James L. Kirkland",
+      "year": 2022,
+      "doi": "10.1038/s41591-022-01923-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41591-022-01923-y",
+      "pdf_url": "https://www.nature.com/articles/s41591-022-01923-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "W4292488030",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular senescence: the good, the bad and the unknown",
+      "authors": "Weijun Huang; LaTonya J. Hickson; Alfonso Eirin; James L. Kirkland; Lilach O. Lerman",
+      "year": 2022,
+      "doi": "10.1038/s41581-022-00601-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41581-022-00601-z",
+      "pdf_url": "https://www.nature.com/articles/s41581-022-00601-z.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "W4289545008",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ESDR266 - The exosome-associated miR-146a modulates cellular senescence and senescence-associated secretory phenotype (SASP) in Head and Neck SCC (HNSCC)",
+      "authors": "Brianna Hill",
+      "year": 2022,
+      "doi": "10.26226/m.62fa0098ba67fd001a9a092b",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/m.62fa0098ba67fd001a9a092b",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "10.26226/m.62fa0098ba67fd001a9a092b",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Growth hormone increases DNA damage in ovarian follicles and macrophage infiltration in the ovaries.",
+      "authors": "Saccon TD; Rovani MT; Garcia DN; Pradiee J; Mondadori RG; Cruz LAX; Barros CC; Fang Y; McFadden S; Mason JB; Bartke A; Masternak MM; Schneider A",
+      "year": 2022,
+      "doi": "10.1007/s11357-021-00380-8",
+      "pmid": "33954912",
+      "pmcid": null,
+      "abstract": "Evidence points to an important role of the growth hormone (GH) in the aging process and longevity. GH-deficient mice are smaller, live longer than normal littermates, and females have an increased ovarian reserve. The aim of the study was to evaluate the role of GH in the ovarian reserve by evaluating DNA damage, macrophage infiltration, and granulosa cell number in primordial and primary follicles. Experiment 1 used GH-deficient Ames dwarf mice (df/df, n = 12) and their normal littermates (N/df, n = 12), receiving GH or saline injections. Experiment 2 included transgenic mice overexpressing bovine GH (bGH) (n = 6) and normal mice (N, n = 6). DNA damage (anti-γH2AX) and macrophage counting (anti-CD68) were evaluated by immunofluorescence. Female df/df mice had lower γH2AX foci intensity in both oocytes and granulosa cells of primordial and primary follicles (p < 0.05), indicating fewer DNA double-strand breaks (DSBs). GH treatment increased DSBs in both df/df and N/df mice. Inversely, bGH mice had a higher quantity of DSBs in both oocytes and granulosa cells of primordial and primary follicles (p < 0.05). Df/df mice showed ovarian tissue with less macrophage infiltration than N/df mice (p < 0.05) and GH treatment increased macrophage infiltration (p < 0.05). In contrast, bGH mice had ovarian tissue with more macrophage infiltration compared to normal mice (p < 0.05). The current study shows that GH increases DNA DSBs in oocytes and granulosa cells and raises macrophage infiltration in the ovaries, pointing to the role of the GH/IGF-I axis in maintenance of oocyte DNA integrity and ovarian macrophage infiltration in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33954912/",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9135908",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "33954912",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Telomere dysfunction in ageing and age-related diseases",
+      "authors": "Francesca Rossiello; Diana Jurk; João F. Passos; Fabrizio d’Adda di Fagagna",
+      "year": 2022,
+      "doi": "10.1038/s41556-022-00842-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41556-022-00842-x",
+      "pdf_url": "https://www.nature.com/articles/s41556-022-00842-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "W4213091566",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Suppression of p16 alleviates the senescence-associated secretory phenotype",
+      "authors": "Raquel Buj; Kelly E. Leon; Marlyn A. Anguelov; Katherine M. Aird",
+      "year": 2021,
+      "doi": "10.18632/aging.202640",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.202640",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7906185",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "10.18632/aging.202640",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of cellular senescence in female reproductive aging and the potential for senotherapeutic interventions",
+      "authors": "Laura E. Secomandi; Michela Borghesan; Michael C. Velarde; Marco Demaria",
+      "year": 2021,
+      "doi": "10.1093/humupd/dmab038",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: Advanced maternal age is associated with decreased oocyte quantity and quality as well as uterine and placental dysfunctions. These changes lead to infertility, pregnancy complications and birth defects in the offspring. As the mean age of giving birth is increasing worldwide, prevention of age-associated infertility and pregnancy complications, along with the more frequent use of ART, become extremely important. Currently, significant research is being conducted to unravel the mechanisms underlying female reproductive aging. Among the potential mechanisms involved, recent evidence has suggested a contributing role for cellular senescence, a cellular state of irreversible growth arrest characterized by a hypersecretory and pro-inflammatory phenotype. Elucidating the role of senescence in female reproductive aging holds the potential for developing novel and less invasive therapeutic measures to prevent or even reverse female reproductive aging and increase offspring wellbeing. OBJECTIVE AND RATIONALE: The review will summarize the positive and negative implications of cellular senescence in the pathophysiology of the female reproductive organs during aging and critically explore the use of novel senotherapeutics aiming to reverse and/or eliminate their detrimental effects. The focus will be on major senescence mechanisms of the ovaries, the uterus, and the placenta, as well as the potential and risks of using senotherapies that have been discovered in recent years. SEARCH METHODS: Data for this review were identified by searches of MEDLINE, PubMed and Google Scholar. References from relevant articles using the search terms 'Cellular Senescence', 'Aging', 'Gestational age', 'Maternal Age', 'Anti-aging', 'Uterus', 'Pregnancy', 'Fertility', 'Infertility', 'Reproduction', 'Implant', 'Senolytic', 'Senostatic', 'Senotherapy' and 'Senotherapeutic' where selected. A total of 182 articles published in English between 2005 and 2020 were included, 27 of which focus on potential senotherapies for reproductive aging. Exclusion criteria were inclusion of the terms 'male' and 'plants'. OUTCOMES: Aging is a major determinant of reproductive wellbeing. Cellular senescence is a basic aging mechanism, which can be exploited for therapeutic interventions. Within the last decade, several new strategies for the development and repurposing of drugs targeting senescent cells have emerged, such as modulators of the anti-inflammatory response, oxidative stress, DNA damage, and mitochondria and protein dysfunctions. Several studies of female reproductive aging and senotherapies have been discussed that show promising results for future interventions. WIDER IMPLICATIONS: In most countries of the Organization for Economic Co-operation and Development, the average age at which women give birth is above 30 years. Currently, in countries such as the Netherlands, Australia, Spain, Finland, Germany and the UK, birth rates among 30- to 34-year-olds are now higher than in any other age groups. This review will provide new knowledge and scientific advancement on the senescence mechanisms during female reproductive aging, and benefit fundamental and clinical scientists and professionals in the areas of reproduction, cancer, immunobiology and fibrosis.",
+      "url": "https://doi.org/10.1093/humupd/dmab038",
+      "pdf_url": "https://academic.oup.com/humupd/article-pdf/28/2/172/42633470/dmab038.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "W4200520825",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA Damage, Cellular Senescence in Health and Disease",
+      "authors": "Laura Neidernhofer",
+      "year": 2020,
+      "doi": "10.1093/geroni/igaa057.2657",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/geroni/igaa057.2657",
+      "pdf_url": "http://academic.oup.com/innovateage/article-pdf/4/Supplement_1/742/34917686/igaa057.2657.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "10.1093/geroni/igaa057.2657",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Primordial follicle reserve, DNA damage and macrophage infiltration in the ovaries of the long-living Ames dwarf mice.",
+      "authors": "Saccon TD; Rovani MT; Garcia DN; Mondadori RG; Cruz LAX; Barros CC; Bartke A; Masternak MM; Schneider A",
+      "year": 2020,
+      "doi": "10.1016/j.exger.2020.110851",
+      "pmid": "31987917",
+      "pmcid": null,
+      "abstract": "The aim of this study was to evaluate the effect of growth hormone (GH) deficiency in primordial follicle reserve, DNA damage and macrophage infiltration in the ovaries of young mice. Ovaries from six-month-old GH-deficient Ames Dwarf (df/df) and Normal (N/df) mice were used. The number of primordial follicles was higher in df/df mice (p = 0.0026). Also, df/df mice had a lower number of primary (p = 0.023), secondary (p = 0.0052) and tertiary (p = 0.019) follicles. These findings indicate a slower rate of primordial follicle activation in df/df mice. Female df/df mice had decreased γH2AX foci intensity in oocytes of primordial (p = 0.015) and primary (p = 0.0004) follicles compared to N/df mice. Also, df/df mice had reduced γH2AX intensity in granulosa cells of primordial (p = 0.0002) and primary (p < 0.0001) follicles. Overall, this indicate to us that df/df mice accumulate less DNA damage in the ovarian reserve compared to N/df mice. Additionally, macrophage infiltration was also reduced in ovaries of df/df mice compared to N/df mice (p = 0.033). Interestingly, df/df mice had a reduced number of granulosa cells around primordial (p = 0.0024) and primary (p = 0.007) follicles compared to N/df mice. Also, df/df mice had a small diameter of primordial follicle nuclei (p = 0.0093), secondary follicle oocyte (p = 0.046) and tertiary follicle (p = 0.012). This points to the role of granulosa cell proliferation and oocyte growth for primordial follicle activation. The current study points to the role of the GH/IGF-I axis in extending lifespan of reproductive health, along with maintenance of oocyte DNA integrity and reduced ovarian inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31987917/",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7025715",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "31987917",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Suppression of p16 alleviates the senescence-associated secretory phenotype",
+      "authors": "Raquel Buj; Kelly E. Leon; Katherine M. Aird",
+      "year": 2020,
+      "doi": "10.1101/2020.08.19.257717",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Oncogene induced senescence (OIS) is characterized by increased expression of the cell cycle inhibitor p16, leading to a hallmark cell cycle arrest. Suppression of p16 in this context drives proliferation, senescence bypass, and contributes to tumorigenesis. OIS cells are also characterized by the expression and secretion of a widely variable group of factors collectively termed the senescence-associated secretory phenotype (SASP). The SASP can be both beneficial and detrimental and affects the microenvironment in a highly context-dependent manner. The relationship between p16 suppression and the SASP remains unclear. Here, we show that knockdown of p16 decreases expression of the SASP factors and pro-inflammatory cytokines\n                  <jats:italic>IL6</jats:italic>\n                  and\n                  <jats:italic>CXCL8</jats:italic>\n                  in both RAS\n                  <jats:sup>G12V</jats:sup>\n                  -and BRAF\n                  <jats:sup>V600E</jats:sup>\n                  -induced senescence. Notably, this is likely not due to suppression of senescence as\n                  <jats:italic>LMNB1</jats:italic>\n                  and cyclin A expression remain low and p21 remains high. Moreover, low p16 expression in both cancer cell lines and patient samples correspond to decreased SASP gene expression, suggesting this is a universal effect of loss of p16 expression. Together, our data suggest that p16 transcriptionally regulates SASP gene expression, which has implications for understanding how p16 modulates both the senescent and tumor microenvironment.\n                </jats:p>",
+      "url": "https://doi.org/10.1101/2020.08.19.257717",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2020/08/19/2020.08.19.257717.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\raquel_2020_suppression_of_p16_alleviates_the_senescence_associated_secretory.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "10.1101/2020.08.19.257717",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "34th Annual Meeting & Pre-Conference Programs of the Society for Immunotherapy of Cancer (SITC 2019): part 1 : National Harbor, MD, USA. 6-10 November 2019.",
+      "authors": "",
+      "year": 2019,
+      "doi": "10.1186/s40425-019-0763-1",
+      "pmid": "31694725",
+      "pmcid": "PMC6833189",
+      "abstract": "",
+      "url": "https://europepmc.org/articles/PMC6833189",
+      "pdf_url": "https://jitc.bmj.com/content/jitc/7/Suppl_1/282.full.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1d/92/PMC6833189.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "PMID:31694725",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular Senescence: Aging, Cancer, and Injury",
+      "authors": "Arianna Calcinotto; Jaskaren Kohli; Elena Zagato; Laura Pellegrini; Marco Demaria; Andrea Alimonti",
+      "year": 2019,
+      "doi": "10.1152/physrev.00020.2018",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence is a permanent state of cell cycle arrest that occurs in proliferating cells subjected to different stresses. Senescence is, therefore, a cellular defense mechanism that prevents the cells to acquire an unnecessary damage. The senescent state is accompanied by a failure to re-enter the cell cycle in response to mitogenic stimuli, an enhanced secretory phenotype and resistance to cell death. Senescence takes place in several tissues during different physiological and pathological processes such as tissue remodeling, injury, cancer, and aging. Although senescence is one of the causative processes of aging and it is responsible of aging-related disorders, senescent cells can also play a positive role. In embryogenesis and tissue remodeling, senescent cells are required for the proper development of the embryo and tissue repair. In cancer, senescence works as a potent barrier to prevent tumorigenesis. Therefore, the identification and characterization of key features of senescence, the induction of senescence in cancer cells, or the elimination of senescent cells by pharmacological interventions in aging tissues is gaining consideration in several fields of research. Here, we describe the known key features of senescence, the cell-autonomous, and noncell-autonomous regulators of senescence, and we attempt to discuss the functional role of this fundamental process in different contexts in light of the development of novel therapeutic targets.",
+      "url": "https://doi.org/10.1152/physrev.00020.2018",
+      "pdf_url": "https://journals.physiology.org/doi/pdf/10.1152/physrev.00020.2018",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "W2908922892",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Elevated Local Senescence in Diabetic Wound Healing Is Linked to Pathological Repair via CXCR2",
+      "authors": "Holly N. Wilkinson; Christopher Clowes; Kayleigh L. Banyard; Paolo Matteuci; Kimberly A. Mace; Matthew J. Hardman",
+      "year": 2019,
+      "doi": "10.1016/j.jid.2019.01.005",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jid.2019.01.005",
+      "pdf_url": "https://hull-repository.worktribe.com/1250509/1/Article",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "W2913328674",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Impact of first-line cancer treatment on the follicle quality in cryopreserved ovarian samples from girls and young women",
+      "authors": "Valentina Pampanini; Magdalena Wagner; Babak Asadi‐Azarbaijani; Irma C. Oskam; Mona Sheikhi; Marcus Sjödin; Johan Lindberg; Outi Hovatta; Lena Sahlin; Richelle D. Björväng; Marjut Otala; Pauliina Damdimopoulou; Kirsi Jahnukainen",
+      "year": 2019,
+      "doi": "10.1093/humrep/dez125",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "STUDY QUESTION: Does first-line chemotherapy affect the quality of ovarian pre-antral follicles and stromal tissue in a population of young patients? SUMMARY ANSWER: Exposure to first-line chemotherapy significantly impacts follicle viability, size of residual intact follicles, steroid secretion in culture and quality of the stromal compartment. WHAT IS KNOWN ALREADY: First-line chemotherapy is considered to have a low gonadotoxic potential, and as such, does not represent an indication for fertility preservation. Studies investigating the effects of chemotherapy on the quality of ovarian tissue stored for fertility preservation in young patients are limited and the results sometimes contradictory. STUDY DESIGN, SIZE, DURATION: We conducted a retrospective cohort study including young patients referred to three centers (Helsinki, Oslo and Tampere) to perform ovarian tissue cryopreservation for fertility preservation between 2003 and 2018. PARTICIPANTS/MATERIALS, SETTING, METHODS: A total of 43 patients (age 1-24 years) were included in the study. A total of 25 were exposed to first-line chemotherapy before cryopreservation, whereas 18 patients were not. Density and size of follicles divided by developmental stages, prevalence of atretic follicles, health of the stromal compartment and functionality of the tissue in culture were evaluated and related to age and chemotherapy exposure. Activation of dormant follicles and DNA damage were also assessed. MAIN RESULTS AND THE ROLE OF CHANCE: Patients exposed to first-line chemotherapy showed a significantly higher density of atretic primordial and intermediary follicles than untreated patients. The intact primordial and intermediary follicles were significantly smaller in size in patients exposed to chemotherapy. Production of steroids in culture was also significantly impaired and a higher content of collagen and DNA damage was observed in the stromal compartment of treated patients. Collectively, these observations may indicate reduced quality and developmental capacity of follicles as a consequence of first-line chemotherapy exposure. Neither increased activation of dormant follicles nor elevated levels of DNA damage in oocyte nuclei were found in patients exposed to chemotherapy. LIMITATIONS, REASONS FOR CAUTION: The two groups were not homogeneous in terms of age and the patients were exposed to different treatments, which did not allow us to distinguish the effect of specific agents. The limited material availability did not allow us to perform all the analyses on the entire set of patients. WIDER IMPLICATION OF THE FINDINGS: This study provides for the first time a comprehensive analysis of the effects of first-line chemotherapy on the health, density and functionality of follicles categorized according to the developmental stage in patients under 24 years of age. When exposed to these treatments, patients were considered at low/medium risk of infertility. Our data suggest a profound impact of these relatively safe therapies on ovarian health and encourages further exploration of this effect in follow-up studies in order to optimize fertility preservation for young cancer patients. STUDY FUNDING/COMPETING INTEREST(S): This study was funded by the Swedish Childhood Cancer Foundation, the Finnish Cancer Society, the Finnish Pediatric Research Foundation, the Väre Foundation for Pediatric Cancer Research, The Swedish Research Council, the Stockholm County Council (ALF project) and Karolinska Institutet. The authors have no conflict of interest to declare.",
+      "url": "https://doi.org/10.1093/humrep/dez125",
+      "pdf_url": "https://academic.oup.com/humrep/article-pdf/34/9/1674/29228693/dez125.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "W2968995618",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The sensitivity of DNA damage response target ovarian gap junction proteins in granulosa cells in women with advanced endometriosis",
+      "authors": "Ratna Chattopadhyay; Pratip Chakraborty",
+      "year": 2018,
+      "doi": "10.26226/morressier.5af300af738ab10027aa9538",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/morressier.5af300af738ab10027aa9538",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "10.26226/morressier.5af300af738ab10027aa9538",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Overactive type 2 cannabinoid receptor induces meiosis in fetal gonads and impairs ovarian reserve",
+      "authors": "Emanuela De Domenico; Federica Todaro; Gabriele Rossi; Susanna Dolci; Raffaele Geremia; Pellegrino Rossi; Paola Grimaldi",
+      "year": 2017,
+      "doi": "10.1038/cddis.2017.496",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Type 2 cannabinoid receptor (CB 2 R) has been proposed to promote in vitro meiotic entry of postnatal male germ cells and to maintain the temporal progression of spermatogenesis in vivo. However, no information is presently available on the role played by CB 2 R in male and female fetal gonads. Here we show that in vitro pharmacological stimulation with JWH133, a CB 2 R agonist, induced activation of the meiotic program in both male and female fetal gonads. Upon stimulation, gonocytes initiated the meiotic program but became arrested at early stages of prophase I, while oocytes showed an increased rate of meiotic entry and progression toward more advanced stage of meiosis. Acceleration of meiosis in oocytes was accompanied by a strong increase in the percentage of γ -H2AX-positive pachytene and diplotene cells, paralleled by an increase of TUNEL-positive cells, suggesting that DNA double-strand breaks were not correctly repaired during meiosis, leading to oocyte apoptosis. Interestingly, in vivo pharmacological stimulation of CB 2 R in fetal germ cells through JWH133 administration to pregnant females caused a significant reduction of primordial and primary follicles in the ovaries of newborns with a consequent depletion of ovarian reserve and reduced fertility in adult life, while no alterations of spermatogenesis in the testis of the offspring were detected. Altogether our findings highlight a pro-meiotic role of CB 2 R in male and female germ cells and suggest that the use of cannabis in pregnant female might represent a risk for fertility and reproductive lifespan in female offspring.",
+      "url": "https://doi.org/10.1038/cddis.2017.496",
+      "pdf_url": "https://www.nature.com/articles/cddis2017496.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\emanuela_2017_overactive_type_2_cannabinoid_receptor_induces_meiosis_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "W2762668401",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "cGAS is essential for cellular senescence",
+      "authors": "Hui Yang; Hanze Wang; Junyao Ren; Qi Chen; Zhijian J. Chen",
+      "year": 2017,
+      "doi": "10.1073/pnas.1705499114",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence is a natural barrier to tumorigenesis and it contributes to the antitumor effects of several therapies, including radiation and chemotherapeutic drugs. Senescence also plays an important role in aging, fibrosis, and tissue repair. The DNA damage response is a key event leading to senescence, which is characterized by the senescence-associated secretory phenotype (SASP) that includes expression of inflammatory cytokines. Here we show that cGMP-AMP (cGAMP) synthase (cGAS), a cytosolic DNA sensor that activates innate immunity, is essential for senescence. Deletion of cGAS accelerated the spontaneous immortalization of mouse embryonic fibroblasts. cGAS deletion also abrogated SASP induced by spontaneous immortalization or DNA damaging agents, including radiation and etoposide. cGAS is localized in the cytoplasm of nondividing cells but enters the nucleus and associates with chromatin DNA during mitosis in proliferating cells. DNA damage leads to accumulation of damaged DNA in cytoplasmic foci that contain cGAS. In human lung adenocarcinoma patients, low expression of cGAS is correlated with poor survival. These results indicate that cGAS mediates cellular senescence and retards immortalization. This is distinct from, and complementary to, the role of cGAS in activating antitumor immunity.",
+      "url": "https://doi.org/10.1073/pnas.1705499114",
+      "pdf_url": "https://www.pnas.org/content/pnas/114/23/E4612.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "W2618634776",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "miR-22 suppresses tumorigenesis and improves radiosensitivity of breast cancer cells by targeting Sirt1",
+      "authors": "Xia Zhang; Yuehua Li; Dan Wang; Xiaoer Wei",
+      "year": 2017,
+      "doi": "10.1186/s40659-017-0133-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: miR-22 has been shown to be frequently downregulated and act as a tumor suppressor in multiple cancers including breast cancers. However, the role of miR-22 in regulating the radioresistance of breast cancer cells, as well as its underlying mechanism is still not well understood. METHODS: The expressions of miR-22 and sirt1 at mRNA and protein levels were examined by qRT-PCR and Western Blot. The effects of miR-22 overexpression and sirt1 knockdown on cell viability, apoptosis, radiosensitivity, γ-H2AX foci formation were evaluated by CCK-8 assay, flow cytometry, colony formation assay, and γ-H2AX foci formation assay, respectively. Luciferase reporter assay and qRT-PCR analysis were performed to confirm the interaction between miR-22 and sirt1. RESULTS: miR-22 was downregulated and sirt1 was upregulated at both mRNA and protein levels in breast cancer cells. miR-22 overexpression or sirt1 knockdown significantly suppressed viability, induced apoptosis, reduced survival fraction, and increased the number of γ-H2AX foci in breast cancer cells. Sirt1 was identified as a target of miR-22 and miR-22 negatively regulated sirt1 expression. Ectopic expression of sirt1 dramatically reversed the inhibitory effect of miR-22 on cell viability and promotive effect on apoptotic rates and radiosensitivity in breast cancer cells. CONCLUSIONS: miR-22 suppresses tumorigenesis and improves radiosensitivity of breast cancer cells by targeting sirt1, providing a promising therapeutic target for breast cancer.",
+      "url": "https://doi.org/10.1186/s40659-017-0133-8",
+      "pdf_url": "https://biolres.biomedcentral.com/counter/pdf/10.1186/s40659-017-0133-8",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\xia_2017_mir_22_suppresses_tumorigenesis_and_improves_radiosensitivity_of.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "W2753297050",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Markers of cellular senescence. Telomere shortening as a marker of cellular senescence",
+      "authors": "Alexandra Bernadotte; Victor M. Mikhelson; Irina M. Spivak",
+      "year": 2016,
+      "doi": "10.18632/aging.100871",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.100871",
+      "pdf_url": "https://www.aging-us.com/article/100871/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model",
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "10.18632/aging.100871",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reversal of phenotypes of cellular senescence by pan-mTOR inhibition",
+      "authors": "Hannah E. Walters; Sylwia Deneka-Hannemann; Lynne S. Cox",
+      "year": 2016,
+      "doi": "10.18632/aging.100872",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.100872",
+      "pdf_url": "https://www.aging-us.com/article/100872/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "10.18632/aging.100872",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Aberrant DNA Damage Response Pathways May Predict the Outcome of Platinum Chemotherapy in Ovarian Cancer",
+      "authors": "Dimitra Stefanou; Aristotelis Bamias; Hara Episkopou; Soterios Α. Kyrtopoulos; Maria Likka; Theodore Kalampokas; Stylianos Photiou; Nikos G. Gavalas; Petros P. Sfikakis; Meletios Α. Dimopoulos; Vassilis L. Souliotis",
+      "year": 2015,
+      "doi": "10.1371/journal.pone.0117654",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Ovarian carcinoma (OC) is the most lethal gynecological malignancy. Despite the advances in the treatment of OC with combinatorial regimens, including surgery and platinum-based chemotherapy, patients generally exhibit poor prognosis due to high chemotherapy resistance. Herein, we tested the hypothesis that DNA damage response (DDR) pathways are involved in resistance of OC patients to platinum chemotherapy. Selected DDR signals were evaluated in two human ovarian carcinoma cell lines, one sensitive (A2780) and one resistant (A2780/C30) to platinum treatment as well as in peripheral blood mononuclear cells (PBMCs) from OC patients, sensitive (n = 7) or resistant (n = 4) to subsequent chemotherapy. PBMCs from healthy volunteers (n = 9) were studied in parallel. DNA damage was evaluated by immunofluorescence γH2AX staining and comet assay. Higher levels of intrinsic DNA damage were found in A2780 than in A2780/C30 cells. Moreover, the intrinsic DNA damage levels were significantly higher in OC patients relative to healthy volunteers, as well as in platinum-sensitive patients relative to platinum-resistant ones (all P<0.05). Following carboplatin treatment, A2780 cells showed lower DNA repair efficiency than A2780/C30 cells. Also, following carboplatin treatment of PBMCs ex vivo, the DNA repair efficiency was significantly higher in healthy volunteers than in platinum-resistant patients and lowest in platinum-sensitive ones (t1/2 for loss of γH2AX foci: 2.7±0.5h, 8.8±1.9h and 15.4±3.2h, respectively; using comet assay, t1/2 of platinum-induced damage repair: 4.8±1.4h, 12.9±1.9h and 21.4±2.6h, respectively; all P<0.03). Additionally, the carboplatin-induced apoptosis rate was higher in A2780 than in A2780/C30 cells. In PBMCs, apoptosis rates were inversely correlated with DNA repair efficiencies of these cells, being significantly higher in platinum-sensitive than in platinum-resistant patients and lowest in healthy volunteers (all P<0.05). We conclude that perturbations of DNA repair pathways as measured in PBMCs from OC patients correlate with the drug sensitivity of these cells and reflect the individualized response to platinum-based chemotherapy.",
+      "url": "https://doi.org/10.1371/journal.pone.0117654",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0117654&type=printable",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\dimitra_2015_aberrant_dna_damage_response_pathways_may_predict_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "W1988915752",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Genetics of Early and Normal Menopause.",
+      "authors": "Laven JS",
+      "year": 2015,
+      "doi": "10.1055/s-0035-1567825",
+      "pmid": "26569518",
+      "pmcid": null,
+      "abstract": "Menopause is defined as the permanent cessation of ovulation and hence menstruation due to ovarian failure. The median age of menopause is 51 years. However, early menopause might occur at 40 years of age while late menopause might happen as late as 62 years of age. Premature menopause is defined as the cessation of ovulation prior to the age of 40 years, a condition generally referred to as primary ovarian insufficiency (POI). Menopause is also a highly heritable condition. Genetic variants are known to contribute to ∼50% of the variation in age at menopause. Several genetic studies have tried to unravel this genetic background making use of different genetic techniques in population studies as well as in animal models. Genome-wide linkage studies have identified only a limited amount of genetic variants that seem to be associated with menopause. Population-based studies as well as animal research into the genetic background of POI have identified several genetic variants that seem to be associated with POI. However, a lot of these studies suffer from methodological flaws because results are generally not replicated in different independent samples and most of these studies are underpowered. Hence, results are conflicting. Recent genome-wide association studies (GWAS) have identified several genetic variants that are associated with menopause and POI. Genes seem to be involved in DNA repair and maintenance as well as in immune function. Biological as well as epidemiological data seem to indicate that reproductive performance, age at menopause, and longevity are interlinked through common genetic factors involved in DNA repair and maintenance. In case these systems fail, cell death and accelerated aging occur. Consequently, it seems that the aging of the soma, as a result of dysfunctional DNA repair, is responsible for failure to reproduce and the subsequent occurrence of menopause. Hence, reproductive performance constitutes a good predictor for general health in later life.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26569518/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "26569518",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Increased DNA damage and repair deficiency in granulosa cells are associated with ovarian aging in rhesus monkey.",
+      "authors": "Zhang D; Zhang X; Zeng M; Yuan J; Liu M; Yin Y; Wu X; Keefe DL; Liu L",
+      "year": 2015,
+      "doi": "10.1007/s10815-015-0483-5",
+      "pmid": "25957622",
+      "pmcid": null,
+      "abstract": "Ovarian aging is closely tied to the decline in ovarian follicular reserve and oocyte quality. During the prolonged reproductive lifespan of the female, granulosa cells connected with oocytes play critical roles in maintaining follicle reservoir, oocyte growth and follicular development. We tested whether double-strand breaks (DSBs) and repair in granulosa cells within the follicular reservoir are associated with ovarian aging. Ovaries were sectioned and processed for epi-fluorescence microscopy, confocal microscopy, and immunohistochemistry. DNA damage was revealed by immunstaining of γH2AX foci and telomere damage by γH2AX foci co-localized with telomere associated protein TRF2. DNA repair was indicated by BRCA1 immunofluorescence. DSBs in granulosa cells increase and DSB repair ability, characterized by BRCA1 foci, decreases with advancing age. γH2AX foci increase in primordial, primary and secondary follicles with advancing age. Likewise, telomere damage increases with advancing age. In contrast, BRCA1 foci in granulosa cells of primordial, primary and secondary follicles decrease with monkey age. BRCA1 positive foci in the oocyte nuclei also decline with maternal age. Increased DSBs and reduced DNA repair in granulosa cells may contribute to ovarian aging. Discovery of therapeutics that targets these pathways might help maintain follicle reserve and postpone ovarian dysfunction with age.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25957622/",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10815-015-0483-5.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "25957622",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cell Senescence Abrogates the Therapeutic Potential of Human Mesenchymal Stem Cells in the Lethal Endotoxemia Model",
+      "authors": "Juan Carlos Arias; María C. Fernández Tome; María Eugenia Fernández‐Santos; Mario Delgado; Judith Campisi; António Bernad; Manuel González",
+      "year": 2014,
+      "doi": "10.1002/stem.1654",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Mesenchymal stem cells (MSCs) possess unique paracrine and immunosuppressive properties, which make them useful candidates for cellular therapy. Here, we address how cellular senescence influences the therapeutic potential of human MSCs (hMSCs). Senescence was induced in bone marrow-derived hMSC cultures with gamma irradiation. Control and senescent cells were tested for their immunoregulatory activity in vitro and in vivo, and an extensive molecular characterization of the phenotypic changes induced by senescence was performed. We also compared the gene expression profiles of senescent hMSCs with a collection of hMSCs used in an ongoing clinical study of Graft Versus Host disease (GVHD). Our results show that senescence induces extensive phenotypic changes in hMSCs and abrogates their protective activity in a murine model of LPS-induced lethal endotoxemia. Although senescent hMSCs retain an ability to regulate the inflammatory response on macrophages in vitro, and, in part retain their capacity to significantly inhibit lymphocyte proliferation, they have a severely impaired migratory capacity in response to proinflammatory signals, which is associated with an inhibition of the AP-1 pathway. Additionally, expression analysis identified PLEC, C8orf48, TRPC4, and ZNF14, as differentially regulated genes in senescent hMSCs that were similarly regulated in those hMSCs which failed to produce a therapeutic effect in a GVHD trial. All the observed phenotypic alterations were confirmed in replicative-senescent hMSCs. In conclusion, this study highlights important changes in the immunomodulatory phenotype of senescent hMSCs and provides candidate gene signatures which may be useful to evaluate the therapeutic potential of hMSCs used in future clinical studies.",
+      "url": "https://doi.org/10.1002/stem.1654",
+      "pdf_url": "https://academic.oup.com/stmcls/article-pdf/32/7/1865/41984010/stmcls_32_7_1865.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "W1530824105",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Melatonin protects the integrity of granulosa cells by reducing oxidative stress in nuclei, mitochondria, and plasma membranes in mice",
+      "authors": "Manabu Tanabe; Hiroshi Tamura; Toshiaki Taketani; Maki Okada; Lifa LEE; Isao Tamura; Ryo Maekawa; Hiromi Asada; Yoshiaki Yamagata; Norihiro Sugino",
+      "year": 2014,
+      "doi": "10.1262/jrd.2014-105",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Melatonin protects luteinized granulosa cells (GCs) from oxidative stress in the follicle during ovulation. However, it is unclear in which cellular components (e.g., nuclei, mitochondria, or plasma membranes) melatonin works as an antioxidant. GCs from immature (3 wks) ICR mice were incubated with hydrogen peroxide (H2O2; 0.01, 0.1, 1, 10 mM) in the presence or absence of melatonin (100 μg/ml) for 2 h. DNA damage was assessed by fluorescence-based immunocytochemistry using specific antibodies for 8-hydroxydeoxyguanosine (8-OHdG), an indicator of oxidative guanine base damage in DNA, and for histone H2AX phosphorylation (γH2AX), a marker of double-strand breaks of DNA. Mitochondrial function was assessed by the fluorescence intensity of MitoTracker Red probes, which diffuse across the membrane and accumulate in mitochondria with active membrane potentials. Lipid peroxidation of plasma membranes was analyzed by measuring hexanoyl-lysine (HEL), a oxidative stress marker for lipid peroxidation. Apoptosis of GCs was assessed by nuclear fragmentation using DAPI staining, and apoptotic activities were evaluated by caspase-3/7 activities. H2O2 treatment significantly increased the fluorescence intensities of 8-OHdG and γH2AX, reduced the intensity of MitoTracker Red in the mitochondria, increased HEL concentrations in GCs, and enhanced the number of apoptotic cells and caspase-3/7 activities. All these changes were significantly decreased by melatonin treatment. Melatonin reduced oxidative stress-induced DNA damage, mitochondrial dysfunction, lipid peroxidation, and apoptosis in GCs, suggesting that melatonin protects GCs by reducing oxidative stress of cellular components including nuclei, mitochondria, and plasma membranes. Melatonin helps to maintain the integrity of GCs as an antioxidant in the preovulatory follicle.",
+      "url": "https://doi.org/10.1262/jrd.2014-105",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/jrd/61/1/61_2014-105/_pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\manabu_2014_melatonin_protects_the_integrity_of_granulosa_cells_by.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "W2065020843",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Poster Sessions",
+      "authors": "",
+      "year": 2014,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC7163937",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163937/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163937/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells",
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "PMC7163937",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Suboptimal nutrition in utero causes DNA damage and accelerated aging of the female reproductive tract.",
+      "authors": "Aiken CE; Tarry-Adkins JL; Ozanne SE",
+      "year": 2013,
+      "doi": "10.1096/fj.13-234484",
+      "pmid": "23792302",
+      "pmcid": null,
+      "abstract": "Early life exposure to adverse environments can lead to a variety of metabolic and cardiovascular diseases in offspring. We hypothesize that female reproductive function may also be affected, with subsequent implications for fertility. We used an established maternal low-protein model where animals are born small but undergo rapid postnatal catch-up growth by suckling a control-fed dam (recuperated offspring). Markers of oxidative stress and cellular aging in reproductive tract tissues were assessed at 3 and 6 mo of age. Recuperated offspring had lower birth weight than controls (P<0.01) but caught up during lactation. 4-Hydroxynonenal (4HNE; an indicator of oxidative stress) was increased in recuperated animals compared with controls in both ovaries and oviducts at 6 mo. At 3 and 6 mo, ovaries and oviducts of recuperated offspring had increased mitochondrial (mt)DNA copy number (P<0.01). By contrast, germ-line cells showed no difference in mtDNA copy number, suggesting they were protected from suboptimal maternal nutrition. Oviduct and somatic ovarian telomere length declined more rapidly with age in recuperated animals. This accelerated cellular aging was associated with a declined ovarian reserve in developmentally programmed animals. These findings have significant clinical implications in light of worldwide trends to delayed childbearing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23792302/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "23792302",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Central Immune Senescence, Reversal Potentials",
+      "authors": "Krisztian Kvell; Judit E.",
+      "year": 2012,
+      "doi": "10.5772/32905",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.5772/32905",
+      "pdf_url": "https://www.intechopen.com/chapters/30062",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "10.5772/32905",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanisms of chemotherapy-induced human ovarian aging: double strand DNA breaks and microvascular compromise.",
+      "authors": "Soleimani R; Heytens E; Darzynkiewicz Z; Oktay K",
+      "year": 2011,
+      "doi": "",
+      "pmid": "21869459",
+      "pmcid": null,
+      "abstract": "The mechanism of chemotherapy-induced acceleration of ovarian aging is not fully understood. We used doxorubicin, a widely used cancer chemotherapeutic, in a variety of in vivo xenograft, and in vitro models to investigate the impact of chemotherapy-induced aging on the human ovary. Doxorubicin caused massive double-strand-DNA-breaks in primordial follicles, oocytes, and granulosa cells in a dose dependent fashion as revealed by accumulating γH2AX foci. This damage was associated with apoptotic oocyte death and resulted in the activation of ATM. It appeared that the repair response enabled a minor proportion of oocytes (34.7%) and granulosa cells (12.1%) to survive while the majority succumbed to apoptotic death. Paradoxically, inhibition of ATM by KU-55933 resulted in improved survival, probably via prevention of downstream activation of TAp63α. Furthermore, doxorubicin caused vascular and stromal damage in the human ovary, which might impair ovarian function both pre- and post-menopausally. Chemotherapy-induced premature ovarian aging appears to result from a complex process involving both the germ- and non-germ cell components of the ovary. These effects may have clinical implications in aging both for premenopausal and postmenopausal cancer survivors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21869459/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "21869459",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Poster Presentations",
+      "authors": "",
+      "year": 2011,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC7164111",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7164111/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7164111/pdf/?tool=EBI",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells",
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "PMC7164111",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Focus on foci: DNA damage foci, structures without a function?",
+      "authors": "Audrey M. Gourdin; Wim Vermeulen",
+      "year": 2009,
+      "doi": "10.4161/cc.8.23.10370",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.4161/cc.8.23.10370",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.4161/cc.8.23.10370?needAccess=true",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "10.4161/cc.8.23.10370",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Senescence-Associated Secretory Phenotypes Reveal Cell-Nonautonomous Functions of Oncogenic RAS and the p53 Tumor Suppressor",
+      "authors": "Jean‐Philippe Coppé; Christopher K. Patil; Françis Rodier; Yu Sun; Denise P. Muñoz; Joshua C. Goldstein; Peter S. Nelson; Pierre‐Yves Desprez; Judith Campisi",
+      "year": 2008,
+      "doi": "10.1371/journal.pbio.0060301",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence suppresses cancer by arresting cell proliferation, essentially permanently, in response to oncogenic stimuli, including genotoxic stress. We modified the use of antibody arrays to provide a quantitative assessment of factors secreted by senescent cells. We show that human cells induced to senesce by genotoxic stress secrete myriad factors associated with inflammation and malignancy. This senescence-associated secretory phenotype (SASP) developed slowly over several days and only after DNA damage of sufficient magnitude to induce senescence. Remarkably similar SASPs developed in normal fibroblasts, normal epithelial cells, and epithelial tumor cells after genotoxic stress in culture, and in epithelial tumor cells in vivo after treatment of prostate cancer patients with DNA-damaging chemotherapy. In cultured premalignant epithelial cells, SASPs induced an epithelial-mesenchyme transition and invasiveness, hallmarks of malignancy, by a paracrine mechanism that depended largely on the SASP factors interleukin (IL)-6 and IL-8. Strikingly, two manipulations markedly amplified, and accelerated development of, the SASPs: oncogenic RAS expression, which causes genotoxic stress and senescence in normal cells, and functional loss of the p53 tumor suppressor protein. Both loss of p53 and gain of oncogenic RAS also exacerbated the promalignant paracrine activities of the SASPs. Our findings define a central feature of genotoxic stress-induced senescence. Moreover, they suggest a cell-nonautonomous mechanism by which p53 can restrain, and oncogenic RAS can promote, the development of age-related cancer by altering the tissue microenvironment.",
+      "url": "https://digital.library.unt.edu/ark:/67531/metadc902653/",
+      "pdf_url": "https://www.osti.gov/biblio/945357",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "W2010417927",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Sex Steroids and the Construction and Conservation of the Adult Skeleton",
+      "authors": "B. Lawrence Riggs; Sundeep Khosla; L. Joseph Melton",
+      "year": 2002,
+      "doi": "10.1210/edrv.23.3.0465",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Here we review and extend a new unitary model for the pathophysiology of involutional osteoporosis that identifies estrogen (E) as the key hormone for maintaining bone mass and E deficiency as the major cause of age-related bone loss in both sexes. Also, both E and testosterone (T) are key regulators of skeletal growth and maturation, and E, together with GH and IGF-I, initiate a 3- to 4-yr pubertal growth spurt that doubles skeletal mass. Although E is required for the attainment of maximal peak bone mass in both sexes, the additional action of T on stimulating periosteal apposition accounts for the larger size and thicker cortices of the adult male skeleton. Aging women undergo two phases of bone loss, whereas aging men undergo only one. In women, the menopause initiates an accelerated phase of predominantly cancellous bone loss that declines rapidly over 4-8 yr to become asymptotic with a subsequent slow phase that continues indefinitely. The accelerated phase results from the loss of the direct restraining effects of E on bone turnover, an action mediated by E receptors in both osteoblasts and osteoclasts. In the ensuing slow phase, the rate of cancellous bone loss is reduced, but the rate of cortical bone loss is unchanged or increased. This phase is mediated largely by secondary hyperparathyroidism that results from the loss of E actions on extraskeletal calcium metabolism. The resultant external calcium losses increase the level of dietary calcium intake that is required to maintain bone balance. Impaired osteoblast function due to E deficiency, aging, or both also contributes to the slow phase of bone loss. Although both serum bioavailable (Bio) E and Bio T decline in aging men, Bio E is the major predictor of their bone loss. Thus, both sex steroids are important for developing peak bone mass, but E deficiency is the major determinant of age-related bone loss in both sexes.",
+      "url": "https://doi.org/10.1210/edrv.23.3.0465",
+      "pdf_url": "https://academic.oup.com/edrv/article-pdf/23/3/279/8860311/edrv0279.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "W2160287478",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA damage and its processing with aging: Human premature aging syndromes as model systems",
+      "authors": "Vilhelm A. Bohr",
+      "year": 2001,
+      "doi": "10.1016/s1566-3124(01)04033-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s1566-3124(01)04033-0",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "10.1016/s1566-3124(01)04033-0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nuclear Rad51 Foci Induced by DNA Damage Are Distinct from Rad51 Foci Associated with B Cell Activation and Recombination",
+      "authors": "Ming-Jie Li; Nancy Maizels",
+      "year": 1997,
+      "doi": "10.1006/excr.1997.3761",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1006/excr.1997.3761",
+      "pdf_url": "https://doi.org/10.1006/excr.1997.3761",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "10.1006/excr.1997.3761",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cytotoxicity and DNA Damage Caused from Diazinon Exposure by Inhibiting the PI3K-AKT Pathway in Porcine Ovarian Granulosa Cells",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.jafc.8b05194.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jafc.8b05194.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.jafc.8b05194/suppl_file/jf8b05194_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "gammaH2AX DNA damage foci ovarian granulosa cell aging"
+      ],
+      "paper_id": "10.1021/acs.jafc.8b05194.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Elucidating Proteoform Dynamics Underlying the Senescence Associated Secretory Phenotype",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acs.jproteome.9b00739.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jproteome.9b00739.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acs.jproteome.9b00739/suppl_file/pr9b00739_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "10.1021/acs.jproteome.9b00739.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 2: The performance of senescence-associated beta galactosidase (SA-β-gal) staining, cell morphology, and cell proliferation in human oral keratinocytes (HOKs) after senescence induction.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.15158/fig-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.15158/fig-2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells"
+      ],
+      "paper_id": "10.7717/peerj.15158/fig-2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 5: The senescence-associated-β-galactosidase (SA-β-gal) positive pathologic LF fibroblasts cells as shown in arrows.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.5381/fig-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.5381/fig-5",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells"
+      ],
+      "paper_id": "10.7717/peerj.5381/fig-5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Metabolic consequences of DNA damage and cellular senescence",
+      "authors": "Andrea Postmus",
+      "year": 1970,
+      "doi": "10.33612/diss.854164577",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.33612/diss.854164577",
+      "pdf_url": "https://research.rug.nl/files/854164579/Title_and_contents.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "DNA damage markers cellular senescence ovarian aging model"
+      ],
+      "paper_id": "10.33612/diss.854164577",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Senescence And The Senescence Associated Secretory Phenotype In Salivary Hypofunction",
+      "authors": "Quetsia Jean-Baptiste",
+      "year": 1970,
+      "doi": "10.54014/2f5r-h13w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.54014/2f5r-h13w",
+      "pdf_url": "https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=4585&context=legacy-etd",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\quetsia_1970_senescence_and_the_senescence_associated_secretory_phenotype_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "p16 p21 senescence associated secretory phenotype granulosa"
+      ],
+      "paper_id": "10.54014/2f5r-h13w",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Supplemental Information 1: Senescence-associated β-galactosidase (SA-β-gal) staining of bone marrow-derived mesenchymal stem cells at passage 1.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.12819/supp-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.12819/supp-1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells"
+      ],
+      "paper_id": "10.7717/peerj.12819/supp-1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Supplemental Information 3: Detection of senescence-associated beta-galactosidase (SA-β-Gal).",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.16832/supp-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.16832/supp-3",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "SA-beta-galactosidase gammaH2AX p21 p16 senescence markers granulosa cells"
+      ],
+      "paper_id": "10.7717/peerj.16832/supp-3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Senescence Marker p16 in Development, Adulthood, and Aging",
+      "authors": "Hasan Safwan Zaiter",
+      "year": 1970,
+      "doi": "10.70675/7ae7d64fzb69dz45a9z8ad1z2a98dee95ead",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Le marqueur de sénescence p16Ink4a dans le développement, l'âge adulte et le vieillissement</jats:title>\n                <jats:p xml:lang=\"fr\">Le vieillissement est une caractéristique biologique qui se caractérise par une dégénérescence progressive de la fonction des cellules, des tissus, des organes ou d'un organisme intact en raison de l'accumulation de facteurs environnementaux et de stress avec le temps. Plusieurs facteurs ont été attribués au vieillissement tels que le stress oxydatif, le raccourcissement des télomères, les dommages à l'ADN et surtout, le dépôt de cellules sénescentes. Ce sont des cellules irréversiblement mitotiquement inactives, mais métaboliquement actives. La raison sous-jacente à leur sénescence réside dans les bras extrinsèques et intrinsèques. Le bras extrinsèque est principalement caractérisé par l'expression et le profil sécrétoire connu sous le nom de phénotype sécrétoire associé à la sénescence (SASP). Le bras intrinsèque résulte de l'impact de plusieurs gènes censés réguler le cycle cellulaire, tels que les gènes suppresseurs de tumeurs p16Ink4a (p16), p19ARF (p19) et p21. P16 est un suppresseur de tumeur et un régulateur du cycle cellulaire qui a été lié au vieillissement et à la sénescence. Des recherches approfondies ont révélé que l'expression de p16 est significativement augmentée dans les cellules sénescentes, ainsi que lors du vieillissement naturel ou de pathologies liées à l'âge. De ce fait, p16 est considéré comme un biomarqueur spécifique pour détecter les cellules sénescentes et le vieillissement. Alors qu'un rôle potentiel de p19 et p21 a été démontré dans le développement embryonnaire, p16 a été moins bien documenté. Pour étudier le rôle potentiel de p16 dans le développement, nous avons mené une étude d'expression développementale de p16, à côté des suppresseurs de tumeurs p19ARF et p21, et examiné leur expression d'ARN dans le cerveau, le cœur, le foie et les reins de souris au stade embryonnaire, postnatal, adulte et les vieux âges. L'immunohistochimie a été utilisée pour examiner l'expression de P16 au niveau de la protéine. Nous avons constaté que l'expression de p16 était très dynamique dans tous les organes au cours des stades embryonnaire et postnatal, et qu'elle était significativement plus élevée chez les souris âgées par rapport à p19 et p21. De plus, nous avons constaté que l'ARNm et la protéine p16 étaient plus répandus dans les cellules endothéliales hépatiques (CE) que les cellules parenchymateuses chez les souris âgées. Ces découvertes indiquent un rôle possible de p16 dans le développement embryonnaire, ainsi qu'un rôle sélectif potentiel de p16 dans les CE hépatiques.Par conséquent, nous avons cherché à mieux comprendre le rôle de p16 dans les processus biologiques des CE hépatiques. Par conséquent, nous avons utilisé de petites constructions en épingle à cheveux (shRNA) et un vecteur ADNc-GFP p16 transduit via un lentivirus, pour inhiber et surexprimer p16 in vitro, afin d'évaluer la perte et le gain de fonction dans deux types de foie. ECs, ECs vasculaires CD31+ et cellules endothéliales sinusoïdales CD146+ (LSEC). Les cellules ont été isolées du foie par un test de tri magnétique des cellules activées (MACS) à l'aide d'anticorps monoclonaux attachés à des billes magnétiques contre les marqueurs de surface CD31 et CD146. Une séquence non codante et des cellules transduites par un vecteur GFP vide ont été utilisées comme contrôle pour les cellules transduites par shRNA et p16-GFP, respectivement.</jats:p>",
+      "url": "https://doi.org/10.70675/7ae7d64fzb69dz45a9z8ad1z2a98dee95ead",
+      "pdf_url": "http://www.theses.fr/2023COAZ6029/document",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "senescence marker panel partial reversal aging model interpretation"
+      ],
+      "paper_id": "10.70675/7ae7d64fzb69dz45a9z8ad1z2a98dee95ead",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

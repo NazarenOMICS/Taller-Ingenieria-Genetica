@@ -1,0 +1,65 @@
+{
+  "slug": "q18-promotor-alkbh5-estres-envejecimiento",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento",
+  "goal": "Evaluar qué se sabe del promotor de ALKBH5 bajo estrés oxidativo o envejecimiento y cuánto de ese mecanismo puede extrapolarse a FTO por homología funcional.",
+  "dashboard": "ALKBH5 promoter under stress and aging",
+  "notebook_id": "2afd3883-300f-4a23-b1c5-30e8e9567722",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "direct-promoter-regulation",
+      "question": "According to these sources, what promoter-level mechanisms are directly reported to regulate ALKBH5 transcription?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/answers/2026-07-24 Q01 - according-to-these-sources-what-promoter.md"
+    },
+    {
+      "id": 2,
+      "theme": "oxidative-stress-aging",
+      "question": "Is ALKBH5 promoter regulation altered by oxidative stress, cellular senescence, or aging in any cell type?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/answers/2026-07-24 Q02 - alkbh5-promoter-regulation-altered-by-oxidative.md"
+    },
+    {
+      "id": 3,
+      "theme": "epigenetic-marks",
+      "question": "Are DNA methylation, H3K27ac/HDAC changes, or specific transcription factors implicated at the ALKBH5 promoter?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/answers/2026-07-24 Q03 - dna-methylation-h3k27ac-hdac-changes-or.md"
+    },
+    {
+      "id": 4,
+      "theme": "female-reproduction",
+      "question": "Is any ALKBH5 promoter-regulation evidence available specifically in ovarian, granulosa, or female reproductive contexts?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/answers/2026-07-24 Q04 - any-alkbh5-promoter-regulation-evidence-available.md"
+    },
+    {
+      "id": 5,
+      "theme": "transfer-to-fto",
+      "question": "Which ALKBH5 promoter-regulation mechanisms, if any, are reasonably transferable to FTO by functional analogy, and which are not?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/answers/2026-07-24 Q05 - which-alkbh5-promoter-regulation-mechanisms-if.md"
+    },
+    {
+      "id": 6,
+      "theme": "gaps",
+      "question": "What evidence gaps prevent a strong mechanistic extrapolation from ALKBH5 promoter regulation to FTO downregulation in granulosa aging?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/answers/2026-07-24 Q06 - what-evidence-gaps-prevent-strong-mechanistic.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q18-promotor-alkbh5-estres-envejecimiento/QA/summaries/2026-07-24 ALKBH5 promoter under stress and aging - NotebookLM block summary.md"
+}

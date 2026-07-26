@@ -1,0 +1,1029 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.3390/vetsci13050484",
+                        "title":  "Application of Gene Editing Technology in Poultry.",
+                        "doi":  "10.3390/vetsci13050484",
+                        "pmid":  "42188954",
+                        "pmcid":  "PMC13211502",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41992329",
+                        "title":  "Application of extracellular vesicles in the CRISPR-based diagnosis and treatment: possibilities and challenges.",
+                        "doi":  "10.1186/s13036-026-00673-6",
+                        "pmid":  "41992329",
+                        "pmcid":  "PMC13202827",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13109888",
+                        "title":  "CDH4/UBA1/RBMX axis promotes polycystic ovary syndrome progression through YAP1 activation.",
+                        "doi":  "10.1186/s11658-026-00900-4",
+                        "pmid":  "41882537",
+                        "pmcid":  "PMC13109888",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12963675",
+                        "title":  "Circular RNAs: Key Regulators of Tumor Metabolic Reprogramming and Clinical Translation.",
+                        "doi":  "10.32604/or.2026.075012",
+                        "pmid":  "41799520",
+                        "pmcid":  "PMC12963675",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.mtbio.2026.103334",
+                        "title":  "Delivering the future of immunotherapy: A state-of-the-art review of gene editing in immune cells with lipid nanoparticles.",
+                        "doi":  "10.1016/j.mtbio.2026.103334",
+                        "pmid":  "42326077",
+                        "pmcid":  "PMC13276603",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:engineering immortalized bovine granulosa cells using a triple gene approach mutant cdk4 cyclin d1 and tert",
+                        "title":  "Engineering Immortalized Bovine Granulosa Cells Using a Triple-Gene Approach: Mutant CDK4, Cyclin D1, and TERT.",
+                        "doi":  "10.1002/cbin.70126",
+                        "pmid":  "41562311",
+                        "pmcid":  "PMC12821082",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12917-026-05472-1",
+                        "title":  "Establishment and identification of immortalized sheep ovarian granulosa cells.",
+                        "doi":  "10.1186/s12917-026-05472-1",
+                        "pmid":  "42015225",
+                        "pmcid":  "PMC13255389",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13203232",
+                        "title":  "Expanding the Microbial Genomic Landscape and Biotechnological Applications of CRISPR-Cas Systems.",
+                        "doi":  "10.3390/biology15100748",
+                        "pmid":  "42187710",
+                        "pmcid":  "PMC13203232",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13236687",
+                        "title":  "Follicular fluid-derived exosomal LINC02701 promotes granulosa cell apoptosis through the GRP75-P53 axis in active endometriosis.",
+                        "doi":  "10.3389/fcell.2026.1805254",
+                        "pmid":  "42255479",
+                        "pmcid":  "PMC13236687",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:in vivo car based immune cell engineering future applications and challenges in malignant glioma",
+                        "title":  "In Vivo CAR-Based Immune Cell Engineering: Future Applications and Challenges in Malignant Glioma",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC13297562",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.2147/ijn.s603950",
+                        "title":  "Nanotechnology-Assisted Co-Delivery of Immunotherapeutic Agents for Targeting Ovarian Cancer: Prospects and Challenges.",
+                        "doi":  "10.2147/ijn.s603950",
+                        "pmid":  "42052515",
+                        "pmcid":  "PMC13117850",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13246158",
+                        "title":  "Next generation technologies for CRISPR-based epigenome and transcriptional modulation.",
+                        "doi":  "10.1016/j.cobme.2026.100654",
+                        "pmid":  "42266835",
+                        "pmcid":  "PMC13246158",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1893/bios-d-25-00014",
+                        "title":  "Optimization of sgRNA synthesis and transfection for use in CRISPR-Cas9 studies using RNP complex delivery",
+                        "doi":  "10.1893/bios-d-25-00014",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13047105",
+                        "title":  "Research progress and applications of gene activation editing technology in crops.",
+                        "doi":  "10.3389/fpls.2026.1787461",
+                        "pmid":  "41937789",
+                        "pmcid":  "PMC13047105",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12870249",
+                        "title":  "Atractylenolide III mitigates polycystic ovary syndrome by activating FDX1-mediated proliferation of ovarian granulocyte cells via PI3K/AKT/mTOR.",
+                        "doi":  "10.1186/s13048-025-01941-7",
+                        "pmid":  "41469708",
+                        "pmcid":  "PMC12870249",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:base and prime editing for inherited retinal diseases delivery platforms safety efficacy and translational perspectives",
+                        "title":  "Base and Prime Editing for Inherited Retinal Diseases: Delivery Platforms, Safety, Efficacy, and Translational Perspectives.",
+                        "doi":  "10.3390/pharmaceutics17111405",
+                        "pmid":  "41304743",
+                        "pmcid":  "PMC12655462",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1111/cpr.70099",
+                        "title":  "CRISPR Technology in Disease Management: An Updated Review of Clinical Translation and Therapeutic Potential.",
+                        "doi":  "10.1111/cpr.70099",
+                        "pmid":  "40685330",
+                        "pmcid":  "PMC12584872",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr based transcriptional regulation technologies applications and future directions",
+                        "title":  "CRISPR-based Transcriptional Regulation: Technologies, Applications, and Future Directions.",
+                        "doi":  "10.3390/dna5040057",
+                        "pmid":  "41877893",
+                        "pmcid":  "PMC13007986",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/advs.202416331",
+                        "title":  "Enhancing Specificity, Precision, Accessibility, Flexibility, and Safety to Overcome Traditional CRISPR/Cas Editing Challenges and Shape Future Innovations.",
+                        "doi":  "10.1002/advs.202416331",
+                        "pmid":  "40548648",
+                        "pmcid":  "PMC12302564",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:lentiviral vector production and primary astrocyte transduction v1",
+                        "title":  "Lentiviral vector production and primary astrocyte transduction v1",
+                        "doi":  "10.17504/protocols.io.x54v9rkb1v3e/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\shiyi_2025_lentiviral_vector_production_and_primary_astrocyte_transduction_v1.pdf",
+                        "notebook_source_id":  "e6a3dac9-a1f9-439e-b2d5-27221be0bad6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC11512240",
+                        "title":  "Applications of CRISPR/Cas as a Toolbox for Hepatitis B Virus Detection and Therapeutics.",
+                        "doi":  "10.3390/v16101565",
+                        "pmid":  "39459899",
+                        "pmcid":  "PMC11512240",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:comparing chemical transfection electroporation and lentiviral vector transduction to achieve optimal transfection conditions in the vero cell line",
+                        "title":  "Comparing Chemical Transfection, Electroporation, and Lentiviral Vector Transduction to Achieve Optimal Transfection Conditions in the Vero Cell Line",
+                        "doi":  "10.21203/rs.3.rs-3894744/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\parisa_2024_comparing_chemical_transfection_electroporation_and_lentiviral_vector_transduction.pdf",
+                        "notebook_source_id":  "9d9a547f-ffd6-4d9e-ab91-c261dc039904",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1134/s1062360424700176",
+                        "title":  "siRNA Transfection and Lentiviral Transduction of Primary Mouse Rete testis Cells",
+                        "doi":  "10.1134/s1062360424700176",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas mediated transcriptional modulation the therapeutic promises of crispra and crispri",
+                        "title":  "CRISPR-Cas-mediated transcriptional modulation: The therapeutic promises of CRISPRa and CRISPRi",
+                        "doi":  "10.1016/j.ymthe.2023.03.024",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas9 landscape current state and future perspectives",
+                        "title":  "CRISPR/Cas9 Landscape: Current State and Future Perspectives",
+                        "doi":  "10.3390/ijms242216077",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:delivery of rnp complexes for crispri dcas9 silencing in vitro and in vivo using crystalline ultrasmall particles cusp",
+                        "title":  "Delivery of RNP complexes for CRISPRi (dCas9) silencing in vitro and in vivo using crystalline ultrasmall particles (CUSP)",
+                        "doi":  "10.14293/p2199-8442.1.sop-.pegp0u.v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.yexcr.2023.113735",
+                        "title":  "Follicular fluid derived exosomal miR-4449 regulates cell proliferation and oxidative stress by targeting KEAP1 in human granulosa cell lines KGN and COV434",
+                        "doi":  "10.1016/j.yexcr.2023.113735",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:lp 60 bisphenol a and its effects on human ovarian granulosa cell line cov434",
+                        "title":  "LP-60: Bisphenol A and its effects on human ovarian granulosa cell line COV434",
+                        "doi":  "10.1016/s0378-4274(23)01023-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41578-022-00529-7",
+                        "title":  "Passive, active and endogenous organ-targeted lipid and polymer nanoparticles for delivery of genetic drugs",
+                        "doi":  "10.1038/s41578-022-00529-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41573-022-00476-6",
+                        "title":  "Engineering the next generation of cell-based therapeutics",
+                        "doi":  "10.1038/s41573-022-00476-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:protac targeted protein degraders the past is prologue",
+                        "title":  "PROTAC targeted protein degraders: the past is prologue",
+                        "doi":  "10.1038/s41573-021-00371-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41596-022-00755-x",
+                        "title":  "Preparation of selective organ-targeting (SORT) lipid nanoparticles (LNPs) using multiple technical methods for tissue-specific mRNA delivery",
+                        "doi":  "10.1038/s41596-022-00755-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.21203/rs.3.rs-595457/v1",
+                        "title":  "B2M gene knockout in HEK293T cells by non-viral delivery of CRISPR-Cas9 for the induction of universal cell",
+                        "doi":  "10.21203/rs.3.rs-595457/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\maryam_2021_b2m_gene_knockout_in_hek293t_cells_by_non.pdf",
+                        "notebook_source_id":  "4889edb3-a7e1-45ab-8152-5588ec74686b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:delivery platforms for crispr cas9 genome editing of glial cells in the central nervous system",
+                        "title":  "Delivery Platforms for CRISPR/Cas9 Genome Editing of Glial Cells in the Central Nervous System",
+                        "doi":  "10.3389/fgeed.2021.644319",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\vasco_2021_delivery_platforms_for_crispr_cas9_genome_editing_of.pdf",
+                        "notebook_source_id":  "99d3ebe1-2a63-4bdb-892d-c43febd4ccc6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:delivery of dcas9 crispr system into the hard transfection cells by magnetofection approach",
+                        "title":  "Delivery of dCas9 CRISPR System Into the Hard Transfection Cells by Magnetofection Approach",
+                        "doi":  "10.21203/rs.3.rs-999842/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\mahdi_2021_delivery_of_dcas9_crispr_system_into_the_hard.pdf",
+                        "notebook_source_id":  "ef6b9c38-d252-4057-b74d-b769b3a49afb",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:nanoparticle delivery of crispr cas9 for genome editing",
+                        "title":  "Nanoparticle Delivery of CRISPR/Cas9 for Genome Editing",
+                        "doi":  "10.3389/fgene.2021.673286",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\li_2021_nanoparticle_delivery_of_crispr_cas9_for_genome_editing.pdf",
+                        "notebook_source_id":  "2378b4db-1667-4f72-abd1-2d4c25b06f3e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1201/9781003088516-10",
+                        "title":  "Non-viral Alternatives to Delivery of CRISPR-Cas Gene Editing Components",
+                        "doi":  "10.1201/9781003088516-10",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mrna vaccines for infectious diseases principles delivery and clinical translation",
+                        "title":  "mRNA vaccines for infectious diseases: principles, delivery and clinical translation",
+                        "doi":  "10.1038/s41573-021-00283-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\namit_2021_mrna_vaccines_for_infectious_diseases_principles_delivery_and.pdf",
+                        "notebook_source_id":  "a5686856-9327-4718-b51c-bf7a372bd2f7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:advances in oligonucleotide drug delivery",
+                        "title":  "Advances in oligonucleotide drug delivery",
+                        "doi":  "10.1038/s41573-020-0075-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:engineering precision nanoparticles for drug delivery",
+                        "title":  "Engineering precision nanoparticles for drug delivery",
+                        "doi":  "10.1038/s41573-020-0090-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:exosomal micrornas derived from mesenchymal stem cells cell to cell messages",
+                        "title":  "Exosomal microRNAs derived from mesenchymal stem cells: cell-to-cell messages",
+                        "doi":  "10.1186/s12964-020-00650-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\kasra_2020_exosomal_micrornas_derived_from_mesenchymal_stem_cells_cell.pdf",
+                        "notebook_source_id":  "b61fc271-755d-41b5-9323-4611607f3066",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas genome editing and precision plant breeding in agriculture",
+                        "title":  "CRISPR/Cas Genome Editing and Precision Plant Breeding in Agriculture",
+                        "doi":  "10.1146/annurev-arplant-050718-100049",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dextran enhances the lentiviral transduction efficiency of murine and human primary nk cells",
+                        "title":  "Dextran Enhances the Lentiviral Transduction Efficiency of Murine and Human Primary NK Cells",
+                        "doi":  "10.1007/978-1-0716-0203-4_7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the crispr tool kit for genome editing and beyond",
+                        "title":  "The CRISPR tool kit for genome editing and beyond",
+                        "doi":  "10.1038/s41467-018-04252-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+                        "notebook_source_id":  "c3bdeabf-4cc2-410b-bba3-e392e9a634fc",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:comparative analysis of chimeric zfp tale and cas9 piggybac transposases for integration into a single locus in human cells",
+                        "title":  "Comparative analysis of chimeric ZFP-, TALE- and Cas9-piggyBac transposases for integration into a single locus in human cells.",
+                        "doi":  "10.1093/nar/gkx572",
+                        "pmid":  "28666380",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:effects of i nrf1 i on steroidogenesis and apoptosis in goat luteinized granulosa cells",
+                        "title":  "Effects of \u003ci\u003eNRF1\u003c/i\u003e on steroidogenesis and apoptosis in goat luteinized granulosa cells",
+                        "doi":  "10.1530/rep-16-0583",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas9 in genome editing and beyond",
+                        "title":  "CRISPR/Cas9 in Genome Editing and Beyond",
+                        "doi":  "10.1146/annurev-biochem-060815-014607",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:protein kinase a a master kinase of granulosa cell differentiation",
+                        "title":  "Protein Kinase A: A Master Kinase of Granulosa Cell Differentiation",
+                        "doi":  "10.1038/srep28132",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\pawan_2016_protein_kinase_a_a_master_kinase_of_granulosa.pdf",
+                        "notebook_source_id":  "31305405-136c-4a14-ac67-a4c7a8643837",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:gstt1 is upregulated by oxidative stress through p38 mk2 signaling pathway in human granulosa cells possible association with mitochondrial activity",
+                        "title":  "GSTT1 is upregulated by oxidative stress through p38-MK2 signaling pathway in human granulosa cells: possible association with mitochondrial activity",
+                        "doi":  "10.18632/aging.100418",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1210/en.2011-1147",
+                        "title":  "Micro-RNA378 (miR-378) Regulates Ovarian Estradiol Production by Targeting Aromatase",
+                        "doi":  "10.1210/en.2011-1147",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the ahr is constitutively activated and affects granulosa cell features in the human cell line kgn",
+                        "title":  "The AhR is constitutively activated and affects granulosa cell features in the human cell line KGN",
+                        "doi":  "10.1093/molehr/gaq074",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:46 production of lentivirus by transient transfection of hek 293t grown on spherical polystyrene microcarriers",
+                        "title":  "46. Production of Lentivirus by Transient Transfection of HEK 293T Grown on Spherical, Polystyrene Microcarriers",
+                        "doi":  "10.1016/s1525-0016(16)38404-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:prostaglandin e2 pge2 stimulates cell proliferation in the human ovarian granulosa like tumor cell line kgn",
+                        "title":  "PROSTAGLANDIN E2 (PGE2) STIMULATES CELL PROLIFERATION IN THE HUMAN OVARIAN GRANULOSA-LIKE TUMOR CELL LINE KGN",
+                        "doi":  "10.1093/biolreprod/77.s1.196",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/molehr/6.2.146",
+                        "title":  "Characterization of an immortalized human granulosa cell line (COV434)",
+                        "doi":  "10.1093/molehr/6.2.146",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acsami.8b03496.s001",
+                        "title":  "A Universal GSH-Responsive Nanoplatform for the Delivery of DNA, mRNA, and Cas9/sgRNA Ribonucleoprotein",
+                        "doi":  "10.1021/acsami.8b03496.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acsami.0c19217.s001",
+                        "title":  "CRISPR-dCas9-Guided and Telomerase-Responsive Nanosystem for Precise Anti-Cancer Drug Delivery",
+                        "doi":  "10.1021/acsami.0c19217.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acsami.0c19217.s002",
+                        "title":  "CRISPR-dCas9-Guided and Telomerase-Responsive Nanosystem for Precise Anti-Cancer Drug Delivery",
+                        "doi":  "10.1021/acsami.0c19217.s002",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acs.nanolett.5c03548.s001",
+                        "title":  "Cas9 Protein Outperforms mRNA in Lipid Nanoparticle-Mediated CFTR Repair",
+                        "doi":  "10.1021/acs.nanolett.5c03548.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:evaluation of mrna transfection reagents for mrna delivery and vaccine efficacy via intramuscular injection in mice",
+                        "title":  "Evaluation of mRNA Transfection Reagents for mRNA Delivery and Vaccine Efficacy via Intramuscular Injection in Mice",
+                        "doi":  "10.1021/acsabm.5c00424.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.33540/2788",
+                        "title":  "Ex vivo modification of natural killer cells: The Role of Lipid Nanoparticle-Mediated mRNA Delivery",
+                        "doi":  "10.33540/2788",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 2 lentivirus preparation and transfection detection",
+                        "title":  "Figure 2: Lentivirus preparation and transfection detection.",
+                        "doi":  "10.7717/peerj.5192/fig-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:in vitro engineering chimeric antigen receptor macrophages and t cells by lipid nanoparticle mediated mrna delivery",
+                        "title":  "In Vitro Engineering Chimeric Antigen Receptor Macrophages and T Cells by Lipid Nanoparticle-Mediated mRNA Delivery",
+                        "doi":  "10.1021/acsbiomaterials.1c01532.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.33540/2032",
+                        "title":  "Lipid Nanoparticle-Mediated Delivery of CRISPR-Cas9 for Therapeutic Gene Correction",
+                        "doi":  "10.33540/2032",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\johanna_1970_lipid_nanoparticle_mediated_delivery_of_crispr_cas9_for.pdf",
+                        "notebook_source_id":  "ea1fe141-5379-4ff8-ac86-5f991ab6c694",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.70675/12e7ffdczd5eaz4e82zb8edz9b36a9c93190",
+                        "title":  "Structural and functional investigations of designed histidine-rich peptides with potent antimicrobial, transfection, and lentiviral transduction activities",
+                        "doi":  "10.70675/12e7ffdczd5eaz4e82zb8edz9b36a9c93190",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q10-sistemas-entrega\\papers\\morane_1970_structural_and_functional_investigations_of_designed_histidine_rich.pdf",
+                        "notebook_source_id":  "bfefc5ef-436b-480f-8f4a-8db63eda72a6",
+                        "notes":  [
+
+                                  ]
+                    }
+                ]
+}

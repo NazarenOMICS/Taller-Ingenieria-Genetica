@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q02-h3k27ac-reversibilidad",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q02-h3k27ac-reversibilidad",
+    "goal":  "Determinar la magnitud y persistencia de la marca H3K27ac depositada por dCas9-p300, y cuanto dura la activacion transcripcional una vez retirado el editor (reversibilidad y control temporal).",
+    "notebook_title":  "dCas9-p300 H3K27ac reversibility (q02)",
+    "dashboard":  "dCas9-p300 H3K27ac reversibility",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T16:49:53",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q02-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\questions-q02-h3k27ac-reversibilidad.json",
+    "notebook_id":  "cc690df9-1e9b-4c72-873c-91e915a72f5d",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\tmp-sources-q02-h3k27ac-reversibilidad.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q02-h3k27ac-reversibilidad\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q02-h3k27ac-reversibilidad\" -Goal \"Determinar la magnitud y persistencia de la marca H3K27ac depositada por dCas9-p300, y cuanto dura la activacion transcripcional una vez retirado el editor (reversibilidad y control temporal).\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q02-queries.json\" -NotebookTitle \"dCas9-p300 H3K27ac reversibility (q02)\" -Dashboard \"dCas9-p300 H3K27ac reversibility\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"cc690df9-1e9b-4c72-873c-91e915a72f5d\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q02-h3k27ac-reversibilidad/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

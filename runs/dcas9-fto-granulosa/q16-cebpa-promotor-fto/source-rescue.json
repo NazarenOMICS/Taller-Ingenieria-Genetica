@@ -1,0 +1,677 @@
+﻿{
+    "date":  "2026-07-24",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.1038/s41421-025-00853-6",
+                        "title":  "Cell signaling and transcriptional regulation of osteoclast lineage commitment, differentiation, bone resorption and diseases.",
+                        "doi":  "10.1038/s41421-025-00853-6",
+                        "pmid":  "41559024",
+                        "pmcid":  "PMC12820293",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhu_2026_cell_signaling_and_transcriptional_regulation_of_osteoclast_lineage.pdf",
+                        "notebook_source_id":  "b32a372e-1346-4ba1-925f-4782441d7391",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12939906",
+                        "title":  "Inside the Battle Against Acute Myeloid Leukemia: Biology, Breakthroughs, and Hope.",
+                        "doi":  "10.3390/cells15040338",
+                        "pmid":  "41744781",
+                        "pmcid":  "PMC12939906",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\bao_2026_inside_the_battle_against_acute_myeloid_leukemia_biology.pdf",
+                        "notebook_source_id":  "29cddaf7-6675-465c-8270-1fc8bc3d179b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/metabo16030198",
+                        "title":  "Lifestyle Intervention Therapy Modulates Global DNA Methylation and Adipogenic Gene Expression in Severely Obese Hypogonadal Men.",
+                        "doi":  "10.3390/metabo16030198",
+                        "pmid":  "41893347",
+                        "pmcid":  "PMC13028031",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\bathina_2026_lifestyle_intervention_therapy_modulates_global_dna_methylation_and.pdf",
+                        "notebook_source_id":  "ebf9ffbe-4730-4f8b-870a-2b159e0b462c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/gad.353584.125",
+                        "title":  "Mechanisms coordinating exit from the stem cell state in mammals.",
+                        "doi":  "10.1101/gad.353584.125",
+                        "pmid":  "42156139",
+                        "pmcid":  "PMC13267984",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13144531",
+                        "title":  "Metabolic oxidoreductases: central regulators of the epigenetic landscapes in stemness.",
+                        "doi":  "10.1038/s12276-026-01687-2",
+                        "pmid":  "41974890",
+                        "pmcid":  "PMC13144531",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf",
+                        "notebook_source_id":  "b7016a9c-a199-43e4-9953-84ed5ec1fc11",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41960187",
+                        "title":  "RNA modifications in cancer stem cells: molecular mechanisms and targeted therapeutic strategies.",
+                        "doi":  "10.3389/fcell.2026.1818554",
+                        "pmid":  "41960187",
+                        "pmcid":  "PMC13057498",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhang_2026_rna_modifications_in_cancer_stem_cells_molecular_mechanisms.pdf",
+                        "notebook_source_id":  "dafa4963-1f75-44b4-b60c-0d87753d139c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/mco2.70767",
+                        "title":  "The Role of N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-Methyladenosine Modification in Health and Disease.",
+                        "doi":  "10.1002/mco2.70767",
+                        "pmid":  "42164653",
+                        "pmcid":  "PMC13183813",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+                        "notebook_source_id":  "90aebba3-66a1-4301-bf85-eca85c5f1972",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/cimb47070540",
+                        "title":  "Dynamic Rendition of Adipose Genes Under Epigenetic Regulation: Revealing New Mechanisms of Obesity Occurrence.",
+                        "doi":  "10.3390/cimb47070540",
+                        "pmid":  "40729009",
+                        "pmcid":  "PMC12293253",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\wen_2025_dynamic_rendition_of_adipose_genes_under_epigenetic_regulation.pdf",
+                        "notebook_source_id":  "cedd8a36-05c1-440d-b804-b2dab4e420bb",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:from bone marrow mesenchymal stem cells to diseases the crucial role of m lt sup gt 6 lt sup gt a methylation in orthopedics",
+                        "title":  "From bone marrow mesenchymal stem cells to diseases: the crucial role of m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A methylation in orthopedics.",
+                        "doi":  "10.1186/s13287-025-04364-9",
+                        "pmid":  "40329380",
+                        "pmcid":  "PMC12057228",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40520012",
+                        "title":  "HSF1 Activation Mechanisms, Disease Roles, and Small Molecule Therapeutics.",
+                        "doi":  "10.7150/ijbs.110447",
+                        "pmid":  "40520012",
+                        "pmcid":  "PMC12160081",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhang_2025_hsf1_activation_mechanisms_disease_roles_and_small_molecule.pdf",
+                        "notebook_source_id":  "17a93af7-16e9-49a5-9963-f5900686b186",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:hyperactivation of the m6a demethylase fto to down regulate slc7a11 xct mediated redox homeostasis and epigenetic remodeling in facial infiltrating lipomatosis",
+                        "title":  "Hyperactivation of the m6A demethylase FTO to down-regulate SLC7A11/xCT-mediated redox homeostasis and epigenetic remodeling in facial infiltrating lipomatosis.",
+                        "doi":  "10.1016/j.freeradbiomed.2025.08.001",
+                        "pmid":  "40769313",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.freeradbiomed.2025.04.051",
+                        "title":  "MSC-derived exosomes alleviate oxidative stress-induced lysosomal membrane permeabilization damage in degenerated nucleus pulposus cells via promoting m6A demethylation of Nrf2.",
+                        "doi":  "10.1016/j.freeradbiomed.2025.04.051",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:tead1 is a novel regulator of nrf2 and oxidative stress response in cardiomyocytes",
+                        "title":  "TEAD1 is a novel regulator of NRF2 and oxidative stress response in cardiomyocytes",
+                        "doi":  "10.1101/2025.04.06.647438",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\rajaganapathi_2025_tead1_is_a_novel_regulator_of_nrf2_and.pdf",
+                        "notebook_source_id":  "110b9dd5-8c51-4203-8655-5655597b4cf1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s40292-025-00739-4",
+                        "title":  "Targeting the Epigenetic Remodeler GCN5 Prevents Vascular Oxidative Stress and Endothelial Dysfunction in Obesity: Insights in Patients with Cardiometabolic Disease",
+                        "doi":  "10.1007/s40292-025-00739-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:increased fto expression demethylates xbp1 m6a thereby regulating xbp1 c ebp and promoting hepatocellular carcinoma growth",
+                        "title":  "Increased FTO Expression Demethylates XBP1 m6A, Thereby Regulating XBP1-C/EBPα and Promoting Hepatocellular Carcinoma Growth",
+                        "doi":  "10.23812/j.biol.regul.homeost.agents.20243806.384",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13578-024-01286-6",
+                        "title":  "Insights into the m6A demethylases FTO and ALKBH5 : structural, biological function, and inhibitor development",
+                        "doi":  "10.1186/s13578-024-01286-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf",
+                        "notebook_source_id":  "77b32edd-401b-46c3-a3b4-54c39ca43cf4",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/2024.05.17.594600",
+                        "title":  "Recruitment of CTCF to the SIRT1 promoter after Oxidative Stress mediates Cardioprotective Transcription",
+                        "doi":  "10.1101/2024.05.17.594600",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\tobias_2024_recruitment_of_ctcf_to_the_sirt1_promoter_after.pdf",
+                        "notebook_source_id":  "8d7b52a2-1f71-409a-82a5-ad8bc2e3a2fb",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC11390297",
+                        "title":  "Regulatory RNAs: role as scaffolds assembling protein complexes and their epigenetic deregulation.",
+                        "doi":  "10.37349/etat.2024.00252",
+                        "pmid":  "39280246",
+                        "pmcid":  "PMC11390297",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\poltronieri_2024_regulatory_rnas_role_as_scaffolds_assembling_protein_complexes.pdf",
+                        "notebook_source_id":  "bbba47b1-1607-4d63-986c-46b56d5913fa",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:39695216",
+                        "title":  "Role of N6-methyladenosine methylation in nasopharyngeal carcinoma: current insights and future prospective.",
+                        "doi":  "10.1038/s41420-024-02266-y",
+                        "pmid":  "39695216",
+                        "pmcid":  "PMC11655975",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\zhao_2024_role_of_n6_methyladenosine_methylation_in_nasopharyngeal_carcinoma.pdf",
+                        "notebook_source_id":  "fac254ff-a2ec-409a-b5fb-9010c7d1681f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:correction c ebp confers dependence to fatty acid anabolic pathways and vulnerability to lipid oxidative stress induced ferroptosis in i flt3 i mutant leukemia",
+                        "title":  "Correction: C/EBPα Confers Dependence to Fatty Acid Anabolic Pathways and Vulnerability to Lipid Oxidative Stress–Induced Ferroptosis in \u003ci\u003eFLT3\u003c/i\u003e-Mutant Leukemia",
+                        "doi":  "10.1158/2159-8290.cd-23-0768",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic regulation in metabolic diseases mechanisms and advances in clinical study",
+                        "title":  "Epigenetic regulation in metabolic diseases: mechanisms and advances in clinical study",
+                        "doi":  "10.1038/s41392-023-01333-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+                        "notebook_source_id":  "4bc3b656-6f3c-4156-9b8a-0e2b04829156",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:rna modification mechanisms and therapeutic targets",
+                        "title":  "RNA modification: mechanisms and therapeutic targets",
+                        "doi":  "10.1186/s43556-023-00139-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+                        "notebook_source_id":  "873aa51b-e325-4f52-b9c9-73f6121b425f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12935-022-02452-x",
+                        "title":  "Dynamic regulation and functions of mRNA m6A modification",
+                        "doi":  "10.1186/s12935-022-02452-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\shanshan_2022_dynamic_regulation_and_functions_of_mrna_m6a_modification.pdf",
+                        "notebook_source_id":  "a9a0c44c-e955-4e59-b1ee-06f6488e0008",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC9743968",
+                        "title":  "M6A RNA Methylation-Based Epitranscriptomic Modifications in Plasticity-Related Genes via miR-124-C/EBPα-FTO-Transcriptional Axis in the Hippocampus of Learned Helplessness Rats.",
+                        "doi":  "10.1093/ijnp/pyac068",
+                        "pmid":  "36161325",
+                        "pmcid":  "PMC9743968",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:bach1 the master regulator of oxidative stress has a dual effect on cftr expression",
+                        "title":  "BACH1, the master regulator of oxidative stress, has a dual effect on CFTR expression",
+                        "doi":  "10.1042/bcj20210252",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/2020.07.14.202580",
+                        "title":  "Cyclin C promoter occupancy directs changes in stress-dependent transcription",
+                        "doi":  "10.1101/2020.07.14.202580",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\david_2020_cyclin_c_promoter_occupancy_directs_changes_in_stress.pdf",
+                        "notebook_source_id":  "411716c6-f7f5-4525-92ec-700ed74167e3",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:role of m6a rna methylation in cardiovascular disease review",
+                        "title":  "Role of m6A RNA methylation in cardiovascular disease (Review)",
+                        "doi":  "10.3892/ijmm.2020.4746",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\yuhan_2020_role_of_m6a_rna_methylation_in_cardiovascular_disease.pdf",
+                        "notebook_source_id":  "78c3cc6e-bf56-44c9-952d-359d7f67ce31",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1158/0008-5472.can-18-2965",
+                        "title":  "The Critical Role of RNA m6A Methylation in Cancer",
+                        "doi":  "10.1158/0008-5472.can-18-2965",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12943-019-1033-z",
+                        "title":  "The role of m6A RNA methylation in human cancer",
+                        "doi":  "10.1186/s12943-019-1033-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q16-cebpa-promotor-fto\\papers\\xiaoyu_2019_the_role_of_m6a_rna_methylation_in_human.pdf",
+                        "notebook_source_id":  "460db9d7-a7e9-4035-9a8e-9f762be0c457",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:zfp217 mediates m6a mrna methylation to orchestrate transcriptional and post transcriptional regulation to promote adipogenic differentiation",
+                        "title":  "Zfp217 mediates m6A mRNA methylation to orchestrate transcriptional and post-transcriptional regulation to promote adipogenic differentiation",
+                        "doi":  "10.1093/nar/gkz312",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1161/circulationaha.118.033794",
+                        "title":  "FTO-Dependent N \u003csup\u003e6\u003c/sup\u003e -Methyladenosine Regulates Cardiac Function During Remodeling and Repair",
+                        "doi":  "10.1161/circulationaha.118.033794",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the genetics of transcription factor dna binding variation",
+                        "title":  "The Genetics of Transcription Factor DNA Binding Variation",
+                        "doi":  "10.1016/j.cell.2016.07.012",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:24877091",
+                        "title":  "CCAAT/enhancer-binding protein α is a crucial regulator of human fat mass and obesity associated gene transcription and expression.",
+                        "doi":  "10.1155/2014/406909",
+                        "pmid":  "24877091",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/9781118148143.ch23",
+                        "title":  "Orchestration of Oxidative Stress Responses in\u003ci\u003eDrosophila melanogaster\u003c/i\u003e: A Promoter Analysis Study of Circadian Regulatory Motifs",
+                        "doi":  "10.1002/9781118148143.ch23",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-1-60761-411-1_29",
+                        "title":  "Mapping of Oxidative Stress Response Elements of the Caveolin-1 Promoter",
+                        "doi":  "10.1007/978-1-60761-411-1_29",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a novel subgroup of poor prognostic aml with low cebpa expression cebpa promoter hypermethylation and dnmt3b overexpression",
+                        "title":  "A Novel Subgroup of Poor Prognostic AML with Low CEBPA Expression, CEBPA Promoter Hypermethylation and DNMT3b Overexpression.",
+                        "doi":  "10.1182/blood.v104.11.418.418",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:differential binding of transcription factor e2f 2 to the endothelin converting enzyme 1b promoter affects blood pressure regulation",
+                        "title":  "Differential binding of transcription factor E2F-2 to the endothelin-converting enzyme-1b promoter affects blood pressure regulation",
+                        "doi":  "10.1093/hmg/ddg040",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:differential binding of transcription factor e2f 2 to the endothelin converting enzyme 1b promoter affects blood pressure regulation",
+                        "title":  "Differential binding of transcription factor E2F-2 to the endothelin-converting enzyme-1b promoter affects blood pressure regulation",
+                        "doi":  "10.1093/hmg/ddg091",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:differential binding of transcription factor e2f 2 to the endothelin converting enzyme 1b promoter affects blood pressure regulation",
+                        "title":  "Differential binding of transcription factor E2F-2 to the endothelin-converting enzyme-1b promoter affects blood pressure regulation",
+                        "doi":  "10.1093/hmg/12.4.423",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/s1567-5688(02)80390-7",
+                        "title":  "Regulation of human CETP gene promoter activity: Role of multiple binding sites for SP1 and SP3 transcription factors",
+                        "doi":  "10.1016/s1567-5688(02)80390-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.12944/fig-10",
+                        "title":  "Figure 10: RFX5 activates IER3 transcription by binding to the IER3 promoter region.",
+                        "doi":  "10.7717/peerj.12944/fig-10",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:supplementary file 7 gene expression profile of genes with fxr1 occupancy at promoter",
+                        "title":  "Supplementary file 7. Gene expression profile of genes with FXR1 occupancy at promoter.",
+                        "doi":  "10.7554/elife.26129.053",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

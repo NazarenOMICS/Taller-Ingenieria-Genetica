@@ -1,0 +1,65 @@
+{
+  "slug": "q05-fto-m6a-edad",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q05-fto-m6a-edad",
+  "goal": "Determinar como varian la expresion de FTO y el nivel global de m6A en el ovario y en la granulosa con la edad, y con que tecnicas se cuantifican de forma sitio-especifica.",
+  "dashboard": "FTO m6A vs age ovary",
+  "notebook_id": "dc4c4ee0-31fa-4a55-bf26-101bc3f90e8e",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, how does FTO expression change in the ovary or granulosa cells with age, and in which direction (increase or decrease)?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/answers/2026-07-14 Q01 - according-to-these-sources-how-does.md"
+    },
+    {
+      "id": 2,
+      "theme": "core-evidence",
+      "question": "According to these sources, how does the global level of m6A RNA methylation change in ovarian or granulosa cell tissue with age?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/answers/2026-07-14 Q02 - according-to-these-sources-how-does.md"
+    },
+    {
+      "id": 3,
+      "theme": "methods",
+      "question": "What techniques do these sources describe for quantifying m6A methylation in a site-specific manner (e.g., MeRIP-seq, SELECT, miCLIP, m6A-seq), and what are their resolution and sensitivity trade-offs?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/answers/2026-07-14 Q03 - what-techniques-do-these-sources-describe.md"
+    },
+    {
+      "id": 4,
+      "theme": "methods",
+      "question": "What are the known limitations or technical artifacts in detecting m6A changes with current methods, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/answers/2026-07-14 Q04 - what-known-limitations-or-technical-artifacts.md"
+    },
+    {
+      "id": 5,
+      "theme": "context",
+      "question": "According to the single-nuclei/single-cell multi-omics studies of human ovarian aging in this corpus, what molecular and genetic changes accompany ovarian aging, and how do they relate to FTO or m6A regulation?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/answers/2026-07-14 Q05 - according-to-single-nuclei-single-cell.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding a direct, quantitative, age-stratified measurement of FTO expression and m6A levels specifically in human granulosa cells (as opposed to other ovarian cell types or other tissues)?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/answers/2026-07-14 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/summaries/2026-07-14 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/summaries/2026-07-14 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/summaries/2026-07-14 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q05-fto-m6a-edad/QA/summaries/2026-07-14 FTO m6A vs age ovary - NotebookLM block summary.md"
+}

@@ -1,0 +1,227 @@
+{
+  "notebook_id": "dc4c4ee0-31fa-4a55-bf26-101bc3f90e8e",
+  "notebook_title": "FTO m6A vs age ovary (q05)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "2a1205a7-6c05-4025-9895-e23756488c3d",
+      "title": "alexa_2020_limits_in_the_detection_of_m6a_changes_using.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:26"
+    },
+    {
+      "index": 2,
+      "id": "3372fcf9-37db-4de2-86bf-31db1d82ce4e",
+      "title": "chen_2025_molecular_and_genetic_insights_into_human_ovarian_aging.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:27"
+    },
+    {
+      "index": 3,
+      "id": "4a74b4f5-4b81-44d0-bed4-3c35cb1c19f9",
+      "title": "honey_2025_editorial_genetics_and_epigenetics_in_ovarian_aging.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:27"
+    },
+    {
+      "index": 4,
+      "id": "bb18f0f7-bf7f-4cc9-89f1-79f5aaf0034e",
+      "title": "lijie_2023_igf2bp3_promotes_the_progression_of_colorectal_cancer_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:32"
+    },
+    {
+      "index": 5,
+      "id": "4fb245f7-ff43-4553-bbba-19b1ee3976be",
+      "title": "liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:32"
+    },
+    {
+      "index": 6,
+      "id": "6a575c4c-1d24-42bc-b917-535ee20f7fd8",
+      "title": "mengmeng_2024_exploring_the_transcriptomic_and_m6a_landscape_of_human.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:33"
+    },
+    {
+      "index": 7,
+      "id": "40d7a237-1688-481d-bcf5-a779854f50ee",
+      "title": "ngela_2014_multi_tissue_omics_analyses_reveal_molecular_regulatory_networks.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:37"
+    },
+    {
+      "index": 8,
+      "id": "8947bfd2-0fd0-4f17-91f7-023b79737549",
+      "title": "paz_2021_the_role_of_m6a_m5c_and_rna_modifications.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:39"
+    },
+    {
+      "index": 9,
+      "id": "42bbe382-b02e-40b9-8f42-4b556b22d3b6",
+      "title": "seth_2018_nuclear_m6a_reader_ythdc1_regulates_alternative_polyadenylation_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:38"
+    },
+    {
+      "index": 10,
+      "id": "2ef01ce0-edd2-4362-8d63-2c310cf8c22c",
+      "title": "shaoke_2022_the_transcriptome_wide_n6_methyladenosine_m6a_map_profiling.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:39"
+    },
+    {
+      "index": 11,
+      "id": "6fdc6f28-2fb4-41e4-948a-8fe14fca320f",
+      "title": "shenglan_2024_ovarian_aging_energy_metabolism_of_oocytes.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:44"
+    },
+    {
+      "index": 12,
+      "id": "52f24062-c7a4-4b85-b4c5-70d4ca9170d7",
+      "title": "wei_chao_2022_autophagy_induction_promoted_by_m6a_reader_ythdf3_through.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:48"
+    },
+    {
+      "index": 13,
+      "id": "09cabdd7-aa5f-4063-8f4e-a7e5e153c2ee",
+      "title": "xia_2024_comprehensive_analysis_of_key_m6a_rna_modification_related.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:57"
+    },
+    {
+      "index": 14,
+      "id": "11c76313-c2c3-4091-9c25-d8166b8067e0",
+      "title": "xiangyu_2024_single_cell_sequencing_to_multi_omics_technologies_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:48"
+    },
+    {
+      "index": 15,
+      "id": "42ebf8ae-ab1c-42d0-a625-3b694f03b8d5",
+      "title": "xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:48"
+    },
+    {
+      "index": 16,
+      "id": "51374def-102f-45f8-9989-6805140bf4c1",
+      "title": "xiaoyan_2022_the_role_of_m6a_on_female_reproduction_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:49"
+    },
+    {
+      "index": 17,
+      "id": "8d746a55-832f-47aa-a1a4-6bb7ed9aefba",
+      "title": "xin_2025_m6a_rna_immunoprecipitation_merip_v1.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:57"
+    },
+    {
+      "index": 18,
+      "id": "8981acab-0b0b-4721-899c-38d903781cab",
+      "title": "xin_2025_select_based_quantification_of_site_specific_m6a_modification.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:55"
+    },
+    {
+      "index": 19,
+      "id": "78eb198c-d445-4154-aaf5-4a6ab7061229",
+      "title": "xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:21:55"
+    },
+    {
+      "index": 20,
+      "id": "e0920d07-a23b-4b79-ac9e-65541f0ddb36",
+      "title": "yunbing_2024_reading_the_m6a_encoded_epitranscriptomic_information_in_development.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:22:03"
+    },
+    {
+      "index": 21,
+      "id": "030de63a-313f-49b7-bbff-49d90bedfc48",
+      "title": "yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:22:03"
+    },
+    {
+      "index": 22,
+      "id": "76fa542e-c1dc-4f69-8104-fda2fc2cbd7e",
+      "title": "zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T16:22:00"
+    }
+  ],
+  "count": 22
+}

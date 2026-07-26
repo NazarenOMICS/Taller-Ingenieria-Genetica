@@ -1,0 +1,1269 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "PMID:41915085",
+                        "title":  "Cancer and aging: complex associations and therapeutic targets.",
+                        "doi":  "10.1186/s43556-026-00423-6",
+                        "pmid":  "41915085",
+                        "pmcid":  "PMC13038835",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s10522-026-10401-8",
+                        "title":  "Critical roles of m6A demethylase FTO in ovarian aging",
+                        "doi":  "10.1007/s10522-026-10401-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13167426",
+                        "title":  "Epigenetic alterations in cancer metastasis: molecular mechanisms and implications for precision oncology.",
+                        "doi":  "10.3389/fonc.2026.1788808",
+                        "pmid":  "42137145",
+                        "pmcid":  "PMC13167426",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42050634",
+                        "title":  "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+                        "doi":  "10.1186/s13072-026-00664-3",
+                        "pmid":  "42050634",
+                        "pmcid":  "PMC13274177",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13238957",
+                        "title":  "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+                        "doi":  "10.3892/mmr.2026.13913",
+                        "pmid":  "42169659",
+                        "pmcid":  "PMC13238957",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/biom16010098",
+                        "title":  "FTO-Eci1 Axis Mediates Exercise-Induced Cardioprotection in Pressure Overload Mice.",
+                        "doi":  "10.3390/biom16010098",
+                        "pmid":  "41594638",
+                        "pmcid":  "PMC12839096",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42098356",
+                        "title":  "FTO-mediated m6A demethylation regulates PGC-1α-dependent mitochondrial biogenesis to attenuate aluminum-induced neuronal senescence.",
+                        "doi":  "10.1038/s41598-026-51674-w",
+                        "pmid":  "42098356",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\jin_2026_fto_mediated_m6a_demethylation_regulates_pgc_1_dependent.pdf",
+                        "notebook_source_id":  "6acfff22-f3bb-4872-b6ad-17bf610bd1bc",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:from passive supplementation to active repair melatonin reshapes the treatment paradigm for late onset hypogonadism by targeting leydig cell senescence",
+                        "title":  "From \"Passive Supplementation\" to \"Active Repair\": Melatonin Reshapes the Treatment Paradigm for Late-Onset Hypogonadism by Targeting Leydig Cell Senescence.",
+                        "doi":  "10.1111/acel.70492",
+                        "pmid":  "42083130",
+                        "pmcid":  "PMC13139645",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41832537",
+                        "title":  "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+                        "doi":  "10.1186/s12967-026-07990-w",
+                        "pmid":  "41832537",
+                        "pmcid":  "PMC13101344",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.2174/0113816128423816251229112509",
+                        "title":  "Jiawei Zaoqi Decoction Attenuates Polycystic Ovary Syndrome by Inhibiting AGE-RAGE-Mediated Cell Senescence of Granulosa Cells.",
+                        "doi":  "10.2174/0113816128423816251229112509",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mesenchymal stem cell therapy for premature ovarian insufficiency progress and challenges",
+                        "title":  "Mesenchymal stem cell therapy for premature ovarian insufficiency: progress and challenges.",
+                        "doi":  "10.1186/s13048-026-01976-4",
+                        "pmid":  "41634747",
+                        "pmcid":  "PMC12964609",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/stcltm/szaf069",
+                        "title":  "Molecular time machines unleashed: small-molecule-driven reprogramming to reverse the senescence.",
+                        "doi":  "10.1093/stcltm/szaf069",
+                        "pmid":  "41528804",
+                        "pmcid":  "PMC12798543",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12929-026-01254-x",
+                        "title":  "NUPR1 as a central stress-adaptation node in cancer: integrating metabolic rewiring, cell death, and therapy resistance.",
+                        "doi":  "10.1186/s12929-026-01254-x",
+                        "pmid":  "42104400",
+                        "pmcid":  "PMC13156883",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:promises of reprogramming induced rejuvenation",
+                        "title":  "Promises of reprogramming-induced rejuvenation.",
+                        "doi":  "10.1016/j.gde.2026.102484",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13092963",
+                        "title":  "RNA Modifications: Current Understandings and Future Perspectives",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC13092963",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41616571",
+                        "title":  "Redox-sensitive N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-methyladenosine RNA epitranscriptomic mechanisms in environmental stress and hazard.",
+                        "doi":  "10.1016/j.redox.2026.104017",
+                        "pmid":  "41616571",
+                        "pmcid":  "PMC12874273",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12979385",
+                        "title":  "The PANoptotic mosaic of rheumatoid arthritis: epitranscriptomic regulation, systemic relays, and precision death-mode editing.",
+                        "doi":  "10.3389/fimmu.2026.1785209",
+                        "pmid":  "41836433",
+                        "pmcid":  "PMC12979385",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/mco2.70767",
+                        "title":  "The Role of N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-Methyladenosine Modification in Health and Disease.",
+                        "doi":  "10.1002/mco2.70767",
+                        "pmid":  "42164653",
+                        "pmcid":  "PMC13183813",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13269875",
+                        "title":  "The YTHDC1-m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A-GADD45B axis promotes chondrogenesis of hPDLSCs via suppressing senescence through p53/p21 signalling pathway.",
+                        "doi":  "10.1038/s41368-026-00441-8",
+                        "pmid":  "42297785",
+                        "pmcid":  "PMC13269875",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:vsmcs and the immune microenvironment a multidimensional regulatory network driving vascular injury and repair",
+                        "title":  "VSMCs and the immune microenvironment: a multidimensional regulatory network driving vascular injury and repair.",
+                        "doi":  "10.3389/fimmu.2026.1844567",
+                        "pmid":  "42327765",
+                        "pmcid":  "PMC13278886",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fimmu.2025.1534263",
+                        "title":  "Cellular senescence: from homeostasis to pathological implications and therapeutic strategies",
+                        "doi":  "10.3389/fimmu.2025.1534263",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\chunhong_2025_cellular_senescence_from_homeostasis_to_pathological_implications_and.pdf",
+                        "notebook_source_id":  "bc197e68-1265-4f98-9939-916ee9822780",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12238725",
+                        "title":  "Depletion of Fat Mass and Obesity-Associated Protein (FTO) Drives Heterochromatin Loss via Lysine Acetyltransferase 8 (KAT8)-Mediated Remodeling and Spacing Factor 1 (RSF1) Acetylation in Skin Aging.",
+                        "doi":  "10.1002/mco2.70205",
+                        "pmid":  "40636284",
+                        "pmcid":  "PMC12238725",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41147645",
+                        "title":  "ISEV2025 Abstract Book.",
+                        "doi":  "10.1002/jev2.70157",
+                        "pmid":  "41147645",
+                        "pmcid":  "PMC12560119",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.semcancer.2025.06.007",
+                        "title":  "Navigating the paradox of senescence and chemoresistance in pancreatic cancer",
+                        "doi":  "10.1016/j.semcancer.2025.06.007",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12273787",
+                        "title":  "Nicotinamide boosts oocyte quantity and quality by promoting N4-acetylation modification in lupus mice.",
+                        "doi":  "10.1126/sciadv.adu0955",
+                        "pmid":  "40680131",
+                        "pmcid":  "PMC12273787",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:polystyrene nanoplastics induce ovarian granulosa cell senescence via autophagy suppression",
+                        "title":  "Polystyrene nanoplastics induce ovarian granulosa cell senescence via autophagy suppression.",
+                        "doi":  "10.1016/j.impact.2025.100607",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for parp inhibitors induce a senescence phenotype in non small cell lung carcinoma cell lines",
+                        "title":  "Review for \"PARP inhibitors induce a senescence phenotype in non-small cell lung carcinoma cell lines\"",
+                        "doi":  "10.1002/2211-5463.70206/v1/review2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for parp inhibitors induce a senescence phenotype in non small cell lung carcinoma cell lines",
+                        "title":  "Review for \"PARP inhibitors induce a senescence phenotype in non-small cell lung carcinoma cell lines\"",
+                        "doi":  "10.1002/2211-5463.70206/v2/review2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/2211-5463.70206/v1/review1",
+                        "title":  "Review for \"PARP inhibitors induce a senescence phenotype in non-small cell lung carcinoma cell lines\"",
+                        "doi":  "10.1002/2211-5463.70206/v1/review1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:hnrnpa2b1 restrains granulosa cell ferroptosis by m6a slc7a11 in premature ovarian failure",
+                        "title":  "hnRNPA2B1 restrains granulosa cell ferroptosis by m6A/SLC7A11 in premature ovarian failure",
+                        "doi":  "10.1186/s13048-025-01718-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.yexmp.2025.104970",
+                        "title":  "m6A demethylase FTO/ALKBH5 promotes diabetes-induced endothelial cell dysfunction by negatively regulating lncRNA H19.",
+                        "doi":  "10.1016/j.yexmp.2025.104970",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC11627200",
+                        "title":  "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC11627200",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:an update on chronic complications of diabetes mellitus from molecular mechanisms to therapeutic strategies with a focus on metabolic memory",
+                        "title":  "An update on chronic complications of diabetes mellitus: from molecular mechanisms to therapeutic strategies with a focus on metabolic memory",
+                        "doi":  "10.1186/s10020-024-00824-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\tongyue_2024_an_update_on_chronic_complications_of_diabetes_mellitus.pdf",
+                        "notebook_source_id":  "361d8f4c-bab4-41bd-9ec1-d3cd940e43e1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.semcancer.2024.11.003",
+                        "title":  "Decoding T cell senescence in cancer: Is revisiting required?",
+                        "doi":  "10.1016/j.semcancer.2024.11.003",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:drug tolerant persister cell plasticity in cancer a revolutionary strategy for more effective anticancer therapies",
+                        "title":  "Drug tolerant persister cell plasticity in cancer: a revolutionary strategy for more effective anticancer therapies",
+                        "doi":  "10.1038/s41392-024-01891-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\jun_2024_drug_tolerant_persister_cell_plasticity_in_cancer_a.pdf",
+                        "notebook_source_id":  "9ff6b866-8cc2-4572-801f-ce8a1f106891",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fto overexpressing extracellular vesicles from bm mscs reverse cellular senescence and aging to ameliorate osteoarthritis by modulating mettl3 ythdf2 mediated rna m6a modifications",
+                        "title":  "FTO-overexpressing extracellular vesicles from BM-MSCs reverse cellular senescence and aging to ameliorate osteoarthritis by modulating METTL3/YTHDF2-mediated RNA m6A modifications.",
+                        "doi":  "10.1016/j.ijbiomac.2024.134600",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fat mass and obesity associated protein regulates granulosa cell aging by targeting matrix metalloproteinase 2 gene via an n6 methyladenosine yt521 b homology domain family member 2 dependent pathway in aged mice",
+                        "title":  "Fat Mass and Obesity-Associated Protein Regulates Granulosa Cell Aging by Targeting Matrix Metalloproteinase-2 Gene Via an N6-Methyladenosine-YT521-B Homology Domain Family Member 2-Dependent Pathway in Aged Mice",
+                        "doi":  "10.1007/s43032-024-01632-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\linshuang_2024_fat_mass_and_obesity_associated_protein_regulates_granulosa.pdf",
+                        "notebook_source_id":  "849d09ed-6e74-4251-b4b2-3383ca35df31",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7150/thno.89105",
+                        "title":  "Klotho-derived peptide 1 inhibits cellular senescence in the fibrotic kidney by restoring Klotho expression via posttranscriptional regulation",
+                        "doi":  "10.7150/thno.89105",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xiaoyao_2024_klotho_derived_peptide_1_inhibits_cellular_senescence_in.pdf",
+                        "notebook_source_id":  "6162da10-76df-4095-9b7c-1cc41eb1be82",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a demethylase fto stabilized exosomal circbrca1 alleviates oxidative stress induced granulosa cell damage via the mir 642a 5p foxo1 axis",
+                        "title":  "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis",
+                        "doi":  "10.1186/s12951-024-02583-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+                        "notebook_source_id":  "ae9c7c2b-a763-4a01-bf87-5936480a5cd3",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:understanding the complexity of p53 in a new era of tumor suppression",
+                        "title":  "Understanding the complexity of p53 in a new era of tumor suppression",
+                        "doi":  "10.1016/j.ccell.2024.04.009",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:bone marrow mesenchymal stem cells reversed ovarian aging related m6a rna methylation modification profile in aged granulosa cells",
+                        "title":  "Bone Marrow Mesenchymal Stem Cells Reversed Ovarian Aging-related m6A RNA Methylation Modification Profile in Aged Granulosa Cells",
+                        "doi":  "10.1007/s12015-022-10485-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\chuan_2023_bone_marrow_mesenchymal_stem_cells_reversed_ovarian_aging.pdf",
+                        "notebook_source_id":  "5084f8c0-6a03-497a-9f39-8df3e7db9287",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cellular senescence in intervertebral disc aging and degeneration molecular mechanisms and potential therapeutic opportunities",
+                        "title":  "Cellular Senescence in Intervertebral Disc Aging and Degeneration: Molecular Mechanisms and Potential Therapeutic Opportunities",
+                        "doi":  "10.3390/biom13040686",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:decreased expression of m6a demethylase alkbh5 in decidua contributes to preeclampsia via m6a corin hur pathway",
+                        "title":  "Decreased expression of m6A demethylase ALKBH5 in decidua contributes to preeclampsia via m6A-CORIN-HuR pathway",
+                        "doi":  "10.1016/j.gendis.2022.05.032",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a demethylase alkbh5 regulates foxo1 mrna stability and chemoresistance in triple negative breast cancer",
+                        "title":  "M6A demethylase ALKBH5 regulates FOXO1 mRNA stability and chemoresistance in triple-negative breast cancer",
+                        "doi":  "10.1016/j.redox.2023.102993",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mettl3 mediated m6a modification of sirt1 mrna inhibits progression of endometriosis by cellular senescence enhancing",
+                        "title":  "METTL3-mediated m6A modification of SIRT1 mRNA inhibits progression of endometriosis by cellular senescence enhancing",
+                        "doi":  "10.1186/s12967-023-04209-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xiaotong_2023_mettl3_mediated_m6a_modification_of_sirt1_mrna_inhibits.pdf",
+                        "notebook_source_id":  "c06c0648-d8cd-4f4d-bbad-0bff36233bc4",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:methylation across the central dogma in health and diseases new therapeutic strategies",
+                        "title":  "Methylation across the central dogma in health and diseases: new therapeutic strategies",
+                        "doi":  "10.1038/s41392-023-01528-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+                        "notebook_source_id":  "06a2fc49-f120-493b-a886-c49d3610aab1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:rna m6a demethylase alkbh5 drives emergency granulopoiesis and neutrophil mobilization by upregulating g csfr expression",
+                        "title":  "RNA m6A demethylase ALKBH5 drives emergency granulopoiesis and neutrophil mobilization by upregulating G-CSFR expression",
+                        "doi":  "10.21203/rs.3.rs-2676926/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\xuetao_2023_rna_m6a_demethylase_alkbh5_drives_emergency_granulopoiesis_and.pdf",
+                        "notebook_source_id":  "8657d6e5-0793-42b1-bedb-42e0dcc2639d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41580-022-00568-6",
+                        "title":  "Regulation of adult stem cell quiescence and its functions in the maintenance of tissue integrity",
+                        "doi":  "10.1038/s41580-022-00568-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the runx family of proteins dna repair and cancer",
+                        "title":  "The RUNX Family of Proteins, DNA Repair, and Cancer",
+                        "doi":  "10.3390/cells12081106",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the epigenetic regulatory mechanisms of ferroptosis and its implications for biological processes and diseases",
+                        "title":  "The epigenetic regulatory mechanisms of ferroptosis and its implications for biological processes and diseases",
+                        "doi":  "10.1002/mco2.267",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-022-01251-0",
+                        "title":  "Aging and aging-related diseases: from molecular mechanisms to interventions and treatments",
+                        "doi":  "10.1038/s41392-022-01251-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\jun_2022_aging_and_aging_related_diseases_from_molecular_mechanisms.pdf",
+                        "notebook_source_id":  "d511821e-d081-4872-a993-c11e223498fc",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dna damage sirtuins and epigenetic marks",
+                        "title":  "DNA damage, sirtuins, and epigenetic marks",
+                        "doi":  "10.1016/b978-0-323-91081-1.00016-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/b978-0-323-91081-1.00009-1",
+                        "title":  "Epigenetic therapy and DNA damage response",
+                        "doi":  "10.1016/b978-0-323-91081-1.00009-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s13238-022-00914-6",
+                        "title":  "FTO stabilizes MIS12 and counteracts senescence",
+                        "doi":  "10.1007/s13238-022-00914-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\sheng_2022_fto_stabilizes_mis12_and_counteracts_senescence.pdf",
+                        "notebook_source_id":  "abae144a-0f6c-408f-aa4a-dc8d56c2810d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:impact of m6a demethylase alkbh5 fto genetic polymorphism and expression levels on the development of pulmonary tuberculosis",
+                        "title":  "Impact of m6A demethylase (ALKBH5, FTO) genetic polymorphism and expression levels on the development of pulmonary tuberculosis",
+                        "doi":  "10.3389/fcimb.2022.1074380",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\tian_ping_2022_impact_of_m6a_demethylase_alkbh5_fto_genetic_polymorphism.pdf",
+                        "notebook_source_id":  "e9d79878-11e7-4921-b94c-f5790187f314",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/biom12030367",
+                        "title":  "The Role of Epigenetic Modifications in Human Cancers and the Use of Natural Compounds as Epidrugs: Mechanistic Pathways and Pharmacodynamic Actions",
+                        "doi":  "10.3390/biom12030367",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12943-022-01500-4",
+                        "title":  "The role of m6A RNA methylation in cancer metabolism",
+                        "doi":  "10.1186/s12943-022-01500-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\yuanyuan_2022_the_role_of_m6a_rna_methylation_in_cancer.pdf",
+                        "notebook_source_id":  "256f6716-0887-4c97-be18-5319cedcfd3f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.21203/rs.3.rs-929583/v1",
+                        "title":  "Overexpression of FTO Protects Human Granulosa Cells From Cisplatin-Induced Injury",
+                        "doi":  "10.21203/rs.3.rs-929583/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\rongli_2021_overexpression_of_fto_protects_human_granulosa_cells_from.pdf",
+                        "notebook_source_id":  "614b5d0d-476d-4a20-9d32-2c8f5679b68c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/2021.03.11.434795",
+                        "title":  "REPRODUCTIVE SENESCENCE IMPAIRS THE ENERGY METABOLISM OF HUMAN GRANULOSA CELLS",
+                        "doi":  "10.1101/2021.03.11.434795",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\gustavo_2021_reproductive_senescence_impairs_the_energy_metabolism_of_human.pdf",
+                        "notebook_source_id":  "b3155f99-7d2a-4d5c-a635-3963d12c8951",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the m6a mrna demethylase fto in granulosa cells retards fos dependent ovarian aging",
+                        "title":  "The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging",
+                        "doi":  "10.1038/s41419-021-04016-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+                        "notebook_source_id":  "f11f61e4-7feb-4173-891a-954a3663eccb",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a demethylase fto induces nell2 expression by inhibiting e2f1 m6a modification leading to metastasis of non small cell lung cancer",
+                        "title":  "m6A demethylase FTO induces NELL2 expression by inhibiting E2F1 m6A modification leading to metastasis of non-small cell lung cancer",
+                        "doi":  "10.1016/j.omto.2021.04.011",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.redox.2020.101431",
+                        "title":  "Excessive oxidative stress in cumulus granulosa cells induced cell senescence contributes to endometriosis-associated infertility",
+                        "doi":  "10.1016/j.redox.2020.101431",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic dysregulation at the crossroad of women s cancer",
+                        "title":  "Epigenetic Dysregulation at the Crossroad of Women’s Cancer",
+                        "doi":  "10.3390/cancers11081193",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcell.2019.00128",
+                        "title":  "Reprogramming the Epigenome With Vitamin C",
+                        "doi":  "10.3389/fcell.2019.00128",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\taylor_2019_reprogramming_the_epigenome_with_vitamin_c.pdf",
+                        "notebook_source_id":  "e5f7dc35-b0bc-42e1-a30d-432e870e83da",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12967-015-0746-z",
+                        "title":  "Milk: an epigenetic amplifier of FTO-mediated transcription? Implications for Western diseases",
+                        "doi":  "10.1186/s12967-015-0746-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\bodo_2015_milk_an_epigenetic_amplifier_of_fto_mediated_transcription.pdf",
+                        "notebook_source_id":  "627d9f19-8b80-4323-ab8f-0ae8326edbb0",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1371/journal.pgen.1004160",
+                        "title":  "Genome-Wide DNA Methylation Analysis of Human Pancreatic Islets from Type 2 Diabetic and Non-Diabetic Donors Identifies Candidate Genes That Influence Insulin Secretion",
+                        "doi":  "10.1371/journal.pgen.1004160",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\tasnim_2014_genome_wide_dna_methylation_analysis_of_human_pancreatic.pdf",
+                        "notebook_source_id":  "7a431cfa-183e-4f43-a052-29798bd486e5",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.5772/32905",
+                        "title":  "Central Immune Senescence, Reversal Potentials",
+                        "doi":  "10.5772/32905",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.5772/22527",
+                        "title":  "DNA Damage Caused by Polycyclic Aromatic Hydrocarbons: Mechanisms and Markers",
+                        "doi":  "10.5772/22527",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/embor.2009.197",
+                        "title":  "RelA/p65 functions to maintain cellular senescence by regulating genomic stability and DNA repair",
+                        "doi":  "10.1038/embor.2009.197",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.2478/s11658-006-0065-8",
+                        "title":  "Partial reversal of transformed fusiform phenotype by overexpression of calreticulin",
+                        "doi":  "10.2478/s11658-006-0065-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\michal_2007_partial_reversal_of_transformed_fusiform_phenotype_by_overexpression.pdf",
+                        "notebook_source_id":  "1ffc2618-e0f9-40e9-b657-7b60e4e01679",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dysfunction of lamin a triggers a dna damage response and cellular senescence",
+                        "title":  "Dysfunction of lamin A triggers a DNA damage response and cellular senescence",
+                        "doi":  "10.1016/j.dnarep.2005.10.007",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:erratum to dysfunction of lamin a triggers a dna damage response and cellular senescence dna repair 5 2006 286 289",
+                        "title":  "Erratum to “Dysfunction of lamin A triggers a DNA damage response and cellular senescence” [DNA Repair 5 (2006) 286–289]",
+                        "doi":  "10.1016/j.dnarep.2006.02.006",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:faculty opinions recommendation of full reversal of alzheimer s disease like phenotype in a mouse model with conditional overexpression of glycogen synthase kinase 3",
+                        "title":  "Faculty Opinions recommendation of Full reversal of Alzheimer\u0027s disease-like phenotype in a mouse model with conditional overexpression of glycogen synthase kinase-3.",
+                        "doi":  "10.3410/f.1033262.375792",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 4 source data 4 processed phenotype data for the c15iso rescue experiment used to generate figure 4c",
+                        "title":  "Figure 4—source data 4. Processed phenotype data for the C15ISO rescue experiment (Used to generate Figure 4C).",
+                        "doi":  "10.7554/elife.40260.065",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:metabolic consequences of dna damage and cellular senescence",
+                        "title":  "Metabolic consequences of DNA damage and cellular senescence",
+                        "doi":  "10.33612/diss.854164577",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:role of fto in dna damage response",
+                        "title":  "Role of FTO in DNA damage response",
+                        "doi":  "10.14264/aee8925",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:senescence and the senescence associated secretory phenotype in salivary hypofunction",
+                        "title":  "Senescence And The Senescence Associated Secretory Phenotype In Salivary Hypofunction",
+                        "doi":  "10.54014/2f5r-h13w",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\papers\\quetsia_1970_senescence_and_the_senescence_associated_secretory_phenotype_in.pdf",
+                        "notebook_source_id":  "bc95eb8d-3c7a-480a-aaaf-be7b1aacb71f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:table 1 llps of dna repair factors and their function in dna damage repair",
+                        "title":  "Table 1: LLPS of DNA repair factors and their function in DNA damage repair.",
+                        "doi":  "10.7717/peerj.19402/table-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:table 2 dna damage induced cell cycle arrest and senescence",
+                        "title":  "Table 2: DNA damage-induced cell cycle arrest and senescence.",
+                        "doi":  "10.7717/peerj.20087/table-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

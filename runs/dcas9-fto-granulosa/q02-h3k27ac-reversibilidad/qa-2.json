@@ -1,0 +1,140 @@
+{
+  "answer": "Based on the sources, the H3K27ac deposited by **dCas9-p300** is primarily described as being localized to the **targeted genomic sites**, though its regulatory reach can extend significantly through the three-dimensional organization of the genome [1, 2].\n\n### Localized Deposition\n*   **Targeted Sites:** Sources characterize the deposition as occurring \"at its target sites\" or specifically at \"target promoter sites\" [2, 3]. It is used to induce \"local H3K27ac levels\" at enhancer elements [4]. \n*   **Mimicking Endogenous Patterns:** The patterns of H3K27ac deposition by dCas9-p300 are noted to be **similar to those caused by endogenous inductions**, such as estrogen (E2) treatment, which typically produces defined peaks at specific binding sites rather than long-range linear spreading [5].\n\n### Regional and Interacting Reach\n*   **Co-enrichment at Distal Promoters:** While the primary deposition is at the target, dCas9-p300 can catalyze **H3K27ac enrichment at distal promoters** that are physically brought into proximity with a targeted enhancer through **chromatin looping** [6]. For instance, targeting dCas9-p300 to the β-globin HS2 enhancer resulted in robust H3K27ac enrichment at the distal HBE and HBG promoters [6].\n*   **Hyper-acetylation of Regions:** One source indicates that dCas9-p300 may **\"hyper-acetylate\"** a targeted region [7]. This regional effect can lead to the activation of multiple nearby genes within the same neighborhood [7].\n*   **Distance of Effect:** In a study of the 1p36.23 risk locus, targeting dCas9-p300 to an enhancer resulted in the upregulation of genes located approximately **200 kb upstream** (such as *TNFRSF9* and *PARK7*), likely because these genes interact with the target site via pre-existing chromatin loops [7, 8].\n\n### Comparison to Repressive Spreading\nThe sources contrast the reach of p300 with modifiers like **dCas9-KRAB**, which is explicitly associated with **\"spreading\"** repressive marks (like H3K9me3) across **tens of kilobases** through self-reinforcing linear mechanisms [9-11]. While p300 can affect distant loci, the sources suggest this occurs primarily through **3D topological interactions** rather than linear propagation along the DNA strand [6, 7].",
+  "conversation_id": "31b7bdae-6e31-4dde-8fc0-83e695d2298f",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "dc4d41b8-886d-4432-8106-3548a3efece1",
+      "citation_number": 1,
+      "cited_text": "Manipulating the epigenome and gene expression using TEMs and TTFs So far only a few studies have been published reporting the use of dCas9 fusions for epigenome editing and manipulating gene expression. The catalytic histone acetyltransferase (HAT) core domain p300 has been used to catalyse acetylation of histones in human HEK293T cells (Hilton et al., 2015). Targeting dCas9–p300 fusions to promoter regions or proximal or distant enhancers caused activation of gene expression. Increased expression upon enhancer-targeting was concomitant with enrichment in H3K27ac at the correspond- ing genomic target sites (Hilton et al., 2015). In most cases the same genes could be transactivated by dCas9-VP64 when targeted at promoters. To achieve transactivation both effectors can thus be used. The two effectors behave somewhat differently in terms of their impact on histone acetylation state, as p300 directly catalyses H3K27ac (Ogryzko et al., 1996; Delvecchio et al., 2013), whereas VP64 recruits subsequent transactivation components, amongst which is p300 (Memedula and Belmont, 2003). Also the histone acetyltransferase domain of the CREB-binding protein has been fused to dCas9 (dCas9-CBPHAT) and has been used to catalyse locus-specific acetylation of histones (Cheng et al., 2016). dCas9-CBPHAT was targeted using the Casilio (CRISPR/Cas9-Pumilio) system, which harbours an scRNA containing multiple PUF binding sites (PBS), to recruit additional CBPHAT domains via fusions with Pumilio/FBF (PUF) RNA-binding domains. Similar to dCas9-p300, targeting dCas9-CBPHAT to promoters or proximal and distal enhancer",
+      "start_char": 28021,
+      "end_char": 29638,
+      "chunk_id": "e843203f-e6f4-40f3-980b-fcdb31a4352e",
+      "passage_id": null,
+      "answer_start_char": 28021,
+      "answer_end_char": 29638,
+      "score": 0.7872425744426631
+    },
+    {
+      "source_id": "ef2385fb-8cf8-4a81-8feb-54f1e1bffa5b",
+      "citation_number": 2,
+      "cited_text": null,
+      "start_char": 0,
+      "end_char": 1,
+      "chunk_id": "b972e2f2-20f3-4286-a452-336a7655fc9f",
+      "passage_id": null,
+      "answer_start_char": 0,
+      "answer_end_char": 1320,
+      "score": 0.783727708568861
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 3,
+      "cited_text": "proved functional or biochemical specificity have been explored. One key strategy is to truncate chromatinmodifying enzymes to their catalytic core domains. A notable recent example involved the human co-activator protein p300, which functions as a histone acetyltransferase and mediates interactions with multiple transcription",
+      "start_char": 18762,
+      "end_char": 19090,
+      "chunk_id": "8e4dd3d5-42ad-4699-a435-ce90a38bd5ca",
+      "passage_id": null,
+      "answer_start_char": 18762,
+      "answer_end_char": 20161,
+      "score": 0.7890209095619639
+    },
+    {
+      "source_id": "39014e8c-7acc-4cc3-a3f5-d58c8e8ff055",
+      "citation_number": 4,
+      "cited_text": "is to locally deposit H3K27ac marks. Therefore, in contrast to the local reduction of enhancer marks by dCas9-LSD1, recruitment of histone acetyl transferase P300 through dCas9 fusion (dCas9-P300) resulted in a significant increase in local H3K27ac levels at enhancer elements142. Importantly, unlike other dCas9-fused transactivators, which can result in induction of gene expression primarily from promoter regions, targeting dCas9-P300 allows significant gene expression induction from both promoter and enhancer regions142. Researchers have also exploited other epigenetic modifiers to manipulate additional epigenetic marks. Among these, dCas9 fusion to the PRDM9 methyltransferase fusion complex has been utilized to manipulate local H3K4me3 marks143. Notably, local induction of H3K4me3, which is a marker of active promoters, was observed to be sufficient to allow re-expression of silenced target genes in various cell types143. Histone de-acetylation has been another strategy to locally manipulate chromatin structure and function. To this end, dCas9 fusion to histone deacetylases (HDAC), specifically full-length HDAC3, has been shown to effectively reduce the H3k27ac at the target loci and reduce the gene expression of the target loci144.",
+      "start_char": 44456,
+      "end_char": 45711,
+      "chunk_id": "30027a39-bb31-4bbb-9d32-6bac20bb4145",
+      "passage_id": null,
+      "answer_start_char": 44456,
+      "answer_end_char": 45711,
+      "score": 0.8209999347357858
+    },
+    {
+      "source_id": "87749aac-5085-4394-86b9-8bf9e67fadd4",
+      "citation_number": 5,
+      "cited_text": "fusions were able to cause H3K27ac at targeted sites. For 18 of 19 targeted loci, we observed increased H3K27ac (Figs 2C and D, and S2C–G). Notably, at HES2-1 and HES2-3, there is significant baseline H3K27ac present, possibly because of the binding of other TFs to these sites (Table S2). For ERBSs, the patterns of acetylation are similar to E2-induced H3K27ac (Figs 2E and F, and S2D and E). We observed similar fold changes in H3K27ac when using dCas9-VP16(10x) and when using dCas9-p300(core) targeted to ERBSs",
+      "start_char": 13921,
+      "end_char": 14437,
+      "chunk_id": "c33cd48b-8452-4b97-98ab-fc7a24bd7714",
+      "passage_id": null,
+      "answer_start_char": 13921,
+      "answer_end_char": 14437,
+      "score": 0.8368699335302459
+    },
+    {
+      "source_id": "ef2385fb-8cf8-4a81-8feb-54f1e1bffa5b",
+      "citation_number": 6,
+      "cited_text": "relative dCas9p300 Coremediated acetylation at the genomic target site. To quantify targeted H3K27 acetylation by dCas9p300 Core, we performed chromatin immunoprecipitation with an antiH3K27ac antibody followed by quantitative PCR (ChIPqPCR) in HEK293T cells cotransfected with four HS2 enhancer-targeted gRNAs and either dCas9, dCas9<supVP64</sup, dCas9p300 Core or dCas9p300 Core (D1399Y) (Fig. 4). We analyzed three amplicons at or around the target site in the HS2 enhancer or within the promoter regions of the HBE and HBG genes (Fig. 4a). Notably, H3K27ac is enriched in each of these regions in the human K562 erythroid cell line, which has a high level of globin gene expression (Fig. 4a). We observed significant H3K27ac enrichment at the HS2 enhancer target locus compared to treatment with dCas9 in both the dCas9<supVP64</sup (P = 0.0056 for ChIP Region 1 and P = 0.0029 for ChIP Region 3) and dCas9p300 Core (P = 0.0013 for ChIP Region 1 and P = 0.0069 for ChIP Region 3) cotransfected samples (Fig. 4b). A similar trend of H3K27ac enrichment was also observed when targeting the IL1RN promoter with dCas9<supVP64</sup or dCas9p300 Core (Supplementary Fig. 4). In contrast to these increases in H3K27ac at the target sites by both dCas9<supVP64</sup and dCas9p300 Core, robust enrichment in H3K27ac at the HS2regulated HBE and HBG promoters was observed only with dCas9p300 Core treatment (Fig. 4c,d). Together these results demonstrate that dCas9p300 Core uniquely catalyzes H3K27ac enrichment at gRNAtargeted loci and at enhancertargeted distal promoters. Therefore, the acetylation established by dCas9p300 Core at HS2 may catalyze enhancer activity in a manner distinct from direct recruitment of preinitiation complex components by dCas9<supVP64</sup (refs. 27,28), as indicated by the distal activation of the HBE, HBG",
+      "start_char": 18488,
+      "end_char": 20326,
+      "chunk_id": "1b5cd753-9900-438d-9263-82af2c5b5951",
+      "passage_id": null,
+      "answer_start_char": 18488,
+      "answer_end_char": 20326,
+      "score": 0.8387655027000371
+    },
+    {
+      "source_id": "317ddae5-cca6-41b7-8cdb-6d93e8cad29c",
+      "citation_number": 7,
+      "cited_text": "is a direct histone acetylase. As previous Capture Hi-C data shows a clear interaction between 244",
+      "start_char": 22698,
+      "end_char": 22797,
+      "chunk_id": "797ca16e-48bb-4ee9-bcc2-284fa2d7be6b",
+      "passage_id": null,
+      "answer_start_char": 22698,
+      "answer_end_char": 23263,
+      "score": 0.8237157286009679
+    },
+    {
+      "source_id": "317ddae5-cca6-41b7-8cdb-6d93e8cad29c",
+      "citation_number": 8,
+      "cited_text": "cells. Promoter-capture Hi-C and H3K27Ac HiChIP showed keratinocyte-specific interactions 11",
+      "start_char": 2360,
+      "end_char": 2453,
+      "chunk_id": "3d2a4ded-438b-49b9-8aeb-f33ebf64ed78",
+      "passage_id": null,
+      "answer_start_char": 2360,
+      "answer_end_char": 2916,
+      "score": 0.7753807431208583
+    },
+    {
+      "source_id": "39014e8c-7acc-4cc3-a3f5-d58c8e8ff055",
+      "citation_number": 9,
+      "cited_text": null,
+      "start_char": 32335,
+      "end_char": 32336,
+      "chunk_id": "9ae429f9-af08-4dd4-9feb-62ab7f32e1c5",
+      "passage_id": null,
+      "answer_start_char": 32335,
+      "answer_end_char": 33308,
+      "score": 0.7593852527883682
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 10,
+      "cited_text": "successfully to perturb chromatin structure and these studies suggest that continued work in this area could reveal important and potentially useful regulatory principles relating to chromatin shape. For example, an ectopic repressor assay using a drug-inducible ZF-KRAB fusion protein demonstrated that KRAB-mediated repression spans tens of kilobases and is established by the longrange propagation of H3K9me3 and HP1 β [119]. This and similar approaches [38, 81] provide us with the unique ability to regulate multiple genes in tandem using a single regulator. Furthermore, transcriptional activators and repressors that are recruited site-specifically to regions more than 1 kb downstream of promoters can activate [120] and repress [121] yeast genes, respectively, when they are placed near telomeres. This effect “at a distance” is mediated by a telomere-position effect in yeast, which is analogous to the position effect variegation",
+      "start_char": 46326,
+      "end_char": 47266,
+      "chunk_id": "2341af07-ac25-4be7-b9ed-2c035cced7ea",
+      "passage_id": null,
+      "answer_start_char": 46326,
+      "answer_end_char": 47266,
+      "score": 0.7574259237911303
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 11,
+      "cited_text": null,
+      "start_char": 52983,
+      "end_char": 52984,
+      "chunk_id": "78335fef-eb18-4691-b344-d17ad2946159",
+      "passage_id": null,
+      "answer_start_char": 52983,
+      "answer_end_char": 53644,
+      "score": 0.7574100291483445
+    }
+  ]
+}

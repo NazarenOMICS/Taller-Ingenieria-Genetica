@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q15-promotor-fto-silenciamiento",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q15-promotor-fto-silenciamiento",
+    "goal":  "Determinar qué mecanismo promotor explica la disminución transcripcional de FTO en granulosa humana bajo estrés oxidativo o envejecimiento: metilación de ADN, pérdida de H3K27ac/HDAC, represores específicos o alteraciones del promotor.",
+    "notebook_title":  "FTO promoter silencing mechanism (q15)",
+    "dashboard":  "FTO promoter silencing mechanism",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T17:18:31",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q15-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\questions-q15-promotor-fto-silenciamiento.json",
+    "notebook_id":  "94a0c438-1289-4298-8dd5-65b4049413e7",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\tmp-sources-q15-promotor-fto-silenciamiento.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q15-promotor-fto-silenciamiento\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q15-promotor-fto-silenciamiento\" -Goal \"Determinar qué mecanismo promotor explica la disminución transcripcional de FTO en granulosa humana bajo estrés oxidativo o envejecimiento: metilación de ADN, pérdida de H3K27ac/HDAC, represores específicos o alteraciones del promotor.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q15-queries.json\" -NotebookTitle \"FTO promoter silencing mechanism (q15)\" -Dashboard \"FTO promoter silencing mechanism\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"94a0c438-1289-4298-8dd5-65b4049413e7\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q15-promotor-fto-silenciamiento/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

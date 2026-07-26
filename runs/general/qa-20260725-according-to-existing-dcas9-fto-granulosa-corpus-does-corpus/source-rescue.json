@@ -1,0 +1,1493 @@
+﻿{
+    "date":  "2026-07-25",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.3389/fgene.2026.1781322",
+                        "title":  "Chromatin remodeling and epigenetic regulation in chronic kidney disease.",
+                        "doi":  "10.3389/fgene.2026.1781322",
+                        "pmid":  "41607591",
+                        "pmcid":  "PMC12844562",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\liang_2026_chromatin_remodeling_and_epigenetic_regulation_in_chronic_kidney.pdf",
+                        "notebook_source_id":  "54b55002-ad09-4951-8adc-7a8342418739",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic regulation of uterine smooth muscle tumors histone modifications in uterine fibroids and leiomyosarcoma",
+                        "title":  "Epigenetic Regulation of Uterine Smooth Muscle Tumors: Histone Modifications in Uterine Fibroids and Leiomyosarcoma.",
+                        "doi":  "10.3390/biology15110838",
+                        "pmid":  "42274489",
+                        "pmcid":  "PMC13255634",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf",
+                        "notebook_source_id":  "783ccec9-c97d-4b79-92dd-63ad792dcbf1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fonc.2026.1788808",
+                        "title":  "Epigenetic alterations in cancer metastasis: molecular mechanisms and implications for precision oncology.",
+                        "doi":  "10.3389/fonc.2026.1788808",
+                        "pmid":  "42137145",
+                        "pmcid":  "PMC13167426",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\turna_2026_epigenetic_alterations_in_cancer_metastasis_molecular_mechanisms_and.pdf",
+                        "notebook_source_id":  "0bc32b0d-e300-4598-9c05-5b43e4bba49f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic deciphering of ovarian aging multilayer interactive mechanisms and targeted reversal strategies",
+                        "title":  "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+                        "doi":  "10.1186/s13072-026-00664-3",
+                        "pmid":  "42050634",
+                        "pmcid":  "PMC13274177",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:histone modifications in cardiovascular disease mechanisms and therapeutic opportunities",
+                        "title":  "Histone Modifications in Cardiovascular Disease: Mechanisms and Therapeutic Opportunities.",
+                        "doi":  "10.1002/mco2.70765",
+                        "pmid":  "42137184",
+                        "pmcid":  "PMC13168874",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zheng_2026_histone_modifications_in_cardiovascular_disease_mechanisms_and_therapeutic.pdf",
+                        "notebook_source_id":  "c9bbeed5-72fa-4d65-a9e0-bc2b9179f8e2",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13101344",
+                        "title":  "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+                        "doi":  "10.1186/s12967-026-07990-w",
+                        "pmid":  "41832537",
+                        "pmcid":  "PMC13101344",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mechanisms coordinating exit from the stem cell state in mammals",
+                        "title":  "Mechanisms coordinating exit from the stem cell state in mammals.",
+                        "doi":  "10.1101/gad.353584.125",
+                        "pmid":  "42156139",
+                        "pmcid":  "PMC13267984",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s12276-026-01687-2",
+                        "title":  "Metabolic oxidoreductases: central regulators of the epigenetic landscapes in stemness.",
+                        "doi":  "10.1038/s12276-026-01687-2",
+                        "pmid":  "41974890",
+                        "pmcid":  "PMC13144531",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf",
+                        "notebook_source_id":  "d24d3814-2dfd-4f3f-9293-b4986c8f5bca",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13199325",
+                        "title":  "Methylation-centric epigenetic regulation in dilated cardiomyopathy: mechanisms, metabolic interplay, and translational potential.",
+                        "doi":  "10.3389/fcvm.2026.1785320",
+                        "pmid":  "42199200",
+                        "pmcid":  "PMC13199325",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+                        "notebook_source_id":  "f1240a3b-cad6-4e40-a2ed-154a96ead657",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13059-026-04037-7",
+                        "title":  "RNA modification-mediated multidimensional crosstalk: a novel perspective on gene expression regulation.",
+                        "doi":  "10.1186/s13059-026-04037-7",
+                        "pmid":  "41918117",
+                        "pmcid":  "PMC13162458",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41994484",
+                        "title":  "Regulatory risk loci link disrupted androgen response to the pathophysiology of polycystic ovary syndrome.",
+                        "doi":  "10.1210/jendso/bvag083",
+                        "pmid":  "41994484",
+                        "pmcid":  "PMC13080274",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf",
+                        "notebook_source_id":  "e997c129-e1e0-4578-84b3-68df1eacb61b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13154011",
+                        "title":  "The role of epigenetic modifications in cancer-associated fibroblasts.",
+                        "doi":  "10.3389/fmed.2026.1780734",
+                        "pmid":  "42110420",
+                        "pmcid":  "PMC13154011",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+                        "notebook_source_id":  "9fb92386-3808-4aab-9342-f0c5deabfea7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC11696521",
+                        "title":  "Abstracts",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC11696521",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:eacr 2025 congress innovative cancer science 16 19 june 2025",
+                        "title":  "EACR 2025 Congress: Innovative Cancer Science, 16-19 June 2025.",
+                        "doi":  "10.1002/1878-0261.70070",
+                        "pmid":  "40498965",
+                        "pmcid":  "PMC12155586",
+                        "required":  false,
+                        "status":  "downloaded",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2025_eacr_2025_congress_innovative_cancer_science_16_19.pdf",
+                        "notebook_source_id":  null,
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41062456",
+                        "title":  "Fosl2 facilitates chromatin accessibility to determine developmental events during follicular maturation.",
+                        "doi":  "10.1038/s41467-025-64009-6",
+                        "pmid":  "41062456",
+                        "pmcid":  "PMC12508199",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf",
+                        "notebook_source_id":  "21a7130c-4097-451f-ae93-36bc5bbe7de0",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1080/19490976.2025.2508426",
+                        "title":  "Implications of gut microbiota-mediated epigenetic modifications in intestinal diseases",
+                        "doi":  "10.1080/19490976.2025.2508426",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:lactylation of hdac1 confers resistance to ferroptosis in colorectal cancer",
+                        "title":  "Lactylation of HDAC1 Confers Resistance to Ferroptosis in Colorectal Cancer",
+                        "doi":  "10.1002/advs.202408845",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40620015",
+                        "title":  "Mechanism of crosstalk between DNA methylation and histone acetylation and related advances in diagnosis and treatment of premature ovarian failure.",
+                        "doi":  "10.1080/15592294.2025.2528563",
+                        "pmid":  "40620015",
+                        "pmcid":  "PMC12239803",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\li_2025_mechanism_of_crosstalk_between_dna_methylation_and_histone.pdf",
+                        "notebook_source_id":  "6a6d226c-85cd-4ecb-9a19-18cf71d9c195",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abstracts from the 57th european society of human genetics eshg conference hybrid posters",
+                        "title":  "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC11627200",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/ejendo/lvae156",
+                        "title":  "Association of childhood dehydroepiandrosterone sulfate concentration, pubertal development, and DNA methylation at puberty-related genes",
+                        "doi":  "10.1093/ejendo/lvae156",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/1878-0261.13683",
+                        "title":  "EACR 2024: Innovative Cancer Science, 10-13 June 2024, Rotterdam, Netherlands.",
+                        "doi":  "10.1002/1878-0261.13683",
+                        "pmid":  "38845177",
+                        "pmcid":  "PMC11156946",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf",
+                        "notebook_source_id":  "5da70603-0e26-4d12-b491-cc8656d34d10",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:genetically engineered mouse models of small cell lung cancer the next generation",
+                        "title":  "Genetically-engineered mouse models of small cell lung cancer: the next generation",
+                        "doi":  "10.1038/s41388-023-02929-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13578-024-01286-6",
+                        "title":  "Insights into the m6A demethylases FTO and ALKBH5 : structural, biological function, and inhibitor development",
+                        "doi":  "10.1186/s13578-024-01286-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf",
+                        "notebook_source_id":  "62eb760e-a2cc-4f8f-bf33-d6dbe1ed2f58",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:posters",
+                        "title":  "Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC11208286",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:protocol for allele specific epigenome editing using crispr dcas9",
+                        "title":  "Protocol for Allele-Specific Epigenome Editing Using CRISPR/dCas9",
+                        "doi":  "10.1007/978-1-0716-4051-7_9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12943-024-02023-w",
+                        "title":  "Regulatory mechanisms of PD-1/PD-L1 in cancers",
+                        "doi":  "10.1186/s12943-024-02023-w",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\xin_2024_regulatory_mechanisms_of_pd_1_pd_l1_in.pdf",
+                        "notebook_source_id":  "0ca08473-75f4-4079-8b42-652157141af9",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.89594.3.sa2",
+                        "title":  "Reviewer #3 (Public Review): Cell-type-specific cis-regulatory divergence in gene expression and chromatin accessibility revealed by human-chimpanzee hybrid cells",
+                        "doi":  "10.7554/elife.89594.3.sa2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fendo.2024.1399757",
+                        "title":  "The role of epigenetics in women’s reproductive health: the impact of environmental factors",
+                        "doi":  "10.3389/fendo.2024.1399757",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+                        "notebook_source_id":  "aa6ea71d-4a7e-4575-a383-d599d1802289",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.molcel.2023.06.024",
+                        "title":  "A lncRNA from the FTO locus acts as a suppressor of the m6A writer complex and p53 tumor suppression signaling",
+                        "doi":  "10.1016/j.molcel.2023.06.024",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abstracts from the 55th european society of human genetics eshg conference hybrid posters",
+                        "title":  "Abstracts from the 55th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC10198255",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1080/21541264.2023.2222032",
+                        "title":  "Emerging insights into enhancer biology and function",
+                        "doi":  "10.1080/21541264.2023.2222032",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC9981733",
+                        "title":  "Epigenetic regulation in metabolic diseases: mechanisms and advances in clinical study.",
+                        "doi":  "10.1038/s41392-023-01333-7",
+                        "pmid":  "36864020",
+                        "pmcid":  "PMC9981733",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\wu_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+                        "notebook_source_id":  "364544e1-42b3-44bb-a9bd-cdd2a3afae0a",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:methyltransferase 3a mediated promoter methylation represses retinoic acid receptor responder 3 expression in basal like breast cancer",
+                        "title":  "Methyltransferase 3A-mediated promoter methylation represses retinoic acid receptor responder 3 expression in basal-like breast cancer",
+                        "doi":  "10.32604/biocell.2023.025250",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\youlin_2023_methyltransferase_3a_mediated_promoter_methylation_represses_retinoic_acid.pdf",
+                        "notebook_source_id":  "8cf35ef8-f0a4-4b67-b4b2-c3961c39665d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.14336/ad.2023.0527",
+                        "title":  "Oocyte Aging: A Multifactorial Phenomenon in A Unique Cell",
+                        "doi":  "10.14336/ad.2023.0527",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\pawe_2023_oocyte_aging_a_multifactorial_phenomenon_in_a_unique.pdf",
+                        "notebook_source_id":  "889790d3-89dc-4ace-961f-ca12d133e6ba",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:rna modification mechanisms and therapeutic targets",
+                        "title":  "RNA modification: mechanisms and therapeutic targets",
+                        "doi":  "10.1186/s43556-023-00139-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+                        "notebook_source_id":  "75b7a02e-c96c-4875-b2a0-e1b859483782",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reviewer 1 public review cell type specific cis regulatory divergence in gene expression and chromatin accessibility revealed by human chimpanzee hybrid cells",
+                        "title":  "Reviewer #1 (Public Review): Cell type-specific cis-regulatory divergence in gene expression and chromatin accessibility revealed by human-chimpanzee hybrid cells",
+                        "doi":  "10.7554/elife.89594.1.sa2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reviewer 2 public review cell type specific cis regulatory divergence in gene expression and chromatin accessibility revealed by human chimpanzee hybrid cells",
+                        "title":  "Reviewer #2 (Public Review): Cell type-specific cis-regulatory divergence in gene expression and chromatin accessibility revealed by human-chimpanzee hybrid cells",
+                        "doi":  "10.7554/elife.89594.1.sa1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2023_reviewer_2_public_review_cell_type_specific_cis.pdf",
+                        "notebook_source_id":  "5dd6bf2a-cdbb-417c-a3f3-7512c6a2a33a",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crosstalk between epitranscriptomic and epigenetic mechanisms in gene regulation",
+                        "title":  "Crosstalk between epitranscriptomic and epigenetic mechanisms in gene regulation.",
+                        "doi":  "10.1016/j.tig.2021.06.014",
+                        "pmid":  "34294427",
+                        "pmcid":  "PMC9093201",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:highly efficient activation of endogenous gene in grape using crispr dcas9 based transcriptional activators",
+                        "title":  "Highly efficient activation of endogenous gene in grape using CRISPR/dCas9-based transcriptional activators",
+                        "doi":  "10.1093/hr/uhab037",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review abnormal methylation in the ndufa13 gene promoter of breast cancer cells breaks the cooperative dna recognition by transcription factors r0 pr1",
+                        "title":  "Review: Abnormal methylation in the NDUFA13 gene promoter of breast cancer cells breaks the cooperative DNA recognition by transcription factors — R0/PR1",
+                        "doi":  "10.1017/qrd.2022.21.pr1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:33590571",
+                        "title":  "Abstracts of the 79th Annual Meeting of the Japanese Cancer Association; 2020 Oct 1-3; Hiroshima, Japan as Cancer Science, Supplement 1, Vol 112 (2021).",
+                        "doi":  "10.1111/cas.14823",
+                        "pmid":  "33590571",
+                        "pmcid":  "PMC7884285",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\paper_2021_abstracts_of_the_79th_annual_meeting_of_the.pdf",
+                        "notebook_source_id":  "0eac69d0-c3f3-426d-a0f8-5073e75ded27",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcell.2021.761709",
+                        "title":  "CRISPR/Cas System and Factors Affecting Its Precision and Efficiency.",
+                        "doi":  "10.3389/fcell.2021.761709",
+                        "pmid":  "34901007",
+                        "pmcid":  "PMC8652214",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\javaid_2021_crispr_cas_system_and_factors_affecting_its_precision.pdf",
+                        "notebook_source_id":  "8102a496-e75e-44d4-849f-3d4250be9360",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fgeed.2021.644319",
+                        "title":  "Delivery Platforms for CRISPR/Cas9 Genome Editing of Glial Cells in the Central Nervous System.",
+                        "doi":  "10.3389/fgeed.2021.644319",
+                        "pmid":  "34713256",
+                        "pmcid":  "PMC8525379",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\meneghini_2021_delivery_platforms_for_crispr_cas9_genome_editing_of.pdf",
+                        "notebook_source_id":  "4f27ccfa-593f-4102-bff5-8b0a8efa91c2",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-021-22024-3",
+                        "title":  "Epigenetic mechanisms in breast cancer therapy and resistance",
+                        "doi":  "10.1038/s41467-021-22024-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\liliana_2021_epigenetic_mechanisms_in_breast_cancer_therapy_and_resistance.pdf",
+                        "notebook_source_id":  "42b9c35b-9de9-4322-a1b7-9d7adb987e3d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fgene.2020.613636",
+                        "title":  "Impacts of Epigenetic Processes on the Health and Productivity of Livestock",
+                        "doi":  "10.3389/fgene.2020.613636",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\mengqi_2021_impacts_of_epigenetic_processes_on_the_health_and.pdf",
+                        "notebook_source_id":  "8503f72f-25ee-46e7-90ed-7641da84bc88",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:implications of enhancer transcription and ernas in cancer",
+                        "title":  "Implications of Enhancer Transcription and eRNAs in Cancer",
+                        "doi":  "10.1158/0008-5472.can-20-4010",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/ijms222010969",
+                        "title":  "Integration of Epigenetic Mechanisms into Non-Genotoxic Carcinogenicity Hazard Assessment: Focus on DNA Methylation and Histone Modifications.",
+                        "doi":  "10.3390/ijms222010969",
+                        "pmid":  "34681626",
+                        "pmcid":  "PMC8535778",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:using crispr to understand and manipulate gene regulation",
+                        "title":  "Using CRISPR to understand and manipulate gene regulation.",
+                        "doi":  "10.1242/dev.182667",
+                        "pmid":  "33913466",
+                        "pmcid":  "PMC8126405",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:circular rna metabolism functions and interactions with proteins",
+                        "title":  "Circular RNA: metabolism, functions and interactions with proteins",
+                        "doi":  "10.1186/s12943-020-01286-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+                        "notebook_source_id":  "70e531a0-1571-416b-8647-220a61c38d71",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-020-14362-5",
+                        "title":  "Interrogation of enhancer function by enhancer-targeting CRISPR epigenetic editing",
+                        "doi":  "10.1038/s41467-020-14362-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\kailong_2020_interrogation_of_enhancer_function_by_enhancer_targeting_crispr.pdf",
+                        "notebook_source_id":  "b412e4ed-8cfa-49f9-a6af-4d474e9b86d7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:towards a comprehensive catalogue of validated and target linked human enhancers",
+                        "title":  "Towards a comprehensive catalogue of validated and target-linked human enhancers.",
+                        "doi":  "10.1038/s41576-019-0209-0",
+                        "pmid":  "31988385",
+                        "pmcid":  "PMC7845138",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abstracts of the 78th annual meeting of the japanese cancer association 2019 sept 26 28 kyoto japan as cancer science supplement 1 vol 110 2019",
+                        "title":  "\"Abstracts of the 78th Annual Meeting of the Japanese Cancer Association; 2019 Sept 26-28; Kyoto, Japan\" as Cancer Science, Supplement 1, Vol 110 (2019).",
+                        "doi":  "10.1111/cas.14291",
+                        "pmid":  "31880058",
+                        "pmcid":  "PMC6933297",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:distinct contribution of dna methylation and histone acetylation to the genomic occupancy of transcription factors",
+                        "title":  "Distinct Contribution of DNA Methylation and Histone Acetylation to the Genomic Occupancy of Transcription Factors",
+                        "doi":  "10.1101/670307",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\martin_2019_distinct_contribution_of_dna_methylation_and_histone_acetylation.pdf",
+                        "notebook_source_id":  "a18a97ab-de25-41c9-8417-3332ebc8c6cf",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:functions of n6 methyladenosine and its role in cancer",
+                        "title":  "Functions of N6-methyladenosine and its role in cancer",
+                        "doi":  "10.1186/s12943-019-1109-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf",
+                        "notebook_source_id":  "3d3a08e4-24ce-4157-839f-6d69a35ee627",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:improved drought stress tolerance in arabidopsis by crispr dcas9 fusion with a histone acetyltransferase",
+                        "title":  "Improved drought stress tolerance in Arabidopsis by CRISPR/dCas9 fusion with a Histone AcetylTransferase",
+                        "doi":  "10.1038/s41598-019-44571-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf",
+                        "notebook_source_id":  "c03a1088-800c-49f7-bff5-7f7f9862924d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.26508/lsa.201900497",
+                        "title":  "Sufficiency analysis of estrogen responsive enhancers using synthetic activators",
+                        "doi":  "10.26508/lsa.201900497",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\matthew_2019_sufficiency_analysis_of_estrogen_responsive_enhancers_using_synthetic.pdf",
+                        "notebook_source_id":  "b28e1f13-60f2-479f-9785-87276494e16f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:decision letter ash1 catalyzed h3k36 methylation drives gene repression and marks h3k27me2 3 competent chromatin",
+                        "title":  "Decision letter: ASH1-catalyzed H3K36 methylation drives gene repression and marks H3K27me2/3-competent chromatin",
+                        "doi":  "10.7554/elife.41497.022",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:encsr903prv",
+                        "title":  "ENCSR903PRV",
+                        "doi":  "10.17989/encsr903prv",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12864-018-4963-8",
+                        "title":  "Gene editing in the context of an increasingly complex genome",
+                        "doi":  "10.1186/s12864-018-4963-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\kevin_2018_gene_editing_in_the_context_of_an_increasingly.pdf",
+                        "notebook_source_id":  "9d00f199-8b55-4637-beef-e863ac09baec",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41593-017-0057-1",
+                        "title":  "N6-methyladenosine RNA modification regulates embryonic neural stem cell self-renewal through histone modifications",
+                        "doi":  "10.1038/s41593-017-0057-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yang_2018_n6_methyladenosine_rna_modification_regulates_embryonic_neural_stem.pdf",
+                        "notebook_source_id":  "7745364f-4fd7-4a93-b0af-d6263002b825",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:promoter intrinsic and local chromatin features determine gene repression in lamina associated domains",
+                        "title":  "Promoter-intrinsic and local chromatin features determine gene repression in lamina-associated domains",
+                        "doi":  "10.1242/prelights.5890",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the crispr tool kit for genome editing and beyond",
+                        "title":  "The CRISPR tool kit for genome editing and beyond",
+                        "doi":  "10.1038/s41467-018-04252-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+                        "notebook_source_id":  "d6cce4a5-d3f8-4423-878f-2637dc33dead",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:transcriptional repression by fact is linked to regulation of chromatin accessibility at the promoter of es cells",
+                        "title":  "Transcriptional repression by FACT is linked to regulation of chromatin accessibility at the promoter of ES cells",
+                        "doi":  "10.1101/251611",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\constantine_2018_transcriptional_repression_by_fact_is_linked_to_regulation.pdf",
+                        "notebook_source_id":  "ff5e1541-3b25-4102-ba46-affd22c6b735",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.71781/30117",
+                        "title":  "Deciphering causal genetic determinants of red blood cell traits",
+                        "doi":  "10.71781/30117",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\samuel_2017_deciphering_causal_genetic_determinants_of_red_blood_cell.pdf",
+                        "notebook_source_id":  "1731f42b-5d72-4311-8018-d6ac5b87d61e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr370spa",
+                        "title":  "ENCSR370SPA",
+                        "doi":  "10.17989/encsr370spa",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.21775/cimb.026.015",
+                        "title":  "dCas9: A Versatile Tool for Epigenome Editing",
+                        "doi":  "10.21775/cimb.026.015",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf",
+                        "notebook_source_id":  "62e00980-2880-4c91-b21b-7be177f247a6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1146/annurev-biochem-060815-014607",
+                        "title":  "CRISPR/Cas9 in Genome Editing and Beyond",
+                        "doi":  "10.1146/annurev-biochem-060815-014607",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:erratum for verzi et al intestinal master transcription factor cdx2 controls chromatin access for partner transcription factor binding",
+                        "title":  "Erratum for Verzi et al., Intestinal Master Transcription Factor CDX2 Controls Chromatin Access for Partner Transcription Factor Binding",
+                        "doi":  "10.1128/mcb.01396-14",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13072-015-0050-4",
+                        "title":  "Making sense of GWAS: using epigenomics and genome engineering to understand the functional relevance of SNPs in non-coding regions of the human genome",
+                        "doi":  "10.1186/s13072-015-0050-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf",
+                        "notebook_source_id":  "0b0f4dcc-7486-44ea-a697-2a2e691c7880",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dna methylation alone does not cause most cell type selective transcription factor binding",
+                        "title":  "DNA methylation alone does not cause most cell-type selective transcription factor binding",
+                        "doi":  "10.1186/1756-8935-6-s1-p103",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\matthew_2013_dna_methylation_alone_does_not_cause_most_cell.pdf",
+                        "notebook_source_id":  "9175249d-1df6-49de-a82a-b5930cf5ff9f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.35802/089957",
+                        "title":  "",
+                        "doi":  "10.35802/089957",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1074/jbc.m109.085043",
+                        "title":  "A Nucleosome Surface Formed by Histone H4, H2A, and H3 Residues Is Needed for Proper Histone H3 Lys36 Methylation, Histone Acetylation, and Repression of Cryptic Transcription",
+                        "doi":  "10.1074/jbc.m109.085043",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dicer regulates xist promoter methylation in es cells indirectly through transcriptional control of dnmt3a",
+                        "title":  "Dicer regulates Xist promoter methylation in ES cells indirectly through transcriptional control of Dnmt3a",
+                        "doi":  "10.1186/1756-8935-1-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\papers\\tatyana_2008_dicer_regulates_xist_promoter_methylation_in_es_cells.pdf",
+                        "notebook_source_id":  "d42ed95e-527b-4ee9-ae67-8b58410cbdfd",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/nar/gki161",
+                        "title":  "GM-CSF promoter chromatin remodelling and gene transcription display distinct signal and transcription factor requirements",
+                        "doi":  "10.1093/nar/gki161",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3410/f.1019787.224448",
+                        "title":  "Faculty Opinions recommendation of Promoter methylation inhibits APC gene expression by causing changes in chromatin conformation and interfering with the binding of transcription factor CCAAT-binding factor.",
+                        "doi":  "10.3410/f.1019787.224448",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:promoter methylation inhibits b i apc i b gene expression by causing changes in chromatin conformation and interfering with the binding of transcription factor ccaat binding factor",
+                        "title":  "Promoter Methylation Inhibits \u003cb\u003e\n                     \u003ci\u003eAPC\u003c/i\u003e\n                  \u003c/b\u003e Gene Expression by Causing Changes in Chromatin Conformation and Interfering with the Binding of Transcription Factor CCAAT-Binding Factor",
+                        "doi":  "10.1158/0008-5472.can-03-3000",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:faculty opinions recommendation of the barrier function of an insulator couples high histone acetylation levels with specific protection of promoter dna from methylation",
+                        "title":  "Faculty Opinions recommendation of The barrier function of an insulator couples high histone acetylation levels with specific protection of promoter DNA from methylation.",
+                        "doi":  "10.3410/f.1007405.99055",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3410/f.1007405.118658",
+                        "title":  "Faculty Opinions recommendation of The barrier function of an insulator couples high histone acetylation levels with specific protection of promoter DNA from methylation.",
+                        "doi":  "10.3410/f.1007405.118658",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/nar/28.17.3233",
+                        "title":  "Transcriptional repression of BRCA1 by aberrant cytosine methylation, histone hypoacetylation and chromatin condensation of the BRCA1 promoter",
+                        "doi":  "10.1093/nar/28.17.3233",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:role of a positioned nucleosome in constitutive repression and hormone induction of the mmtv promoter",
+                        "title":  "Role of a positioned nucleosome in constitutive repression and hormone induction of the MMTV promoter",
+                        "doi":  "10.1093/oso/9780198549239.003.0002",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.37473//10.1101/2019.12.23.887224",
+                        "title":  "A cellular stress response induced by the CRISPR/dCas9 activation system is not heritable through cell divisions",
+                        "doi":  "10.37473//10.1101/2019.12.23.887224",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/jacs.7b06555.s001",
+                        "title":  "Chemically Controlled Epigenome Editing through an Inducible dCas9 System",
+                        "doi":  "10.1021/jacs.7b06555.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/9780470988886.ch5",
+                        "title":  "Chromatin Remodeling and Histone Variants in Transcriptional Regulation and in Maintaining DNA Methylation",
+                        "doi":  "10.1002/9780470988886.ch5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.9442/supp-4",
+                        "title":  "Data S3: pPrA-dCas9 + gRNA-ARS305 GAL1 promoter plasmid",
+                        "doi":  "10.7717/peerj.9442/supp-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 2 activation of an exogenous reporter gene zsgreen under the control of a hnf4 promoter by the crispr assisted trans enhancer in multiple cells",
+                        "title":  "Figure 2. Activation of an exogenous reporter gene ZsGreen under the control of a HNF4α promoter by the CRISPR-assisted trans enhancer in multiple cells.",
+                        "doi":  "10.7554/elife.45973.003",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 3 changes in ltr5hs chromatin landscape upon cargo crispra crispri",
+                        "title":  "Figure 3. Changes in LTR5HS chromatin landscape upon CARGO-CRISPRa/CRISPRi.",
+                        "doi":  "10.7554/elife.35989.008",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 3 transcriptional activation of endogenous genes by the crispr assisted trans enhancer",
+                        "title":  "Figure 3. Transcriptional activation of endogenous genes by the CRISPR-assisted trans enhancer.",
+                        "doi":  "10.7554/elife.45973.008",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.9442/fig-3",
+                        "title":  "Figure 3: Specificity of dCas9/gRNA and edCas9 (1.1)/gRNA enrichment of\n                      \u003ci\u003eARS305\u003c/i\u003e\n                      chromatin.",
+                        "doi":  "10.7717/peerj.9442/fig-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.45973.010",
+                        "title":  "Figure 3—figure supplement 2. Activation of endogenous HNF4α gene in 293 T cell with trans enhancers based on dCas9-VP64 and dCas9-VPR.",
+                        "doi":  "10.7554/elife.45973.010",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.36696.014",
+                        "title":  "Figure 5. An increase in WT1 expression inhibits the proliferation of H3.3K27M mutant cells.",
+                        "doi":  "10.7554/elife.36696.014",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.36696.015",
+                        "title":  "Figure 5—figure supplement 1. Forced expression of WT1 inhibits the proliferation of DIPG cells with H3.3K27M mutation.",
+                        "doi":  "10.7554/elife.36696.015",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:phirex 2 0 a programmable and red light regulated crispr dcas9 system for the activation of endogenous genes in saccharomyces cerevisiae",
+                        "title":  "PhiReX 2.0: A Programmable and Red Light-Regulated CRISPR-dCas9 System for the Activation of Endogenous Genes in Saccharomyces cerevisiae",
+                        "doi":  "10.1021/acssynbio.2c00517.s002",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:phirex 2 0 a programmable and red light regulated crispr dcas9 system for the activation of endogenous genes in saccharomyces cerevisiae",
+                        "title":  "PhiReX 2.0: A Programmable and Red Light-Regulated CRISPR-dCas9 System for the Activation of Endogenous Genes in Saccharomyces cerevisiae",
+                        "doi":  "10.1021/acssynbio.2c00517.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

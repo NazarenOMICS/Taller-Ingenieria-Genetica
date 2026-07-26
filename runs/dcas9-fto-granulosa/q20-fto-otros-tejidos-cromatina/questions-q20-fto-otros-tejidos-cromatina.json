@@ -1,0 +1,65 @@
+{
+  "slug": "q20-fto-otros-tejidos-cromatina",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina",
+  "goal": "Buscar si en otros tejidos con caída de FTO por estrés oxidativo existe evidencia a nivel de cromatina o unión de factores de transcripción que explique esa disminución.",
+  "dashboard": "FTO downregulation chromatin evidence in other tissues",
+  "notebook_id": "c8863563-1f8a-4836-929a-3e22dd7d61a0",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "other-tissues",
+      "question": "According to these sources, in which non-granulosa tissues has oxidative stress been reported to reduce FTO expression?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/answers/2026-07-24 Q01 - according-to-these-sources-which-non.md"
+    },
+    {
+      "id": 2,
+      "theme": "chromatin-evidence",
+      "question": "Did any of those studies examine chromatin-level mechanisms, promoter occupancy, histone marks, or regulatory DNA changes to explain FTO downregulation?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/answers/2026-07-24 Q02 - did-any-those-studies-examine-chromatin.md"
+    },
+    {
+      "id": 3,
+      "theme": "transcription-factors",
+      "question": "Which transcription factors or promoter-binding regulators were implicated in controlling FTO expression in those non-granulosa stress models?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/answers/2026-07-24 Q03 - which-transcription-factors-or-promoter-binding.md"
+    },
+    {
+      "id": 4,
+      "theme": "strength-of-evidence",
+      "question": "How direct is the evidence for chromatin- or transcription-factor-mediated repression of FTO outside granulosa, versus simple mRNA/protein correlation?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/answers/2026-07-24 Q04 - how-direct-evidence-chromatin-or-transcription.md"
+    },
+    {
+      "id": 5,
+      "theme": "granulosa-transfer",
+      "question": "Which non-granulosa mechanisms are the most plausible to transfer into the granulosa oxidative-stress context, and which remain too speculative?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/answers/2026-07-24 Q05 - which-non-granulosa-mechanisms-most-plausible.md"
+    },
+    {
+      "id": 6,
+      "theme": "gaps",
+      "question": "What gaps remain before using non-granulosa chromatin evidence to explain FTO loss in granulosa aging?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q20-fto-otros-tejidos-cromatina\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/answers/2026-07-24 Q06 - what-gaps-remain-before-using-non.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q20-fto-otros-tejidos-cromatina/QA/summaries/2026-07-24 FTO downregulation chromatin evidence in other tissues - NotebookLM block summary.md"
+}

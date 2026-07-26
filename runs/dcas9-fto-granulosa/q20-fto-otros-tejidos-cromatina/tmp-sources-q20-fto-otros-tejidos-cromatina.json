@@ -1,0 +1,167 @@
+{
+  "notebook_id": "c8863563-1f8a-4836-929a-3e22dd7d61a0",
+  "notebook_title": "FTO downregulation chromatin evidence in other tissues (q20)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+      "title": "chen_2026_dna_methylation_a_key_epigenetic_regulator_of_cardiovascular.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:49"
+    },
+    {
+      "index": 2,
+      "id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "title": "chen_2026_m_lt_sup_gt_6_lt_sup_gt.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:49"
+    },
+    {
+      "index": 3,
+      "id": "d3d662df-7369-4b12-8669-b1712b2fb24e",
+      "title": "emina_2020_the_role_of_oxidative_stress_in_the_development.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:50"
+    },
+    {
+      "index": 4,
+      "id": "8e32e9b9-ce33-4f73-9e3e-8706603133c9",
+      "title": "hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:51"
+    },
+    {
+      "index": 5,
+      "id": "49a240cf-7ea1-407f-9139-60b9148b38e6",
+      "title": "huang_2026_targeting_glycolytic_plasticity_to_overcome_therapy_resistance_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:54"
+    },
+    {
+      "index": 6,
+      "id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "title": "li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:55"
+    },
+    {
+      "index": 7,
+      "id": "a2d16ca0-3266-449a-8711-c3da63fee986",
+      "title": "mengwei_2022_trends_in_insulin_resistance_insights_into_mechanisms_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:56"
+    },
+    {
+      "index": 8,
+      "id": "14786973-bca5-4709-9fbb-6c245d867b43",
+      "title": "nady_2018_intravenous_nad_effectively_increased_the_nad_metabolome_reduced.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:56"
+    },
+    {
+      "index": 9,
+      "id": "ea29d7e2-90b5-490f-b42f-28323562dad6",
+      "title": "rosngela_2016_oxidative_stress_and_disease.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:22:59"
+    },
+    {
+      "index": 10,
+      "id": "ecd6cca6-01e1-47b5-825e-13f202b3b66f",
+      "title": "shelley_2015_metabolic_signaling_to_chromatin.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:23:00"
+    },
+    {
+      "index": 11,
+      "id": "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+      "title": "wang_2026_methylation_centric_epigenetic_regulation_in_dilated_cardiomyopathy_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:23:02"
+    },
+    {
+      "index": 12,
+      "id": "6ef39c58-e00f-4a7e-9e27-a6f8a7fa1cd9",
+      "title": "xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:23:01"
+    },
+    {
+      "index": 13,
+      "id": "e4509ff4-37c3-4445-9511-069caa2096b9",
+      "title": "yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:23:04"
+    },
+    {
+      "index": 14,
+      "id": "510de3b5-b9a0-4ef2-b84a-a48542bbc584",
+      "title": "yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:23:05"
+    },
+    {
+      "index": 15,
+      "id": "77c11a5c-f848-4441-916f-411f4916b1c7",
+      "title": "zhang_2026_ubiquitination_dependent_regulation_of_ferroptosis_in_ischemic_heart.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:23:06"
+    },
+    {
+      "index": 16,
+      "id": "14262aa3-48a8-4ef3-a79f-03ab6ab3378e",
+      "title": "zhao_2026_disulfidptosis_a_metabolic_cell_death_mechanism_with_therapeutic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:23:07"
+    }
+  ],
+  "count": 16
+}

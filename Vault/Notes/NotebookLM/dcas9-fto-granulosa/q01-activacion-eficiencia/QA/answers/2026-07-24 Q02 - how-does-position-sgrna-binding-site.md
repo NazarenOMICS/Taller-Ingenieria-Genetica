@@ -1,0 +1,103 @@
+---
+type: reference
+status: current
+date: 2026-07-24
+source: "notebooklm:dcas9-fto-granulosa/q01-activacion-eficiencia"
+related:
+  - "[[Notes/Dashboards/dCas9-p300 activation efficiency]]"
+---
+
+# Q02 - How does the position of the sgRNA binding site relative to the transcription start site (TSS) affect dCas9-p300-mediated gene activation efficiency, according to these sources?
+
+According to the provided sources, the position of the sgRNA binding site relative to the transcription start site (TSS) significantly influences the efficiency of dCas9-p300-mediated gene activation, though the system demonstrates a unique ability to function from both proximal and distal regulatory regions.
+
+### Targeting Promoters vs. Distal Enhancers
+*   **Unique Flexibility:** Unlike first-generation activators like dCas9-VP64, which are primarily effective when targeted near the proximal promoter, **dCas9-p300 can robustly activate gene expression from both promoters and distal enhancers**  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 2|[1]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf#Passage 1|[2]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 3|[3]]]. 
+*   **Enhancer Efficiency:** Targeting dCas9-p300 to distal enhancers (such as the MyoD core enhancer or the ?globin HS2 site) catalyzes **H3K27ac** enrichment at both the enhancer and the corresponding distal promoters, leading to "robust" transcriptional activation where VP64-based systems typically fail  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 2|[1]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 4|[4]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 5|[5]]].
+*   **Distance Examples:** In human cells, activation was achieved from enhancers located tens of kilobases away from the TSS, such as the HS2 enhancer in the ?globin locus (~11–54 kb upstream of the targeted genes)  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 6|[6]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 7|[7]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf#Passage 1|[8]]].
+
+### Standard Tiling Ranges
+*   **General CRISPRa Coordinates:** While specifically discussing genome-scale screens, one source notes that the effective tiling range for CRISPR activation (CRISPRa) is generally **-400 to -50 bp upstream of the TSS**  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf#Passage 1|[9]]].
+*   **Optimal Positions:** In studies of a similar Histone Acetyltransferase (HAT) fusion in plants, researchers successfully targeted the *AREB1* promoter using sgRNAs located at **-479 bp and +356 bp** relative to the predicted TSS  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf#Passage 2|[10]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf#Passage 9|[11]]].
+
+### Spatial Constraints and Steric Hindrance
+The large physical size of the p300 core domain introduces specific positional constraints:
+*   **Steric Hindrance:** If multiple sgRNAs are targeted too close to one another, the large size of the dCas9-p300 complex can cause **steric hindrance**, potentially destabilizing the transcriptional machinery and resulting in *lower* gene expression than a single guide would achieve  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf#Passage 10|[12]]]. One experiment noted this effect when guides were separated by only **118 bp**  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf#Passage 10|[12]]].
+*   **Repetitive Site Limitations:** In reporter experiments using the TRE3G promoter (which contains seven repetitive binding sites), the enhancement of activity by p300-based systems was limited compared to smaller VP64-based activators  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf#Passage 11|[13]]] [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf#Passage 3|[14]]]. This is attributed to the **spatial constraints** of the p300 core, a "relatively large protein" that may have difficulty accessing adjacent sites in a crowded chromatin environment  [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf#Passage 3|[14]]].
+
+### Non-Additive and Context-Dependent Effects
+*   **Non-Additive Synergy:** Targeting dCas9-p300 to multiple adjacent sites sometimes results in a **non-additive effect**, where total activation does not increase linearly with the number of guides [16].
+*   **Chromatin Context:** The efficiency of activation is also determined by the pre-existing state of the locus; for example, activation was found to be stronger when targeted to regions where the **drought stress response was already active**, suggesting that local chromatin "folding" dictates positional efficiency [17].
+
+---
+
+## Extractos citados verbatim
+
+### Extracto 1
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 2|Pasaje 2]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/hilton_2015.pdf|PDF]]
+- Texto literal:
+> not observed for dCas9<supVP64</sup. Together, these results demonstrate that dCas9p300 Core is a potent programmable transcription factor that can be used to regulate gene expression from a variety of promoterproximal and promoterdistal locations.
+
+### Extracto 2
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf#Passage 1|Pasaje 1]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf|PDF]]
+- Texto literal:
+> is to locally deposit H3K27ac marks. Therefore, in contrast to the local reduction of enhancer marks by dCas9-LSD1, recruitment of histone acetyl transferase P300 through dCas9 fusion (dCas9-P300) resulted in a significant increase in local H3K27ac levels at enhancer elements142. Importantly, unlike other dCas9-fused transactivators, which can result in induction of gene expression primarily from promoter regions, targeting dCas9-P300 allows significant gene expression induction from both promoter and enhancer regions142. Researchers have also exploited other epigenetic modifiers to manipulate additional epigenetic marks. Among these, dCas9 fusion to the PRDM9 methyltransferase fusion complex has been utilized to manipulate local H3K4me3 marks143. Notably, local induction of H3K4me3, which is a marker of active promoters, was observed to be sufficient to allow re-expression of silenced target genes in various cell types143. Histone de-acetylation has been another strategy to locally manipulate chromatin structure and function. To this end, dCas9 fusion to histone deacetylases (HDAC), specifically full-length HDAC3, has been shown to effectively reduce the H3k27ac at the target loci and reduce the gene expression of the target loci144.
+
+### Extracto 3
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 3|Pasaje 3]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/hilton_2015.pdf|PDF]]
+- Texto literal:
+> relative dCas9p300 Coremediated acetylation at the genomic target site. To quantify targeted H3K27 acetylation by dCas9p300 Core, we performed chromatin immunoprecipitation with an antiH3K27ac antibody followed by quantitative PCR (ChIPqPCR) in HEK293T cells cotransfected with four HS2 enhancer-targeted gRNAs and either dCas9, dCas9<supVP64</sup, dCas9p300 Core or dCas9p300 Core (D1399Y) (Fig. 4). We analyzed three amplicons at or around the target site in the HS2 enhancer or within the promoter regions of the HBE and HBG genes (Fig. 4a). Notably, H3K27ac is enriched in each of these regions in the human K562 erythroid cell line, which has a high level of globin gene expression (Fig. 4a). We observed significant H3K27ac enrichment at the HS2 enhancer target locus compared to treatment with dCas9 in both the dCas9<supVP64</sup (P = 0.0056 for ChIP Region 1 and P = 0.0029 for ChIP Region 3) and dCas9p300 Core (P = 0.0013 for ChIP Region 1 and P = 0.0069 for ChIP Region 3) cotransfected samples (Fig. 4b). A similar trend of H3K27ac enrichment was also observed when targeting the IL1RN promoter with dCas9<supVP64</sup or dCas9p300 Core (Supplementary Fig. 4). In contrast to these increases in H3K27ac at the target sites by both dCas9<supVP64</sup and dCas9p300 Core, robust enrichment in H3K27ac at the HS2regulated HBE and HBG promoters was observed only with dCas9p300 Core treatment (Fig. 4c,d). Together these results demonstrate that dCas9p300 Core uniquely catalyzes H3K27ac enrichment at gRNAtargeted loci and at enhancertargeted distal promoters. Therefore, the acetylation established by dCas9p300 Core at HS2 may catalyze enhancer activity in a manner distinct from direct recruitment of preinitiation complex components by dCas9<supVP64</sup (refs. 27,28), as indicated by the distal activation of the HBE, HBG
+
+### Extracto 4
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf#Passage 7|Pasaje 7]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/hilton_2015.pdf|PDF]]
+- Texto literal:
+> between dCas9p300 Core and mocktransfected cells for HBE, HBG and HBD, respectively). Overall, HBD and HBE appeared relatively less responsive to synthetic p300 Core-mediated activation from the HS2 enhancer; a finding consistent with lower rates of general transcription from these two genes across several cell lines (Supplementary Fig. 3). Nevertheless, with the exception of the most distal HBB gene, dCas9p300 Core activated transcription from downstream genes when targeted to all characterized enhancer regions assayed, a capability
+
+### Extracto 5
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf#Passage 1|Pasaje 1]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf|PDF]]
+- Texto literal:
+> The application of dCas9 in forward screening using targeted transcription factors (TTFs) was shown to permit highly specific genome-scale transcription modulation (Gilbert et al., 2014; Konermann et al., 2015). Using combinations of 10 sgRNAs per gene, tiling −50 to +300 bp for repression (CRISPRi) or −400 to −50 bp for activation (CRISPRa) around the TSS to target nearly 1600 protein-encoding genes, human K562 cells were screened for growth phenotypes. In this study transcription was repressed using dCas9-KRAB and activated using dCas9-SunTag recruiting scFv– VP64 fusions (Gilbert et al., 2014). In a second screen, known as well as novel complexes and pathways involved in the response to a chimeric
+
+### Extracto 6
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf#Passage 1|Pasaje 1]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf|PDF]]
+- Texto literal:
+> Molecular and phenotypic characterization of dCas9HAT-sgA. We next inquired whether AREB1 gene expression could be regulated by dCas9HAT. We designed two sgRNAs to target the endogenous promoter of AtAREB1 (Fig. 3A). One sgRNA is located at 3′ from the TSS (−479 bp), and the second is in the 5′ UTR (+356 bp). The two sgRNAs (sg-pAREB1.1 and sg-pAREB1.2) were cloned in tandem within a single T-DNA and transformed into the Arabidopsis dCas9HAT transgenic lines to generate dCas9HAT-sgA. We verified AREB1 gene expression in three transgenic lines by real-time qPCR (Fig. 3B). In each experiment, the control line was the parental line, dCas9HAT. We observed a slight but significant 1.7-fold increase in AREB1 expression in the dCas9HAT-sgA1 line and a 2-fold increase in the dCas9HAT-sgA2 line compared to that in the control line, sug- gesting that targeting dCas9HAT to the AREB1 gene could trigger its transcription. Three weeks after germination, the rosette diameter in the dCas9HAT-sgA2 and dCas9HAT-sgA1 plants was ~3-fold smaller than in the controls (Figs 3C, S3A,B). The leaf length was also smaller for both lines, respectively, than in the control line (Fig. S3C). These results suggest that the mutant caused a dwarf phenotype under normal plant growth conditions. They also corroborate phenotypic traits related to drought stress shown by Fujita et al.12, in which the over-expression of the constitutive form of AREB1, AREB1ΔQT, presented smaller phenotypes and the areb1 mutants had larger rosettes. Interestingly, we observed that without water deficit, AREB1 is slightly positively regulated, indicating that dCas9HAT activates AREB1 apart of the context of drought.
+
+### Extracto 7
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf#Passage 2|Pasaje 2]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf|PDF]]
+- Texto literal:
+> Challenge of the dCas9 constructs in a GUS reporter system. To evaluate the dCas9HAT construct, we set up a surrogate reporter system based on regulation of GUS reporter gene expression. We used the 170-bp minimal truncated version of the Glycine max ubiquitin promoter, herein designated GmUcesMin28,29. We selected two sgRNAs near the transcription start site (TSS) of GmUcesMin (Fig. 2A, Table S2). The efficiency of dCas9HAT in activating the GUS reporter system was quantified by its enzymatic activity. Seedlings of stably transformed Arabidopsis lines expressing dCas9HAT were incubated with Agrobacterium carrying Ti plasmids to perform transient ectopic expression of GmUcesMin-GUS in combination with the expression of one or two sgRNAs. Significantly elevated enzymatic activity was observed for sgRNA1 (~2.4-fold increase) and sgRNA2 (~2-fold increase), while enzymatic activity was elevated ~1.4-fold for the combination of the two sgRNAs. This result indicates that the expression of dCas9HAT enhanced the expression of the GUS gene in trans when targeted to GmUcesMin promoter. Remarkably, some substantial differences were noted depending on the location of the sgRNA and/or the sgRNA combination. Previous studies have suggested that the distance of the sgRNA from the TSS might influence the transcriptional regulation of the gene of interest. While some studies have reported that a specific sgRNA binding distance from the TSS (−50 bp to +300 bp) corresponds to higher target gene expression30,31, others have pointed out that dCas9 might generate steric hindrance and thus interfere with transcriptional machinery activities21,32. Regarding the construct GmUcesMin, our two sgRNAs are separated only by 118 bp. Considering the 3D conformation of the DNA, the 30 bp length occupied by the dCas9 on DNA33 and the space taken by the HAT domain, a steric hindrance effect could be responsible for destabilizing locally the protein complexes standing on DNA. Compared to the use of only one sgRNA, this collateral effect might result to lower gene expression rather than improve it.
+
+### Extracto 8
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf#Passage 10|Pasaje 10]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf|PDF]]
+- Texto literal:
+> plexing in exogenous genes by utilizing the miniCMV promoter reporter, which has only one
+
+### Extracto 9
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf#Passage 11|Pasaje 11]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf|PDF]]
+- Texto literal:
+> regarding the incorporation of the DNA demethylase Tet1-CD for CRISPRa using the SunTag
+
+### Extracto 10
+- Fuente: [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf#Passage 3|Pasaje 3]] | [[Research/Papers/dcas9-fto-granulosa/q01-activacion-eficiencia/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf|PDF]]
+- Texto literal:
+> Conclusion In addition to the use of modulators to aid the recruitment of RNA polymerase (Pol II) transcription machinery, the use of domains that modify chromatin folding is another interesting way to fine-tune gene expression. The expression of dCas9HAT allows acetylation of lysine 27 of Histone 3 (H3K27ac) favoring the unwind of chromatin and enhancing the interaction with transcriptional enhancers as the assembly of the transcriptional machinery (Fig. 5). This approach has been demonstrated in animals. In the present study, our main finding was that dCas9HAT positively regulates AREB1 and produces an enhanced drought stress response. It is noteworthy that dCas9HAT activity depends on the cellular context. The enhancer effect of dCas9HAT is stronger when the drought stress response is activated. This finding suggests that the chromatin folding at the AREB1 locus constitutes a regulatory mechanism for AREB1 gene expression. We also report that GUS expression varies based on number of sgRNAs used and their respective positions. Having a better understanding of the chromatin context of a specific locus will help in the rational design of CRISPRi/a strategies.
+
+---
+
+## Sources Referenced
+
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf|daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf]]
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/hilton_2015.pdf|hilton_2015.pdf]]
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf|joaquin_2019_improved_drought_stress_tolerance_in_arabidopsis_by_crispr.pdf]]
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf|kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf]]
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf|mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf]]
+
+
+## Uncited Sources
+
+These sources were in the notebook but NotebookLM did not provide granular citations for them:
+
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/jere_2018_human_pluripotent_reprogramming_with_crispr_activators.pdf|jere_2018_human_pluripotent_reprogramming_with_crispr_activators.pdf]]
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/kenly_2020_prevention_of_tumor_risk_associated_with_the_reprogramming.pdf|kenly_2020_prevention_of_tumor_risk_associated_with_the_reprogramming.pdf]]
+- [[Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/Sources/tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf|tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf]]

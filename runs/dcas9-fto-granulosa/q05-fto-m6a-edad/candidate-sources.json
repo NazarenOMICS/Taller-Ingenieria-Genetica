@@ -1,0 +1,2472 @@
+{
+  "slug": "q05-fto-m6a-edad",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses.",
+      "authors": "Jin C; Wang X; Yang J; Kim S; Hudgins AD; Gamliel A; Pei M; Contreras D; Devos M; Guo Q; Vijg J; Conti M; Hoeijmakers J; Campisi J; Lobo R; Williams Z; Rosenfeld MG; Suh Y",
+      "year": 2025,
+      "doi": "10.1038/s43587-024-00762-5",
+      "pmid": "39578560",
+      "pmcid": null,
+      "abstract": "The ovary is the first organ to age in the human body, affecting both fertility and overall health. However, the biological mechanisms underlying human ovarian aging remain poorly understood. Here we present a comprehensive single-nuclei multi-omics atlas of four young (ages 23-29 years) and four reproductively aged (ages 49-54 years) human ovaries. Our analyses reveal coordinated changes in transcriptomes and chromatin accessibilities across cell types in the ovary during aging, notably mTOR signaling being a prominent ovary-specific aging pathway. Cell-type-specific regulatory networks reveal enhanced activity of the transcription factor CEBPD across cell types in the aged ovary. Integration of our multi-omics data with genetic variants associated with age at natural menopause demonstrates a global impact of functional variants on gene regulatory networks across ovarian cell types. We nominate functional non-coding regulatory variants, their target genes and ovarian cell types and regulatory mechanisms. This atlas provides a valuable resource for understanding the cellular, molecular and genetic basis of human ovarian aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39578560/",
+      "pdf_url": "https://doi.org/10.1038/s43587-024-00762-5",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex",
+        "pubmed"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5",
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "39578560",
+      "identifier_confidence": 100,
+      "title_match_confidence": 100,
+      "source_match_reason": "matched_target:DOI:10.1038/s43587-024-00762-5",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Molecular and Genetic Insights Into Human Ovarian Aging From Single-Nuclei Multi-omics Analyses",
+      "authors": "Chen Jin; Xizhe Wang; Jiping Yang; Seung-Soo Kim; Adam D. Hudgins; Amir Gamliel; Mingzhuo Pei; Daniela Contreras; Melody Devos; Qinghua Guo; Jan Vijg; Marco Conti; Jan H.J. Hoeijmakers; Judith Campisi; Rogerio A. Løbo; Zev Williams; Michael G. Rosenfeld; Yousin Suh",
+      "year": 2025,
+      "doi": "10.1097/ogx.0000000000001382",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "(Abstracted from Nat Aging 2024. doi: 10.1038/s43587-024-00762-5) Ovaries are the crux of the female reproductive system and are the first organs to show signs of aging and thus the slowing of reproductive processes, characterized by a reduced number and quality of oocytes. The more a woman ages, the higher the risk of infertility or aneuploidy and congenital disabilities in their children.",
+      "url": "https://doi.org/10.1097/ogx.0000000000001382",
+      "pdf_url": "https://pure.eur.nl/ws/files/192340760/Molecular_and_Genetic_Insights_Into_Human_Ovarian_Aging_From_Single-Nuclei_Multi-omics_Analyses.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\chen_2025_molecular_and_genetic_insights_into_human_ovarian_aging.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref",
+        "openalex"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5",
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "W4408663202",
+      "identifier_confidence": 80,
+      "title_match_confidence": 100,
+      "source_match_reason": "exact_title_match",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Critical roles of m6A demethylase FTO in ovarian aging.",
+      "authors": "Hadi S; Khoshraftar SH; Darabi AHK; Nejabati HR",
+      "year": 2026,
+      "doi": "10.1007/s10522-026-10401-8",
+      "pmid": "41649627",
+      "pmcid": null,
+      "abstract": "Ovarian aging, recognized as one of the initial signs of systemic aging, is marked by a progressive reduction in both the number and quality of oocytes, which has a profound effect on female fertility. In spite of the advancements in assisted reproductive technologies, these methods fail to tackle the fundamental molecular mechanisms that drive ovarian senescence. Recent surveys have underscored the significant role of epitranscriptomic regulation, especially the N6-methyladenosine (m6A) modification, in regulating RNA stability, translation, and cellular functionality. Fat mass and obesity-associated (FTO), a m6A demethylase, has been identified as a crucial regulator of granulosa cell homeostasis, influencing pathways related to oxidative stress, mitochondrial integrity, apoptosis, and cellular senescence. A decrease in FTO expression in aging ovaries is associated with increased m6A levels, destabilization of heterochromatin, dysregulation of transposable elements, and the upregulation of senescence-associated genes such as FOS. Moreover, regulation of genes such as MFN2, MMP2, and P53 by FTO has been shown to sustain mitochondrial function, uphold ERK signaling, and prevent apoptosis in granulosa cells. In summary, these discoveries position FTO as a pivotal element in the molecular framework governing ovarian aging, presenting promising opportunities for therapeutic strategies aimed at preserving female reproductive capacity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41649627/",
+      "pdf_url": "https://doi.org/10.1007/s10522-026-10401-8",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed",
+        "semantic"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "41649627",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+      "authors": "Zhang Y; Yang Y; Liao Q; Chen X; Wang K; Zhang R; Li J; Liu H",
+      "year": 2026,
+      "doi": "10.1186/s13072-026-00664-3",
+      "pmid": "42050634",
+      "pmcid": null,
+      "abstract": "Ovarian aging leads to the progressive loss of reproductive and endocrine functions. As an upstream regulatory hub, epigenetic modifications synergistically impair these two functions through multi-dimensional mechanisms, collectively contributing to the occurrence of clinical phenotypes. Current therapies (e.g., hormone replacement therapy) are difficult to reverse functional decline and carry long-term risks. This review systematically elaborates on the core roles of three major epigenetic mechanisms in ovarian aging: DNA methylation (mediated by DNMTs/TET), histone modification (dynamic balance of HATs/HDACs), and non-coding RNA (miRNA/lncRNA/circRNA network). Dysregulation of DNA methylation reprogramming drives the imbalance between dormancy and activation of primordial follicles and impairs steroidogenesis. Dysregulated histone modification induces spindle assembly defects, meiotic arrest, and a vicious cycle of apoptosis and autophagy in granulosa cells. ncRNAs regulate oocyte maturation through the ceRNA mechanism and epitranscriptomic reprogramming (e.g., m6A). These mechanisms synergistically accelerate ovarian aging through multiple pathways, including interfering with the HPG axis, aggravating oxidative stress-mitochondrial dysfunction, and disrupting apoptosis/autophagy homeostasis. Although epigenetic interventions still face potential transgenerational genetic safety risks, against the backdrop of high incidence and global population aging, the development of novel therapies that specifically target somatic cells or can avoid such risks has become an urgent need. In the future, targeting key epigenetic nodes is still expected to open up new avenues for extending female reproductive lifespan and alleviating long-term health risks associated with ovarian aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42050634/",
+      "pdf_url": "https://doi.org/10.1186/s13072-026-00664-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "42050634",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Integrated analysis of differential m6A methylation and transcriptome profiles in ovaries of young and aged Qira black sheep.",
+      "authors": "Pei L; Wang W; Guo P; Qiao A; Duan X; Xu X; Liu C",
+      "year": 2026,
+      "doi": "10.1186/s12864-026-12604-2",
+      "pmid": "41634564",
+      "pmcid": null,
+      "abstract": "Ovarian aging leads to follicular atresia and a decline in both the quantity and quality of oocytes, yet its molecular regulatory mechanisms remain incompletely understood. N6-methyladenosine (m6A), one of the most prevalent RNA modifications in mammals, is thought to play a key role in ovarian function and aging. In this study, ovarian tissues from 1–2-year-old and 5–6-year-old Qira black sheep were collected, and an m6A methylation transcriptomic atlas was constructed based on MeRIP-seq and RNA-seq. A total of 660 differential methylation peaks (DMPs) and 2,018 differentially expressed genes (DEGs) were identified between the two groups, most of which were enriched in pathways associated with ovarian development, cellular senescence, and immune responses. GO and KEGG enrichment analyses showed that DMPs were significantly enriched in the positive regulation of the BMP signaling pathway, in utero embryonic development, and VEGF and Wnt signaling pathways. DEGs were mainly enriched in processes related to cellular senescence, NF-κB/MAPK signaling pathways, RNA binding, and transcriptional regulation. Integrated analysis revealed 109 overlapping differential genes between DMPs and DEGs, several of which (such as CEBPB, COL6A3, and PLCG1) were associated with aging, inflammatory responses, and the maintenance of ovarian function. This study provides the first m6A methylation transcriptomic profile of the ovaries of Qira black sheep and offers new insights into the regulatory mechanisms of m6A in ovarian aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41634564/",
+      "pdf_url": "https://doi.org/10.1186/s12864-026-12604-2",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "41634564",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"Genetic Risk Modifies the Effect of Exogenous Nucleotides on Insulin Resistance in Older Adults: Insights from Multi-Omics Analyses\"",
+      "authors": "",
+      "year": 2026,
+      "doi": "10.1039/d5fo05425g/v1/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d5fo05425g/v1/review2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "10.1039/d5fo05425g/v1/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"Genetic Risk Modifies the Effect of Exogenous Nucleotides on Insulin Resistance in Older Adults: Insights from Multi-Omics Analyses\"",
+      "authors": "",
+      "year": 2026,
+      "doi": "10.1039/d5fo05425g/v1/review1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d5fo05425g/v1/review1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "10.1039/d5fo05425g/v1/review1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"Genetic Risk Modifies the Effect of Exogenous Nucleotides on Insulin Resistance in Older Adults: Insights from Multi-Omics Analyses\"",
+      "authors": "",
+      "year": 2026,
+      "doi": "10.1039/d5fo05425g/v2/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d5fo05425g/v2/review2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "10.1039/d5fo05425g/v2/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Decreased FTO Expression Promotes Ovarian Granulosa Cells Aging.",
+      "authors": "Ying J; Zhang X; Sun X; Meng Q",
+      "year": 2025,
+      "doi": "10.1007/s43032-025-01873-z",
+      "pmid": "40342080",
+      "pmcid": null,
+      "abstract": "This study aimed to investigate the role of fat mass and obesity-associated protein (FTO), an N6-methyladenosine (m6A) demethylase, in ovarian aging by examining the effects of FTO downregulation on key biological processes in human ovarian granulosa cells (KGN), including proliferation, apoptosis regulation, senescence, and steroidogenic function. Stable FTO knockdown in KGN cells was achieved using lentivirus, complemented by modeling premature senescence with H2O2 treatment. The biological functions, such as cell proliferation, apoptosis, aging, and sex hormone secretion, were assessed using RT-qPCR, WB, EdU staining, and ELISA, respectively. Silencing FTO significantly inhibited the proliferation of KGN cells, promoted apoptosis and senescence, and disrupted their endocrine function. These effects were consistent in the H2O2-induced senescence model. Our findings identify FTO as a critical regulator of ovarian homeostasis. Depletion of FTO impairs granulosa cell viability, accelerates senescence-related functional decline, and diminishes steroidogenic capacity through m6A-mediated modulation of key biosynthetic enzymes. These insights highlight FTO as a potential therapeutic target for age-related ovarian dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40342080/",
+      "pdf_url": "https://doi.org/10.1007/s43032-025-01873-z",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed",
+        "semantic"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "40342080",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Editorial: Genetics and epigenetics in ovarian aging",
+      "authors": "Honey V. Reddi",
+      "year": 2025,
+      "doi": "10.3389/fendo.2025.1555914",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "begins in a mid-30s, with menopause usually occurring between the 24 ages of 48 and and the depletion of oocyte stock (ovarian aging) being an inevitable process 25 during a woman's lifetime, ultimately influencing lifespan and health outcomes. Ovarian aging is 26 a multidimensional process characterized by a progressive decline in follicle number and oocyte 27 quality that accelerates around 37 years of age, leading to increased infertility and congenital 28 disabilities in offspring 1",
+      "url": "https://doi.org/10.3389/fendo.2025.1555914",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1555914/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\honey_2025_editorial_genetics_and_epigenetics_in_ovarian_aging.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "W4407383636",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Elevated IGFBP7 expression in follicular granulosa cells promotes PCOS pathogenesis.",
+      "authors": "Li Chen; Linhu Hui; Yongyan Wang; Xinsheng Yao; Jun Li",
+      "year": 2025,
+      "doi": "10.1016/j.bbadis.2025.167743",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polycystic ovary syndrome (PCOS) can result in female infertility, menstrual irregularities, metabolic disturbances, hormonal imbalances, and significantly impact the reproductive health of women of childbearing age. Hyperandrogenism and insulin resistance are typical primary endocrine features of PCOS, which are also regarded as its core pathogenesis. In this study, IGFBP7 expression in granulosa cells (GCs) from women with and without PCOS was analyzed using bulk RNA-seq. A PCOS-like mouse model was constructed using dehydroepiandrosterone in IGFBP7 knockout and wild-type mice to explore the role of IGFBP7 in PCOS. Primary GCs from mice were cultured and transfected with IGFBP7 overexpression plasmid and siRNA fragments. Proliferation, apoptosis, and steroid hormone levels were measured to investigate the effects of IGFBP7 on granulosa cells. IGFBP7 expression was found to be elevated in patients with PCOS. Following IGFBP7 knockdown in mouse GC, there was a significant increase in GC proliferation, a decrease in GC apoptosis, and a notable decrease in testosterone secretion by GC. Conversely, overexpression of IGFBP7 in mouse granulosa cells significantly inhibited GC proliferation, significantly increased GC apoptosis, and led to a marked increase in testosterone secretion by GCs. With mouse model, a reduction in PCOS symptoms in mice after IGFBP7 deletion was observed. Elevated IGFBP7 expression in PCOS granulosa cells may induce apoptosis, hinder insulin signaling, and enhance androgen synthesis. These insights offer novel avenues for understanding and treating PCOS.",
+      "url": "https://www.semanticscholar.org/paper/405d33238ee16bc6a22595ecc722a1f5f1874ba4",
+      "pdf_url": "https://doi.org/10.1016/j.bbadis.2025.167743",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "405d33238ee16bc6a22595ecc722a1f5f1874ba4",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Glycolytic Dysfunction in Granulosa Cells and Its Contribution to Metabolic Dysfunction in Polycystic Ovary Syndrome",
+      "authors": "Zhenzhen Cao; Qin Zhou; Jie An; Xiaojing Guo; XiaoFang Jia; Yuena Qiu",
+      "year": 2025,
+      "doi": "10.2147/DDDT.S525651",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Polycystic ovary syndrome (PCOS) is a common endocrine-metabolic disorder in women of reproductive age, marked by hyperandrogenism, ovulatory dysfunction, and insulin resistance, accompanied by significant metabolic disturbances, including glycolytic dysfunction, mitochondrial impairment, and increased oxidative stress. In granulosa cells (GCs), disrupted glycolysis impairs follicular development and compromises oocyte quality, exacerbating reproductive and metabolic abnormalities. At the molecular level, dysregulated energy-sensing pathways, such as AMPK and mTOR, reduce glucose uptake, lower ATP generation, and enhance oxidative stress, fueling disease progression. Epigenetic changes and non-coding RNAs further modulate glycolytic enzyme expression, destabilizing metabolic homeostasis within ovarian follicles. Therapeutically, restoring glycolytic balance using agents like metformin, resveratrol, mogroside V, and nicotinamide mononucleotide (NMN) has shown promise in improving glycolysis, insulin sensitivity, and ovarian function in various models. This review synthesizes current evidence on glycolysis’s critical role in PCOS pathophysiology, its influence on follicular energetics and oocyte quality, and highlights metabolic targets for future therapies, offering a foundation for novel mechanism-driven interventions in PCOS management.",
+      "url": "https://www.semanticscholar.org/paper/e2138c1991e39606f7ff8ee5a10ccb36a15d7616",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12182746",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "e2138c1991e39606f7ff8ee5a10ccb36a15d7616",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Modified Semi-Lagrangian Godunov-Type Method Without Numerical Viscosity for Shocks",
+      "authors": "Valeriy Nikonov",
+      "year": 2025,
+      "doi": "10.3390/fluids10050133",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>Most high-order Euler-type methods have been proposed to solve one-dimensional scalar hyperbolic conservational law. These methods resolve smooth variations in flow parameters accurately and simultaneously identify the discontinuities. A disadvantage of Euler-type methods is the parameter change stretching in the shock over a few mesh cells. In reality, in the shock, the flow properties change abruptly at once for the computational mesh. In our considerations, the mean free path of a flow particle is much smaller than the mesh cell size. This paper describes a modification of the semi-Lagrangian Godunov-type method, which was proposed by the author in the previously published paper. The modified method also does not have numerical viscosity for shocks. In the previous article, a linear law for the distribution of flow parameters was employed for a rarefaction wave when modeling the Shu-Osher problem with the aim of reducing parasitic oscillations. Additionally, the nonlinear law derived from the Riemann invariants was used for the remaining test problems. This article proposes an advanced method, namely, a unified formula for the density distribution of rarefaction waves and modification of the scheme for modeling moderately strong shock waves. The obtained results of numerical analysis, including the standard problem of Sod, the Riemann problem of Lax, the Shu–Osher shock-tube problem and a few author’s test cases are compared with the exact solution, the data of the previous method and the Total Variation Deminishing (TVD) scheme results. This article delineates the further advancement of the numerical scheme of the proposed method, specifically presenting a unified mathematical formulation for an expanded set of test problems.</jats:p>",
+      "url": "https://doi.org/10.3390/fluids10050133",
+      "pdf_url": "https://www.mdpi.com/2311-5521/10/5/133/pdf?version=1747399768",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "10.3390/fluids10050133",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Plumbagin ameliorates ferroptosis of ovarian granulosa cells in polycystic ovary syndrome by down-regulating SLC7A5 m6A methylation modification through inhibition of YTHDF1",
+      "authors": "Zhaowei Cai; Ruopeng Zhang; Rongju Liu; Li Zhao; Liling Zhou",
+      "year": 2025,
+      "doi": "10.1186/s13048-025-01700-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine-metabolic disease in women of reproductive age. One of its core pathologies is ovarian granulosa cell (GC) dysfunction, and ferroptosis, as a novel cell death mode dependent on iron ions and lipid peroxidation, may be involved in the PCOS process, but the exact mechanism is unknown. Plumbagin (PLB) shows potential in PCOS treatment due to its antioxidant properties. The present study aimed to elucidate the molecular mechanisms by which PLB ameliorates mitochondrial dysfunction and ferroptosis in PCOS GCs through the YTH N6-methyladenosine RNA binding protein 1/L-type amino acid transporter 1 (YTHDF1/SLC7A5) axis. An in vitro model of PCOS was constructed by treating KGN cells with dihydrotestosterone (DHT), and PLB treatment, YTHDF1 knockdown (si-YTHDF1), and SLC7A5 overexpression (pcDNA 3.1-SLC7A5) were intervened respectively. Cell viability was measured by cell counting kit-8. Lactate dehydrogenase (LDH) release, adenosine triphosphate (ATP) level, iron ion, and lipid peroxidation (LPO) content were detected by commercial kits. Mitochondrial membrane potential (MMP) was analyzed by JC-1 staining combined with flow cytometry. Reactive oxygen species (ROS) levels were assessed by C11-BODIPY probe, oxidative stress indicators including malondialdehyde (MDA), superoxide dismutase (SOD), glutathione peroxidase were measured by kits, and Cytochrome C, Ferritin, mitochondrial transcription factor A (TFAM), glutathione peroxidase 4 (GPX4) and SLC7A5 expression were detected by Western blot. Fluorescence in situ hybridization, RNA immunoprecipitation, and m6A quantitative real-time polymerase chain reaction verified the interaction and translational regulation of YTHDF1 and SLC7A5. DHT treatment significantly decreased KGN cell viability, MMP and ATP levels, increased LDH release, ROS, MDA, iron ions and LPO content, up-regulated Cytochrome C expression, and down-regulated Ferritin, TFAM, and GPX4 expression. Both PLB treatment and YTHDF1 knockdown significantly reversed the above changes, but YTHDF1 overexpression reversed the protective effect of PLB. YTHDF1 co-localized with SLC7A5 mRNA and enhanced its translation through m6A modification. YTHDF1 knockdown reduced SLC7A5 protein levels without affecting mRNA expression. SLC7A5 overexpression weakened the protective effect of YTHDF1 knockdown, resulting in decreased cell viability, deterioration of mitochondrial function, and increased ferroptosis. PLB ameliorates DHT-induced mitochondrial dysfunction and ferroptosis in KGN cells by inhibiting YTHDF1 expression, and its action is dependent on the mechanism by which YTHDF1 regulates SLC7A5 translation through m6A modification. Downregulating YTHDF1 or SLC7A5 significantly enhances GC survival and function.",
+      "url": "https://www.semanticscholar.org/paper/aea6a3bce3570118805aa9d284e6274dfd265954",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12128246",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "aea6a3bce3570118805aa9d284e6274dfd265954",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "SELECT-based quantification of site-specific m6A modification v1",
+      "authors": "Xin Xu; Yujuan Wang",
+      "year": 2025,
+      "doi": "10.17504/protocols.io.q26g77rzqgwz/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>This protocol describes SELECT (single-base elongation- and ligation-based qPCR amplification) assays for site-specific quantification of m6A RNA modification using total RNA, followed by qPCR-based detection of SELECT products.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.q26g77rzqgwz/v1",
+      "pdf_url": "https://www.protocols.io/view/select-based-quantification-of-site-specific-m6a-m-hibxb4app.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\xin_2025_select_based_quantification_of_site_specific_m6a_modification.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "10.17504/protocols.io.q26g77rzqgwz/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Studying ovarian aging and its health impacts: modern tools and approaches",
+      "authors": "Bérénice A. Benayoun; Alison Kochersberger; Jennifer L. Garrison",
+      "year": 2025,
+      "doi": "10.1101/gad.352732.125",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Ovarian aging is a critical yet understudied driver of systemic aging in female bodies, with profound implications for female health and longevity. Despite its significance, we still know little about ovarian aging and its systemic effects on aging trajectories. With new efforts over the past few years, interest in the field has been growing and there is momentum to address these questions. This review highlights the importance of leveraging modern tools and approaches to better understand ovarian aging and its impact on health span. Specifically, we believe it will be useful for both aging researchers looking to go into research on ovarian aging and reproductive researchers looking to adopt more modern toolkit. We focus on menopause-a key marker of ovarian aging-as a lens through which to examine the current state of the field, identify limitations in existing research, and outline goals for future progress. By emphasizing cutting-edge techniques and emerging models, we seek to illuminate new pathways for research that could lead to improved strategies for managing ovarian aging and enhancing overall female health.",
+      "url": "https://doi.org/10.1101/gad.352732.125",
+      "pdf_url": "http://genesdev.cshlp.org/content/early/2025/07/09/gad.352732.125.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "W4412163132",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A methylation in female reproductive physiology and pathology",
+      "authors": "Jie Ding; Yalun He; Yangshuo Li; Shuai Sun; Wen Cheng; Jiami Huang; Chaoqin Yu",
+      "year": 2025,
+      "doi": "10.1016/j.gendis.2025.101755",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) is a critical regulator of female reproductive physiology, yet existing reviews have focused predominantly on oocytes. The objective of this review is to systematically evaluate the regulatory effects of m6A throughout the pregnancy process. This review covers aspects such as oocyte maturation, granulosa cell dynamics, endometrial receptivity, immune homeostasis, and systemic adaptations, aiming to demonstrate the comprehensive regulatory capacity of m6A in female reproduction. Dysregulated m6A modifications in infertility-associated pathologies, including endometriosis, polycystic ovary syndrome, and recurrent miscarriage, are analyzed to identify mechanistic links between an epitranscriptomic imbalance and reproductive dysfunction. The key findings indicate that m6A is involved in the entire reproductive process and precisely coordinates stage-specific molecular programs within it, whereas aberrant methylation patterns disrupt gene networks essential for fertility. Notably, m6A-modifying enzymes exhibit strong potential as diagnostic biomarkers for female reproductive disorders. The synthesis of the current evidence establishes m6A dysregulation as a convergent pathogenic mechanism in diverse infertility etiologies, suggesting that the therapeutic modulation of m6A pathways could address unmet clinical needs in reproductive medicine.",
+      "url": "https://www.semanticscholar.org/paper/00dbd50b4b28cdb38212db47db846ec611b48f5d",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12513000",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "00dbd50b4b28cdb38212db47db846ec611b48f5d",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Unravelling the molecular landscape of polycystic ovary syndrome (PCOS) and role of inflammation through transcriptomics analysis of human ovarian granulosa cells",
+      "authors": "Kanika Mahra; Vineet Singh; Jae-Ho Shin",
+      "year": 2025,
+      "doi": "10.1186/s44342-025-00051-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polycystic ovary syndrome (PCOS) is a common metabolic problem in women of reproductive age that can lead to infertility and other metabolic disorders. Recent evidence indicates that inflammation might be one of the contributing factors in PCOS progression. However, there is a lack of information on the regulation of inflammatory genes in PCOS. Therefore, the aim of the study is to investigate the role of inflammation-associated genes and pathways in relation to PCOS. The bulk RNA-seq data of granulosa cells of human ovaries of PCOS-affected and healthy women were analyzed to evaluate the inflammatory regulation in PCOS. After quality trimming, the raw RNA-seq data were aligned to the human genome, and gene expression was quantified using featureCounts with Ensembl annotation. Further, downstream analyses of the resulting count matrix were performed in R Studio, where differentially expressed genes (DEG) were identified and CO-DEG analysis was performed. The study identifies the various differentially expressed inflammatory genes in the case of PCOS such as SPI1, HSPB1, MNDA, and ITGA. These DEG are closely associated with the activation of inflammatory responses, i.e., activation of lymphocytes and leukocytes, leukocyte migration and mononuclear cell proliferation, stimulating binding of various cytokines, immunoglobulins, and chemokines. PCOS group also exhibited an increased expression of androgen-mediated genes (SPI1 and ETS transcription factors) and genes associated with hyperlipidemia and insulin resistance (TNFRSF1B). Further, KEGG pathway enrichment analysis revealed significant upregulation of various pathways (autophagy, endocytosis) in the PCOS group. In addition, network analysis (cnetplot) of the top 10 KEGG GSEA pathways also highlights the key pathways in the PCOS group such as SNARE complex assembly pathway, SNAP-25, nucleophagy, and regulation of mast cell activation. Therefore, the study highlights that inflammation is a major effector in PCOS, which also fuels obesity, an independent effector that further worsens the PCOS condition. In addition, the genes related to hyperandrogenism, hyperlipidemia, and insulin resistance were also overexpressed in PCOS, exacerbating the condition.",
+      "url": "https://www.semanticscholar.org/paper/f2b6416cc96879b2ee46a42c44c406a47a73845e",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12337442",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "f2b6416cc96879b2ee46a42c44c406a47a73845e",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A RNA immunoprecipitation (MeRIP) v1",
+      "authors": "Xin Xu; Yujuan Wang",
+      "year": 2025,
+      "doi": "10.17504/protocols.io.rm7vzenmrvx1/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<p>This protocol describes m6A RNA immunoprecipitation (MeRIP) using fragmented total RNA from cell lines, followed by antibody-based enrichment of m6A-modified RNA and purification for downstream library preparation.</p>",
+      "url": "https://doi.org/10.17504/protocols.io.rm7vzenmrvx1/v1",
+      "pdf_url": "https://www.protocols.io/view/m6a-rna-immunoprecipitation-merip-hibsb4anf.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\xin_2025_m6a_rna_immunoprecipitation_merip_v1.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "10.17504/protocols.io.rm7vzenmrvx1/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "24 Negation",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.1515/9783110756470-024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1515/9783110756470-024",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "10.1515/9783110756470-024",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comprehensive analysis of key m6A RNA modification-related genes and immune infiltrates in hypertrophic cardiomyopathy",
+      "authors": "Xia Hu; Bo Liang",
+      "year": 2024,
+      "doi": "10.1101/2024.11.14.24317129",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Hypertrophic cardiomyopathy (HCM) is the most common inherited heart disease. We performed a comprehensive analysis to construct the correlation of m6A and immune in HCM. Two HCM datasets (GSE141910 and GSE160997) and m6A-related regulators were obtained from GEO and published articles, respectively. Differentially expressed m6A-related regulators were obtained. Random forest model and nomogram were conducted to assess the risk of HCM, and finally, the m6A subtype was constructed. Functional enrichment analysis was conducted. Protein-protein interaction network of differentially expressed genes between m6A subtypes was performed. Furthermore, we constructed the Hubgene-chemical network, Hubgene-microRNA network, and Hubgene-transcription factor network of the top 10 hubgenes. Additionally, the immune subtype and hubgene subtype were constructed. PCR was performed to validate the m6A-related regulators. We obtained 20 m6A-related regulators in HCM. Among them, 8 m6A-related regulators differentially expressed (YTHDC1, HNRNPC, and FMR1 were up-regulated while YTHDC2, FTO, WTAP, IGF2BP2, and IGF2BP3 were down-regulated). FTO, FMR1, IGF2BP3, YTHDC1, and IGF2BP2 were the top 5 important m6A-related regulators and were used to conduct the nomogram. We obtained 329 differentially expressed genes in m6A subtype and these genes enriched HCM-related processes and pathways. Furthermore, we constructed the Hubgene-chemical network, Hubgene-microRNA network, and Hubgene-transcription factor network of the top 10 hubgenes (NFKBIA, NFKB1, PSMA3, PSMC4, PSMA2, PSMA4, PSMD7, PSMD10, PSMD8, and PSMA6). And then we constructed an immune subtype based on the immune cell infiltration levels and hubgene subtype based on the expression of the top 10 hubgenes. Finally, we verified the main results through experiments. In conclusion, we built a nomogram and identified 8 m6A-related regulators and 10 hubgenes, which were prominently associated with HCM. We found that m6A and the immune system may play a crucial role in the HCM. Accordingly, those genes and pathways might become therapeutic targets with clinical usefulness in the future.</jats:p>",
+      "url": "https://doi.org/10.1101/2024.11.14.24317129",
+      "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2024/11/15/2024.11.14.24317129.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\xia_2024_comprehensive_analysis_of_key_m6a_rna_modification_related.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "10.1101/2024.11.14.24317129",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exploring the transcriptomic and m6a landscape of human chromosome 17 in breast cancer: A combined RNA-seq and MeRIP-Seq analysis",
+      "authors": "Mengmeng Wang",
+      "year": 2024,
+      "doi": "10.54254/2753-8818/40/20241226",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>N6-methyladenosine (m6A), recognized as the most prevalent post-transcriptional modification in organisms, has been substantiated to exert a significant influence on the genetic mechanisms underlying breast cancer. To delve deeper into the disparities in expression, modification, and interactions between mRNA and m6A in breast cancer (BC), we conducted RNA-seq and MeRIP-Seq analyses on eight human breast tissue transcriptome samples acquired from the GEO database. combining two single omics and integrated analysis, the study unveiled the mRNA and m6A expression patterns, differential genes, and enriched pathway functional disparities in BC (on Chromosome 17): (1) A confidence list comprised of 53 differential genes was derived by intersecting the 72 identified differentially expressed mRNA genes and the 781 differentially modified m6A genes; (2) The three-way analysis revealed two distinct types of pathways related to BC: “ABC transporter activity” and “Response to epidermal growth factor.” Among these, the EGF pathways exhibited the closest association with the differential m6A modifications. Meanwhile, all three BC subtypes enriched in DisGeNET were all linked to EGF; (3) By integrating PPI and enrichment analysis, we selected target genes from the confidence gene list, which included ABCA6, ABCA8, and ABCA10, known to be involved in regulating ABC transporters, and ERBB2, a central hub gene in PPI with a pivotal role in the EGF pathway and Her2-positive BC subtype under m6A differential modification. Subsequent research may uncover RNA-binding proteins for these target genes and offer effective drug design targets for BC.</jats:p>",
+      "url": "https://doi.org/10.54254/2753-8818/40/20241226",
+      "pdf_url": "https://tns.ewapub.com/article/view/17037.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\mengmeng_2024_exploring_the_transcriptomic_and_m6a_landscape_of_human.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "unpaywall",
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "10.54254/2753-8818/40/20241226",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Hematopoietic aging promotes cancer by fueling IL-1⍺–driven emergency myelopoiesis",
+      "authors": "Matthew D. Park; Jessica Le Bérichel; Pauline Hamon; C. Matthias Wilk; Meriem Belabed; Nader Yatim; Alexis Saffon; Jesse Boumelha; Chiara Falcomatà; Alexander Tepper; Samarth Hegde; Raphaël Mattiuz; Brian Y. Soong; Nelson M. LaMarche; Frederika Rentzeperis; Leanna Troncoso; László Halász; C. Hennequin; Theodore Chin; Earnest P. Chen; Amanda M. Reid; Matthew Su; Ashley Reid; Laura L. Koekkoek; Nicholas Venturini; Shira Wood-isenberg; Darwin D’souza; Rachel Chen; Travis Dawson; Kai Nie; Zhihong Chen; Seunghee Kim‐Schulze; María Casanova-Acebes; Filip K. Świrski; Julian Downward; Nicolas Vabret; Brian D. Brown; Thomas U. Marron; Miriam Mérad",
+      "year": 2024,
+      "doi": "10.1126/science.adn0327",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Age is a major risk factor for cancer, but how aging impacts tumor control remains unclear. In this study, we establish that aging of the immune system, regardless of the age of the stroma and tumor, drives lung cancer progression. Hematopoietic aging enhances emergency myelopoiesis, resulting in the local accumulation of myeloid progenitor-like cells in lung tumors. These cells are a major source of interleukin (IL)-1⍺, which drives the enhanced myeloid response. The age-associated decline of DNA methyltransferase 3A enhances IL-1⍺ production, and disrupting IL-1 receptor 1 signaling early during tumor development normalized myelopoiesis and slowed the growth of lung, colonic, and pancreatic tumors. In human tumors, we identified an enrichment for IL-1⍺-expressing monocyte-derived macrophages linked to age, poorer survival, and recurrence, unraveling how aging promotes cancer and offering actionable therapeutic strategies.",
+      "url": "https://doi.org/10.1126/science.adn0327",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616710/pdf/EMS199319.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "W4402261463",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis",
+      "authors": "Xiaolan Zhu; Wenxin Li; Minjun Lu; Junyu Shang; Jiamin Zhou; Lin Li; Yueqin Liu; Jie Xing; Mengxue Zhang; Shijie Zhao; Jingjing Lu; Xuyan Shi",
+      "year": 2024,
+      "doi": "10.1186/s12951-024-02583-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Background Premature ovarian insufficiency (POI) is an important cause of female infertility and seriously impacts the physical and psychological health of patients. Human umbilical cord mesenchymal stem cell-derived exosomes (HucMSCs-Exs, H-Exs) have exhibited protective effects on ovarian function with unclear mechanisms. Methods A comprehensive analysis of the Gene Expression Omnibus (GEO) database were used to identify POI-associated circRNAs and miRNAs. The relationship between HucMSC-derived exosomal circBRCA1/miR-642a-5p/FOXO1 axis and POI was examined by RT-qPCR, Western blotting, reactive oxygen species (ROS) staining, senescence-associated β-gal (SA-β-gal) staining, JC-1 staining, TEM, oxygen consumption rate (OCR) measurements and ATP assay in vivo and in vitro . RT-qPCR detected the expression of circBRCA1 in GCs and serum of patients with normal ovarian reserve function (n = 50) and patients with POI (n = 50); then, the correlation of circBRCA1 with ovarian reserve function indexes was analyzed. Results Herein, we found that circBRCA1 was decreased in the serum and ovarian granulosa cells (GCs) of patients with POI and was associated with decreased ovarian reserve. H-Exs improved the disorder of the estrous cycles and reproductive hormone levels, reduced the number of atretic follicles, and alleviated the apoptosis and senescence of GCs in rats with POI. Moreover, H-Exs mitigated mitochondrial damage and reversed the reduced circBRCA1 expression induced by oxidative stress in GCs. Mechanistically, FTO served as an eraser to increase the stability and expression of circBRCA1 by mediating the m 6 A demethylation of circBRCA1, and exosomal circBRCA1 sponged miR-642a-5p to block its interaction with FOXO1. CircBRCA1 insufficiency aggravated mitochondrial dysfunction, mimicking FTO or FOXO1 depletion effects, which was counteracted by miR-642a-5p inhibition. Conclusion H-Exs secreted circBRCA1 regulated by m 6 A modification, directly sponged miR-642a-5p to upregulate FOXO1, resisted oxidative stress injuries in GCs and protected ovarian function in rats with POI. Exosomal circBRCA1 supplementation may be a general prospect for the prevention and treatment of POI. Graphical Abstract",
+      "url": "https://doi.org/10.1186/s12951-024-02583-5",
+      "pdf_url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-024-02583-5",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "W4400012026",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "METTL3-mediated m6A modification of CD36: Implications for glucose metabolism and inflammatory dysregulation in follicles of polycystic ovary syndrome.",
+      "authors": "Linglin Weng; Qi Zhu; Yu Xiang; Tingting Cao; Jieyu Cai; Na Liang; Xiaoqi Hong; Mingrui Xue; Hongshan Ge",
+      "year": 2024,
+      "doi": "10.1016/j.intimp.2024.113327",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polycystic ovary syndrome (PCOS) is a prevalent endocrine disorder that affects women of reproductive age and is characterized by menstrual irregularities, metabolic imbalances and infertility. The pathogenesis of PCOS is complex and not fully understood, and chronic inflammation and insulin resistance are implicated in its progression. In this study, we investigated the role of m6A methylation, an important epigenetic modification, in the pathogenesis of PCOS. Using methylated RNA immunoprecipitation sequencing (MeRIP-seq) and RNA sequencing (RNA-seq), we mapped the m6A methylation profile in granulosa cells from patients with PCOS and identified a significant regulatory effect on gene expression. CD36 is a novel m6A-regulated gene that may facilitate the progression of PCOS. We demonstrated that METTL3, an m6A methyltransferase, modulated CD36 expression and influenced glucose metabolism and inflammatory responses in PCOS. Employing KGN cells as a model of insulin resistance, we observed that CD36 knockdown ameliorated the impaired glucose uptake and significantly reduced the production of pro-inflammatory cytokines. These findings are consistent with the results of CD36 inhibition in a mouse model of PCOS, indicating a role of CD36 in modulating the disease phenotype. Our study delineates a previously unrecognized epigenetic mechanism involving m6A methylation in PCOS, highlighting the potential of targeting the METTL3-CD36 axis as a therapeutic strategy for managing ovarian inflammation and metabolic dysregulation in patients with PCOS.",
+      "url": "https://www.semanticscholar.org/paper/55d6f4299b702f0f899963df24a0ffd1d8f79248",
+      "pdf_url": "https://doi.org/10.1016/j.intimp.2024.113327",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "55d6f4299b702f0f899963df24a0ffd1d8f79248",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ovarian aging: energy metabolism of oocytes",
+      "authors": "Shenglan Bao; Tailang Yin; Su Liu",
+      "year": 2024,
+      "doi": "10.1186/s13048-024-01427-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "In women who are getting older, the quantity and quality of their follicles or oocytes and decline. This is characterized by decreased ovarian reserve function (DOR), fewer remaining oocytes, and lower quality oocytes. As more women choose to delay childbirth, the decline in fertility associated with age has become a significant concern for modern women. The decline in oocyte quality is a key indicator of ovarian aging. Many studies suggest that age-related changes in oocyte energy metabolism may impact oocyte quality. Changes in oocyte energy metabolism affect adenosine 5'-triphosphate (ATP) production, but how related products and proteins influence oocyte quality remains largely unknown. This review focuses on oocyte metabolism in age-related ovarian aging and its potential impact on oocyte quality, as well as therapeutic strategies that may partially influence oocyte metabolism. This research aims to enhance our understanding of age-related changes in oocyte energy metabolism, and the identification of biomarkers and treatment methods.",
+      "url": "https://doi.org/10.1186/s13048-024-01427-y",
+      "pdf_url": "https://ovarianresearch.biomedcentral.com/counter/pdf/10.1186/s13048-024-01427-y",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\shenglan_2024_ovarian_aging_energy_metabolism_of_oocytes.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "W4399230797",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reading the m6A-encoded epitranscriptomic information in development and diseases",
+      "authors": "Yunbing Chen; Ziyu Zhou; Yanxi Chen; Di Chen",
+      "year": 2024,
+      "doi": "10.1186/s13578-024-01293-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract N 6 -methyladenosine (m 6 A) represents the most prevalent internal and reversible modification on RNAs. Different cell types display their unique m 6 A profiles, which are determined by the functions of m 6 A writers and erasers. M 6 A modifications lead to different outcomes such as decay, stabilization, or transport of the RNAs. The m 6 A-encoded epigenetic information is interpreted by m 6 A readers and their interacting proteins. M 6 A readers are essential for different biological processes, and the defects in m 6 A readers have been discovered in diverse diseases. Here, we review the latest advances in the roles of m 6 A readers in development and diseases. These recent studies not only highlight the importance of m 6 A readers in regulating cell fate transitions, but also point to the potential application of drugs targeting m 6 A readers in diseases.",
+      "url": "https://doi.org/10.1186/s13578-024-01293-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s13578-024-01293-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\yunbing_2024_reading_the_m6a_encoded_epitranscriptomic_information_in_development.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "W4402939595",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Single-cell sequencing to multi-omics: technologies and applications",
+      "authors": "Xiangyu Wu; Xin Yang; Yunhan Dai; Zihan Zhao; Junmeng Zhu; Hongqian Guo; Rong Yang",
+      "year": 2024,
+      "doi": "10.1186/s40364-024-00643-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cells, as the fundamental units of life, contain multidimensional spatiotemporal information. Single-cell RNA sequencing (scRNA-seq) is revolutionizing biomedical science by analyzing cellular state and intercellular heterogeneity. Undoubtedly, single-cell transcriptomics has emerged as one of the most vibrant research fields today. With the optimization and innovation of single-cell sequencing technologies, the intricate multidimensional details concealed within cells are gradually unveiled. The combination of scRNA-seq and other multi-omics is at the forefront of the single-cell field. This involves simultaneously measuring various omics data within individual cells, expanding our understanding across a broader spectrum of dimensions. Single-cell multi-omics precisely captures the multidimensional aspects of single-cell transcriptomes, immune repertoire, spatial information, temporal information, epitopes, and other omics in diverse spatiotemporal contexts. In addition to depicting the cell atlas of normal or diseased tissues, it also provides a cornerstone for studying cell differentiation and development patterns, disease heterogeneity, drug resistance mechanisms, and treatment strategies. Herein, we review traditional single-cell sequencing technologies and outline the latest advancements in single-cell multi-omics. We summarize the current status and challenges of applying single-cell multi-omics technologies to biological research and clinical applications. Finally, we discuss the limitations and challenges of single-cell multi-omics and potential strategies to address them.",
+      "url": "https://doi.org/10.1186/s40364-024-00643-4",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40364-024-00643-4.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\xiangyu_2024_single_cell_sequencing_to_multi_omics_technologies_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "W4402912319",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The network structural entropy for single-cell RNA sequencing data during skin aging",
+      "authors": "Zhilong Liu; Hai Lin; Xiang Li; Hao Xue; Yuer Lu; Fei Xu; Jianwei Shuai",
+      "year": 2024,
+      "doi": "10.1093/bib/bbae698",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Aging is a complex and heterogeneous biological process at cellular, tissue, and individual levels. Despite extensive effort in scientific research, a comprehensive understanding of aging mechanisms remains lacking. This study analyzed aging-related gene networks, using single-cell RNA sequencing data from >15 000 cells. We constructed a gene correlation network, integrating gene expressions into the weights of network edges, and ranked gene importance using a random walk model to generate a gene importance matrix. This unsupervised method improved the clustering performance of cell types. To further quantify the complexity of gene networks during aging, we introduced network structural entropy. The findings of our study reveal that the overall network structural entropy increases in the aged cells compared to the young cells. However, network entropy changes varied greatly within different cell subtypes. Specifically, the network structural entropy among various cell types may increase, remain unchanged, or decrease. This wide range of changes may be closely related to their individual functions, highlighting the cellular heterogeneity and potential key network reconfigurations. Analyzing gene network entropy provides insights into the molecular mechanisms behind aging. This study offers new scientific evidence and theoretical support for understanding the changes in cell functions during aging.",
+      "url": "https://doi.org/10.1093/bib/bbae698",
+      "pdf_url": "https://academic.oup.com/bib/article-pdf/26/1/bbae698/61330894/bbae698.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "W4406113632",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "When cell mechanics meets epitranscriptomics: reduction of m6A in Piezo2 RNA ameliorates cardiac fibrosis",
+      "authors": "Gloria Garoffolo; Maurizio Pesce",
+      "year": 2024,
+      "doi": "10.1093/cvr/cvae247",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/cvr/cvae247",
+      "pdf_url": "https://academic.oup.com/cardiovascres/advance-article-pdf/doi/10.1093/cvr/cvae247/60940425/cvae247.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "10.1093/cvr/cvae247",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Characterization of m6A methylation modifications in gastric cancer",
+      "authors": "Wei Yin; Zhanwei Huo; Jiawei Zuo; Haixiao Wang; Bi Chen; Liqing Zhou",
+      "year": 2023,
+      "doi": "10.18632/aging.205341",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.205341",
+      "pdf_url": "https://www.aging-us.com/article/205341/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "10.18632/aging.205341",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Comprehensive Transcriptomic Profiling of m6A Modification in Age-Related Hearing Loss",
+      "authors": "Menglong Feng; Xiaoqing Zhou; Yaqin Hu; Juhong Zhang; Ting Yang; Zhiji Chen; Wei Yuan",
+      "year": 2023,
+      "doi": "10.3390/biom13101537",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Age-related hearing loss (ARHL), also known as presbycusis, is one of the most common neurodegenerative disorders in elderly individuals and has a prevalence of approximately 70-80% among individuals aged 65 and older. As ARHL is an intricate and multifactorial disease, the exact pathogenesis of ARHL is not fully understood. There is evidence that transcriptional dysregulation mediated by epigenetic modifications is widespread in ARHL. However, the potential role of N6-methyladenosine (m6A) modification, as a crucial component of epigenetics, in ARHL progression remains unclear. In this study, we confirmed that the downregulation of m6A modification in cochlear tissues is related to ARHL and found that the expression of the m6A methylation regulators Wilms tumour suppressor-1-associated protein (WTAP), methyltransferase-like 3 (METTL3), ALKB homologous protein 5 (ALKBH5) and fat mass and obesity-associated protein (FTO) is decreased significantly at the mRNA and protein levels in ARHL mice. Then, we used methylated RNA immunoprecipitation sequencing (MeRIP-Seq) and RNA sequencing (RNA-Seq) to identify the differentially m6A-methylated genes in the cochlear tissues of ARHL mice. A total of 3438 genes with differential m6A methylation were identified, of which 1332 genes were m6A-hypermethylated and 2106 genes were m6A-hypomethylated in the ARHL group compared to the control group according to MeRIP-seq. Further joint analysis of RNA-Seq and MeRIP-Seq data showed that 262 genes had significant differences in both mRNA expression and m6A methylation. GO and KEGG analyses indicated that 262 unique genes were enriched mainly in the PI3K-AKT signalling pathway. In conclusion, the results of this study reveal differential m6A methylation patterns in the cochlear tissues of ARHL mice, providing a theoretical basis for further study of the pathogenesis of ARHL and potential therapeutic strategies.",
+      "url": "https://doi.org/10.3390/biom13101537",
+      "pdf_url": "https://www.mdpi.com/2218-273X/13/10/1537/pdf?version=1697604856",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "W4387737773",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "IGF2BP3 promotes the progression of colorectal cancer and mediates cetuximab resistance by stabilizing EGFR mRNA in an m6A-dependent manner",
+      "authors": "Lijie Chen; Hui-Ye Liu; Zhiyuan Xiao; Ting Qiu; Dan Zhang; Lingjie Zhang; Fangyi Han; Guojun Chen; Xuemei Xu; Jiong-Hua Zhu; Yanqing Ding; Shuyang Wang; Ya-Ping Ye; Hong‐Li Jiao",
+      "year": 2023,
+      "doi": "10.1038/s41419-023-06099-y",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Insulin-like growth factor 2 mRNA-binding protein 3 (IGF2BP3), an RNA-binding protein, is associated with tumorigenesis and progression. However, the exact molecular mechanisms of IGF2BP3 in colorectal cancer (CRC) oncogenesis, progression, and drug resistance remain unclear. This study found that IGF2BP3 was upregulated in CRC tissues. Clinically, the elevated IGF2BP3 level is predictive of a poor prognosis. Functionally, IGF2BP3 enhances CRC tumorigenesis and progression both in vitro and in vivo. Mechanistically, IGF2BP3 promotes epidermal growth factor receptor (EGFR) mRNA stability and translation and further activates the EGFR pathway by serving as a reader in an N6-methyladenosine (m 6 A)-dependent manner by cooperating with METTL14. Furthermore, IGF2BP3 increases the drug resistance of CRC cells to the EGFR-targeted antibody cetuximab. Taken together, our results demonstrated that IGF2BP3 was a functional and clinical oncogene of CRC. Targeting IGF2BP3 and m 6 A modification may therefore offer rational therapeutic targets for patients with CRC.",
+      "url": "https://doi.org/10.1038/s41419-023-06099-y",
+      "pdf_url": "https://www.nature.com/articles/s41419-023-06099-y.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\lijie_2023_igf2bp3_promotes_the_progression_of_colorectal_cancer_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "W4386348856",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Identification and comparison of m6A modifications in glioblastoma non-coding RNAs with MeRIP-seq and Nanopore dRNA-seq",
+      "authors": "Raulas Krusnauskas; Rytis Stakaitis; Giedrius Steponaitis; Kristian Almstrup; Paulina Vaitkiene",
+      "year": 2023,
+      "doi": "10.1080/15592294.2022.2163365",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1080/15592294.2022.2163365",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/15592294.2022.2163365?needAccess=true&role=button",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "10.1080/15592294.2022.2163365",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Polycystic Ovary Syndrome: Etiology, Current Management, and Future Therapeutics",
+      "authors": "Samradhi Singh; Namrata Pal; Swasti Shubham; Devojit Kumar Sarma; Vinod Verma; Francesco Marotta; Manoj Kumar",
+      "year": 2023,
+      "doi": "10.3390/jcm12041454",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polycystic ovary syndrome (PCOS) is a complex endocrine and metabolic disorder, typically characterized by anovulation, infertility, obesity, insulin resistance, and polycystic ovaries. Lifestyle or diet, environmental pollutants, genetics, gut dysbiosis, neuroendocrine alterations, and obesity are among the risk factors that predispose females to PCOS. These factors might contribute to upsurging metabolic syndrome by causing hyperinsulinemia, oxidative stress, hyperandrogenism, impaired folliculogenesis, and irregular menstrual cycles. Dysbiosis of gut microbiota may play a pathogenic role in the development of PCOS. The restoration of gut microbiota by probiotics, prebiotics, or a fecal microbiota transplant (FMT) might serve as an innovative, efficient, and noninvasive way to prevent and mitigate PCOS. This review deliberates on the variety of risk factors potentially involved in the etiology, prevalence, and modulation of PCOS, in addition to plausible therapeutic interventions, including miRNA therapy and the eubiosis of gut microbiota, that may help treat and manage PCOS.",
+      "url": "https://doi.org/10.3390/jcm12041454",
+      "pdf_url": "https://www.mdpi.com/2077-0383/12/4/1454/pdf?version=1676262817",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "W4320494004",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Premature ovarian insufficiency: a review on the role of oxidative stress and the application of antioxidants",
+      "authors": "Yuqian Shi; Xi-Ting Zhu; Zhang Su-na; Yifu Ma; Yanhua Han; Jiang Yue; Yuehui Zhang",
+      "year": 2023,
+      "doi": "10.3389/fendo.2023.1172481",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Normal levels of reactive oxygen species (ROS) play an important role in regulating follicular growth, angiogenesis and sex hormone synthesis in ovarian tissue. When the balance between ROS and antioxidants is disrupted, however, it can cause serious consequences of oxidative stress (OS), and the quantity and quality of oocytes will decline. Therefore, this review discusses the interrelationship between OS and premature ovarian insufficiency (POI), the potential mechanisms and the methods by which antioxidants can improve POI through controlling the level of OS. We found that OS can mediate changes in genetic materials, signal pathways, transcription factors and ovarian microenvironment, resulting in abnormal apoptosis of ovarian granulosa cells (GCs) and abnormal meiosis as well as decreased mitochondrial Deoxyribonucleic Acid(mtDNA) and other changes, thus accelerating the process of ovarian aging. However, antioxidants, mesenchymal stem cells (MSCs), biological enzymes and other antioxidants can delay the disease process of POI by reducing the ROS level in vivo .",
+      "url": "https://doi.org/10.3389/fendo.2023.1172481",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1172481/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q05-fto-m6a-edad\\papers\\yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "W4385454266",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Splice epitranscriptomics and DNA damage repair together: ALKBH5-m6A-SF3B1 regulation in leukemic transformation",
+      "authors": "Zhongyu Zou; Chuan He",
+      "year": 2023,
+      "doi": "10.1016/j.molcel.2023.02.019",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.molcel.2023.02.019",
+      "pdf_url": "http://www.cell.com/article/S1097276523001223/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "10.1016/j.molcel.2023.02.019",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A RNA methylation regulator in meningioma",
+      "authors": "Yu Yang; Liqin Luo; Zhiwu Zhou",
+      "year": 2023,
+      "doi": "10.18632/aging.205163",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.205163",
+      "pdf_url": "https://www.aging-us.com/article/205163/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "10.18632/aging.205163",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "14 Einlagepflicht (13. Auflage 2022)",
+      "authors": "",
+      "year": 2022,
+      "doi": "10.9785/9783504388027-024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.9785/9783504388027-024",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "10.9785/9783504388027-024",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Aging and aging-related diseases: from molecular mechanisms to interventions and treatments",
+      "authors": "Jun Guo; Xiuqing Huang; Lin Dou; Mingjing Yan; Tao Shen; Weiqing Tang; Jian Li",
+      "year": 2022,
+      "doi": "10.1038/s41392-022-01251-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Aging is a gradual and irreversible pathophysiological process. It presents with declines in tissue and cell functions and significant increases in the risks of various aging-related diseases, including neurodegenerative diseases, cardiovascular diseases, metabolic diseases, musculoskeletal diseases, and immune system diseases. Although the development of modern medicine has promoted human health and greatly extended life expectancy, with the aging of society, a variety of chronic diseases have gradually become the most important causes of disability and death in elderly individuals. Current research on aging focuses on elucidating how various endogenous and exogenous stresses (such as genomic instability, telomere dysfunction, epigenetic alterations, loss of proteostasis, compromise of autophagy, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, deregulated nutrient sensing) participate in the regulation of aging. Furthermore, thorough research on the pathogenesis of aging to identify interventions that promote health and longevity (such as caloric restriction, microbiota transplantation, and nutritional intervention) and clinical treatment methods for aging-related diseases (depletion of senescent cells, stem cell therapy, antioxidative and anti-inflammatory treatments, and hormone replacement therapy) could decrease the incidence and development of aging-related diseases and in turn promote healthy aging and longevity.",
+      "url": "https://doi.org/10.1038/s41392-022-01251-0",
+      "pdf_url": "https://www.nature.com/articles/s41392-022-01251-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue",
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "W4311744984",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Autophagy induction promoted by m6A reader YTHDF3 through translation upregulation of FOXO3 mRNA",
+      "authors": "Wei-Chao Hao; Meijuan Dian; Ying Zhou; QiuLing Zhong; WenQian Pang; Zijian Li; YaYan Zhao; Jiacheng Ma; Xiaolin Lin; RenRu Luo; YongLong Li; JunShuang Jia; HongFen Shen; Shihao Huang; Guanqi Dai; Jiahong Wang; Yan Sun; Dong Xiao",
+      "year": 2022,
+      "doi": "10.1038/s41467-022-32963-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Autophagy is crucial for maintaining cellular energy homeostasis and for cells to adapt to nutrient deficiency, and nutrient sensors regulating autophagy have been reported previously. However, the role of eiptranscriptomic modifications such as m 6 A in the regulation of starvation-induced autophagy is unclear. Here, we show that the m 6 A reader YTHDF3 is essential for autophagy induction. m 6 A modification is up-regulated to promote autophagosome formation and lysosomal degradation upon nutrient deficiency. METTL3 depletion leads to a loss of functional m 6 A modification and inhibits YTHDF3-mediated autophagy flux. YTHDF3 promotes autophagy by recognizing m 6 A modification sites around the stop codon of FOXO3 mRNA. YTHDF3 also recruits eIF3a and eIF4B to facilitate FOXO3 translation, subsequently initiating autophagy. Overall, our study demonstrates that the epitranscriptome regulator YTHDF3 functions as a nutrient responder, providing a glimpse into the post-transcriptional RNA modifications that regulate metabolic homeostasis.",
+      "url": "https://doi.org/10.1038/s41467-022-32963-0",
+      "pdf_url": "https://www.nature.com/articles/s41467-022-32963-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "W4301183148",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Profiling Analysis of N6-Methyladenosine mRNA Methylation Reveals Differential m6A Patterns during the Embryonic Skeletal Muscle Development of Ducks",
+      "authors": "Biao Chen; Shuibing Liu; Wentao Zhang; T. Xiong; Mingfang Zhou; Xiaolong Hu; H. Mao; Sanfeng Liu",
+      "year": 2022,
+      "doi": "10.3390/ani12192593",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Simple Summary Recent studies show that N6-methyladenosine (m6A) modification, the most common RNA chemical modification, influences the modification, processing, transport, and translation of RNA. N6-methyladenosine is an epigenetic modification that influences skeletal myogenesis and skeletal muscle development. However, the N6-methyladenosine modification profile and its function during poultry muscle development is unclear, and there is only one report about m6A modification in ducks, which focuses on duck hepatitis A virus infection. Here, we compared the m6A modification profiles between E13 (embryonic day 13) and E19 (embryonic day 19) in duck breast muscle differentiation using MeRIP-seq, and evaluated the expression profile of the methyl transferase METTL14 and its cofactors during breast muscle development. This is the first study of N6-methyladenosine modification patterns in duck muscle tissue. The current study not only elucidates the regulation mechanisms of duck skeletal muscle development, but also lays the groundwork for studying the role of RNA modification in poultry muscle development. Abstract N6-Methyladenosine is a reversible epigenetic modification that influences muscle development. However, the m6A modification profile during poultry skeletal muscle development is poorly understood. Here, we utilized m6A-specific methylated RNA immunoprecipitation sequencing to identify m6A sites during two stages of breast muscle development in ducks: embryonic days 13 (E13) and E19. MeRIP-seq detected 19,024 and 18,081 m6A peaks in the E13 and E19 groups, respectively. Similarly to m6A distribution in mammalian transcripts, our results revealed GGACU as the main m6A motif in duck breast muscle; they also revealed that m6A peaks are mainly enriched near the stop codons. In addition, motif sequence analysis and gene expression analysis demonstrated that m6A modification in duck embryo skeletal muscles may be mediated by the methyltransferase-like 14. GO and KEGG analysis showed that m6A peaks containing genes at E19 were mainly enriched in muscle-differentiation- and muscle-growth-related pathways, whereas m6A peaks containing genes in E13 were mainly enriched in embryonic development and cell proliferation pathways. Combined analysis of MeRIP-seq and RNA-seq showed that the mRNA expression may be affected by m6A modification. Moreover, qRT-PCR analysis of the expression of METTL14 and its cofactors (WTAP, ZC3H13, RBM15 and VIRMA) during duck embryonic skeletal muscle development in breast and leg muscle samples revealed a significant downward trend as the developmental age progressed. Our results demonstrated that m6A mRNA methylation modifications control muscle development in ducks. This is the first study of m6A modification patterns in duck muscle tissue development, and it lays the foundation for the study of the effects of RNA modification on poultry skeletal muscle development.",
+      "url": "https://www.semanticscholar.org/paper/ec0429f5a2df10508c69b770e6554c3c2cede7bc",
+      "pdf_url": "https://www.mdpi.com/2076-2615/12/19/2593/pdf?version=1664351762",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "ec0429f5a2df10508c69b770e6554c3c2cede7bc",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Single‐cell RNA sequencing technologies and applications: A brief overview",
+      "authors": "Dragomirka Jovic; Xue Liang; Hua Zeng; Lin Lin; Fengping Xu; Yonglun Luo",
+      "year": 2022,
+      "doi": "10.1002/ctm2.694",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Single-cell RNA sequencing (scRNA-seq) technology has become the state-of-the-art approach for unravelling the heterogeneity and complexity of RNA transcripts within individual cells, as well as revealing the composition of different cell types and functions within highly organized tissues/organs/organisms. Since its first discovery in 2009, studies based on scRNA-seq provide massive information across different fields making exciting new discoveries in better understanding the composition and interaction of cells within humans, model animals and plants. In this review, we provide a concise overview about the scRNA-seq technology, experimental and computational procedures for transforming the biological and molecular processes into computational and statistical data. We also provide an explanation of the key technological steps in implementing the technology. We highlight a few examples on how scRNA-seq can provide unique information for better understanding health and diseases. One important application of the scRNA-seq technology is to build a better and high-resolution catalogue of cells in all living organism, commonly known as atlas, which is key resource to better understand and provide a solution in treating diseases. While great promises have been demonstrated with the technology in all areas, we further highlight a few remaining challenges to be overcome and its great potentials in transforming current protocols in disease diagnosis and treatment.",
+      "url": "https://doi.org/10.1002/ctm2.694",
+      "pdf_url": "https://doi.org/10.1002/ctm2.694",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "W4220837089",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of m6A on Female Reproduction and Fertility: From Gonad Development to Ovarian Aging",
+      "authors": "Xiaoyan Sun; Jiafeng Lu; Hong Li; Boxian Huang",
+      "year": 2022,
+      "doi": "10.3389/fcell.2022.884295",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The growth and maturation of oocyte is accompanied by the accumulation of abundant RNAs and posttranscriptional regulation. N6-methyladenosine (m 6 A) is the most prevalent epigenetic modification in mRNA, and precisely regulates the RNA metabolism as well as gene expression in diverse physiological processes. Recent studies showed that m 6 A modification and regulators were essential for the process of ovarian development and its aberrant manifestation could result in ovarian aging. Moreover, the specific deficiency of m 6 A regulators caused oocyte maturation disorder and female infertility with defective meiotic initiation, subsequently the oocyte failed to undergo germinal vesicle breakdown and consequently lost the ability to resume meiosis by disrupting spindle organization as well as chromosome alignment. Accumulating evidence showed that dysregulated m 6 A modification contributed to ovarian diseases including polycystic ovarian syndrome (PCOS), primary ovarian insufficiency (POI), ovarian aging and other ovarian function disorders. However, the complex and subtle mechanism of m 6 A modification involved in female reproduction and fertility is still unknown. In this review, we have summarized the current findings of the RNA m 6 A modification and its regulators in ovarian life cycle and female ovarian diseases. And we also discussed the role and potential clinical application of the RNA m 6 A modification in promoting oocyte maturation and delaying the reproduction aging.",
+      "url": "https://doi.org/10.3389/fcell.2022.884295",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2022.884295/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "W4281639775",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The transcriptome-wide N6-methyladenosine (m6A) map profiling reveals the regulatory role of m6A in the yak ovary",
+      "authors": "Shaoke Guo; Xingdong Wang; Mengli Cao; Xiaoyun Wu; Lin Xiong; Pengjia Bao; Min Chu; Chunnian Liang; Ping Yan; Jie Pei; Xian Guo",
+      "year": 2022,
+      "doi": "10.1186/s12864-022-08585-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Background and aim Yak estrus is a seasonal phenomenon, probably involving epigenetic regulation of synthesis and secretion of sex hormones as well as growth and development of follicles. N6-methyladenosine (m 6 A) is the most common internal modification of the eukaryotic mRNA. However, there are no detailed reports on the m 6 A transcriptome map of yak ovary. Therefore, this study aimed to collected the yak ovarian tissues at three different states of anestrus (YO-A), estrus (YO-F), and pregnancy (YO-P), and obtained the full transcriptome m 6 A map in yak by MeRIP-seq. Results The HE staining revealed that the number of growing follicles and mature follicles in the ovary during the estrus period was relatively higher than those in the anestrus period and the pregnancy period. The RT-qPCR showed that the expression of METTL3, METTL14, FTO, YTHDC1 were significantly different across different periods in the ovaries, which suggests that m 6 A may play a regulatory role in ovarian activity. Next, we identified 20,174, 19,747 and 13,523 m 6 A peaks in the three ovarian samples of YO-A, YO-F and YO-P using the methylated RNA immunoprecipitation sequencing (MeRIP-seq). The m 6 A peaks are highly enriched in the coding sequence (CDS) region and 3′untranslated region (3′UTR) as well as the conserved sequence of “RRACH.” The GO, KEGG and GSEA analysis revealed the involvement of m 6 A in many physiological activities of the yak’s ovary during reproductive cycle. The association analysis found that some genes such as BNC1, HOMER1, BMP15, BMP6, GPX3, and WNT11 were related to ovarian functions. Conclusions The comparison of the distribution patterns of methylation peaks in the ovarian tissues across different periods further explored the m 6 A markers related to the regulation of ovarian ovulation and follicular development in the yak ovary. This comprehensive map provides a solid foundation for revealing the potential function of the mRNA m 6 A modification in the yak ovary.",
+      "url": "https://doi.org/10.1186/s12864-022-08585-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1186/s12864-022-08585-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "W4280490392",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcriptome-wide N6-methyladenine methylation in granulosa cells of women with decreased ovarian reserve.",
+      "authors": "Liu C; Li L; Yang B; Zhao Y; Dong X; Zhu L; Ren X; Huang B; Yue J; Jin L; Zhang H; Wang L",
+      "year": 2022,
+      "doi": "10.1186/s12864-022-08462-3",
+      "pmid": "35346019",
+      "pmcid": null,
+      "abstract": "The emerging epitranscriptome plays an essential role in female fertility. As the most prevalent internal mRNA modification, N6-methyladenine (m6A) methylation regulate mRNA fate and translational efficiency. However, whether m6A methylation was involved in the aging-related ovarian reserve decline has not been investigated. Herein, we performed m6A transcriptome-wide profiling in the ovarian granulosa cells of younger women (younger group) and older women (older group). m6A methylation distribution was highly conserved and enriched in the CDS and 3'UTR region. Besides, an increased number of m6A methylated genes were identified in the older group. Bioinformatics analysis indicated that m6A methylated genes were enriched in the FoxO signaling pathway, adherens junction, and regulation of actin cytoskeleton. A total of 435 genes were differently expressed in the older group, moreover, 58 of them were modified by m6A. Several specific genes, including BUB1B, PHC2, TOP2A, DDR2, KLF13, and RYR2 which were differently expressed and modified by m6A, were validated using qRT-PCR and might be involved in the decreased ovarian functions in the aging ovary. Hence, our finding revealed the transcriptional significance of m6A modifications and provide potential therapeutic targets to promote fertility reservation for aging women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35346019/",
+      "pdf_url": "https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-022-08462-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "35346019",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "From m6A to Cap-Adjacent m6Am and their Effects on mRNAs",
+      "authors": "Trinh T. Tat; Daniel L. Kiss",
+      "year": 2021,
+      "doi": "10.1007/978-3-030-71612-7_12",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-030-71612-7_12",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "10.1007/978-3-030-71612-7_12",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Roles of m6A RNA Modification in Normal Development and Disease",
+      "authors": "Mohammad Burhan Uddin; Zhishan Wang; Chengfeng Yang",
+      "year": 2021,
+      "doi": "10.1007/978-3-030-71612-7_10",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-030-71612-7_10",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "10.1007/978-3-030-71612-7_10",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging",
+      "authors": "Zhongxin Jiang; Yining Wang; Zi-Yuan Li; Zhihui Dai; Yi He; Kun Chu; Jiayi Gu; Yixuan Ji; Ningxia Sun; Fu Yang; Li Wen",
+      "year": 2021,
+      "doi": "10.1038/s41419-021-04016-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Multifunctional N6-methyladenosine (m6A) has been revealed to be an important epigenetic component in various physiological and pathological processes, but its role in female ovarian aging remains unclear. Thus, we demonstrated m6A demethylase FTO downregulation and the ensuing increased m6A in granulosa cells (GCs) of human aged ovaries, while FTO-knockdown GCs showed faster aging-related phenotypes mediated. Using the m6A-RNA-sequence technique (m6A-seq), increased m6A was found in the FOS-mRNA-3'UTR, which is suggested to be an erasing target of FTO that slows the degradation of FOS-mRNA to upregulate FOS expression in GCs, eventually resulting in GC-mediated ovarian aging. FTO acts as a senescence-retarding protein via m6A, and FOS knockdown significantly alleviates the aging of FTO-knockdown GCs. Altogether, the abovementioned results indicate that FTO in GCs retards FOS-dependent ovarian aging, which is a potential diagnostic and therapeutic target against ovarian aging and age-related reproductive diseases.",
+      "url": "https://doi.org/10.1038/s41419-021-04016-9",
+      "pdf_url": "https://www.nature.com/articles/s41419-021-04016-9.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex",
+        "semantic"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells",
+        "ovarian reserve decline m6A RNA modification age-related",
+        "reproductive aging epitranscriptomics m6A ovary",
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "W3184485367",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A modification in the biological functions and diseases",
+      "authors": "Xiulin Jiang; Baiyang Liu; Zhi Nie; Lincan Duan; Qiuxia Xiong; Zhixian Jin; Cuiping Yang; Yongbin Chen",
+      "year": 2021,
+      "doi": "10.1038/s41392-020-00450-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "-methyladenosine (m6A) is the most prevalent, abundant and conserved internal cotranscriptional modification in eukaryotic RNAs, especially within higher eukaryotic cells. m6A modification is modified by the m6A methyltransferases, or writers, such as METTL3/14/16, RBM15/15B, ZC3H3, VIRMA, CBLL1, WTAP, and KIAA1429, and, removed by the demethylases, or erasers, including FTO and ALKBH5. It is recognized by m6A-binding proteins YTHDF1/2/3, YTHDC1/2 IGF2BP1/2/3 and HNRNPA2B1, also known as \"readers\". Recent studies have shown that m6A RNA modification plays essential role in both physiological and pathological conditions, especially in the initiation and progression of different types of human cancers. In this review, we discuss how m6A RNA methylation influences both the physiological and pathological progressions of hematopoietic, central nervous and reproductive systems. We will mainly focus on recent progress in identifying the biological functions and the underlying molecular mechanisms of m6A RNA methylation, its regulators and downstream target genes, during cancer progression in above systems. We propose that m6A RNA methylation process offer potential targets for cancer therapy in the future.",
+      "url": "https://doi.org/10.1038/s41392-020-00450-x",
+      "pdf_url": "https://www.nature.com/articles/s41392-020-00450-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue",
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "W3133117790",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A, m5C and Ψ RNA modifications in cancer: Novel therapeutic opportunities",
+      "authors": "Paz Nombela; Borja Miguel‐López; Sandra Blanco",
+      "year": 2021,
+      "doi": "10.1186/s12943-020-01263-w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract RNA modifications have recently emerged as critical posttranscriptional regulators of gene expression programmes. Significant advances have been made in understanding the functional role of RNA modifications in regulating coding and non-coding RNA processing and function, which in turn thoroughly shape distinct gene expression programmes. They affect diverse biological processes, and the correct deposition of many of these modifications is required for normal development. Alterations of their deposition are implicated in several diseases, including cancer. In this Review, we focus on the occurrence of N 6 -methyladenosine (m 6 A), 5-methylcytosine (m 5 C) and pseudouridine (Ψ) in coding and non-coding RNAs and describe their physiopathological role in cancer. We will highlight the latest insights into the mechanisms of how these posttranscriptional modifications influence tumour development, maintenance, and progression. Finally, we will summarize the latest advances on the development of small molecule inhibitors that target specific writers or erasers to rewind the epitranscriptome of a cancer cell and their therapeutic potential.",
+      "url": "https://doi.org/10.1186/s12943-020-01263-w",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01263-w",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "W3123218478",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A distinctive epigenetic ageing profile in human granulosa cells.",
+      "authors": "Olsen KW; Castillo-Fernandez J; Zedeler A; Freiesleben NC; Bungum M; Chan AC; Cardona A; Perry JRB; Skouby SO; Borup R; Hoffmann ER; Kelsey G; Grøndahl ML",
+      "year": 2020,
+      "doi": "10.1093/humrep/deaa071",
+      "pmid": "32474592",
+      "pmcid": null,
+      "abstract": "Does women's age affect the DNA methylation (DNAm) profile differently in mural granulosa cells (MGCs) from other somatic cells? Accumulation of epimutations by age and a higher number of age-related differentially methylated regions (DMR) in MGCs were found compared to leukocytes from the same woman, suggesting that the MGCs have a distinctive epigenetic profile. The mechanisms underlying the decline in women's fertility from the mid-30s remain to be fully elucidated. The DNAm age of many healthy tissues changes predictably with and follows chronological age, but DNAm age in some reproductive tissues has been shown to depart from chronological age (older: endometrium; younger: cumulus cells, spermatozoa). This study is a multicenter cohort study based on retrospective analysis of prospectively collected data and material derived from healthy women undergoing IVF or ICSI treatment following ovarian stimulation with antagonist protocol. One hundred and nineteen women were included from September 2016 to June 2018 from four clinics in Denmark and Sweden. Blood samples were obtained from 118 healthy women with varying ovarian reserve status. MGCs were collected from 63 of the 119 women by isolation from pooled follicles immediately after oocyte retrieval. DNA from leukocytes and MGCs was extracted and analysed with a genome-wide methylation array. Data from the methylation array were processed using the ENmix package. Subsequently, DNAm age was calculated using established and tailored age predictors and DMRs were analysed with the DMRcate package. Using established age predictors, DNAm age in MGCs was found to be considerable younger and constant (average: 2.7 years) compared to chronological age (average: 33.9 years). A Granulosa Cell clock able to predict the age of both MGCs (average: 32.4 years) and leukocytes (average: 38.8 years) was successfully developed. MGCs differed from leukocytes in having a higher number of epimutations (P = 0.003) but predicted telomere lengths unaffected by age (Pearson's correlation coefficient = -0.1, P = 0.47). DMRs associated with age (age-DMRs) were identified in MGCs (n = 335) and in leukocytes (n = 1) with a significant enrichment in MGCs for genes involved in RNA processing (45 genes, P = 3.96 × 10-08) and gene expression (152 genes, P = 2.3 × 10-06). The top age-DMRs included the metastable epiallele VTRNA2-1, the DNAm regulator ZFP57 and the anti-Müllerian hormone (AMH) gene. The apparent discordance between different epigenetic measures of age in MGCs suggests that they reflect difference stages in the MGC life cycle. N/A. No gene expression data were available to associate with the epigenetic findings. The MGCs are collected during ovarian stimulation, which may influence DNAm; however, no correlation between FSH dose and number of epimutations was found. Our findings underline that the somatic compartment of the follicle follows a different methylation trajectory with age than other somatic cells. The higher number of epimutations and age-DMRs in MGCs suggest that their function is affected by age. This project is part of ReproUnion collaborative study, co-financed by the European Union, Interreg V ÖKS, the Danish National Research Foundation and the European Research Council. The authors declare no conflict of interest.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32474592/",
+      "pdf_url": "https://academic.oup.com/humrep/article-pdf/35/6/1332/33428981/deaa071.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "32474592",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A newly defined risk signature, consisting of three m6A RNA methylation regulators, predicts the prognosis of ovarian cancer",
+      "authors": "Lili Fan; Ying Lin; Han Lei; Guang Shu; Liuer He; Zhipeng Yan; Hai Rihan; Gang Yin",
+      "year": 2020,
+      "doi": "10.18632/aging.103811",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.18632/aging.103811",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7585096",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "10.18632/aging.103811",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Age-related decline in the expression of GDF9 and BMP15 genes in follicle fluid and granulosa cells derived from poor ovarian responders",
+      "authors": "Yan Gong; Jesse Li-Ling; Dongsheng Xiong; Jiajing Wei; Taiqing Zhong; Hao Tan",
+      "year": 2020,
+      "doi": "10.21203/rs.3.rs-29352/v2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p><bold>Background:</bold> Growth differentiation factor 9 (<italic>GDF9</italic>) and bone morphogenetic protein 15 (<italic>BMP15</italic>) genes play important roles in folliculogenesis. Altered expression of the two have been found among patients with poor ovarian response (POR). In this prospective cohort study, we have determined the expression of the <italic>GDF9</italic> and <italic>BMP15</italic> genes in follicle fluid (FF) and granulosa cells (GCs) derived from poor ovarian responders grouped by age, and explored its correlation with the outcome of <italic>in vitro</italic> fertilization and embryo transfer (IVF-ET) treatment.<bold>Methods: </bold>A total of 196 patients with POR were enrolled from a tertiary teaching hospital. The patients were diagnosed by the Bologna criteria and sub-divided into group A (&lt; 35 year old), group B (35-40 year old), and group C (&gt; 40 year old). A GnRH antagonist protocol was conducted for all patients, and FF and GCs were collected after oocyte retrieval. Expression of the <italic>GDF9</italic> and <italic>BMP15</italic> genes in the FF and GCs was determined with enzyme-linked immunosorbent assay (ELISA), quantitative real-time polymerase chain reaction (qRT-PCR) and Western blotting.<bold>Results: </bold>Compared with group C, groups A and B had significantly more two pronuclei (2PN) oocytes and transplantable embryos, in addition with higher rates of implantation and clinical pregnancy (<italic>P</italic> &lt; 0.05). The expression level of <italic>GDF9</italic> and <italic>BMP15</italic> genes in the FF and GCs differed significantly among the three groups (<italic>P</italic> &lt; 0.05), showing a trend of decline along with age. <bold>Conclusions:</bold> For poor ovarian responders, in particular those over 40, the expression of <italic>GDF9</italic> and <italic>BMP15</italic> is declined with increased age and in accompany with poorer oocyte quality and IVF outcome.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-29352/v2",
+      "pdf_url": "https://www.researchsquare.com/article/rs-29352/v2.pdf?c=1600304094000",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "10.21203/rs.3.rs-29352/v2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Age-related decline in the expression of GDF9 and BMP15 genes in follicle fluid and granulosa cells derived from poor ovarian responders",
+      "authors": "Yan Gong; Jesse Li-Ling; D. Xiong; Jiajing Wei; Taiqing Zhong; H. Tan",
+      "year": 2020,
+      "doi": "10.1186/s13048-020-00757-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Background Growth differentiation factor 9 ( GDF9 ) and bone morphogenetic protein 15 ( BMP15 ) genes play important roles in folliculogenesis. Altered expression of the two have been found among patients with poor ovarian response (POR). In this prospective cohort study, we have determined the expression of the GDF9 and BMP15 genes in follicle fluid (FF) and granulosa cells (GCs) derived from poor ovarian responders grouped by age, and explored its correlation with the outcome of in vitro fertilization and embryo transfer (IVF-ET) treatment. Methods A total of 196 patients with POR were enrolled from a tertiary teaching hospital. The patients were diagnosed by the Bologna criteria and sub-divided into group A (< 35 year old), group B (35–40 year old), and group C (> 40 year old). A GnRH antagonist protocol was conducted for all patients, and FF and GCs were collected after oocyte retrieval. Expression of the GDF9 and BMP15 genes in the FF and GCs was determined with enzyme-linked immunosorbent assay (ELISA), quantitative real-time polymerase chain reaction (qRT-PCR) and Western blotting. Results Compared with group C, groups A and B had significantly more two pronuclei (2PN) oocytes and transplantable embryos, in addition with higher rates of implantation and clinical pregnancy ( P  <  0.05). The expression level of GDF9 and BMP15 genes in the FF and GCs differed significantly among the three groups ( P  <  0.05), showing a trend of decline along with age. The ratio of GDF9/BMP15 mRNA levels were similar among the three groups ( P  > 0.05). The relative levels of GDF9 and BMP15 proteins in GCs have correlated with the relative mRNA levels in GCs and protein concentrations in FF ( P  <  0.05). Conclusions For poor ovarian responders, in particular those over 40, the expression of GDF9 and BMP15 is declined along with increased age and in accompany with poorer oocyte quality and IVF outcome, whilst the ratio of GDF9/BMP15 mRNA levels remained relatively constant. Trial registration Chinese Clinical Trial Registry Center ( ChiCTR1800016107 ). Registered on 11 May 2018.",
+      "url": "https://www.semanticscholar.org/paper/eb4061d6c6c26047693ba62ef81e4369ae990815",
+      "pdf_url": "https://www.researchsquare.com/article/rs-29352/v3.pdf?c=1637262065000",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "eb4061d6c6c26047693ba62ef81e4369ae990815",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Altered m6A modification is involved in up‐regulated expression of FOXO3 in luteinized granulosa cells of non‐obese polycystic ovary syndrome patients",
+      "authors": "S. Zhang; Wenli Deng; Qiongyou Liu; Peiyu Wang; Wei Yang; Wuhua Ni",
+      "year": 2020,
+      "doi": "10.1111/jcmm.15807",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The pathophysiology of polycystic ovary syndrome (PCOS) is characterized by granulosa cell (GC) dysfunction. m6A modification affects GC function in patients with premature ovarian insufficiency (POI), but the role of m6A modification in PCOS is unknown. The purpose of the prospective comparative study was to analyse the m6A profile of the luteinized GCs from normovulatory women and non‐obese PCOS patients following controlled ovarian hyperstimulation. RNA m6A methylation levels were measured by m6A quantification assay in the luteinized GCs of the controls and PCOS patients. Then, m6A profiles were analysed by methylated RNA immunoprecipitation sequencing (MeRIP‐seq). We reported that the m6A level was increased in the luteinized GCs of PCOS patients. Comparative analysis revealed differences between the m6A profiles from the luteinized GC of the controls and PCOS patients. We identified FOXO3 mRNA with reduced m6A modification in the luteinized GCs of PCOS patients. Selectively knocking down m6A methyltransferases or demethylases altered expression of FOXO3 in the luteinized GCs from the controls, but did not in PCOS patients. These suggested an absence of m6A‐mediated transcription of FOXO3 in the luteinized GCs of PCOS patients. Furthermore, we demonstrated that the involvement of m6A in the stability of the FOXO3 mRNA that is regulated via a putative methylation site in the 3’‐UTR only in the luteinized GCs of the controls. In summary, our findings showed that altered m6A modification was involved in up‐regulated expression of FOXO3 mRNA in the luteinized GCs from non‐obese PCOS patients following controlled ovarian hyperstimulation.",
+      "url": "https://www.semanticscholar.org/paper/8a45ab4770715a354091527bfd96dbcb03ec5e49",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcmm.15807",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "8a45ab4770715a354091527bfd96dbcb03ec5e49",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Analysis of RNA processing and m6A modification using nanopore direct RNA sequencing.",
+      "authors": "Matthew Parker",
+      "year": 2020,
+      "doi": "10.26226/morressier.5ebd45acffea6f735881af26",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/morressier.5ebd45acffea6f735881af26",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "10.26226/morressier.5ebd45acffea6f735881af26",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "April 1860",
+      "authors": "",
+      "year": 2020,
+      "doi": "10.1515/9783050078014-024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1515/9783050078014-024",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "10.1515/9783050078014-024",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Limits in the detection of m6A changes using MeRIP/m6A-seq",
+      "authors": "Alexa B. R. McIntyre; Nandan S. Gokhale; Leandro Cerchietti; Samie R. Jaffrey; Stacy M. Horner; Christopher E. Mason",
+      "year": 2020,
+      "doi": "10.1038/s41598-020-63355-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Many cellular mRNAs contain the modified base m\n                    <jats:sup>6</jats:sup>\n                    A, and recent studies have suggested that various stimuli can lead to changes in m\n                    <jats:sup>6</jats:sup>\n                    A. The most common method to map m\n                    <jats:sup>6</jats:sup>\n                    A and to predict changes in m\n                    <jats:sup>6</jats:sup>\n                    A between conditions is methylated RNA immunoprecipitation sequencing (MeRIP-seq), through which methylated regions are detected as peaks in transcript coverage from immunoprecipitated RNA relative to input RNA. Here, we generated replicate controls and reanalyzed published MeRIP-seq data to estimate reproducibility across experiments. We found that m\n                    <jats:sup>6</jats:sup>\n                    A peak overlap in mRNAs varies from ~30 to 60% between studies, even in the same cell type. We then assessed statistical methods to detect changes in m\n                    <jats:sup>6</jats:sup>\n                    A peaks as distinct from changes in gene expression. However, from these published data sets, we detected few changes under most conditions and were unable to detect consistent changes across studies of similar stimuli. Overall, our work identifies limits to MeRIP-seq reproducibility in the detection both of peaks and of peak changes and proposes improved approaches for analysis of peak changes.\n                  </jats:p>",
+      "url": "https://doi.org/10.1038/s41598-020-63355-3",
+      "pdf_url": "https://www.nature.com/articles/s41598-020-63355-3.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "10.1038/s41598-020-63355-3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The prognostic values and clinical implications of m6A methylation regulators in epithelial ovarian cancer",
+      "authors": "huimin shen; Tiefeng Cao; Jinhui Li",
+      "year": 2020,
+      "doi": "10.21203/rs.3.rs-17066/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p>Background: N6-methyladenosine (m6A) exists in both DNA and RNA modification. RNA m6A modification drives tumor initiation and metastasis through regulating cancer stem cells. However, the detailed mechanisms and the distinct m6A regulatory gene type underlying ovarian cancer mRNA modification remain unclear. Results: We analyzed copy number variation (CNVs) and mRNA expression of ovarian cancer cases in TCGA dataset to determine the copy number variation patterns of m6A regulatory genes, and the associations between m6A dysregulation or certain regulatory gene and overall survival. We showed the KIAA1429, as the writer gene, had highest amplification percentage and were associated with overall survival, or disease-free survival, whereas the associations with prognostic survival were independent of other prognostic factors including stage, grade, and debulking status of the tumour. Besides, METTL14 and YTHDC2, one as the writer gene and the other as reader gene, was also related with clinical outcome. Furthermore, subgroups analysis addressed that m6A upregulation especially writer gain contributed to prognosis in epithelial ovarian cancer. Conclusions: Collectively, our data addressed that m6A upregulation is likely to be critical to the clinical outcome, and KIAA1429 showed the highest correlation with clinical outcome in ovarian cancer among m6A regulatory genes.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-17066/v1",
+      "pdf_url": "https://www.researchsquare.com/article/rs-17066/v1.pdf?c=1599259396000",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "10.21203/rs.3.rs-17066/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Zur Polemik über den Kommunismus",
+      "authors": "",
+      "year": 2020,
+      "doi": "10.1515/9783050075976-024",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1515/9783050075976-024",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "10.1038/s43587-024-00762-5"
+      ],
+      "paper_id": "10.1515/9783050075976-024",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cyclophosphamide Regulates N6-Methyladenosine and m6A RNA Enzyme Levels in Human Granulosa Cells and in Ovaries of a Premature Ovarian Aging Mouse Model",
+      "authors": "Boxian Huang; Chenyue Ding; Qinyan Zou; Wei Wang; Hong Li",
+      "year": 2019,
+      "doi": "10.3389/fendo.2019.00415",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cyclophosphamide (CTX) is one of the most frequently used alkylating anticancer drugs. CTX is associated with reproductive failure and premature ovarian insufficiency (POI) or premature ovarian aging. Much less is known about the mechanism by which CTX affects female fertility through N6-methyladenosine (m6A) levels. In this case-controlled study, we employed human ovarian granulosa cells and mice as experimental models in vitro and in vivo. m6A test kit was developed to determine the content in RNA, and qPCR and western blot were used to examine the expression levels of RNA methyltransferases, demethylases and effectors. Results showed that CTX increased the m6A level in a time- and concentration-dependent manner. The expression levels of RNA methyltransferases were significantly higher in the CTX treatment group than in the control group with time and concentration dependence, except for RBM15 and WTAP. CTX significantly inhibited the expression levels of RNA demethylase FTO in a time- and concentration-dependent manner but not ALKBH5. The expression levels of RNA effectors were reduced by CTX in a time- and concentration-dependent manner. These data suggest that CTX increased the expression levels of m6A and may be responsible for the increase in RNA methyltransferases and decrease in RNA demethylases in a time- and concentration-dependent manner.",
+      "url": "https://doi.org/10.3389/fendo.2019.00415",
+      "pdf_url": "https://fjfsdata01prod.blob.core.windows.net/articles/files/461278/pubmed-zip/.versions/1/.package-entries/fendo-10-00415/fendo-10-00415.pdf?sv=2018-03-28&sr=b&sig=xagssaReIhJgdwTFtdRVIo7Y00PpgdnRm1uS2Y3%2FFeE%3D&se=2021-02-22T06%3A44%3A29Z&sp=r&rscd=attachment%3B%20filename%2A%3DUTF-8%27%27fendo-10-00415.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells",
+        "ovarian reserve decline m6A RNA modification age-related",
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "W2954413942",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FunDMDeep-m6A: identification and prioritization of functional differential m6A methylation genes",
+      "authors": "Song-Yao Zhang; Shaowu Zhang; Xiaonan Fan; Teng Zhang; Jia Meng; Yufei Huang",
+      "year": 2019,
+      "doi": "10.1093/bioinformatics/btz316",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Motivation As the most abundant mammalian mRNA methylation, N6-methyladenosine (m6A) exists in >25% of human mRNAs and is involved in regulating many different aspects of mRNA metabolism, stem cell differentiation and diseases like cancer. However, our current knowledge about dynamic changes of m6A levels and how the change of m6A levels for a specific gene can play a role in certain biological processes like stem cell differentiation and diseases like cancer is largely elusive. Results To address this, we propose in this paper FunDMDeep-m6A a novel pipeline for identifying context-specific (e.g. disease versus normal, differentiated cells versus stem cells or gene knockdown cells versus wild-type cells) m6A-mediated functional genes. FunDMDeep-m6A includes, at the first step, DMDeep-m6A a novel method based on a deep learning model and a statistical test for identifying differential m6A methylation (DmM) sites from MeRIP-Seq data at a single-base resolution. FunDMDeep-m6A then identifies and prioritizes functional DmM genes (FDmMGenes) by combing the DmM genes (DmMGenes) with differential expression analysis using a network-based method. This proposed network method includes a novel m6A-signaling bridge (MSB) score to quantify the functional significance of DmMGenes by assessing functional interaction of DmMGenes with their signaling pathways using a heat diffusion process in protein-protein interaction (PPI) networks. The test results on 4 context-specific MeRIP-Seq datasets showed that FunDMDeep-m6A can identify more context-specific and functionally significant FDmMGenes than m6A-Driver. The functional enrichment analysis of these genes revealed that m6A targets key genes of many important context-related biological processes including embryonic development, stem cell differentiation, transcription, translation, cell death, cell proliferation and cancer-related pathways. These results demonstrate the power of FunDMDeep-m6A for elucidating m6A regulatory functions and its roles in biological processes and diseases. Availability and implementation The R-package for DMDeep-m6A is freely available from https://github.com/NWPU-903PR/DMDeepm6A1.0. Supplementary information Supplementary data are available at Bioinformatics online.",
+      "url": "https://www.semanticscholar.org/paper/b4c1a15e00a83a51ba601f94e4f90bf30cb4e9f7",
+      "pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/35/14/i90/28913686/btz316.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "site-specific m6A quantification MeRIP-seq granulosa cells age"
+      ],
+      "paper_id": "b4c1a15e00a83a51ba601f94e4f90bf30cb4e9f7",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Functions of N6-methyladenosine and its role in cancer",
+      "authors": "Liuer He; Huiyu Li; Anqi Wu; Yulong Peng; Guang Shu; Gang Yin",
+      "year": 2019,
+      "doi": "10.1186/s12943-019-1109-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) is methylation that occurs in the N6-position of adenosine, which is the most prevalent internal modification on eukaryotic mRNA. Accumulating evidence suggests that m6A modulates gene expression, thereby regulating cellular processes ranging from cell self-renewal, differentiation, invasion and apoptosis. M6A is installed by m6A methyltransferases, removed by m6A demethylases and recognized by reader proteins, which regulate of RNA metabolism including translation, splicing, export, degradation and microRNA processing. Alteration of m6A levels participates in cancer pathogenesis and development via regulating expression of tumor-related genes like BRD4, MYC, SOCS2 and EGFR. In this review, we elaborate on recent advances in research of m6A enzymes. We also highlight the underlying mechanism of m6A in cancer pathogenesis and progression. Finally, we review corresponding potential targets in cancer therapy.",
+      "url": "https://doi.org/10.1186/s12943-019-1109-9",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-019-1109-9",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "W2992958546",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "High-Resolution Mapping of N 6-Methyladenosine Using m6A Crosslinking Immunoprecipitation Sequencing (m6A-CLIP-Seq)",
+      "authors": "Phillip J. Hsu; Chuan He",
+      "year": 2018,
+      "doi": "10.1007/978-1-4939-8808-2_5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-4939-8808-2_5",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6530771",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "10.1007/978-1-4939-8808-2_5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "N6-Methyladenosine in RNA and DNA: An Epitranscriptomic and Epigenetic Player Implicated in Determination of Stem Cell Fate",
+      "authors": "Pengfei Ji; Xia Wang; Nina Xie; Yujing Li",
+      "year": 2018,
+      "doi": "10.1155/2018/3256524",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Vast emerging evidences are linking the base modifications and determination of stem cell fate such as proliferation and differentiation. Among the base modification markers extensively studied, 5-methylcytosine (5-mC) and its oxidative derivatives (5-hydroxymethylcytosine (5-hmC), 5-formylcytosine (5-fC), and 5-carboxylcytosine (5-caC)) dynamically occur in DNA and RNA and have been acknowledged as important epigenetic markers involved in regulation of cellular biological processes. N6-Methyladenosine modification in DNA (m6dA), mRNA (m6A), tRNA, and other noncoding RNAs has been defined as another important epigenetic and epitranscriptomic marker in eukaryotes in recent years. The mRNA m6A modification has been characterized biochemically, molecularly, and phenotypically, including elucidation of its methyltransferase complexes (m6A writer), demethylases (m6A eraser), and direct interaction proteins (readers), while limited information on the DNA m6dA is available. The levels and the landscapes of m6A in the epitranscriptomes and epigenomes are precisely and dynamically regulated by the fine-tuned coordination of the writers and erasers in accordance with stages of the growth, development, and reproduction as naturally programmed during the lifespan. Additionally, progress has been made in appreciation of the link between aberrant m6A modification in stem cells and diseases, like cancers and neurodegenerative disorders. These achievements are inspiring scientists to further uncover the epigenetic mechanisms for stem cell development and to dissect pathogenesis of the multiple diseases conferred by development aberration of the stem cells. This review article will highlight the research advances in the role of m6A methylation modifications of DNA and RNA in the regulation of stem cell and genesis of the closely related disorders. Additionally, this article will also address the research directions in the future.",
+      "url": "https://doi.org/10.1155/2018/3256524",
+      "pdf_url": "https://downloads.hindawi.com/journals/sci/2018/3256524.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "reproductive aging epitranscriptomics m6A ovary"
+      ],
+      "paper_id": "W2896760732",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "NLRP3 expression is upregulated in ovarian granulosa cells in a mouse model of polycystic ovary syndrome",
+      "authors": "Bo Wang",
+      "year": 2018,
+      "doi": "10.26226/morressier.5af300b3738ab10027aa99f4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/morressier.5af300b3738ab10027aa99f4",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "10.26226/morressier.5af300b3738ab10027aa99f4",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Nuclear m6A reader YTHDC1 regulates alternative polyadenylation and splicing during mouse oocyte development",
+      "authors": "Seth D. Kasowitz; Jun Ma; Stephen J. Anderson; N. Adrian Leu; Yang Xu; Brian D. Gregory; Richard M. Schultz; P. Jeremy Wang",
+      "year": 2018,
+      "doi": "10.1371/journal.pgen.1007412",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The N6-methyladenosine (m6A) modification is the most prevalent internal RNA modification in eukaryotes. The majority of m6A sites are found in the last exon and 3' UTRs. Here we show that the nuclear m6A reader YTHDC1 is essential for embryo viability and germline development in mouse. Specifically, YTHDC1 is required for spermatogonial development in males and for oocyte growth and maturation in females; Ythdc1-deficient oocytes are blocked at the primary follicle stage. Strikingly, loss of YTHDC1 leads to extensive alternative polyadenylation in oocytes, altering 3' UTR length. Furthermore, YTHDC1 deficiency causes massive alternative splicing defects in oocytes. The majority of splicing defects in mutant oocytes are rescued by introducing wild-type, but not m6A-binding-deficient, YTHDC1. YTHDC1 is associated with the pre-mRNA 3' end processing factors CPSF6, SRSF3, and SRSF7. Thus, YTHDC1 plays a critical role in processing of pre-mRNA transcripts in the oocyte nucleus and may have similar non-redundant roles throughout fetal development.",
+      "url": "https://doi.org/10.1371/journal.pgen.1007412",
+      "pdf_url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1007412&type=printable",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "W2803510059",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Can high markers of ovarian reserve overcome the usual age-related decline in euploidy in IVF-PGS cycles in women over age 40",
+      "authors": "Rashmi Kudesia",
+      "year": 2017,
+      "doi": "10.26226/morressier.5912d9ead462b80292386011",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/morressier.5912d9ead462b80292386011",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "10.26226/morressier.5912d9ead462b80292386011",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Expression of genes for PPAR-γ, COX-2 and pro-inflammatory cytokines in granulosa cells from women with polycystic ovary syndrome",
+      "authors": "Joongyeup Lee",
+      "year": 2017,
+      "doi": "10.26226/morressier.5912d9ebd462b8029238655b",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/morressier.5912d9ebd462b8029238655b",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "10.26226/morressier.5912d9ebd462b8029238655b",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Declined ovarian reserve is related to  increased aneuploidy rate in the age group of 35-39",
+      "authors": "Keli Luo",
+      "year": 2016,
+      "doi": "10.26226/morressier.573c1513d462b80296c98b11",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/morressier.573c1513d462b80296c98b11",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "10.26226/morressier.573c1513d462b80296c98b11",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Scientific Statement on the Diagnostic Criteria, Epidemiology, Pathophysiology, and Molecular Genetics of Polycystic Ovary Syndrome",
+      "authors": "Daniel A. Dumesic; Sharon E. Oberfield; Elisabet Stener‐Victorin; John C. Marshall; Joop S.E. Laven; Richard S. Legro",
+      "year": 2015,
+      "doi": "10.1210/er.2015-1018",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Polycystic ovary syndrome (PCOS) is a heterogeneous and complex disorder that has both adverse reproductive and metabolic implications for affected women. However, there is generally poor understanding of its etiology. Varying expert-based diagnostic criteria utilize some combination of oligo-ovulation, hyperandrogenism, and the presence of polycystic ovaries. Criteria that require hyperandrogenism tend to identify a more severe reproductive and metabolic phenotype. The phenotype can vary by race and ethnicity, is difficult to define in the perimenarchal and perimenopausal period, and is exacerbated by obesity. The pathophysiology involves abnormal gonadotropin secretion from a reduced hypothalamic feedback response to circulating sex steroids, altered ovarian morphology and functional changes, and disordered insulin action in a variety of target tissues. PCOS clusters in families and both female and male relatives can show stigmata of the syndrome, including metabolic abnormalities. Genome-wide association studies have identified a number of candidate regions, although their role in contributing to PCOS is still largely unknown.",
+      "url": "https://doi.org/10.1210/er.2015-1018",
+      "pdf_url": "https://academic.oup.com/edrv/article-pdf/36/5/487/8864750/edrv0487.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "W2113329249",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Multi-Tissue Omics Analyses Reveal Molecular Regulatory Networks for Puberty in Composite Beef Cattle",
+      "authors": "Ángela Cánovas; Antônio Reverter; K. L. DeAtley; Ryan L. Ashley; Michelle L. Colgrave; Marina R. S. Fortes; Alma Islas‐Trejo; Sigrid A. Lehnert; Laércio R. Porto-Neto; Gonzalo Rincón; G. A. Silver; W. M. Snelling; Juan F. Medrano; Milton Thomas",
+      "year": 2014,
+      "doi": "10.1371/journal.pone.0102551",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Puberty is a complex physiological event by which animals mature into an adult capable of sexual reproduction. In order to enhance our understanding of the genes and regulatory pathways and networks involved in puberty, we characterized the transcriptome of five reproductive tissues (i.e. hypothalamus, pituitary gland, ovary, uterus, and endometrium) as well as tissues known to be relevant to growth and metabolism needed to achieve puberty (i.e., longissimus dorsi muscle, adipose, and liver). These tissues were collected from pre- and post-pubertal Brangus heifers (3/8 Brahman; Bos indicus x 5/8 Angus; Bos taurus) derived from a population of cattle used to identify quantitative trait loci associated with fertility traits (i.e., age of first observed corpus luteum (ACL), first service conception (FSC), and heifer pregnancy (HPG)). In order to exploit the power of complementary omics analyses, pre- and post-puberty co-expression gene networks were constructed by combining the results from genome-wide association studies (GWAS), RNA-Seq, and bovine transcription factors. Eight tissues among pre-pubertal and post-pubertal Brangus heifers revealed 1,515 differentially expressed and 943 tissue-specific genes within the 17,832 genes confirmed by RNA-Seq analysis. The hypothalamus experienced the most notable up-regulation of genes via puberty (i.e., 204 out of 275 genes). Combining the results of GWAS and RNA-Seq, we identified 25 loci containing a single nucleotide polymorphism (SNP) associated with ACL, FSC, and (or) HPG. Seventeen of these SNP were within a gene and 13 of the genes were expressed in uterus or endometrium. Multi-tissue omics analyses revealed 2,450 co-expressed genes relative to puberty. The pre-pubertal network had 372,861 connections whereas the post-pubertal network had 328,357 connections. A sub-network from this process revealed key transcriptional regulators (i.e., PITX2, FOXA1, DACH2, PROP1, SIX6, etc.). Results from these multi-tissue omics analyses improve understanding of the number of genes and their complex interactions for puberty in cattle.",
+      "url": "https://doi.org/10.1371/journal.pone.0102551",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0102551&type=printable",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "W2094397390",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Expression of the Tissue Kallikrein-Kinin Cascade in Granulosa Cells of the Ovary",
+      "authors": "J. Plendl; C. Snyman; K.D. Bhoola",
+      "year": 2002,
+      "doi": "10.1515/bc.2002.215",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1515/bc.2002.215",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "10.1515/bc.2002.215",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Sustained Estradiol Production by Porcine Granulosa Cells In Vitro",
+      "authors": "J. Joe Ford",
+      "year": 1991,
+      "doi": "10.1007/978-1-4612-3200-1_56",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-4612-3200-1_56",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO expression decline age ovary granulosa cells"
+      ],
+      "paper_id": "10.1007/978-1-4612-3200-1_56",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Exploring Molecular Mechanisms and Biomarkers in Psoriasis",
+      "authors": "Jingwen Deng",
+      "year": 1970,
+      "doi": "10.33540/2129",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p xml:lang=\"en\">The skin, the body's largest external organ, serves as the primary interface with the outside world. Psoriasis, a chronic skin condition, involves a complex interplay of immunological and environmental factors, initially affecting the skin but eventually leading to systemic immune dysregulation, rendering it a multifaceted systemic disease.\nOver the past decade, the introduction of biologics has revolutionized psoriasis treatment by modulating the immune environment. However, it's important to recognize that not all psoriasis patients respond favorably to these biologics. This underscores the intricate and heterogeneous nature of psoriasis, which involves multiple immune pathways and genetic elements. Biologics targeting specific cytokines or cell types may not be universally effective in controlling the disease. Furthermore, the skin's immune response is intricately linked with the broader immune system, necessitating continuous interactions for immune regulation.\nIn Chapter 1, we explored the utility of omics technologies in the context of psoriasis, emphasizing the need for ongoing exploration of omics data to gain a comprehensive understanding of the intricate biological processes at play. Subsequent chapters (2-5) delved into the application of various omics techniques to investigate the transcriptomic, proteomic, and microbiomic aspects of both skin tissue and blood samples from patients with psoriasis and other autoimmune conditions like psoriatic arthritis, ankylosing spondylitis, and atopic dermatitis.\nChapter 2 employed a tree-based machine learning approach to uncover the gene regulatory networks underlying psoriasis, identifying key regulators that could serve as potential drug targets and disease severity markers. Notably, the interferon signaling pathway emerged as a central component of psoriatic inflammation.\nIn Chapter 3, we examined the associations between the transcriptome and microbiome in different skin samples, revealing significant differences in the transcriptome profiles between lesion and non-lesion skin. Functional annotation highlighted a strong emphasis on neutrophil activation. A core gene network emerged, intricately linked to inflammation and hyper-keratinization, with microbiome analysis shedding light on correlations with specific microbial species.\nChapter 4 focused on identifying psoriasis biomarkers through proteome profiling of patient serum and transcriptome sequencing of skin samples. Peptidase inhibitor 3 (PI3) emerged as a significant biomarker, correlating with local skin gene expression and disease severity. Single-cell analysis confirmed PI3's high expression in psoriatic keratinocytes, suggesting its utility as a psoriasis-specific biomarker.\nIn Chapter 5, single-cell RNA sequencing and T cell repertoire profiling were employed to understand the immune response in psoriasis, both in peripheral blood and skin samples. Immune signatures of various myeloid and lymphocyte subsets were revealed, highlighting significant alterations in immune cell subsets in psoriasis patients. Specific characteristics, such as the CD8+ TRM cells producing high levels of IFN-γ or IL-17, were identified as unique to psoriasis. These findings provide valuable insights into the pathophysiology of psoriasis.\nBased on our findings, it is increasingly likely that environmental microbial triggers activate and recruit neutrophils and pDCs to the skin. This stimulation leads to the secretion of antimicrobial peptides like PI3 by keratinocytes, which can enter the circulation. Circulating monocytes and effector memory T cells may respond to these processes and migrate to the skin, forming monocyte-derived macrophages and resident memory T cells cells, thus contributing to the pro-inflammatory loop driving the development of psoriatic lesions. Finally, it is important to note that our observations might be the consequences of the transcriptional state rather than having been conclusively proven.</jats:p>",
+      "url": "https://doi.org/10.33540/2129",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "Molecular and genetic insights into human ovarian aging from single-nuclei multi-omics analyses"
+      ],
+      "paper_id": "10.33540/2129",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Table 2: The adjustment of mRNA stability\n                      <i>via</i>\n                      m6A modification and related m6A regulators.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.16023/table-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.16023/table-2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ovarian reserve decline m6A RNA modification age-related"
+      ],
+      "paper_id": "10.7717/peerj.16023/table-2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeted Manipulation of Cellular RNA m6A Methylation at the Single-Base Level",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1021/acschembio.1c00895.s001",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acschembio.1c00895.s001",
+      "pdf_url": "https://pubs.acs.org/doi/suppl/10.1021/acschembio.1c00895/suppl_file/cb1c00895_si_001.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "global m6A methylation level aging ovarian tissue"
+      ],
+      "paper_id": "10.1021/acschembio.1c00895.s001",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

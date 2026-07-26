@@ -1,0 +1,65 @@
+{
+  "slug": "q04-eje-fto-m6a-fos",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q04-eje-fto-m6a-fos",
+  "goal": "Determinar que evidencia respalda el eje FTO-m6A-FOS en celulas de la granulosa humanas, y en que modelos y con que controles fue validado mas alla de Jiang et al. 2021.",
+  "dashboard": "FTO-m6A-FOS axis granulosa",
+  "notebook_id": "0bf608b2-1812-42af-a82e-885597208929",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to Jiang et al. (2021) and any related sources, what is the proposed mechanism by which the m6A demethylase FTO regulates FOS expression in human granulosa cells?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/answers/2026-07-14 Q01 - according-to-jiang-et-al-2021.md"
+    },
+    {
+      "id": 2,
+      "theme": "core-evidence",
+      "question": "What experimental models (cell lines, primary cells, animal models) and molecular techniques were used to establish the FTO-m6A-FOS axis, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/answers/2026-07-14 Q02 - what-experimental-models-cell-lines-primary.md"
+    },
+    {
+      "id": 3,
+      "theme": "validation",
+      "question": "Beyond Jiang et al. (2021), what other sources in this corpus independently support, replicate, or extend evidence for a functional link between FTO, m6A methylation, and FOS (or related immediate-early genes) in granulosa or other reproductive cells?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/answers/2026-07-14 Q03 - beyond-jiang-et-al-2021-what.md"
+    },
+    {
+      "id": 4,
+      "theme": "controls",
+      "question": "What experimental controls (e.g., FTO knockdown/overexpression, catalytically dead FTO mutants, m6A site mutants) were used in these sources to demonstrate that FTO acts specifically through m6A demethylation on FOS transcripts, rather than through indirect or off-target effects?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/answers/2026-07-14 Q04 - what-experimental-controls-e-g-fto.md"
+    },
+    {
+      "id": 5,
+      "theme": "context",
+      "question": "How do these sources connect FTO/m6A dysregulation in granulosa cells to premature ovarian insufficiency or ovarian aging phenotypes?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/answers/2026-07-14 Q05 - how-do-these-sources-connect-fto.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps, unresolved questions, or lack of independent replication remain in these sources regarding the FTO-m6A-FOS axis in human granulosa cells?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/answers/2026-07-14 Q06 - what-gaps-unresolved-questions-or-lack.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/summaries/2026-07-14 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/summaries/2026-07-14 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/summaries/2026-07-14 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/summaries/2026-07-14 FTO-m6A-FOS axis granulosa - NotebookLM block summary.md"
+}

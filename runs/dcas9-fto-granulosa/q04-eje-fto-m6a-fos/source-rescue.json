@@ -1,0 +1,997 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.1007/s10522-026-10401-8",
+                        "title":  "Critical roles of m6A demethylase FTO in ovarian aging.",
+                        "doi":  "10.1007/s10522-026-10401-8",
+                        "pmid":  "41649627",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13258635",
+                        "title":  "Endometriosis-Associated Infertility: A Review of Pathophysiological Mechanisms and Current Treatment Strategies.",
+                        "doi":  "10.3390/jcm15114297",
+                        "pmid":  "42279157",
+                        "pmcid":  "PMC13258635",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic deciphering of ovarian aging multilayer interactive mechanisms and targeted reversal strategies",
+                        "title":  "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+                        "doi":  "10.1186/s13072-026-00664-3",
+                        "pmid":  "42050634",
+                        "pmcid":  "PMC13274177",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/humupd/dmaf032",
+                        "title":  "Epitranscriptomic modifications in embryonic development: insights into natural and ART-induced mechanisms and implications.",
+                        "doi":  "10.1093/humupd/dmaf032",
+                        "pmid":  "41445111",
+                        "pmcid":  "PMC13017785",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:rna modifications current understandings and future perspectives",
+                        "title":  "RNA Modifications: Current Understandings and Future Perspectives",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC13092963",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.redox.2026.104017",
+                        "title":  "Redox-sensitive N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-methyladenosine RNA epitranscriptomic mechanisms in environmental stress and hazard.",
+                        "doi":  "10.1016/j.redox.2026.104017",
+                        "pmid":  "41616571",
+                        "pmcid":  "PMC12874273",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/mco2.70767",
+                        "title":  "The Role of N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-Methyladenosine Modification in Health and Disease.",
+                        "doi":  "10.1002/mco2.70767",
+                        "pmid":  "42164653",
+                        "pmcid":  "PMC13183813",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41078956",
+                        "title":  "The role of m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A methylation in female reproductive physiology and pathology.",
+                        "doi":  "10.1016/j.gendis.2025.101755",
+                        "pmid":  "41078956",
+                        "pmcid":  "PMC12513000",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13204317",
+                        "title":  "Ubiquitination and N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-methyladenosine in cancer: Convergent regulation of oncogenic signaling pathways (Review).",
+                        "doi":  "10.3892/ol.2026.15652",
+                        "pmid":  "42205202",
+                        "pmcid":  "PMC13204317",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13113650",
+                        "title":  "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+                        "doi":  "10.3390/biom16040571",
+                        "pmid":  "42072692",
+                        "pmcid":  "PMC13113650",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3892/mmr.2026.13908",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modification in skeletal system diseases (Review).",
+                        "doi":  "10.3892/mmr.2026.13908",
+                        "pmid":  "42169641",
+                        "pmcid":  "PMC13220071",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cellular senescence from homeostasis to pathological implications and therapeutic strategies",
+                        "title":  "Cellular senescence: from homeostasis to pathological implications and therapeutic strategies.",
+                        "doi":  "10.3389/fimmu.2025.1534263",
+                        "pmid":  "39963130",
+                        "pmcid":  "PMC11830604",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s43032-025-01873-z",
+                        "title":  "Decreased FTO Expression Promotes Ovarian Granulosa Cells Aging.",
+                        "doi":  "10.1007/s43032-025-01873-z",
+                        "pmid":  "40342080",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:depletion of fat mass and obesity associated protein fto drives heterochromatin loss via lysine acetyltransferase 8 kat8 mediated remodeling and spacing factor 1 rsf1 acetylation in skin aging",
+                        "title":  "Depletion of Fat Mass and Obesity‐Associated Protein (FTO) Drives Heterochromatin Loss via Lysine Acetyltransferase 8 (KAT8)‐Mediated Remodeling and Spacing Factor 1 (RSF1) Acetylation in Skin Aging",
+                        "doi":  "10.1002/mco2.70205",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/biom15111627",
+                        "title":  "FTO Suppresses Dental Pulp Stem Cell Senescence by Destabilizing \u0026lt;i\u0026gt;NOLC1\u0026lt;/i\u0026gt; mRNA.",
+                        "doi":  "10.3390/biom15111627",
+                        "pmid":  "41301545",
+                        "pmcid":  "PMC12650298",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:impact of high protein low calorie diet on anthropometric indices glycation and inflammation associated with the fat mass and obesity fto gene among individuals with overweight obesity",
+                        "title":  "Impact of high-protein, low-calorie diet on anthropometric indices, glycation, and inflammation associated with the fat mass and obesity (FTO) gene among individuals with overweight/obesity",
+                        "doi":  "10.3389/fnut.2025.1619543",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12840041",
+                        "title":  "Neurotrophic Control of Puberty: From Molecular Signaling to Disorders of Pubertal Timing.",
+                        "doi":  "10.3390/cimb48010003",
+                        "pmid":  "41614834",
+                        "pmcid":  "PMC12840041",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:research progress on m6a rna methylation modification in human reproduction related diseases",
+                        "title":  "Research progress on m6A RNA methylation modification in human reproduction related diseases.",
+                        "doi":  "10.1186/s40001-025-03481-8",
+                        "pmid":  "41327472",
+                        "pmcid":  "PMC12667152",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.101626.3.sa2",
+                        "title":  "Reviewer #2 (Public review): N6-methyladenosine in DNA promotes genome stability",
+                        "doi":  "10.7554/elife.101626.3.sa2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/biomedicines13071653",
+                        "title":  "The Role of Fat Mass and Obesity-Associated (FTO) Gene in Non-Small Cell Lung Cancer Tumorigenicity and EGFR Tyrosine Kinase Inhibitor Resistance",
+                        "doi":  "10.3390/biomedicines13071653",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12100877",
+                        "title":  "The emerging roles of N6-methyladenosine (m6A) deregulation in polycystic ovary syndrome.",
+                        "doi":  "10.1186/s13048-025-01690-7",
+                        "pmid":  "40410881",
+                        "pmcid":  "PMC12100877",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/ijms252111605",
+                        "title":  "ALKBH5 Reduces BMP15 mRNA Stability and Regulates Bovine Puberty Initiation Through an m6A-Dependent Pathway.",
+                        "doi":  "10.3390/ijms252111605",
+                        "pmid":  "39519156",
+                        "pmcid":  "PMC11546126",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fat mass and obesity associated protein regulates granulosa cell aging by targeting matrix metalloproteinase 2 gene via an n6 methyladenosine yt521 b homology domain family member 2 dependent pathway in aged mice",
+                        "title":  "Fat Mass and Obesity-Associated Protein Regulates Granulosa Cell Aging by Targeting Matrix Metalloproteinase-2 Gene Via an N6-Methyladenosine-YT521-B Homology Domain Family Member 2-Dependent Pathway in Aged Mice.",
+                        "doi":  "10.1007/s43032-024-01632-6",
+                        "pmid":  "38995602",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\li_2024_fat_mass_and_obesity_associated_protein_regulates_granulosa.pdf",
+                        "notebook_source_id":  "4f94eff2-ba20-411a-96c6-a20f0d573449",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.2139/ssrn.4673415",
+                        "title":  "GAS5 Regulated by m6A Demethylase FTO Suppresses Cell Growth via IGF2BP2/QKI Axis in Breast Cancer",
+                        "doi":  "10.2139/ssrn.4673415",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a demethylase fto stabilized exosomal circbrca1 alleviates oxidative stress induced granulosa cell damage via the mir 642a 5p foxo1 axis",
+                        "title":  "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis",
+                        "doi":  "10.21203/rs.3.rs-3894773/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:38918838",
+                        "title":  "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis.",
+                        "doi":  "10.1186/s12951-024-02583-5",
+                        "pmid":  "38918838",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\zhu_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+                        "notebook_source_id":  "27b6eff6-8cc7-43ec-ba97-003f65a50df7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reviewer 1 public review n6 methyladenosine in dna promotes genome stability",
+                        "title":  "Reviewer #1 (Public review): N6-methyladenosine in DNA promotes genome stability",
+                        "doi":  "10.7554/elife.101626.1.sa3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.101626.1.sa2",
+                        "title":  "Reviewer #2 (Public review): N6-methyladenosine in DNA promotes genome stability",
+                        "doi":  "10.7554/elife.101626.1.sa2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reviewer 3 public review n6 methyladenosine in dna promotes genome stability",
+                        "title":  "Reviewer #3 (Public review): N6-methyladenosine in DNA promotes genome stability",
+                        "doi":  "10.7554/elife.101626.1.sa1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:role and mechanism of epigenetic regulation in the aging of germ cells prospects for targeted interventions",
+                        "title":  "Role and Mechanism of Epigenetic Regulation in the Aging of Germ Cells: Prospects for Targeted Interventions.",
+                        "doi":  "10.14336/ad.2024.0126",
+                        "pmid":  "38377031",
+                        "pmcid":  "PMC11745444",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/gpbjnl/qzae050",
+                        "title":  "The Role of \u003ci\u003eN\u003c/i\u003e6-methyladenosine Modification in Gametogenesis and Embryogenesis: Impact on Fertility",
+                        "doi":  "10.1093/gpbjnl/qzae050",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fendo.2024.1399757",
+                        "title":  "The role of epigenetics in women’s reproductive health: the impact of environmental factors",
+                        "doi":  "10.3389/fendo.2024.1399757",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+                        "notebook_source_id":  "2e9ad0fe-a973-4c44-a983-f390f9d84fb8",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:wtap mediated n6 methyladenosine rna modification of elf3 drives cellular senescence by upregulating irf8",
+                        "title":  "WTAP Mediated N6-methyladenosine RNA Modification of ELF3 Drives Cellular Senescence by Upregulating IRF8",
+                        "doi":  "10.7150/ijbs.90459",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\lei_2024_wtap_mediated_n6_methyladenosine_rna_modification_of_elf3.pdf",
+                        "notebook_source_id":  "b7779305-fcad-447b-a2a7-13f84cefe648",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:36609903",
+                        "title":  "Bone Marrow Mesenchymal Stem Cells Reversed Ovarian Aging-related m6A RNA Methylation Modification Profile in Aged Granulosa Cells.",
+                        "doi":  "10.1007/s12015-022-10485-y",
+                        "pmid":  "36609903",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/ijms241813897",
+                        "title":  "Emerging Roles for DNA 6mA and RNA m6A Methylation in Mammalian Genome",
+                        "doi":  "10.3390/ijms241813897",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fat mass and obesity associated protein fto drives cardiac hypertrophy via m6a demethylation of neto2",
+                        "title":  "Fat Mass and Obesity-Associated Protein (FTO) Drives Cardiac Hypertrophy Via m6A Demethylation of NETO2",
+                        "doi":  "10.2139/ssrn.4388282",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/ijms24119205",
+                        "title":  "Mechanisms of and Potential Medications for Oxidative Stress in Ovarian Granulosa Cells: A Review",
+                        "doi":  "10.3390/ijms24119205",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:premature ovarian insufficiency a review on the role of oxidative stress and the application of antioxidants",
+                        "title":  "Premature ovarian insufficiency: a review on the role of oxidative stress and the application of antioxidants",
+                        "doi":  "10.3389/fendo.2023.1172481",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+                        "notebook_source_id":  "30ab229c-655a-4484-9f53-009b46240b95",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:rna n6 methyladenosine modification in female reproductive biology and pathophysiology",
+                        "title":  "RNA N6-methyladenosine modification in female reproductive biology and pathophysiology",
+                        "doi":  "10.1186/s12964-023-01078-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\erqing_2023_rna_n6_methyladenosine_modification_in_female_reproductive_biology.pdf",
+                        "notebook_source_id":  "774ea58c-2959-42d3-8587-2af75df0fc40",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:targeting the p53 signaling pathway in cancers molecular mechanisms and clinical studies",
+                        "title":  "Targeting the p53 signaling pathway in cancers: Molecular mechanisms and clinical studies",
+                        "doi":  "10.1002/mco2.288",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.22541/au.166236703.38135254/v1",
+                        "title":  "Enhancing recombinant protein and viral vector production in mammalian cells by targeting the YTHDF readers of N6--methyladenosine in mRNA",
+                        "doi":  "10.22541/au.166236703.38135254/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the potential role of m6a rna methylation in the aging process and aging associated diseases",
+                        "title":  "The Potential Role of m6A RNA Methylation in the Aging Process and Aging-Associated Diseases",
+                        "doi":  "10.3389/fgene.2022.869950",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\jin_2022_the_potential_role_of_m6a_rna_methylation_in.pdf",
+                        "notebook_source_id":  "b12e9052-cd22-498b-85b0-84222211411a",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of m sup 6 sup a on female reproduction and fertility from gonad development to ovarian aging",
+                        "title":  "The Role of m\u003csup\u003e6\u003c/sup\u003eA on Female Reproduction and Fertility: From Gonad Development to Ovarian Aging.",
+                        "doi":  "10.3389/fcell.2022.884295",
+                        "pmid":  "35712673",
+                        "pmcid":  "PMC9197073",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\sun_2022_the_role_of_m_sup_6_sup_a.pdf",
+                        "notebook_source_id":  "4da4c875-d615-4638-b149-2ce12d2ef1c4",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:transcriptome wide n6 methyladenine methylation in granulosa cells of women with decreased ovarian reserve",
+                        "title":  "Transcriptome-wide N6-methyladenine methylation in granulosa cells of women with decreased ovarian reserve",
+                        "doi":  "10.1186/s12864-022-08462-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\chang_2022_transcriptome_wide_n6_methyladenine_methylation_in_granulosa_cells.pdf",
+                        "notebook_source_id":  "ab3d9496-f8a6-4f7b-bf91-438c5542ab5d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:correction fto promotes tumour proliferation in bladder cancer via the fto mir 576 cdk6 axis in an m6a dependent manner",
+                        "title":  "Correction: FTO promotes tumour proliferation in bladder cancer via the FTO/miR-576/CDK6 axis in an m6A-dependent manner",
+                        "doi":  "10.1038/s41420-021-00762-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\guanwen_2021_correction_fto_promotes_tumour_proliferation_in_bladder_cancer.pdf",
+                        "notebook_source_id":  "68a72f35-3b45-45a6-82e4-ef40863d9546",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:correction the m6a mrna demethylase fto in granulosa cells retards fos dependent ovarian aging",
+                        "title":  "Correction: The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging",
+                        "doi":  "10.1038/s41419-021-04194-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\zhong_xin_2021_correction_the_m6a_mrna_demethylase_fto_in_granulosa.pdf",
+                        "notebook_source_id":  "23d4a4d4-23c5-497d-a1f4-2e49693aa71a",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.21203/rs.3.rs-929583/v1",
+                        "title":  "Overexpression of FTO Protects Human Granulosa Cells From Cisplatin-Induced Injury",
+                        "doi":  "10.21203/rs.3.rs-929583/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41419-021-04016-9",
+                        "title":  "The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging.",
+                        "doi":  "10.1038/s41419-021-04016-9",
+                        "pmid":  "34315853",
+                        "pmcid":  "PMC8316443",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\jiang_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+                        "notebook_source_id":  "33e9014e-b349-4312-aecf-9e8fb66f78bf",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of m6a modification in the biological functions and diseases",
+                        "title":  "The role of m6A modification in the biological functions and diseases",
+                        "doi":  "10.1038/s41392-020-00450-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+                        "notebook_source_id":  "ab264f25-1e5b-49b8-943a-050548163ea4",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the role of m6a m5c and rna modifications in cancer novel therapeutic opportunities",
+                        "title":  "The role of m6A, m5C and Ψ RNA modifications in cancer: Novel therapeutic opportunities",
+                        "doi":  "10.1186/s12943-020-01263-w",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\paz_2021_the_role_of_m6a_m5c_and_rna_modifications.pdf",
+                        "notebook_source_id":  "092b317c-4650-4413-88a8-0ec354918812",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.2147/ott.s283417",
+                        "title":  "\u0026lt;p\u0026gt;The Potential Role of N6-Methyladenosine (m6A) Demethylase Fat Mass and Obesity-Associated Gene (FTO) in Human Cancers\u0026lt;/p\u0026gt;",
+                        "doi":  "10.2147/ott.s283417",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cyclophosphamide regulates n6 methyladenosine and m6a rna enzyme levels in human granulosa cells and in ovaries of a premature ovarian aging mouse model",
+                        "title":  "Cyclophosphamide Regulates N6-Methyladenosine and m6A RNA Enzyme Levels in Human Granulosa Cells and in Ovaries of a Premature Ovarian Aging Mouse Model",
+                        "doi":  "10.3389/fendo.2019.00415",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fonc.2019.00369",
+                        "title":  "Downregulation of Fat Mass and Obesity Associated (FTO) Promotes the Progression of Intrahepatic Cholangiocarcinoma",
+                        "doi":  "10.3389/fonc.2019.00369",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\zhuoxian_2019_downregulation_of_fat_mass_and_obesity_associated_fto.pdf",
+                        "notebook_source_id":  "0e9549bc-7a70-4e7d-aecd-f8d9202a6ab1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:functions of n6 methyladenosine and its role in cancer",
+                        "title":  "Functions of N6-methyladenosine and its role in cancer",
+                        "doi":  "10.1186/s12943-019-1109-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf",
+                        "notebook_source_id":  "dd0f5c78-6575-481e-9ddf-b53a808ac130",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fat mass and obesity associated fto gene and hepatic glucose and lipid metabolism",
+                        "title":  "Fat Mass and Obesity Associated (FTO) Gene and Hepatic Glucose and Lipid Metabolism",
+                        "doi":  "10.20944/preprints201810.0166.v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.26226/morressier.573c1512d462b80296c987f4",
+                        "title":  "Gene expression differences in human pre-ovulatory granulosa cells derived from large and small follicles",
+                        "doi":  "10.26226/morressier.573c1512d462b80296c987f4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:genetic associations of obesity the fat mass and obesity associated fto gene",
+                        "title":  "Genetic Associations of Obesity: The Fat-Mass and Obesity-Associated ( FTO) Gene",
+                        "doi":  "10.1038/ctg.2016.1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:c fos immediate early gene expression",
+                        "title":  "c-Fos Immediate-Early Gene Expression",
+                        "doi":  "10.1007/978-3-642-28753-4_200350",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.35802/093136",
+                        "title":  "",
+                        "doi":  "10.35802/093136",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.modgep.2006.05.011",
+                        "title":  "Transcriptional profile of mouse pre-granulosa and Sertoli cells isolated from early-differentiated fetal gonads",
+                        "doi":  "10.1016/j.modgep.2006.05.011",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 1 the effects of knock down of i ahr i gene expression on ahr gene and protein abundance in porcine granulosa cells",
+                        "title":  "Figure 1: The effects of knock-down of\n                      \u003ci\u003eAhR\u003c/i\u003e\n                      gene expression on AhR gene and protein abundance in porcine granulosa cells.",
+                        "doi":  "10.7717/peerj.8371/fig-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:c fos immediate early gene expression",
+                        "title":  "c-Fos Immediate-Early Gene Expression",
+                        "doi":  "10.1007/978-3-540-29805-2_656",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

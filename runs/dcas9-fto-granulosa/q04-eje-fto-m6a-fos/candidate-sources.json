@@ -1,0 +1,1992 @@
+{
+  "slug": "q04-eje-fto-m6a-fos",
+  "date": "2026-07-14",
+  "candidates": [
+    {
+      "title": "Critical roles of m6A demethylase FTO in ovarian aging.",
+      "authors": "Hadi S; Khoshraftar SH; Darabi AHK; Nejabati HR",
+      "year": 2026,
+      "doi": "10.1007/s10522-026-10401-8",
+      "pmid": "41649627",
+      "pmcid": null,
+      "abstract": "Ovarian aging, recognized as one of the initial signs of systemic aging, is marked by a progressive reduction in both the number and quality of oocytes, which has a profound effect on female fertility. In spite of the advancements in assisted reproductive technologies, these methods fail to tackle the fundamental molecular mechanisms that drive ovarian senescence. Recent surveys have underscored the significant role of epitranscriptomic regulation, especially the N6-methyladenosine (m6A) modification, in regulating RNA stability, translation, and cellular functionality. Fat mass and obesity-associated (FTO), a m6A demethylase, has been identified as a crucial regulator of granulosa cell homeostasis, influencing pathways related to oxidative stress, mitochondrial integrity, apoptosis, and cellular senescence. A decrease in FTO expression in aging ovaries is associated with increased m6A levels, destabilization of heterochromatin, dysregulation of transposable elements, and the upregulation of senescence-associated genes such as FOS. Moreover, regulation of genes such as MFN2, MMP2, and P53 by FTO has been shown to sustain mitochondrial function, uphold ERK signaling, and prevent apoptosis in granulosa cells. In summary, these discoveries position FTO as a pivotal element in the molecular framework governing ovarian aging, presenting promising opportunities for therapeutic strategies aimed at preserving female reproductive capacity.",
+      "url": "https://doi.org/10.1007/s10522-026-10401-8",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10522-026-10401-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref",
+        "europepmc",
+        "pubmed",
+        "semantic"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO fat mass obesity gene m6A ovarian aging",
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "PMID:41649627",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Endometriosis-Associated Infertility: A Review of Pathophysiological Mechanisms and Current Treatment Strategies.",
+      "authors": "Gniadek M; Porubenska A; Pełka K; Rzepkowska Z; Florjański J",
+      "year": 2026,
+      "doi": "10.3390/jcm15114297",
+      "pmid": "42279157",
+      "pmcid": "PMC13258635",
+      "abstract": "<b>Background:</b> Endometriosis affects 10-15% of reproductive-aged women and is a leading cause of infertility through anatomical, inflammatory, and molecular mechanisms. <b>Objective:</b> This review synthesizes current evidence on the pathophysiology of endometriosis-associated infertility and evaluates medical, surgical, and ART strategies to guide individualized management. <b>Methods:</b> We conducted a narrative review (2000-2025; PubMed, Scopus, WoS) synthesizing RCTs, meta-analyses, and observational studies on mechanisms and treatment outcomes. <b>Results:</b> In rASRM stage III-IV, tubo-ovarian distortion and adhesions mechanically impair oocyte pickup and embryo transport. In superficial disease, animal models demonstrate that peritoneal inflammatory mediators and ROS can impair oocyte maturation, though direct causal evidence in humans is lacking. Epigenetic dysregulation has been identified in the eutopic endometrium and linked to progesterone resistance, though its direct causal role in infertility remains unestablished. Hormonal suppression controls pain but does not improve spontaneous conception rates. Laparoscopic surgery in stage I-II remains debated. Prospective evidence supporting fertility benefit from DIE excision without mechanical obstruction is lacking. Cystectomy consistently reduces AMH, favoring IVF over surgery unless symptoms or retrieval barriers exist. IVF/ICSI live birth rates per cycle in stage I-II are comparable to those without endometriosis; cumulative rates after ≤5 cycles reach 43-46% in treated vs. 28% in untreated stage III-IV patients. <b>Conclusions:</b> Management requires two sequential decisions: first, whether to perform a diagnostic laparoscopy to identify minimal disease and adhesions, and second, whether to proceed with surgery or transfer directly to ART. Age ≥ 35, infertility > 2 years, or low AMH/AFC favor immediate IVF. Post-surgical EFI guides timing: high EFI supports expectant management or IUI; low EFI should prompt ART referral. When cystectomy is necessary, tissue-sparing techniques should be prioritized and fertility preservation, including oocyte cryopreservation, discussed preoperatively.",
+      "url": "https://europepmc.org/articles/PMC13258635",
+      "pdf_url": "https://europepmc.org/articles/PMC13258635?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d6/46/PMC13258635.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "PMID:42279157",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+      "authors": "Zhang Y; Yang Y; Liao Q; Chen X; Wang K; Zhang R; Li J; Liu H",
+      "year": 2026,
+      "doi": "10.1186/s13072-026-00664-3",
+      "pmid": "42050634",
+      "pmcid": "PMC13274177",
+      "abstract": "Ovarian aging leads to the progressive loss of reproductive and endocrine functions. As an upstream regulatory hub, epigenetic modifications synergistically impair these two functions through multi-dimensional mechanisms, collectively contributing to the occurrence of clinical phenotypes. Current therapies (e.g., hormone replacement therapy) are difficult to reverse functional decline and carry long-term risks. This review systematically elaborates on the core roles of three major epigenetic mechanisms in ovarian aging: DNA methylation (mediated by DNMTs/TET), histone modification (dynamic balance of HATs/HDACs), and non-coding RNA (miRNA/lncRNA/circRNA network). Dysregulation of DNA methylation reprogramming drives the imbalance between dormancy and activation of primordial follicles and impairs steroidogenesis. Dysregulated histone modification induces spindle assembly defects, meiotic arrest, and a vicious cycle of apoptosis and autophagy in granulosa cells. ncRNAs regulate oocyte maturation through the ceRNA mechanism and epitranscriptomic reprogramming (e.g., m6A). These mechanisms synergistically accelerate ovarian aging through multiple pathways, including interfering with the HPG axis, aggravating oxidative stress-mitochondrial dysfunction, and disrupting apoptosis/autophagy homeostasis. Although epigenetic interventions still face potential transgenerational genetic safety risks, against the backdrop of high incidence and global population aging, the development of novel therapies that specifically target somatic cells or can avoid such risks has become an urgent need. In the future, targeting key epigenetic nodes is still expected to open up new avenues for extending female reproductive lifespan and alleviating long-term health risks associated with ovarian aging.",
+      "url": "https://europepmc.org/articles/PMC13274177",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/77/3d/13072_2026_Article_664.PMC13274177.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/77/3d/PMC13274177.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "PMID:42050634",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epitranscriptomic modifications in embryonic development: insights into natural and ART-induced mechanisms and implications.",
+      "authors": "Volsa AM; Hoffmann ER; Ross PJ; Canovas S",
+      "year": 2026,
+      "doi": "10.1093/humupd/dmaf032",
+      "pmid": "41445111",
+      "pmcid": "PMC13017785",
+      "abstract": "<h4>Background</h4>Mammalian embryo development involves a complex process governed by multiple layers of cellular and molecular regulation mechanisms. ART is widely used around the world to assist fertility in humans, with ∼12 million babies being born by ART in the last 40 years. These technologies are also used extensively for reproductive purposes in other mammalian species that have many analogies with human reproductive biology. Epitranscriptomic marks, including RNA modifications such as N6-methyladenosine (m6A) and N1-methyladenosine (m1A), modulate gene expression during gametogenesis and embryo development, and their dynamics are regulated by genes encoding m6A writers (METTL3, METTL14, and WTAP), readers (YTHDF2, YTHDC1-2, and PRRC2A), and erasers (ALKBH5 and FTO). However, the impact of ART on these epigenetic modifications remains poorly understood.<h4>Objective and rationale</h4>This narrative review explores the role of epitranscriptomic modifications in both naturally and ART-conceived embryos. It examines how RNA modifications regulate gametogenesis and early embryonic development and how ART-induced cellular stress might perturb these regulatory layers, potentially affecting gametogenesis, embryo competence, and offspring health. Understanding the interaction between ART and epitranscriptomic regulation is crucial for optimizing ART procedures and safeguarding offspring health.<h4>Search methods</h4>The PubMed and Scopus literature databases were utilized to search for peer-reviewed articles and reviews using terms such as 'epitranscriptomic', 'RNA modification', 'gametogenesis', 'embryo development', 'mammalian development', 'in vitro fertilization', 'ART', and 'assisted reproductive technologies' in combination or individually. All relevant publications until the current year have been critically evaluated and discussed.<h4>Outcomes</h4>Epitranscriptomic modifications, particularly m6A, have emerged as key regulators of RNA metabolism during gametogenesis and early embryo development. Evidence from both human and animal studies indicates that ART-related stressors, such as oxidative imbalance, hormonal stimulation, and cryopreservation, can disturb RNA methylation at the epitranscriptomic marks m1A and 5-methylcytosine by modulating the expression and activity of m6A writers, erasers, and readers, independently of global transcriptional changes. These alterations can affect embryo competence, placental function, lineage specification, and subsequent offspring development. Moreover, m6A-associated factors participate in stress adaptation and developmental signalling beyond their canonical methylation activity. Collectively, these findings underscore the remarkable sensitivity of the embryonic transcriptome to in vitro manipulation and highlight epitranscriptomic marks as both predictive biomarkers and mechanistic targets for improving the safety, efficacy, and long-term outcomes of assisted reproduction.<h4>Wider implications</h4>Understanding how ARTs influence the epitranscriptome and its downstream effects is crucial for improving reproductive outcomes. In vitro manipulation, fertilization, and embryo culture can influence RNA regulation in gametes, causing reduced cell differentiation, and, in early embryos, contributing to recurrent implantation failure, decidualization failure, and pregnancy loss. This review aims to share with the scientific community insights into the critical role of epitranscriptomic modifications during gametogenesis and embryogenesis, as well as the potential consequences of in vitro procedures, to guide safer and more effective ART practices.<h4>Registration number</h4>N/A.",
+      "url": "https://europepmc.org/articles/PMC13017785",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/4e/ea/dmaf032.PMC13017785.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4e/ea/PMC13017785.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "PMID:41445111",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA Modifications: Current Understandings and Future Perspectives",
+      "authors": "Xiao S; Xiang T; Yang C; Wang X; Huang G; Luo F; Xie Z; Chen Y",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13092963",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13092963/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13092963/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8b/0d/PMC13092963.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "PMC13092963",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Redox-sensitive N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine RNA epitranscriptomic mechanisms in environmental stress and hazard.",
+      "authors": "Wāng Y",
+      "year": 2026,
+      "doi": "10.1016/j.redox.2026.104017",
+      "pmid": "41616571",
+      "pmcid": "PMC12874273",
+      "abstract": "Oxidative stress is a central driver of environmental stress responses and disease pathogenesis. Increasing evidence indicates that RNA epigenetic regulation, particularly N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) modification, represents a critical interface linking redox imbalance to cellular dysfunction. Arsenic, a prototypical redox-active toxicant, provides a robust model for understanding how environmental oxidative stress disrupts m<sup>6</sup>A-mediated post-transcriptional control. Recent studies demonstrate that arsenic-induced redox perturbation reshapes the expression and activity of m<sup>6</sup>A writers (METTL3/METTL14), erasers (FTO/ALKBH5), and readers (YTHDF/YTHDC families), leading to widespread alterations in mRNA stability, translation, and metabolic reprogramming. Mechanistic findings from cellular and animal models implicate m<sup>6</sup>A-dependent pathways in modulating oxidative stress responses, mitochondrial function, inflammation, and senescence-biological processes fundamental to redox biology. These insights reveal that m<sup>6</sup>A is not merely a downstream marker of stress, but an active mediator of adaptive and maladaptive responses to redox disruption. Despite significant progress, population-level evidence and high-resolution mapping of RNA modifications under oxidative conditions remain limited. Future work integrating advanced epitranscriptomic profiling, multi-omics approaches, and exploration of additional RNA modifications (m<sup>7</sup>G, m<sup>1</sup>A, m<sup>5</sup>C) will be essential for defining how redox-sensitive RNA regulation shapes disease risk. Collectively, this review highlights m<sup>6</sup>A modification as a dynamic regulatory node connecting environmental redox stress to gene expression control, providing new mechanistic insight and potential targets for intervention in redox-related diseases.",
+      "url": "https://europepmc.org/articles/PMC12874273",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/09/41/main.PMC12874273.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/09/41/PMC12874273.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "PMID:41616571",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of N&lt;sup&gt;6&lt;/sup&gt;-Methyladenosine Modification in Health and Disease.",
+      "authors": "Li L; Sun Y; Zheng W; Li L; Feng Y; Qi M; Li H",
+      "year": 2026,
+      "doi": "10.1002/mco2.70767",
+      "pmid": "42164653",
+      "pmcid": "PMC13183813",
+      "abstract": "Emerging evidence highlights that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most prevalent internal RNA modification in eukaryotes, serves as a critical epitranscriptomic regulator of RNA metabolism. This posttranscriptional modification modulates alternative splicing, nuclear export, stability, and translation, thereby regulating various physiological processes. Notably, dysregulation of m<sup>6</sup>A-associated modifiers (writers/erasers/readers) is implicated in a variety of diseases, such as metabolic disorders and cancer. Despite the rapid progress of m<sup>6</sup>A-mediated emerging therapeutic strategies, there remains an imperative to bridge the gap between basic epitranscriptomics and clinical application. This review systematically depicts recent advances in understanding m<sup>6</sup>A-mediated epitranscriptomic regulation, with particular focus on its dual role in maintaining cellular homeostasis and driving disease progression upon dysregulation, provides a dedicated exploration of m<sup>6</sup>A-regulated mitochondrial remodeling, and outlines cutting-edge technologies for m<sup>6</sup>A mapping and inhibitors targeting m<sup>6</sup>A modifiers. Furthermore, we conduct an in-depth exploration of the existing limitations and therapeutic potential associated with targeting m<sup>6</sup>A modification. Acting as a pivotal link between epitranscriptomics and medicine, m<sup>6</sup>A modification provides novel perspectives for developing precision interventions in complex human diseases.",
+      "url": "https://europepmc.org/articles/PMC13183813",
+      "pdf_url": "https://europepmc.org/articles/PMC13183813?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/04/PMC13183813.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "PMID:42164653",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m&lt;sup&gt;6&lt;/sup&gt;A methylation in female reproductive physiology and pathology.",
+      "authors": "Ding J; He Y; Li Y; Sun S; Cheng W; Huang J; Yu C",
+      "year": 2026,
+      "doi": "10.1016/j.gendis.2025.101755",
+      "pmid": "41078956",
+      "pmcid": "PMC12513000",
+      "abstract": "N6-methyladenosine (m<sup>6</sup>A) is a critical regulator of female reproductive physiology, yet existing reviews have focused predominantly on oocytes. The objective of this review is to systematically evaluate the regulatory effects of m<sup>6</sup>A throughout the pregnancy process. This review covers aspects such as oocyte maturation, granulosa cell dynamics, endometrial receptivity, immune homeostasis, and systemic adaptations, aiming to demonstrate the comprehensive regulatory capacity of m<sup>6</sup>A in female reproduction. Dysregulated m<sup>6</sup>A modifications in infertility-associated pathologies, including endometriosis, polycystic ovary syndrome, and recurrent miscarriage, are analyzed to identify mechanistic links between an epitranscriptomic imbalance and reproductive dysfunction. The key findings indicate that m<sup>6</sup>A is involved in the entire reproductive process and precisely coordinates stage-specific molecular programs within it, whereas aberrant methylation patterns disrupt gene networks essential for fertility. Notably, m<sup>6</sup>A-modifying enzymes exhibit strong potential as diagnostic biomarkers for female reproductive disorders. The synthesis of the current evidence establishes m<sup>6</sup>A dysregulation as a convergent pathogenic mechanism in diverse infertility etiologies, suggesting that the therapeutic modulation of m<sup>6</sup>A pathways could address unmet clinical needs in reproductive medicine.",
+      "url": "https://europepmc.org/articles/PMC12513000",
+      "pdf_url": "https://europepmc.org/articles/PMC12513000?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/97/8e/PMC12513000.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021",
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "PMID:41078956",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Ubiquitination and N&lt;sup&gt;6&lt;/sup&gt;-methyladenosine in cancer: Convergent regulation of oncogenic signaling pathways (Review).",
+      "authors": "Li H; Lu X",
+      "year": 2026,
+      "doi": "10.3892/ol.2026.15652",
+      "pmid": "42205202",
+      "pmcid": "PMC13204317",
+      "abstract": "Ubiquitination and N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) RNA methylation constitute two fundamental layers of post-translational and post-transcriptional regulation that coordinately govern gene expression in cancer. These regulatory systems exhibit intricate crosstalk, revealing that they frequently converge on shared oncogenic signaling pathways to fine-tune malignant cell behaviors. Cooperative regulation by ubiquitination and m<sup>6</sup>A is involved in modulating core cancer-driving circuits, including the PI3K-AKT and NF-κB pathways, thereby taking part in tumor cell proliferation, metastatic dissemination, immune evasion, metabolic adaptation and resistance to targeted therapies and chemotherapy. The interaction between them forms intricate feedback loops and exhibits context specificity, with the same regulatory axis capable of promoting or restraining tumorigenesis depending on cell types, mutation background and microenvironmental cues. Elucidating the molecular mechanisms underlying ubiquitin-m<sup>6</sup>A crosstalk is thus key for developing next-generation precision oncology strategies. Notably, components of these pathways such as ubiquitin ligases, deubiquitinases and m<sup>6</sup>A writers, erasers and readers, have been regarded as potential diagnostic biomarkers and therapeutic targets. Future advances relying on integrative multi-omics profiling, sophisticated functional models and rigorous <i>in vivo</i> validation are essential to unravel the complexity of these multi-layered regulatory networks. Such insights may ultimately enable the rational design of therapies that exploit ubiquitin-m<sup>6</sup>A crosstalk to more effectively suppress cancer progression.",
+      "url": "https://europepmc.org/articles/PMC13204317",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/22/b9/ol-32-01-15652.PMC13204317.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/22/b9/PMC13204317.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "PMID:42205202",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+      "authors": "Kuai Y; Yi Y; Li X; Wang Z; Zheng Y; Li Y; Li Y",
+      "year": 2026,
+      "doi": "10.3390/biom16040571",
+      "pmid": "42072692",
+      "pmcid": "PMC13113650",
+      "abstract": "<b>Background/Objective:</b> RNA modifications, including N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), 5-methylcytosine (m<sup>5</sup>C), 7-methylguanosine (m<sup>7</sup>G), N<sup>1</sup>-methyladenosine (m<sup>1</sup>A), pseudouridine (Ψ), N<sup>4</sup>-acetylcytidine (ac<sup>4</sup>C), 5-methoxycarbonylmethyl-2-thiouridine (mcm<sup>5</sup>s<sup>2</sup>U) and adenosine-to-inosine (A-to-I) editing, constitute a critical layer of post-transcriptional regulation that influences RNA stability, splicing, translation and degradation. This review aims to systematically summarise the current understanding of the molecular mechanisms and regulatory networks of RNA modifications in the female reproductive physiology and to evaluate their pathological implications in obstetric and gynaecologic disorders. <b>Methods:</b> We conducted a comprehensive literature review, synthesising findings from high-throughput sequencing studies, functional experiments and clinical investigations. The review integrates evidence across multiple RNA modification types, their regulatory enzymes (writers, erasers and readers) and their roles in physiological processes (germ cell development, oocyte maturation, embryogenesis and endometrial function) and pathological conditions (gynaecologic cancers, preeclampsia, endometriosis, polycystic ovary syndrome and premature ovarian insufficiency). <b>Results:</b> RNA modifications function as dynamic and reversible regulators that orchestrate key reproductive events, including primordial germ cell differentiation, oocyte meiosis, the maternal-to-zygotic transition, the establishment of uterine receptivity, and placental development. These modifications operate through coordinated writer-eraser-reader networks that fine tune transcripts' stability, translation efficiency and RNA decay. The dysregulation of these epitranscriptomic networks is strongly implicated in the pathogenesis of gynaecologic malignancies (cervical, ovarian, endometrial cancers and choriocarcinoma), pregnancy-related disorders (preeclampsia, gestational diabetes mellitus and recurrent miscarriage), reproductive endocrine disorders (polycystic ovary syndrome and premature ovarian insufficiency) and benign gynaecological conditions (endometriosis and adenomyosis). Emerging evidence also reveals complex crosstalk among RNA modifications, such as cooperative interactions between m<sup>6</sup>A and m<sup>5</sup>C in translation regulation and antagonistic relationships between m<sup>6</sup>A and A-to-I editing. <b>Conclusions:</b> RNA modifications represent an essential and multifaceted regulatory layer in female reproduction, with broad implications for disease pathogenesis. Their unique reversibility and context-dependent functions offer promising opportunities for the development of diagnostic biomarkers and targeted therapeutic interventions. Future researchers should prioritise integrated multi-omics approaches, enhanced human-relevant models and clinical translation to fully realise the potential of epitranscriptomic medicine in reproductive health.",
+      "url": "https://europepmc.org/articles/PMC13113650",
+      "pdf_url": "https://europepmc.org/articles/PMC13113650?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/23/PMC13113650.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "PMID:42072692",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A modification in skeletal system diseases (Review).",
+      "authors": "Xie X; Li C; Zheng H; Gan G; Gao X",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13908",
+      "pmid": "42169641",
+      "pmcid": "PMC13220071",
+      "abstract": "N6‑methyladenosine (m<sup>6</sup>A) modifications are key epigenetic regulatory mechanisms in mammals and serve key roles in both normal skeletal development and the pathogenesis of skeletal disorder. The dynamic and reversible regulation of m<sup>6</sup>A relies on three core factors: Methyltransferases (writers), demethylases (erasers) and m<sup>6</sup>A‑binding proteins (readers), which collectively ensure proper physiological functions. Despite this, the functions and regulatory mechanisms of numerous m<sup>6</sup>A‑associated factors in skeletal diseases remain insufficiently understood. m6A modification maintains bone homeostasis during skeletal development primarily by regulating the balance between osteoblasts and osteoclasts. Under pathological conditions, dysregulated m<sup>6</sup>A modification contributes to aberrant osteoclast proliferation and chondrocyte apoptosis, leading to bone loss and cartilage degeneration. These pathological changes are key contributors to common types of skeletal disorder, including osteoporosis, osteoarthritis, rheumatoid arthritis and intervertebral disc degeneration, imposing a burden on human health. Non‑coding RNAs are major targets of m<sup>6</sup>A modification and their interactions exert post‑transcriptional regulation in skeletal biology. The present review summarizes the roles and mechanisms of m<sup>6</sup>A modification in skeletal diseases and highlights its therapeutic potential, offering novel perspectives for disease prevention and treatment.",
+      "url": "https://europepmc.org/articles/PMC13220071",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8f/06/mmr-34-01-13908.PMC13220071.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/06/PMC13220071.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "PMID:42169641",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular senescence: from homeostasis to pathological implications and therapeutic strategies.",
+      "authors": "Li C; Yuan Y; Jia Y; Zhou Q; Wang Q; Jiang X",
+      "year": 2025,
+      "doi": "10.3389/fimmu.2025.1534263",
+      "pmid": "39963130",
+      "pmcid": "PMC11830604",
+      "abstract": "Cellular aging is a multifactorial and intricately regulated physiological process with profound implications. The interaction between cellular senescence and cancer is complex and multifaceted, senescence can both promote and inhibit tumor progression through various mechanisms. M6A methylation modification regulates the aging process of cells and tissues by modulating senescence-related genes. In this review, we comprehensively discuss the characteristics of cellular senescence, the signaling pathways regulating senescence, the biomarkers of senescence, and the mechanisms of anti-senescence drugs. Notably, this review also delves into the complex interactions between senescence and cancer, emphasizing the dual role of the senescent microenvironment in tumor initiation, progression, and treatment. Finally, we thoroughly explore the function and mechanism of m6A methylation modification in cellular senescence, revealing its critical role in regulating gene expression and maintaining cellular homeostasis. In conclusion, this review provides a comprehensive perspective on the molecular mechanisms and biological significance of cellular senescence and offers new insights for the development of anti-senescence strategies.",
+      "url": "https://europepmc.org/articles/PMC11830604",
+      "pdf_url": "https://europepmc.org/articles/PMC11830604?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a7/3e/PMC11830604.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "PMID:39963130",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Decreased FTO Expression Promotes Ovarian Granulosa Cells Aging.",
+      "authors": "Ying J; Zhang X; Sun X; Meng Q",
+      "year": 2025,
+      "doi": "10.1007/s43032-025-01873-z",
+      "pmid": "40342080",
+      "pmcid": null,
+      "abstract": "This study aimed to investigate the role of fat mass and obesity-associated protein (FTO), an N6-methyladenosine (m6A) demethylase, in ovarian aging by examining the effects of FTO downregulation on key biological processes in human ovarian granulosa cells (KGN), including proliferation, apoptosis regulation, senescence, and steroidogenic function. Stable FTO knockdown in KGN cells was achieved using lentivirus, complemented by modeling premature senescence with H2O2 treatment. The biological functions, such as cell proliferation, apoptosis, aging, and sex hormone secretion, were assessed using RT-qPCR, WB, EdU staining, and ELISA, respectively. Silencing FTO significantly inhibited the proliferation of KGN cells, promoted apoptosis and senescence, and disrupted their endocrine function. These effects were consistent in the H2O2-induced senescence model. Our findings identify FTO as a critical regulator of ovarian homeostasis. Depletion of FTO impairs granulosa cell viability, accelerates senescence-related functional decline, and diminishes steroidogenic capacity through m6A-mediated modulation of key biosynthetic enzymes. These insights highlight FTO as a potential therapeutic target for age-related ovarian dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40342080/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence"
+      ],
+      "paper_id": "40342080",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Depletion of Fat Mass and Obesity‐Associated Protein (FTO) Drives Heterochromatin Loss via Lysine Acetyltransferase 8 (KAT8)‐Mediated Remodeling and Spacing Factor 1 (RSF1) Acetylation in Skin Aging",
+      "authors": "Fan Wang; Lei Zhou; Yun Zhong; Yisheng Cai; Xin Meng; Mengting Chen; Rui Mao; Xin Xiao; Caitan Yi; Yi Guo; Hongfu Xie; Yiya Zhang; Ji Li",
+      "year": 2025,
+      "doi": "10.1002/mco2.70205",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6‐methyladenosine (m6A), as the most common RNA modification at the post‐transcriptional level, plays a role in various pathophysiological processes. However, its underlying mechanism in skin aging remains enigmatic. Here, we identified that fat mass and obesity‐associated protein (FTO) serves as a protective factor against skin aging. FTO expression is downregulated in aging skin tissues and senescent fibroblasts. Furthermore, the depletion or inhibition of FTO exacerbates dermal fibroblasts senescence and accelerates skin aging. Additionally, RNA‐seq combined with MeRIP‐seq revealed that lysine acetyltransferase 8 (KAT8) is the downstream target of FTO. FTO deficiency leads to an increase in m6A levels and a decrease in mRNA stability of KAT8 in a m6A‐YTHDF2‐dependent manner. Notably, our integrated analysis of m6A sequencing and acetylation proteomics links changes in heterochromatin structure with aging. Mechanistically, KAT8 depletion leads to heterochromatin loss and the subsequent aging by acetylating remodeling and spacing factor 1 (RSF1) at K1050. Overall, our finding reveals a pivotal role of FTO‐mediated m6A modification in the skin aging by regulating KAT8/RSF1‐involved heterochromatin formation. It provides new insights into the mechanisms and strategies for delaying aging and improving healthspan.",
+      "url": "https://www.semanticscholar.org/paper/1276eeac78b133a50a5c2ae3f67c9be03d6ee457",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12238725",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "1276eeac78b133a50a5c2ae3f67c9be03d6ee457",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO Suppresses Dental Pulp Stem Cell Senescence by Destabilizing &lt;i&gt;NOLC1&lt;/i&gt; mRNA.",
+      "authors": "Li B; Xu M; Huang J; Jia R",
+      "year": 2025,
+      "doi": "10.3390/biom15111627",
+      "pmid": "41301545",
+      "pmcid": "PMC12650298",
+      "abstract": "Cellular senescence is an intricate process that severely restricts stem cell function. The N6-methyladenosine (m<sup>6</sup>A) eraser, fat mass and obesity-associated (FTO) protein control several aspects of stem cell fate, including differentiation, self-renewal, and senescence. However, the role of FTO in dental pulp stem cell (DPSC) senescence has not yet been elucidated. This study aimed to explore the role of FTO in DPSC senescence. FTO expression decreases during DPSC senescence. FTO depletion inhibited DPSC proliferation, accelerated senescence, and increased reactive oxygen species (ROS) levels. FTO overexpression reduced DPSC senescence, enhanced proliferation, and decreased ROS accumulation. RNA sequencing demonstrated that FTO knockdown inhibited ribosomal RNA precursor (pre-rRNA) biogenesis. We found nucleolar and coiled-body phosphoprotein 1 (NOLC1) as a novel target of FTO. NOLC1 was upregulated after FTO knockdown and promoted DPSC senescence. Mechanistically, FTO downregulation increased the m<sup>6</sup>A modifications of <i>NOLC1</i> mRNA, increasing the stability of the <i>NOLC1</i> mRNA. NOLC1 upregulation inhibits the transcription of pre-rRNA, causing nucleolar stress and p53 accumulation. In addition, NOLC1 knockdown partially rescued FTO deficiency-induced DPSC senescence. Our findings identified the significant role of the FTO/NOLC1/p53 axis in DPSC senescence and provide new insights to prevent the aging of DPSCs, which is beneficial for the application of DPSCs in regenerative medicine and stem cell therapy.",
+      "url": "https://europepmc.org/articles/PMC12650298",
+      "pdf_url": "https://europepmc.org/articles/PMC12650298?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3f/75/PMC12650298.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "PMID:41301545",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Impact of high-protein, low-calorie diet on anthropometric indices, glycation, and inflammation associated with the fat mass and obesity (FTO) gene among individuals with overweight/obesity",
+      "authors": "Bibi Hajira; Bismillah Sehar; Fakhrunisa; Sami Siraj; M. O. Malik; Huma Naqeeb; A. Almajwal; Sharifa AlBlooshi; H. Hasan; Iftikhar Alam; Falak Zeb; F. Lodhi; O. Ramos-López; I. Rivera-Iñiguez",
+      "year": 2025,
+      "doi": "10.3389/fnut.2025.1619543",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Background The common polymorphism rs9939609 of the fat mass and obesity gene (FTO) has been associated with increased susceptibility to obesity, but this association appears to be modified by diet. High protein diets have been shown to reduce weight and may increase the formation of circulating advanced glycation end products (AGEs). Obesity, on the other hand, is also associated with increased formation of AGEs, leading to oxidative stress and inflammation. Objectives This study was designed to investigate the impact of a high-protein and low-calorie (HPLC) diet on anthropometric indices and circulating AGEs levels associated with the FTO variant rs9939609 among overweight/obese individuals. Methods In this interventional study, 60 overweight and obese individuals (aged 18–50 years) with no comorbidity were assigned to an HPLC diet of 800 kcal and ~100 g protein/day for 4 weeks. The enrolled participants were divided into three groups (each group, n = 20) based on FTO genotyping, i.e., AA, TT, and AT, using whole blood samples. Body mass index (BMI), waist circumference (WC), hip circumference (HC), and waist-to-hip ratio (WHR) were measured before and after intervention. Serum analysis of carboxymethyl lysine (CML) and interleukin-6 (IL-6) was performed at baseline (day 0) and at the endline (day 28). Results The weight (p = 0.01), WC (p = 0.002), and WHR (p = 0.04) were significantly different among the three genotypes. The risk allele group (AA) had a higher mean weight (95.74 ± 19.13 kg), WC (105.85 ± 14.55 cm), and WHR (0.93 ± 0.08) compared with the wild-type TT. HPLC diet significantly decreased weight (p = 0.02), BMI (p = 0.03), WC (p < 0.001), and WHR (p = 0.02), while no significant effect was found on CML and IL-6 in all three genotypes at the end of intervention. The effect size estimates indicated significant variation explained by the FTO gene in weight (η2 = 0.158), BMI (η2 = 0.114), WC (η2 = 0.235), and WHR (η2 = 0.138). Conclusion This study concludes that an HPLC diet modifies the variation of the FTO rs9939609 genotype and anthropometric measurements. These findings also suggest that high dietary protein intakes may protect against the obesogenic effects of FTO risk genotypes, leading to weight loss and improved metabolic parameters.",
+      "url": "https://www.semanticscholar.org/paper/489c5c4726e433665d970e7a86ecee9e67498a28",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12580106",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "489c5c4726e433665d970e7a86ecee9e67498a28",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Neurotrophic Control of Puberty: From Molecular Signaling to Disorders of Pubertal Timing.",
+      "authors": "Paparella R; Iafrate N; Lucibello R; Bei A; Bernabei I; Fiorentini C; Marchetti L; Pastore F; Maglione V; Niceta M; Fiore M; Venditti S; Pucarelli I; Tarani L",
+      "year": 2025,
+      "doi": "10.3390/cimb48010003",
+      "pmid": "41614834",
+      "pmcid": "PMC12840041",
+      "abstract": "The onset of puberty is a critical developmental milestone regulated by complex neuroendocrine networks that integrate genetic, metabolic, and environmental cues. Among the molecular systems coordinating this transition, neurotrophins-including brain-derived neurotrophic factor (BDNF), nerve growth factor, neurotrophin-3, and neurotrophin-4/5-have emerged as important modulators of hypothalamic maturation and the activation of gonadotropin-releasing hormone (GnRH) neurons. Beyond their established roles in neuronal survival and differentiation, neurotrophins contribute to hypothalamic circuit plasticity, influence GnRH neuronal activity, and participate in the integration of metabolic and environmental signals relevant to reproductive maturation. Experimental studies, primarily based on animal and cellular models, demonstrate that BDNF and its receptor play a role in normal pubertal onset, whereas disruptions in neurotrophin signaling have been implicated in central precocious puberty, delayed puberty, and hypogonadotropic hypogonadism. In humans, available evidence is more limited and derives mainly from genetic studies, circulating neurotrophin measurements, and clinical observations. This review provides an integrative synthesis of current experimental and clinical data on neurotrophin-mediated regulation of pubertal timing, highlighting both physiological mechanisms and pathological conditions. While neurotrophins represent promising modulators at the intersection of neurodevelopment, metabolism, and reproduction, further longitudinal and translational human studies are required to define their diagnostic and therapeutic potential in pediatric endocrinology.",
+      "url": "https://europepmc.org/articles/PMC12840041",
+      "pdf_url": "https://europepmc.org/articles/PMC12840041?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6b/a0/PMC12840041.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "PMID:41614834",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Research progress on m6A RNA methylation modification in human reproduction related diseases.",
+      "authors": "Sui X; Liu Y; Wang Z; Sui Y; Gao L",
+      "year": 2025,
+      "doi": "10.1186/s40001-025-03481-8",
+      "pmid": "41327472",
+      "pmcid": "PMC12667152",
+      "abstract": "A healthy reproductive system is fundamental to human fertility. N6-adenosine methylation (m6A), the most prevalent RNA modification in eukaryotes, plays a critical role in regulating RNA metabolism, including splicing, degradation, and translation. Emerging evidence demonstrates that m6A RNA methylation is a key modulator of various reproductive processes, such as spermatogenesis, testicular function, oogenesis, ovarian homeostasis, embryo implantation, and parturition. Dysregulation of m6A RNA methylation has been closely linked to a spectrum of reproductive disorders in both males and females, including asthenozoospermia, premature ovarian insufficiency, polycystic ovary syndrome, spontaneous abortion, and endometriosis. This review summarizes the mechanisms underlying m6A RNA methylation and highlights recent advances in understanding its role in human reproduction related diseases. By elucidating these molecular pathways, we aim to provide novel insights into the prevention, diagnosis, and therapeutic strategies for reproductive health disorders.",
+      "url": "https://europepmc.org/articles/PMC12667152",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/60/97/40001_2025_Article_3481.PMC12667152.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/97/PMC12667152.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "PMID:41327472",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #2 (Public review): N6-methyladenosine in DNA promotes genome stability",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.7554/elife.101626.3.sa2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.101626.3.sa2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "10.7554/elife.101626.3.sa2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of Fat Mass and Obesity-Associated (FTO) Gene in Non-Small Cell Lung Cancer Tumorigenicity and EGFR Tyrosine Kinase Inhibitor Resistance",
+      "authors": "Aayush Rastogi; Rong Qiu; Rachel Campoli; Usama Altayeh; Sarai Arriaga; M. J. Khan; Subaranjana Saravanaguru Vasanthi; Robert Hillwig; Neelu Puri",
+      "year": 2025,
+      "doi": "10.3390/biomedicines13071653",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Background/Objectives: The fat mass and obesity-associated (FTO) protein demethylates nuclear N6-Methyladenosine (m6A) on mRNA, facilitates tumor growth, and contributes to therapeutic resistance in multiple cancer types. Recent evidence demonstrates several roles of FTO in tumorigenesis. In this study, we seek to explore the role of FTO in non-small cell lung cancer (NSCLC) tumorigenicity and its relationship with epidermal growth factor receptor (EGFR) tyrosine kinase resistance. Methods: We performed qPCR, immunoblotting, viability assays, migration assays, and ATP assays to investigate the functions of FTO in EGFR tyrosine kinase inhibitor (TKI) resistance, specifically to erlotinib, in three NSCLC cell lines harboring either wild-type or mutant EGFR. We also performed immunohistochemistry on lung tumor tissues from patients diagnosed at different stages of NSCLC. Results: Our study found an upregulation of FTO in erlotinib-resistant (ER) cell lines at both the gene and protein levels. FTO inhibition and knockdown significantly reduced cell viability of erlotinib-resistant H2170 and PC9 cells by over 30% when treated with 0.8 µM of Dac51 and about 20% when treated with siFTO. FTO inhibition also slowed down the migration of ER cells, and the effect was even more pronounced when combined with erlotinib. Furthermore, FTO was found to be overexpressed in late-stage NSCLC tumor tissues compared to early-stage tumors, and it was upregulated in patients who smoked. Conclusions: These findings suggest FTO might mediate resistance and tumor growth by augmenting cell proliferation. In addition, FTO can be a potential prognostic marker in NSCLC patients.",
+      "url": "https://www.semanticscholar.org/paper/b6f3900155a9f224dcdf8e2bb9dedbc7ef669b83",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292738",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "b6f3900155a9f224dcdf8e2bb9dedbc7ef669b83",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The emerging roles of N6-methyladenosine (m6A) deregulation in polycystic ovary syndrome.",
+      "authors": "Jiang L; Xiao J; Xie L; Zheng F; Ge F; Zhao X; Qiang R; Fang J; Liu Z; Xu Z; Chen R; Wang D; Liu Y; Xia Q",
+      "year": 2025,
+      "doi": "10.1186/s13048-025-01690-7",
+      "pmid": "40410881",
+      "pmcid": "PMC12100877",
+      "abstract": "Polycystic ovary syndrome (PCOS) is an endocrine metabolic syndrome characterized by ovulation disorders, hyperandrogenemia, and polycystic ovaries, which seriously affect the psychological and physical health of childbearing women. N6-methyladenosine (m6A), as the most common mRNA epigenetic modification in eukaryotes, is vital for developing the female reproductive system and reproductive diseases. In recent years, an increasing number of studies have revealed the mechanisms by which m6A modifications and their related proteins are promoting the development of PCOS, including writers, erasers and readers. In this work, we reviewed the research progress of m6A in the pathophysiological development of PCOS from the starting point of PCOS clinical features, included the recent studies or those with significant findings related to m6A and PCOS, summarized the current commonly used therapeutic methods in PCOS and the possible targeted therapies against the m6A mechanism, and looked forward to future research directions of m6A in PCOS. With the gradual revelation of the m6A mechanism, m6A and its related proteins are expected to become a great field for PCOS treatment.",
+      "url": "https://europepmc.org/articles/PMC12100877",
+      "pdf_url": "https://europepmc.org/articles/PMC12100877?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/97/46/PMC12100877.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "PMID:40410881",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ALKBH5 Reduces BMP15 mRNA Stability and Regulates Bovine Puberty Initiation Through an m6A-Dependent Pathway.",
+      "authors": "Yang X; Wang Z; Chen Y; Ding H; Fang Y; Ma X; Liu H; Guo J; Zhao J; Wang J; Lu W",
+      "year": 2024,
+      "doi": "10.3390/ijms252111605",
+      "pmid": "39519156",
+      "pmcid": "PMC11546126",
+      "abstract": "The timing of puberty significantly influences subsequent reproductive performance in cattle. N6-methyladenosine (m6A) is a key epigenetic modification involved in the regulation of pubertal onset. However, limited research has investigated alterations in m6A methylation within the hypothalamic-pituitary-ovarian (HPO) axis during the onset of puberty. In this study, combined analysis of methylated RNA immunoprecipitation sequencing (MeRIP-Seq) and RNA sequencing (RNA-seq) is used to describe the overall modification pattern of m6A in the HPO axis, while GSEA, KEGG, and GO analyses are used to describe the enrichment pathways of differentially expressed genes and differentially methylated genes. The m6A modifications of the differential genes KL, IGSF10, PAPPA2, and BMP15 and the pathways of cell adhesion molecules (CAMs), TGF-β, cell cycle, and steroid hormone synthesis may play roles in regulating the function of the HPO axis tissue during pubertal transition. Notably, BMP15's m6A modification depends on the action of the demethylase ALKBH5, which is recognized by the reader protein YTHDF2, promoting bovine granulosa cell proliferation, steroid production, and estrogen secretion. This study reveals for the first time the modification mechanism of BMP15 m6A during the initiation of bovine puberty, which will provide useful information for improving the reproductive efficiency of Chinese beef cattle.",
+      "url": "https://europepmc.org/articles/PMC11546126",
+      "pdf_url": "https://europepmc.org/articles/PMC11546126?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/52/5c/PMC11546126.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "PMID:39519156",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fat Mass and Obesity-Associated Protein Regulates Granulosa Cell Aging by Targeting Matrix Metalloproteinase-2 Gene Via an N6-Methyladenosine-YT521-B Homology Domain Family Member 2-Dependent Pathway in Aged Mice.",
+      "authors": "Li L; Yang L; Shen L; Zhao Y; Wang L; Zhang H",
+      "year": 2024,
+      "doi": "10.1007/s43032-024-01632-6",
+      "pmid": "38995602",
+      "pmcid": null,
+      "abstract": "In this study, we aimed to investigate the molecular mechanisms of RNA N6-methyladenosine (m6A) modification and how its associated proteins affect granulosa cell aging. A granulosa cell senescence model was constructed to detect the differences in total RNA m6A modification levels and the expression of related enzymes. Changes in downstream molecular expression and the effects on the cellular senescence phenotype were explored by repeatedly knocking down and overexpressing the key genes fat mass and obesity-associated protein (FTO), YT521-B homology domain family member 2 (YTHDF2), and matrix metalloproteinase-2 (MMP2). There was an increased total RNA m6A modification and decreased expression of the demethylase FTO and target gene MMP2 in senescent granulosa cells. FTO and MMP2 knockdown promoted granulosa cell senescence, whereas FTO and MMP2 overexpression retarded it. YTHDF2 and FTO can bind to the messenger RNA of MMP2. The extracellular signal-regulated kinase (ERK) pathway, which is downstream of MMP2, retarded the process of granulosa cell senescence through ERK activators. In granulosa cells, FTO can regulate the expression of MMP2 in an m6A-YTHDF2-dependent manner, influencing the activation status of the ERK pathway and contributing to the aging process of granulosa cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38995602/",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s43032-024-01632-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\li_2024_fat_mass_and_obesity_associated_protein_regulates_granulosa.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "pubmed",
+      "sources": [
+        "pubmed",
+        "semantic"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "38995602",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "GAS5 Regulated by m6A Demethylase FTO Suppresses Cell Growth via IGF2BP2/QKI Axis in Breast Cancer",
+      "authors": "Yuzhao Yan; Jing Ma; Qingqiu Chen; Ting Zhang; Rui Fan; Junze Du",
+      "year": 2024,
+      "doi": "10.2139/ssrn.4673415",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2139/ssrn.4673415",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence"
+      ],
+      "paper_id": "10.2139/ssrn.4673415",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis",
+      "authors": "Xiaolan Zhu; Wenxin Li; Minjun Lu; Junyu Shang; Jiamin Zhou; Li Lin; Yueqin Liu; Jie Xing; Mengxue Zhang; Shijie Zhao; Jingjing Lu; Xuyan Shi",
+      "year": 2024,
+      "doi": "10.21203/rs.3.rs-3894773/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p><jats:bold>Background:</jats:bold> Premature ovarian insufficiency (POI) is an important cause of female infertility and seriously impacts the physical and psychological health of patients. Human umbilical cord mesenchymal stem cell-derived exosomes (HucMSCs-Exs, H-Exs) have exhibited protective effects on ovarian function with unclear mechanisms. \n<jats:bold>Methods: </jats:bold>A comprehensive analysis of the Gene Expression Omnibus (GEO) database were used to identify POI-associated circRNAs and miRNAs. The relationship between HucMSC-derived exosomal circBRCA1/miR-642a-5p/FOXO1 axis and POI was examined by RT-qPCR, Western blotting, reactive oxygen species (ROS) staining, senescence-associated β-gal (SA-β-gal) staining, JC-1 staining, TEM, oxygen consumption rate (OCR) measurements and ATP assay in <jats:italic>vivo</jats:italic> and in <jats:italic>vitro</jats:italic>. RT-qPCR detected the expression of circBRCA1 in GCs and serum of patients with normal ovarian reserve function (n=50) and patients with POI (n=50); then, the correlation of circBRCA1 with ovarian reserve function indexes was analyzed.\n<jats:bold>Results:</jats:bold> Herein, we found that circBRCA1 was decreased in the serum and ovarian granulosa cells (GCs) of patients with POI and was associated with decreased ovarian reserve. H-Exs improved the disorder of the estrous cycles and reproductive hormone levels, reduced the number of atretic follicles, and alleviated the apoptosis and senescence of GCs in rats with POI. Moreover, H-Exs mitigated mitochondrial damage and reversed the reduced circBRCA1 expression induced by oxidative stress in GCs. Mechanistically, FTO served as an eraser to increase the stability and expression of circBRCA1 by mediating the m<jats:sup>6</jats:sup>A demethylation of circBRCA1, and exosomal circBRCA1 sponged miR-642a-5p to block its interaction with FOXO1. CircBRCA1 insufficiency aggravated mitochondrial dysfunction, mimicking FTO or FOXO1 depletion effects, which was counteracted by miR-642a-5p inhibition.\n<jats:bold>Conclusion:</jats:bold> H-Exs secreted circBRCA1 regulated by m<jats:sup>6</jats:sup>A modification, directly sponged miR-642a-5p to upregulate FOXO1, resisted oxidative stress injuries in GCs and protected ovarian function in rats with POI. Exosomal circBRCA1 supplementation may be a general prospect for the prevention and treatment of POI.</jats:p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-3894773/v1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "10.21203/rs.3.rs-3894773/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis.",
+      "authors": "Zhu X; Li W; Lu M; Shang J; Zhou J; Lin L; Liu Y; Xing J; Zhang M; Zhao S; Lu J; Shi X",
+      "year": 2024,
+      "doi": "10.1186/s12951-024-02583-5",
+      "pmid": "38918838",
+      "pmcid": null,
+      "abstract": "Premature ovarian insufficiency (POI) is an important cause of female infertility and seriously impacts the physical and psychological health of patients. Human umbilical cord mesenchymal stem cell-derived exosomes (HucMSCs-Exs, H-Exs) have exhibited protective effects on ovarian function with unclear mechanisms. A comprehensive analysis of the Gene Expression Omnibus (GEO) database were used to identify POI-associated circRNAs and miRNAs. The relationship between HucMSC-derived exosomal circBRCA1/miR-642a-5p/FOXO1 axis and POI was examined by RT-qPCR, Western blotting, reactive oxygen species (ROS) staining, senescence-associated β-gal (SA-β-gal) staining, JC-1 staining, TEM, oxygen consumption rate (OCR) measurements and ATP assay in vivo and in vitro. RT-qPCR detected the expression of circBRCA1 in GCs and serum of patients with normal ovarian reserve function (n = 50) and patients with POI (n = 50); then, the correlation of circBRCA1 with ovarian reserve function indexes was analyzed. Herein, we found that circBRCA1 was decreased in the serum and ovarian granulosa cells (GCs) of patients with POI and was associated with decreased ovarian reserve. H-Exs improved the disorder of the estrous cycles and reproductive hormone levels, reduced the number of atretic follicles, and alleviated the apoptosis and senescence of GCs in rats with POI. Moreover, H-Exs mitigated mitochondrial damage and reversed the reduced circBRCA1 expression induced by oxidative stress in GCs. Mechanistically, FTO served as an eraser to increase the stability and expression of circBRCA1 by mediating the m6A demethylation of circBRCA1, and exosomal circBRCA1 sponged miR-642a-5p to block its interaction with FOXO1. CircBRCA1 insufficiency aggravated mitochondrial dysfunction, mimicking FTO or FOXO1 depletion effects, which was counteracted by miR-642a-5p inhibition. H-Exs secreted circBRCA1 regulated by m6A modification, directly sponged miR-642a-5p to upregulate FOXO1, resisted oxidative stress injuries in GCs and protected ovarian function in rats with POI. Exosomal circBRCA1 supplementation may be a general prospect for the prevention and treatment of POI.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38918838/",
+      "pdf_url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-024-02583-5",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\zhu_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex",
+        "pubmed"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO m6A FOS axis human granulosa cells Jiang 2021",
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "38918838",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #1 (Public review): N6-methyladenosine in DNA promotes genome stability",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.7554/elife.101626.1.sa3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.101626.1.sa3",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "10.7554/elife.101626.1.sa3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #2 (Public review): N6-methyladenosine in DNA promotes genome stability",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.7554/elife.101626.1.sa2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.101626.1.sa2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "10.7554/elife.101626.1.sa2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Reviewer #3 (Public review): N6-methyladenosine in DNA promotes genome stability",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.7554/elife.101626.1.sa1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.101626.1.sa1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "10.7554/elife.101626.1.sa1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role and Mechanism of Epigenetic Regulation in the Aging of Germ Cells: Prospects for Targeted Interventions.",
+      "authors": "Huang XC; Jiang YN; Bao HJ; Wang JL; Lin RJ; Yuan J; Xian JY; Zhao Y; Chen S",
+      "year": 2024,
+      "doi": "10.14336/ad.2024.0126",
+      "pmid": "38377031",
+      "pmcid": "PMC11745444",
+      "abstract": "In modern times, a notable trend toward delayed childbearing has been observed in most developed countries. As a result, sperm aging and quality loss, as well as premature ovarian failure (POF), have emerged as major causes of infertility. The pathogenesis of sperm aging and POF is complex and has not been clearly elucidated. However, evidence from some studies has linked germ cell aging to epigenetic modifications. Epigenetics refers to the heritable changes in gene expression that occur in the absence of any alterations to the gene's nucleotide sequence. This paper systematically reviewed and analyzed the relevant literature to describe the relationship of DNA methylation, non-coding RNA regulation, histone modifications, chromatin remodeling, and RNA modifications with sperm aging and POF. In addition, we analyzed how sperm aging and POF can be mitigated via epigenetic interventions. This review could provide new therapeutic insights and guide strategies for improving sperm quality and ovarian function.",
+      "url": "https://europepmc.org/articles/PMC11745444",
+      "pdf_url": "https://europepmc.org/articles/PMC11745444?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b4/fc/PMC11745444.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "PMID:38377031",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of <i>N</i>6-methyladenosine Modification in Gametogenesis and Embryogenesis: Impact on Fertility",
+      "authors": "Yujie Wang; Chen Yang; H. Sun; Hui Jiang; Pin Zhang; Yue Huang; Zhenran Liu; Yaru Yu; Zuying Xu; Huifen Xiang; Chengqi Yi",
+      "year": 2024,
+      "doi": "10.1093/gpbjnl/qzae050",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The most common epigenetic modification of messenger RNAs (mRNAs) is N6-methyladenosine (m6A), which is mainly located near the 3' untranslated region of mRNAs, near the stop codons, and within internal exons. The biological effect of m6A is dynamically modulated by methyltransferases (writers), demethylases (erasers), and m6A-binding proteins (readers). By controlling post-transcriptional gene expression, m6A has a significant impact on numerous biological functions, including RNA transcription, translation, splicing, transport, and degradation. Hence, m6A influences various physiological and pathological processes, such as spermatogenesis, oogenesis, embryogenesis, placental function, and human reproductive system diseases. During gametogenesis and embryogenesis, genetic material undergoes significant changes, including epigenomic modifications such as m6A. From spermatogenesis and oogenesis to the formation of an oosperm and early embryogenesis, m6A changes occur at every step. m6A abnormalities can lead to gamete abnormalities, developmental delays, impaired fertilization, and maternal-to-zygotic transition blockage. Both mice and humans with abnormal m6A modifications exhibit impaired fertility. In this review, we discuss the dynamic biological effects of m6A and its regulators on gamete and embryonic development and review the possible mechanisms of infertility caused by m6A changes. We also discuss the drugs currently used to manipulate m6A and provide prospects for the prevention and treatment of infertility at the epigenetic level.",
+      "url": "https://doi.org/10.1093/gpbjnl/qzae050",
+      "pdf_url": "https://doi.org/10.1093/gpbjnl/qzae050",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "W4400137075",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of epigenetics in women’s reproductive health: the impact of environmental factors",
+      "authors": "Xinru Yu; Jiawei Xu; Bihan Song; Runhe Zhu; Jiaxin Liu; Yi Liu; Ying Jie",
+      "year": 2024,
+      "doi": "10.3389/fendo.2024.1399757",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "This paper explores the significant role of epigenetics in women's reproductive health, focusing on the impact of environmental factors. It highlights the crucial link between epigenetic modifications-such as DNA methylation and histones post-translational modifications-and reproductive health issues, including infertility and pregnancy complications. The paper reviews the influence of pollutants like PM2.5, heavy metals, and endocrine disruptors on gene expression through epigenetic mechanisms, emphasizing the need for understanding how dietary, lifestyle choices, and exposure to chemicals affect gene expression and reproductive health. Future research directions include deeper investigation into epigenetics in female reproductive health and leveraging gene editing to mitigate epigenetic changes for improving IVF success rates and managing reproductive disorders.",
+      "url": "https://doi.org/10.3389/fendo.2024.1399757",
+      "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1399757/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "W4402529016",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "WTAP Mediated N6-methyladenosine RNA Modification of ELF3 Drives Cellular Senescence by Upregulating IRF8",
+      "authors": "Lei Zhou; Yun Zhong; Fan Wang; Yi Guo; Rui Mao; Hongfu Xie; Yiya Zhang; Ji Li",
+      "year": 2024,
+      "doi": "10.7150/ijbs.90459",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": ", overexpression of WTAP evidently increased senescence cells in skin and induced skin aging. In summary, these findings revealed the critical role of WTAP-mediated m6A modification in skin aging and identified ELF3 as an important target of m6A modification in HDFs senescence, providing a new idea for delaying the aging process.",
+      "url": "https://doi.org/10.7150/ijbs.90459",
+      "pdf_url": "https://www.ijbs.com/v20p1763.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\lei_2024_wtap_mediated_n6_methyladenosine_rna_modification_of_elf3.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "W4392830856",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Bone Marrow Mesenchymal Stem Cells Reversed Ovarian Aging-related m6A RNA Methylation Modification Profile in Aged Granulosa Cells.",
+      "authors": "Tian C; An Y; Zhao J; Zhu X; Wei W; Ruan G; Li Y; Pan X",
+      "year": 2023,
+      "doi": "10.1007/s12015-022-10485-y",
+      "pmid": "36609903",
+      "pmcid": null,
+      "abstract": "Ovarian ageing causes endocrine disturbances and the degeneration of systemic tissue and organ functions to seriously affect women's physical and mental health, and effective treatment methods are urgently needed. Based on our previous studies using juvenile rhesus monkey bone marrow mesenchymal stem cells (BMMSCs) to treat ovarian ageing in rhesus monkey, we found that BMMSCs improved ovarian structure and function. This study continues to explore the mechanism by which BMMSCs reversed granulosa cell (GC) ageing. A GC ageing model and coculture system of BMMSCs were established, changes in the level of the N6-methyladenosine (m6A) methylation modification were detected, m6A-modified RNA immunoprecipitation sequencing (MeRIP-seq) were performed, correlations between m6A peaks and mRNA expression were determined, and the expression of hub genes was identified using Q-PCR, immunofluorescence staining, and western blot. Our results showed that H2O2 successfully induced GC ageing and that BMMSCs reversed measures of GC ageing. BMMSCs increased the expression of the FTO protein and reduced the overall level of m6A. We identified 797 m6A peaks (348 hypomethylated and 449 hypermethylated peaks) and 817 differentially expressed genes (DEGs) (412 upregulated and 405 downregulated) after aged GCs were cocultured with BMMSCs, which significantly associated with ovarian function and epigenetic modification. The epigenetic repressive mark and important cell cycle regulator lysine demethylase 8 (KDM8) was downregulated at both the mRNA and protein levels, histone H3 was upregulated in aged GCs after BMMSC coculture, and KDM8 was upregulated after FTO was inhibited through FB23. Our study revealed an essential role for m6A in BMMSCs in reversing GC ageing, and FTO regulated KDM8 mediates histone H3 changes may as a novel regulatory mechanism in BMMSCs to reverse GC ageing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36609903/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence"
+      ],
+      "paper_id": "36609903",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Emerging Roles for DNA 6mA and RNA m6A Methylation in Mammalian Genome",
+      "authors": "Leijie Xie; Xiaosong Zhang; Jiaxiang Xie; Yanru Xu; Xiaojiang Li; Lin Li",
+      "year": 2023,
+      "doi": "10.3390/ijms241813897",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Epigenetic methylation has been shown to play an important role in transcriptional regulation and disease pathogenesis. Recent advancements in detection techniques have identified DNA N6-methyldeoxyadenosine (6mA) and RNA N6-methyladenosine (m6A) as methylation modifications at the sixth position of adenine in DNA and RNA, respectively. While the distributions and functions of 6mA and m6A have been extensively studied in prokaryotes, their roles in the mammalian brain, where they are enriched, are still not fully understood. In this review, we provide a comprehensive summary of the current research progress on 6mA and m6A, as well as their associated writers, erasers, and readers at both DNA and RNA levels. Specifically, we focus on the potential roles of 6mA and m6A in the fundamental biological pathways of the mammalian genome and highlight the significant regulatory functions of 6mA in neurodegenerative diseases.",
+      "url": "https://doi.org/10.3390/ijms241813897",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/18/13897/pdf?version=1694480540",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "W4386602236",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fat Mass and Obesity-Associated Protein (FTO) Drives Cardiac Hypertrophy Via m6A Demethylation of NETO2",
+      "authors": "Qiying Xie; Mei Yang; Tianyi Long; Xingling Kang; Meifang Chen",
+      "year": 2023,
+      "doi": "10.2139/ssrn.4388282",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2139/ssrn.4388282",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "10.2139/ssrn.4388282",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanisms of and Potential Medications for Oxidative Stress in Ovarian Granulosa Cells: A Review",
+      "authors": "Siheng Liu; Yunbing Jia; Shirui Meng; Yiran Luo; Qi Yang; Zezheng Pan",
+      "year": 2023,
+      "doi": "10.3390/ijms24119205",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Granulosa cells are essential for follicle initiation and development, and their abnormal function or apoptosis is a crucial factor leading to follicular atresia. A state of oxidative stress occurs when the balance between the production of reactive oxygen species and the regulation of the antioxidant system is disturbed. Oxidative stress is one of the most important causes of the abnormal function and apoptosis of granulosa cells. Oxidative stress in granulosa cells causes female reproductive system diseases, such as polycystic ovary syndrome and premature ovarian failure. In recent years, studies have confirmed that the mechanism of oxidative stress in granulosa cells is closely linked to the PI3K-AKT signaling pathway, MAPK signaling pathway, FOXO axis, Nrf2 pathway, NF-κB signaling pathway, and mitophagy. It has been found that drugs such as sulforaphane, Periplaneta americana peptide, and resveratrol can mitigate the functional damage caused by oxidative stress on granulosa cells. This paper reviews some of the mechanisms involved in oxidative stress in granulosa cells and describes the mechanisms underlying the pharmacological treatment of oxidative stress in granulosa cells.",
+      "url": "https://doi.org/10.3390/ijms24119205",
+      "pdf_url": "https://www.mdpi.com/1422-0067/24/11/9205/pdf?version=1685429061",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021",
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "W4378227982",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Premature ovarian insufficiency: a review on the role of oxidative stress and the application of antioxidants",
+      "authors": "Yuqian Shi; Xi-Ting Zhu; Zhang Su-na; Yifu Ma; Yanhua Han; Jiang Yue; Yuehui Zhang",
+      "year": 2023,
+      "doi": "10.3389/fendo.2023.1172481",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Normal levels of reactive oxygen species (ROS) play an important role in regulating follicular growth, angiogenesis and sex hormone synthesis in ovarian tissue. When the balance between ROS and antioxidants is disrupted, however, it can cause serious consequences of oxidative stress (OS), and the quantity and quality of oocytes will decline. Therefore, this review discusses the interrelationship between OS and premature ovarian insufficiency (POI), the potential mechanisms and the methods by which antioxidants can improve POI through controlling the level of OS. We found that OS can mediate changes in genetic materials, signal pathways, transcription factors and ovarian microenvironment, resulting in abnormal apoptosis of ovarian granulosa cells (GCs) and abnormal meiosis as well as decreased mitochondrial Deoxyribonucleic Acid(mtDNA) and other changes, thus accelerating the process of ovarian aging. However, antioxidants, mesenchymal stem cells (MSCs), biological enzymes and other antioxidants can delay the disease process of POI by reducing the ROS level in vivo .",
+      "url": "https://doi.org/10.3389/fendo.2023.1172481",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1172481/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence"
+      ],
+      "paper_id": "W4385454266",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA N6-methyladenosine modification in female reproductive biology and pathophysiology",
+      "authors": "Erqing Huang; Lijuan Chen",
+      "year": 2023,
+      "doi": "10.1186/s12964-023-01078-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Gene expression and posttranscriptional regulation can be strongly influenced by epigenetic modifications. N 6 -methyladenosine, the most extensive RNA modification, has been revealed to participate in many human diseases. Recently, the role of RNA epigenetic modifications in the pathophysiological mechanism of female reproductive diseases has been intensively studied. RNA m 6 A modification is involved in oogenesis, embryonic growth, and foetal development, as well as preeclampsia, miscarriage, endometriosis and adenomyosis, polycystic ovary syndrome, premature ovarian failure, and common gynaecological tumours such as cervical cancer, endometrial cancer, and ovarian cancer. In this review, we provide a summary of the research results of m 6 A on the female reproductive biology and pathophysiology in recent years and aim to discuss future research directions and clinical applications of m 6 A-related targets. Hopefully, this review will add to our understanding of the cellular mechanisms, diagnostic biomarkers, and underlying therapeutic strategies of female reproductive system diseases.",
+      "url": "https://doi.org/10.1186/s12964-023-01078-4",
+      "pdf_url": "https://biosignaling.biomedcentral.com/counter/pdf/10.1186/s12964-023-01078-4",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\erqing_2023_rna_n6_methyladenosine_modification_in_female_reproductive_biology.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "W4323656104",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting the p53 signaling pathway in cancers: Molecular mechanisms and clinical studies",
+      "authors": "Jinze Shen; Qurui Wang; Yunan Mao; Wei Gao; Shiwei Duan",
+      "year": 2023,
+      "doi": "10.1002/mco2.288",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Tumor suppressor p53 can transcriptionally activate downstream genes in response to stress, and then regulate the cell cycle, DNA repair, metabolism, angiogenesis, apoptosis, and other biological responses. p53 has seven functional domains and 12 splice isoforms, and different domains and subtypes play different roles. The activation and inactivation of p53 are finely regulated and are associated with phosphorylation/acetylation modification and ubiquitination modification, respectively. Abnormal activation of p53 is closely related to the occurrence and development of cancer. While targeted therapy of the p53 signaling pathway is still in its early stages and only a few drugs or treatments have entered clinical trials, the development of new drugs and ongoing clinical trials are expected to lead to the widespread use of p53 signaling-targeted therapy in cancer treatment in the future. TRIAP1 is a novel p53 downstream inhibitor of apoptosis. TRIAP1 is the homolog of yeast mitochondrial intermembrane protein MDM35, which can play a tumor-promoting role by blocking the mitochondria-dependent apoptosis pathway. This work provides a systematic overview of recent basic research and clinical progress in the p53 signaling pathway and proposes that TRIAP1 is an important therapeutic target downstream of p53 signaling.",
+      "url": "https://doi.org/10.1002/mco2.288",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mco2.288",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "W4378627680",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Enhancing recombinant protein and viral vector production in mammalian cells by targeting the YTHDF readers of N6--methyladenosine in mRNA",
+      "authors": "Nga Lao; Niall Barron",
+      "year": 2022,
+      "doi": "10.22541/au.166236703.38135254/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>N6–methyl adenosine (m6A) is the most abundant internal modification on\neukaryotic mRNA and has been implicated in a wide range of fundamental\ncellular processes. This modification is regulated and interpreted by a\nset of writer, eraser, and reader proteins. To date, there have been no\nreports on the potential of mRNA epigenetic regulators to influence\nrecombinant protein expression in mammalian cells. In this study we\nevaluated the potential of manipulating the expression of the m6A YTH\ndomain-containing readers, YTHDF1, 2, and 3 to improve recombinant\nprotein yield based on their role in regulating mRNA stability and\npromoting translation. Using siRNA-mediated gene depletion, cDNA\nover-expression and methylation-specific RNA immunoprecipitation, we\ndemonstrate that (i) knock-down of YTHDF2 enhances\n(~2-fold) the levels of recombinant protein derived from\nGFP and EPO transgenes in CHO cells; (ii) the effects of YTHDF2\ndepletion on transgene expression is m6A-mediated and (iii) YTHDF2\ndepletion or over-expression of YTHDF1 increases viral protein\nexpression and yield of infectious lentiviral particles\n(~2-3 fold) in HEK293 cells. We conclude that various\ntransgenes can be subjected to regulation by m6A regulators in mammalian\ncell lines and that these findings demonstrate the utility of\nepi-transcriptomic-based approaches to host cell line engineering for\nimproved recombinant protein and viral vector production.</jats:p>",
+      "url": "https://doi.org/10.22541/au.166236703.38135254/v1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "10.22541/au.166236703.38135254/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Potential Role of m6A RNA Methylation in the Aging Process and Aging-Associated Diseases",
+      "authors": "Jin Sun; Bokai Cheng; Yongkang Su; Man Li; Shouyuan Ma; Yan Zhang; Anhang Zhang; Shuang Cai; Qiligeer Bao; Shuxia Wang; Ping Zhu",
+      "year": 2022,
+      "doi": "10.3389/fgene.2022.869950",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m 6 A) is the most common and conserved internal eukaryotic mRNA modification. m 6 A modification is a dynamic and reversible post-transcriptional regulatory modification, initiated by methylase and removed by RNA demethylase. m 6 A-binding proteins recognise the m 6 A modification to regulate gene expression. Recent studies have shown that altered m 6 A levels and abnormal regulator expression are crucial in the ageing process and the occurrence of age-related diseases. In this review, we summarise some key findings in the field of m 6 A modification in the ageing process and age-related diseases, including cell senescence, autophagy, inflammation, oxidative stress, DNA damage, tumours, neurodegenerative diseases, diabetes, and cardiovascular diseases (CVDs). We focused on the biological function and potential molecular mechanisms of m 6 A RNA methylation in ageing and age-related disease progression. We believe that m 6 A modification may provide a new target for anti-ageing therapies.",
+      "url": "https://doi.org/10.3389/fgene.2022.869950",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fgene.2022.869950/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\jin_2022_the_potential_role_of_m6a_rna_methylation_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "W4224217734",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of m<sup>6</sup>A on Female Reproduction and Fertility: From Gonad Development to Ovarian Aging.",
+      "authors": "Sun X; Lu J; Li H; Huang B",
+      "year": 2022,
+      "doi": "10.3389/fcell.2022.884295",
+      "pmid": "35712673",
+      "pmcid": "PMC9197073",
+      "abstract": "The growth and maturation of oocyte is accompanied by the accumulation of abundant RNAs and posttranscriptional regulation. N6-methyladenosine (m<sup>6</sup>A) is the most prevalent epigenetic modification in mRNA, and precisely regulates the RNA metabolism as well as gene expression in diverse physiological processes. Recent studies showed that m<sup>6</sup>A modification and regulators were essential for the process of ovarian development and its aberrant manifestation could result in ovarian aging. Moreover, the specific deficiency of m<sup>6</sup>A regulators caused oocyte maturation disorder and female infertility with defective meiotic initiation, subsequently the oocyte failed to undergo germinal vesicle breakdown and consequently lost the ability to resume meiosis by disrupting spindle organization as well as chromosome alignment. Accumulating evidence showed that dysregulated m<sup>6</sup>A modification contributed to ovarian diseases including polycystic ovarian syndrome (PCOS), primary ovarian insufficiency (POI), ovarian aging and other ovarian function disorders. However, the complex and subtle mechanism of m<sup>6</sup>A modification involved in female reproduction and fertility is still unknown. In this review, we have summarized the current findings of the RNA m<sup>6</sup>A modification and its regulators in ovarian life cycle and female ovarian diseases. And we also discussed the role and potential clinical application of the RNA m<sup>6</sup>A modification in promoting oocyte maturation and delaying the reproduction aging.",
+      "url": "https://europepmc.org/articles/PMC9197073",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcell.2022.884295/pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a2/0c/PMC9197073.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\sun_2022_the_role_of_m_sup_6_sup_a.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "PMID:35712673",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcriptome-wide N6-methyladenine methylation in granulosa cells of women with decreased ovarian reserve",
+      "authors": "Chang Liu; Linshuang Li; Bo Yang; Yiqing Zhao; Xiyuan Dong; Lixia Zhu; Xinling Ren; Bo Huang; Jing Yue; Lei Jin; Hanwang Zhang; Lan Wang",
+      "year": 2022,
+      "doi": "10.1186/s12864-022-08462-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Background The emerging epitranscriptome plays an essential role in female fertility. As the most prevalent internal mRNA modification, N6-methyladenine (m 6 A) methylation regulate mRNA fate and translational efficiency. However, whether m 6 A methylation was involved in the aging-related ovarian reserve decline has not been investigated. Herein, we performed m 6 A transcriptome-wide profiling in the ovarian granulosa cells of younger women (younger group) and older women (older group). Results m 6 A methylation distribution was highly conserved and enriched in the CDS and 3’UTR region. Besides, an increased number of m 6 A methylated genes were identified in the older group. Bioinformatics analysis indicated that m 6 A methylated genes were enriched in the FoxO signaling pathway, adherens junction, and regulation of actin cytoskeleton. A total of 435 genes were differently expressed in the older group, moreover, 58 of them were modified by m 6 A. Several specific genes, including BUB1B, PHC2, TOP2A, DDR2, KLF13, and RYR2 which were differently expressed and modified by m 6 A, were validated using qRT-PCR and might be involved in the decreased ovarian functions in the aging ovary. Conclusions Hence, our finding revealed the transcriptional significance of m 6 A modifications and provide potential therapeutic targets to promote fertility reservation for aging women.",
+      "url": "https://doi.org/10.1186/s12864-022-08462-3",
+      "pdf_url": "https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-022-08462-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\chang_2022_transcriptome_wide_n6_methyladenine_methylation_in_granulosa_cells.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence"
+      ],
+      "paper_id": "W4221015816",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Correction: FTO promotes tumour proliferation in bladder cancer via the FTO/miR-576/CDK6 axis in an m6A-dependent manner",
+      "authors": "Guanwen Zhou; Keqiang Yan; Jikai Liu; Lijian Gao; Xianzhou Jiang; Yidong Fan",
+      "year": 2021,
+      "doi": "10.1038/s41420-021-00762-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41420-021-00762-z",
+      "pdf_url": "https://www.nature.com/articles/s41420-021-00762-z.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\guanwen_2021_correction_fto_promotes_tumour_proliferation_in_bladder_cancer.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "10.1038/s41420-021-00762-z",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Correction: The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging",
+      "authors": "Zhong-xin Jiang; Yi-ning Wang; Zi-yuan Li; Zhi-hui Dai; Yi He; Kun Chu; Jia-yi Gu; Yi-Xuan Ji; Ning-xia Sun; Fu Yang; Wen Li",
+      "year": 2021,
+      "doi": "10.1038/s41419-021-04194-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41419-021-04194-6",
+      "pdf_url": "https://www.nature.com/articles/s41419-021-04194-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\zhong_xin_2021_correction_the_m6a_mrna_demethylase_fto_in_granulosa.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "10.1038/s41419-021-04194-6",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Overexpression of FTO Protects Human Granulosa Cells From Cisplatin-Induced Injury",
+      "authors": "Rongli Wang; Xinyuan Yang",
+      "year": 2021,
+      "doi": "10.21203/rs.3.rs-929583/v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<title>Abstract</title>\n        <p><bold>Background: </bold>Premature ovarian failure (POF) is a serious problem for young women who received chemotherapy, and its pathophysiological basis is the dysfunction of granulosa cells. The RNA methylation on the sixth Natom of adenylate (m<sup>6</sup>A) plays an important role in epigenetic regulation, and previous studies have demonstrated that the fat mass- and obesity-associated (FTO) was decreased in POF and may be a biomarker for the occurrence of POF. Furthermore, to preserve the fertility of these young females, various approaches have been used to prevent chemotherapy-induced ovarian failure, and menstrual-derived stem cells (MenSCs) have been considered as a promising treatment strategy. Here, we aimed to explore the role of FTO in the MenSCs recovering the function of injured granulosa cells.<bold>Method: </bold>First, the cisplatin was used to make a granulosa cell injury model. Then, the menstrual-derived stem cells (MenSCs)-injured granulosa cells co-culture model and POF mouse model were established in this study to explore the role of FTO. Human ovarian granulosa cell lines (KGN) were used to explore the effect of FTO on cell proliferation and apoptosis. Furthermore, gain- and loss-of-function studies, small interfering RNA transfection, and  meclofenamic acid (MA), a highly selective inhibitor of FTO, were also conducted to clarified the regulation mechanism of FTO in granulosa.<bold>Results: </bold>MenSCs co-culture could improve the function of injured granulosa cells by increasing the expression of FTO. MenSCs transplantation could restore the expression of FTO in the ovary of POF mice. Overexpression of FTO could restore the injured cells’ proliferation and decrease its apoptosis through regulating the expression of BNIP3. Down-regulation of FTO got the opposite results.<bold>Conclusion: </bold>FTO has a protective effect, which could improve the viability of granulosa cells after cisplatin treatment by decreasing the expression of BNIP3, and it may provide new insight into the therapeutic targets for the cisplatin-induced POF.</p>",
+      "url": "https://doi.org/10.21203/rs.3.rs-929583/v1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO m6A FOS axis human granulosa cells Jiang 2021"
+      ],
+      "paper_id": "10.21203/rs.3.rs-929583/v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The m6A mRNA demethylase FTO in granulosa cells retards FOS-dependent ovarian aging.",
+      "authors": "Jiang ZX; Wang YN; Li ZY; Dai ZH; He Y; Chu K; Gu JY; Ji YX; Sun NX; Yang F; Li W",
+      "year": 2021,
+      "doi": "10.1038/s41419-021-04016-9",
+      "pmid": "34315853",
+      "pmcid": "PMC8316443",
+      "abstract": "Multifunctional N6-methyladenosine (m6A) has been revealed to be an important epigenetic component in various physiological and pathological processes, but its role in female ovarian aging remains unclear. Thus, we demonstrated m6A demethylase FTO downregulation and the ensuing increased m6A in granulosa cells (GCs) of human aged ovaries, while FTO-knockdown GCs showed faster aging-related phenotypes mediated. Using the m6A-RNA-sequence technique (m6A-seq), increased m6A was found in the FOS-mRNA-3'UTR, which is suggested to be an erasing target of FTO that slows the degradation of FOS-mRNA to upregulate FOS expression in GCs, eventually resulting in GC-mediated ovarian aging. FTO acts as a senescence-retarding protein via m6A, and FOS knockdown significantly alleviates the aging of FTO-knockdown GCs. Altogether, the abovementioned results indicate that FTO in GCs retards FOS-dependent ovarian aging, which is a potential diagnostic and therapeutic target against ovarian aging and age-related reproductive diseases.",
+      "url": "https://europepmc.org/articles/PMC8316443",
+      "pdf_url": "https://www.nature.com/articles/s41419-021-04016-9.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c9/5a/PMC8316443.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\jiang_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "crossref",
+      "sources": [
+        "crossref",
+        "europepmc",
+        "openalex",
+        "pubmed"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence",
+        "FTO fat mass obesity gene m6A ovarian aging",
+        "FTO m6A FOS axis human granulosa cells Jiang 2021",
+        "N6-methyladenosine FOS mRNA stability granulosa cells"
+      ],
+      "paper_id": "PMID:34315853",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A modification in the biological functions and diseases",
+      "authors": "Xiulin Jiang; Baiyang Liu; Zhi Nie; Lincan Duan; Qiuxia Xiong; Zhixian Jin; Cuiping Yang; Yongbin Chen",
+      "year": 2021,
+      "doi": "10.1038/s41392-020-00450-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "-methyladenosine (m6A) is the most prevalent, abundant and conserved internal cotranscriptional modification in eukaryotic RNAs, especially within higher eukaryotic cells. m6A modification is modified by the m6A methyltransferases, or writers, such as METTL3/14/16, RBM15/15B, ZC3H3, VIRMA, CBLL1, WTAP, and KIAA1429, and, removed by the demethylases, or erasers, including FTO and ALKBH5. It is recognized by m6A-binding proteins YTHDF1/2/3, YTHDC1/2 IGF2BP1/2/3 and HNRNPA2B1, also known as \"readers\". Recent studies have shown that m6A RNA modification plays essential role in both physiological and pathological conditions, especially in the initiation and progression of different types of human cancers. In this review, we discuss how m6A RNA methylation influences both the physiological and pathological progressions of hematopoietic, central nervous and reproductive systems. We will mainly focus on recent progress in identifying the biological functions and the underlying molecular mechanisms of m6A RNA methylation, its regulators and downstream target genes, during cancer progression in above systems. We propose that m6A RNA methylation process offer potential targets for cancer therapy in the future.",
+      "url": "https://doi.org/10.1038/s41392-020-00450-x",
+      "pdf_url": "https://www.nature.com/articles/s41392-020-00450-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "W3133117790",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A, m5C and Ψ RNA modifications in cancer: Novel therapeutic opportunities",
+      "authors": "Paz Nombela; Borja Miguel‐López; Sandra Blanco",
+      "year": 2021,
+      "doi": "10.1186/s12943-020-01263-w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract RNA modifications have recently emerged as critical posttranscriptional regulators of gene expression programmes. Significant advances have been made in understanding the functional role of RNA modifications in regulating coding and non-coding RNA processing and function, which in turn thoroughly shape distinct gene expression programmes. They affect diverse biological processes, and the correct deposition of many of these modifications is required for normal development. Alterations of their deposition are implicated in several diseases, including cancer. In this Review, we focus on the occurrence of N 6 -methyladenosine (m 6 A), 5-methylcytosine (m 5 C) and pseudouridine (Ψ) in coding and non-coding RNAs and describe their physiopathological role in cancer. We will highlight the latest insights into the mechanisms of how these posttranscriptional modifications influence tumour development, maintenance, and progression. Finally, we will summarize the latest advances on the development of small molecule inhibitors that target specific writers or erasers to rewind the epitranscriptome of a cancer cell and their therapeutic potential.",
+      "url": "https://doi.org/10.1186/s12943-020-01263-w",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01263-w",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\paz_2021_the_role_of_m6a_m5c_and_rna_modifications.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "W3123218478",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "&lt;p&gt;The Potential Role of N6-Methyladenosine (m6A) Demethylase Fat Mass and Obesity-Associated Gene (FTO) in Human Cancers&lt;/p&gt;",
+      "authors": "Jin-yan Wang; Li-juan Chen; Ping Qiang",
+      "year": 2020,
+      "doi": "10.2147/ott.s283417",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2147/ott.s283417",
+      "pdf_url": "https://www.dovepress.com/getfile.php?fileID=64815",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "10.2147/ott.s283417",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cyclophosphamide Regulates N6-Methyladenosine and m6A RNA Enzyme Levels in Human Granulosa Cells and in Ovaries of a Premature Ovarian Aging Mouse Model",
+      "authors": "Boxian Huang; Chenyue Ding; Qinyan Zou; Wei Wang; Hong Li",
+      "year": 2019,
+      "doi": "10.3389/fendo.2019.00415",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cyclophosphamide (CTX) is one of the most frequently used alkylating anticancer drugs. CTX is associated with reproductive failure and premature ovarian insufficiency (POI) or premature ovarian aging. Much less is known about the mechanism by which CTX affects female fertility through N6-methyladenosine (m6A) levels. In this case-controlled study, we employed human ovarian granulosa cells and mice as experimental models in vitro and in vivo. m6A test kit was developed to determine the content in RNA, and qPCR and western blot were used to examine the expression levels of RNA methyltransferases, demethylases and effectors. Results showed that CTX increased the m6A level in a time- and concentration-dependent manner. The expression levels of RNA methyltransferases were significantly higher in the CTX treatment group than in the control group with time and concentration dependence, except for RBM15 and WTAP. CTX significantly inhibited the expression levels of RNA demethylase FTO in a time- and concentration-dependent manner but not ALKBH5. The expression levels of RNA effectors were reduced by CTX in a time- and concentration-dependent manner. These data suggest that CTX increased the expression levels of m6A and may be responsible for the increase in RNA methyltransferases and decrease in RNA demethylases in a time- and concentration-dependent manner.",
+      "url": "https://doi.org/10.3389/fendo.2019.00415",
+      "pdf_url": "https://fjfsdata01prod.blob.core.windows.net/articles/files/461278/pubmed-zip/.versions/1/.package-entries/fendo-10-00415/fendo-10-00415.pdf?sv=2018-03-28&sr=b&sig=xagssaReIhJgdwTFtdRVIo7Y00PpgdnRm1uS2Y3%2FFeE%3D&se=2021-02-22T06%3A44%3A29Z&sp=r&rscd=attachment%3B%20filename%2A%3DUTF-8%27%27fendo-10-00415.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO demethylase m6A regulation ovarian granulosa cell senescence"
+      ],
+      "paper_id": "W2954413942",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Downregulation of Fat Mass and Obesity Associated (FTO) Promotes the Progression of Intrahepatic Cholangiocarcinoma",
+      "authors": "Zhuoxian Rong; Zhi Li; Junju He; Liyu Liu; Xin-Xin Ren; Jie Gao; Yun Mu; Yidi Guan; Yumei Duan; Xiuping Zhang; Dexiang Zhang; Nan Li; Yuezhen Deng; Lun‐Quan Sun",
+      "year": 2019,
+      "doi": "10.3389/fonc.2019.00369",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Intrahepatic cholangiocarcinoma (ICC) ranks as the second most malignant type of primary liver cancer with a high degree of incidence and a very poor prognosis. Fat mass and obesity-associated protein (FTO) functions as an eraser of the RNA m6A modification, but its roles in ICC tumorigenesis and development remain unknown. We showed here that the protein level of FTO was downregulated in clinical ICC samples and cell lines and that FTO expression was inversely correlated with the expression of CA19-9 and micro-vessel density (MVD). A Kaplan-Meier survival analysis showed that a low expression of FTO predicted poor prognosis in ICC. In vitro, decreased endogenous expression of FTO obviously reduced apoptosis of ICC cells. Moreover, FTO suppressed the anchorage-independent growth and mobility of ICC cells. Through mining the database, FTO was found to regulate the integrin signaling pathway, inflammation signaling pathway, EGFR signaling pathway, angiogenesis and the pyrimidine metabolism pathway. RNA decay assay showed that oncogene TEAD2 mRNA stability were impaired by FTO. In addition, the overexpression of FTO suppressed tumor growth in vivo. In conclusion, our study demonstrated the critical roles of FTO in ICC.",
+      "url": "https://doi.org/10.3389/fonc.2019.00369",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fonc.2019.00369/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\zhuoxian_2019_downregulation_of_fat_mass_and_obesity_associated_fto.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "W2944063284",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Functions of N6-methyladenosine and its role in cancer",
+      "authors": "Liuer He; Huiyu Li; Anqi Wu; Yulong Peng; Guang Shu; Gang Yin",
+      "year": 2019,
+      "doi": "10.1186/s12943-019-1109-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "N6-methyladenosine (m6A) is methylation that occurs in the N6-position of adenosine, which is the most prevalent internal modification on eukaryotic mRNA. Accumulating evidence suggests that m6A modulates gene expression, thereby regulating cellular processes ranging from cell self-renewal, differentiation, invasion and apoptosis. M6A is installed by m6A methyltransferases, removed by m6A demethylases and recognized by reader proteins, which regulate of RNA metabolism including translation, splicing, export, degradation and microRNA processing. Alteration of m6A levels participates in cancer pathogenesis and development via regulating expression of tumor-related genes like BRD4, MYC, SOCS2 and EGFR. In this review, we elaborate on recent advances in research of m6A enzymes. We also highlight the underlying mechanism of m6A in cancer pathogenesis and progression. Finally, we review corresponding potential targets in cancer therapy.",
+      "url": "https://doi.org/10.1186/s12943-019-1109-9",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-019-1109-9",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\\liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "W2992958546",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fat Mass and Obesity Associated (FTO) Gene and Hepatic Glucose and Lipid Metabolism",
+      "authors": "Tooru M. Mizuno",
+      "year": 2018,
+      "doi": "10.20944/preprints201810.0166.v1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "<jats:p>Common genetic variants of the fat mass and obesity associated (FTO) gene are strongly associated with obesity and type 2 diabetes. FTO is ubiquitously expressed, but appears to have tissue-specific roles. Earlier studies have focused on the role of hypothlamic FTO in the regulation of metabolism. However, it appears that FTO plays a role in the regulation of metabolism in a tissue-specific manner. Recent studies suggest that expression of hepatic FTO is regulated by metabolic signals such as nutrients and hormones and altered FTO levels in liver affects glucose and lipid metabolism. This review outlines recent findings on hepatic FTO in the regulation of metabolism, with particular focus on hepatic glucose and lipid metabolism. It is proposed that abnormal activity of hepatic signaling pathways involving FTO links metabolic impairments such as obesity, type 2 diabetes and nonalcoholic fatty liver disease (NAFLD). Therefore, a better understanding of these pathways may lead to therapeutic approaches to treat these metabolic diseases by targeting hepatic FTO. The overall goal of this review is to place FTO within the context of hepatic regulation of metabolism.</jats:p>",
+      "url": "https://doi.org/10.20944/preprints201810.0166.v1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "10.20944/preprints201810.0166.v1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Gene expression differences in human pre-ovulatory granulosa cells derived from large and small follicles",
+      "authors": "Elissavet Chatzi",
+      "year": 2016,
+      "doi": "10.26226/morressier.573c1512d462b80296c987f4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.26226/morressier.573c1512d462b80296c987f4",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "10.26226/morressier.573c1512d462b80296c987f4",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Genetic Associations of Obesity: The Fat-Mass and Obesity-Associated ( FTO) Gene",
+      "authors": "Adam C Ehrlich; Frank K Friedenberg",
+      "year": 2016,
+      "doi": "10.1038/ctg.2016.1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/ctg.2016.1",
+      "pdf_url": "http://www.nature.com/articles/ctg20161.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "10.1038/ctg.2016.1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "c-Fos Immediate-Early Gene Expression",
+      "authors": "",
+      "year": 2013,
+      "doi": "10.1007/978-3-642-28753-4_200350",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-642-28753-4_200350",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "10.1007/978-3-642-28753-4_200350",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": 2011,
+      "doi": "10.35802/093136",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.35802/093136",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO fat mass obesity gene m6A ovarian aging"
+      ],
+      "paper_id": "10.35802/093136",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Transcriptional profile of mouse pre-granulosa and Sertoli cells isolated from early-differentiated fetal gonads",
+      "authors": "Gerrit J. Bouma; Jason P. Affourtit; Carol J. Bult; Eva M. Eicher",
+      "year": 2007,
+      "doi": "10.1016/j.modgep.2006.05.011",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.modgep.2006.05.011",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "10.1016/j.modgep.2006.05.011",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 1: The effects of knock-down of\n                      <i>AhR</i>\n                      gene expression on AhR gene and protein abundance in porcine granulosa cells.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.8371/fig-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.8371/fig-1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "10.7717/peerj.8371/fig-1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "c-Fos Immediate-Early Gene Expression",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.1007/978-3-540-29805-2_656",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-540-29805-2_656",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "m6A demethylation immediate early gene expression granulosa cells"
+      ],
+      "paper_id": "10.1007/978-3-540-29805-2_656",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

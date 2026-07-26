@@ -1,0 +1,1237 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "PMCID:PMC12986434",
+                        "title":  "Accelerated Vascular Aging in Women with Prior Preeclampsia: A Review of Epidemiology, Pathophysiological Mechanisms, and Geroprotective Strategies",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC12986434",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12643070",
+                        "title":  "Anti-Müllerian hormone induces a reversible quiescence-associated secretory phenotype in preantral follicles†.",
+                        "doi":  "10.1093/biolre/ioaf230",
+                        "pmid":  "41074767",
+                        "pmcid":  "PMC12643070",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dphd from lt i gt curcuma comosa lt i gt enhances the expansion and osteogenic differentiation of human umbilical cord derived mesenchymal stem cells while attenuating senescence",
+                        "title":  "DPHD from \u0026lt;i\u0026gt;Curcuma comosa\u0026lt;/i\u0026gt; Enhances the Expansion and Osteogenic Differentiation of Human Umbilical Cord-Derived Mesenchymal Stem Cells While Attenuating Senescence.",
+                        "doi":  "10.1021/acsomega.5c08638",
+                        "pmid":  "42255595",
+                        "pmcid":  "PMC13234631",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42034223",
+                        "title":  "Embryonic stem cell-derived extracellular vesicles alleviate ovarian dysfunction.",
+                        "doi":  "10.1016/j.mad.2026.112186",
+                        "pmid":  "42034223",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42193224",
+                        "title":  "Fisetin Attenuates D-Gal-Induced Ovarian Aging by Modulating Mitophagy via the AMPK/mTOR Pathway.",
+                        "doi":  "10.3390/antiox15050602",
+                        "pmid":  "42193224",
+                        "pmcid":  "PMC13203114",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13140929",
+                        "title":  "Glial cytokine modulation improves sleep and circadian disruption in female SAA knock-in mice of Alzheimer\u0027s-related pathology.",
+                        "doi":  "10.1002/alz.71314",
+                        "pmid":  "41913059",
+                        "pmcid":  "PMC13140929",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13139422",
+                        "title":  "Hydroxychloroquine alleviates cyclophosphamide-induced premature ovarian failure by attenuating granulosa cell senescence and modulating the mtDNA-cGAS pathway.",
+                        "doi":  "10.1038/s41514-026-00359-9",
+                        "pmid":  "41839900",
+                        "pmcid":  "PMC13139422",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42170234",
+                        "title":  "Ion-coupled transfersome complexes for enhanced transdermal NAD\u0026lt;sup\u0026gt;+\u0026lt;/sup\u0026gt; repletion and mitigation of cellular senescence signatures.",
+                        "doi":  "10.1016/j.mtbio.2026.103218",
+                        "pmid":  "42170234",
+                        "pmcid":  "PMC13188140",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:loss of hud sensitizes neuroblastoma cells to palmitate driven stress induced premature senescence via ppar downregulation and fao impairment",
+                        "title":  "Loss of HuD Sensitizes Neuroblastoma Cells to Palmitate-Driven Stress-Induced Premature Senescence via PPARα Downregulation and FAO Impairment.",
+                        "doi":  "10.3390/cells15040316",
+                        "pmid":  "41744759",
+                        "pmcid":  "PMC12939706",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s40104-026-01435-6",
+                        "title":  "Mechanistic understanding of female reproductive aging based on the chicken model.",
+                        "doi":  "10.1186/s40104-026-01435-6",
+                        "pmid":  "42251437",
+                        "pmcid":  "PMC13242674",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fimmu.2026.1776555",
+                        "title":  "Multi-omics analysis of long COVID (post-COVID-19 condition) reveals persistent mitochondrial dysfunction, suppressed oxidative phosphorylation, and immune dysregulation.",
+                        "doi":  "10.3389/fimmu.2026.1776555",
+                        "pmid":  "42253978",
+                        "pmcid":  "PMC13234542",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:multi target modulation of the homologous recombination pathway by resveratrol promotes dna damage repair in poi integrated network pharmacology molecular dynamics simulation and experimental validation",
+                        "title":  "Multi-target modulation of the homologous recombination pathway by resveratrol promotes DNA damage repair in POI: integrated network pharmacology, molecular dynamics simulation, and experimental validation.",
+                        "doi":  "10.1097/js9.0000000000004655",
+                        "pmid":  "41662145",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41170754",
+                        "title":  "Rapamycin improves endometriosis‑related infertility involving ovarian senescence via the PPARα/IGFBP2 pathway.",
+                        "doi":  "10.3892/mmr.2025.13722",
+                        "pmid":  "41170754",
+                        "pmcid":  "PMC12587475",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41620649",
+                        "title":  "Senogenic-senolytic treatment strategies enhance tumor control and can improve survival in murine cancer models: a systematic review.",
+                        "doi":  "10.1186/s12885-026-15650-x",
+                        "pmid":  "41620649",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.4081/ejh.2026.4537",
+                        "title":  "Senolytics alleviate cyclophosphamide-induced premature ovarian insufficiency by eliminating senescent cells.",
+                        "doi":  "10.4081/ejh.2026.4537",
+                        "pmid":  "42011821",
+                        "pmcid":  "PMC13158733",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42304052",
+                        "title":  "The Evolving Landscape of Clinical Aging Clocks: From Epigenetic to Multi-Omics Integration.",
+                        "doi":  "10.1111/acel.70579",
+                        "pmid":  "42304052",
+                        "pmcid":  "PMC13271870",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcell.2026.1771546",
+                        "title":  "The inflammatory clock: how cGAS-STING ticks in the aging ovary.",
+                        "doi":  "10.3389/fcell.2026.1771546",
+                        "pmid":  "41816108",
+                        "pmcid":  "PMC12972751",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.freeradbiomed.2025.10.164",
+                        "title":  "Differential expression of senescence markers p16, p21 and p21 transcript variants in oxidative stress mediated cellular senescence",
+                        "doi":  "10.1016/j.freeradbiomed.2025.10.164",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:modulating senescence associated secretory phenotype driven paracrine effects to overcome therapy induced senescence senolytic effects of hesperidin and quercetin in a549 lung adenocarcinoma cells",
+                        "title":  "Modulating senescence-associated secretory phenotype–driven paracrine effects to overcome therapy -induced senescence: senolytic effects of hesperidin and quercetin in A549 lung adenocarcinoma cells",
+                        "doi":  "10.1007/s11033-025-10904-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fonc.2025.1605085",
+                        "title":  "Senescence-associated secretory phenotype in lung cancer: remodeling the tumor microenvironment for metastasis and immune suppression",
+                        "doi":  "10.3389/fonc.2025.1605085",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC10902613",
+                        "title":  "Abstracts",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC10902613",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s43587-024-00608-0",
+                        "title":  "FOXP1 is a gatekeeper of cellular senescence with ovarian aging",
+                        "doi":  "10.1038/s43587-024-00608-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.jep.2024.118953",
+                        "title":  "Jianpi Qingre Tongluo prescription alleviates the senescence-associated secretory phenotype with osteoarthritis by regulating STAG1/TP53/P21 signaling pathway.",
+                        "doi":  "10.1016/j.jep.2024.118953",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:nlrp1 inflammasome promotes senescence and senescence associated secretory phenotype",
+                        "title":  "NLRP1 inflammasome promotes senescence and senescence-associated secretory phenotype",
+                        "doi":  "10.1007/s00011-024-01892-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\in_s_2024_nlrp1_inflammasome_promotes_senescence_and_senescence_associated_secretory.pdf",
+                        "notebook_source_id":  "74a5543c-7bfe-4541-9b0c-31a906a413ef",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1111/jog.16004",
+                        "title":  "Role of \u003cscp\u003eDNA\u003c/scp\u003e damage response in cyclophosphamide‐induced premature ovarian failure in mice",
+                        "doi":  "10.1111/jog.16004",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:targeting senescence associated secretory phenotypes to remodel the tumour microenvironment and modulate tumour outcomes",
+                        "title":  "Targeting senescence‐associated secretory phenotypes to remodel the tumour microenvironment and modulate tumour outcomes",
+                        "doi":  "10.1002/ctm2.1772",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41580-024-00727-x",
+                        "title":  "The senescence-associated secretory phenotype and its physiological and pathological implications",
+                        "doi":  "10.1038/s41580-024-00727-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1158/2159-8290.c.6546641",
+                        "title":  "Data from Identification of a DNA Damage–Induced Alternative Splicing Pathway That Regulates p53 and Cellular Senescence Markers",
+                        "doi":  "10.1158/2159-8290.c.6546641",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/geroni/igad104.0064",
+                        "title":  "FROM MODEL ORGANISMS TO HUMANS, THE OPPORTUNITY FOR MORE RIGOR IN METHODOLOGIC AND STATISTICAL ANALYSIS, DESIGN, AND INTERPRETATION OF AGING AND SENESCENCE RESEARCH",
+                        "doi":  "10.1093/geroni/igad104.0064",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:inflammation and aging signaling pathways and intervention therapies",
+                        "title":  "Inflammation and aging: signaling pathways and intervention therapies",
+                        "doi":  "10.1038/s41392-023-01502-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\xia_2023_inflammation_and_aging_signaling_pathways_and_intervention_therapies.pdf",
+                        "notebook_source_id":  "4cf5f702-b90d-4e7c-848b-e104f7cbd8e2",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:loss of epigenetic information as a cause of mammalian aging",
+                        "title":  "Loss of epigenetic information as a cause of mammalian aging",
+                        "doi":  "10.1016/j.cell.2022.12.027",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13014-022-02184-2",
+                        "title":  "Radiation-induced senescence: therapeutic opportunities",
+                        "doi":  "10.1186/s13014-022-02184-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\jae_2023_radiation_induced_senescence_therapeutic_opportunities.pdf",
+                        "notebook_source_id":  "e519b55e-663d-4805-b779-559572ff0104",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:role of hypoxia in cellular senescence",
+                        "title":  "Role of hypoxia in cellular senescence",
+                        "doi":  "10.1016/j.phrs.2023.106841",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cellular senescence and senolytics the path to the clinic",
+                        "title":  "Cellular senescence and senolytics: the path to the clinic",
+                        "doi":  "10.1038/s41591-022-01923-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41581-022-00601-z",
+                        "title":  "Cellular senescence: the good, the bad and the unknown",
+                        "doi":  "10.1038/s41581-022-00601-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.26226/m.62fa0098ba67fd001a9a092b",
+                        "title":  "ESDR266 - The exosome-associated miR-146a modulates cellular senescence and senescence-associated secretory phenotype (SASP) in Head and Neck SCC (HNSCC)",
+                        "doi":  "10.26226/m.62fa0098ba67fd001a9a092b",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s11357-021-00380-8",
+                        "title":  "Growth hormone increases DNA damage in ovarian follicles and macrophage infiltration in the ovaries.",
+                        "doi":  "10.1007/s11357-021-00380-8",
+                        "pmid":  "33954912",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41556-022-00842-x",
+                        "title":  "Telomere dysfunction in ageing and age-related diseases",
+                        "doi":  "10.1038/s41556-022-00842-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:suppression of p16 alleviates the senescence associated secretory phenotype",
+                        "title":  "Suppression of p16 alleviates the senescence-associated secretory phenotype",
+                        "doi":  "10.18632/aging.202640",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/humupd/dmab038",
+                        "title":  "The role of cellular senescence in female reproductive aging and the potential for senotherapeutic interventions",
+                        "doi":  "10.1093/humupd/dmab038",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/geroni/igaa057.2657",
+                        "title":  "DNA Damage, Cellular Senescence in Health and Disease",
+                        "doi":  "10.1093/geroni/igaa057.2657",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.exger.2020.110851",
+                        "title":  "Primordial follicle reserve, DNA damage and macrophage infiltration in the ovaries of the long-living Ames dwarf mice.",
+                        "doi":  "10.1016/j.exger.2020.110851",
+                        "pmid":  "31987917",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:suppression of p16 alleviates the senescence associated secretory phenotype",
+                        "title":  "Suppression of p16 alleviates the senescence-associated secretory phenotype",
+                        "doi":  "10.1101/2020.08.19.257717",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\raquel_2020_suppression_of_p16_alleviates_the_senescence_associated_secretory.pdf",
+                        "notebook_source_id":  "141d6b84-96a2-4fc9-868f-44585b32b06b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s40425-019-0763-1",
+                        "title":  "34th Annual Meeting \u0026 Pre-Conference Programs of the Society for Immunotherapy of Cancer (SITC 2019): part 1 : National Harbor, MD, USA. 6-10 November 2019.",
+                        "doi":  "10.1186/s40425-019-0763-1",
+                        "pmid":  "31694725",
+                        "pmcid":  "PMC6833189",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1152/physrev.00020.2018",
+                        "title":  "Cellular Senescence: Aging, Cancer, and Injury",
+                        "doi":  "10.1152/physrev.00020.2018",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:elevated local senescence in diabetic wound healing is linked to pathological repair via cxcr2",
+                        "title":  "Elevated Local Senescence in Diabetic Wound Healing Is Linked to Pathological Repair via CXCR2",
+                        "doi":  "10.1016/j.jid.2019.01.005",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/humrep/dez125",
+                        "title":  "Impact of first-line cancer treatment on the follicle quality in cryopreserved ovarian samples from girls and young women",
+                        "doi":  "10.1093/humrep/dez125",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the sensitivity of dna damage response target ovarian gap junction proteins in granulosa cells in women with advanced endometriosis",
+                        "title":  "The sensitivity of DNA damage response target ovarian gap junction proteins in granulosa cells in women with advanced endometriosis",
+                        "doi":  "10.26226/morressier.5af300af738ab10027aa9538",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:overactive type 2 cannabinoid receptor induces meiosis in fetal gonads and impairs ovarian reserve",
+                        "title":  "Overactive type 2 cannabinoid receptor induces meiosis in fetal gonads and impairs ovarian reserve",
+                        "doi":  "10.1038/cddis.2017.496",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\emanuela_2017_overactive_type_2_cannabinoid_receptor_induces_meiosis_in.pdf",
+                        "notebook_source_id":  "0f6aa423-d025-4084-80c9-0d53e1d88b17",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cgas is essential for cellular senescence",
+                        "title":  "cGAS is essential for cellular senescence",
+                        "doi":  "10.1073/pnas.1705499114",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mir 22 suppresses tumorigenesis and improves radiosensitivity of breast cancer cells by targeting sirt1",
+                        "title":  "miR-22 suppresses tumorigenesis and improves radiosensitivity of breast cancer cells by targeting Sirt1",
+                        "doi":  "10.1186/s40659-017-0133-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\xia_2017_mir_22_suppresses_tumorigenesis_and_improves_radiosensitivity_of.pdf",
+                        "notebook_source_id":  "b7f6d32b-8588-4df6-8238-8d71c620f933",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:markers of cellular senescence telomere shortening as a marker of cellular senescence",
+                        "title":  "Markers of cellular senescence. Telomere shortening as a marker of cellular senescence",
+                        "doi":  "10.18632/aging.100871",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reversal of phenotypes of cellular senescence by pan mtor inhibition",
+                        "title":  "Reversal of phenotypes of cellular senescence by pan-mTOR inhibition",
+                        "doi":  "10.18632/aging.100872",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:aberrant dna damage response pathways may predict the outcome of platinum chemotherapy in ovarian cancer",
+                        "title":  "Aberrant DNA Damage Response Pathways May Predict the Outcome of Platinum Chemotherapy in Ovarian Cancer",
+                        "doi":  "10.1371/journal.pone.0117654",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\dimitra_2015_aberrant_dna_damage_response_pathways_may_predict_the.pdf",
+                        "notebook_source_id":  "8528fc02-df88-4a18-af0c-83a91295f160",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:genetics of early and normal menopause",
+                        "title":  "Genetics of Early and Normal Menopause.",
+                        "doi":  "10.1055/s-0035-1567825",
+                        "pmid":  "26569518",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s10815-015-0483-5",
+                        "title":  "Increased DNA damage and repair deficiency in granulosa cells are associated with ovarian aging in rhesus monkey.",
+                        "doi":  "10.1007/s10815-015-0483-5",
+                        "pmid":  "25957622",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/stem.1654",
+                        "title":  "Cell Senescence Abrogates the Therapeutic Potential of Human Mesenchymal Stem Cells in the Lethal Endotoxemia Model",
+                        "doi":  "10.1002/stem.1654",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:melatonin protects the integrity of granulosa cells by reducing oxidative stress in nuclei mitochondria and plasma membranes in mice",
+                        "title":  "Melatonin protects the integrity of granulosa cells by reducing oxidative stress in nuclei, mitochondria, and plasma membranes in mice",
+                        "doi":  "10.1262/jrd.2014-105",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\manabu_2014_melatonin_protects_the_integrity_of_granulosa_cells_by.pdf",
+                        "notebook_source_id":  "136047d3-f2e9-4cbc-bb58-247bdc301f95",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:poster sessions",
+                        "title":  "Poster Sessions",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC7163937",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1096/fj.13-234484",
+                        "title":  "Suboptimal nutrition in utero causes DNA damage and accelerated aging of the female reproductive tract.",
+                        "doi":  "10.1096/fj.13-234484",
+                        "pmid":  "23792302",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.5772/32905",
+                        "title":  "Central Immune Senescence, Reversal Potentials",
+                        "doi":  "10.5772/32905",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mechanisms of chemotherapy induced human ovarian aging double strand dna breaks and microvascular compromise",
+                        "title":  "Mechanisms of chemotherapy-induced human ovarian aging: double strand DNA breaks and microvascular compromise.",
+                        "doi":  "",
+                        "pmid":  "21869459",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:poster presentations",
+                        "title":  "Poster Presentations",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC7164111",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.4161/cc.8.23.10370",
+                        "title":  "Focus on foci: DNA damage foci, structures without a function?",
+                        "doi":  "10.4161/cc.8.23.10370",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:senescence associated secretory phenotypes reveal cell nonautonomous functions of oncogenic ras and the p53 tumor suppressor",
+                        "title":  "Senescence-Associated Secretory Phenotypes Reveal Cell-Nonautonomous Functions of Oncogenic RAS and the p53 Tumor Suppressor",
+                        "doi":  "10.1371/journal.pbio.0060301",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:sex steroids and the construction and conservation of the adult skeleton",
+                        "title":  "Sex Steroids and the Construction and Conservation of the Adult Skeleton",
+                        "doi":  "10.1210/edrv.23.3.0465",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/s1566-3124(01)04033-0",
+                        "title":  "DNA damage and its processing with aging: Human premature aging syndromes as model systems",
+                        "doi":  "10.1016/s1566-3124(01)04033-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1006/excr.1997.3761",
+                        "title":  "Nuclear Rad51 Foci Induced by DNA Damage Are Distinct from Rad51 Foci Associated with B Cell Activation and Recombination",
+                        "doi":  "10.1006/excr.1997.3761",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acs.jafc.8b05194.s001",
+                        "title":  "Cytotoxicity and DNA Damage Caused from Diazinon Exposure by Inhibiting the PI3K-AKT Pathway in Porcine Ovarian Granulosa Cells",
+                        "doi":  "10.1021/acs.jafc.8b05194.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acs.jproteome.9b00739.s001",
+                        "title":  "Elucidating Proteoform Dynamics Underlying the Senescence Associated Secretory Phenotype",
+                        "doi":  "10.1021/acs.jproteome.9b00739.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 2 the performance of senescence associated beta galactosidase sa gal staining cell morphology and cell proliferation in human oral keratinocytes hoks after senescence induction",
+                        "title":  "Figure 2: The performance of senescence-associated beta galactosidase (SA-β-gal) staining, cell morphology, and cell proliferation in human oral keratinocytes (HOKs) after senescence induction.",
+                        "doi":  "10.7717/peerj.15158/fig-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.5381/fig-5",
+                        "title":  "Figure 5: The senescence-associated-β-galactosidase (SA-β-gal) positive pathologic LF fibroblasts cells as shown in arrows.",
+                        "doi":  "10.7717/peerj.5381/fig-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.33612/diss.854164577",
+                        "title":  "Metabolic consequences of DNA damage and cellular senescence",
+                        "doi":  "10.33612/diss.854164577",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.54014/2f5r-h13w",
+                        "title":  "Senescence And The Senescence Associated Secretory Phenotype In Salivary Hypofunction",
+                        "doi":  "10.54014/2f5r-h13w",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q09-marcadores-senescencia\\papers\\quetsia_1970_senescence_and_the_senescence_associated_secretory_phenotype_in.pdf",
+                        "notebook_source_id":  "6d52aa69-7ddb-4cb4-a14d-5b6cac7c2d12",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.12819/supp-1",
+                        "title":  "Supplemental Information 1: Senescence-associated β-galactosidase (SA-β-gal) staining of bone marrow-derived mesenchymal stem cells at passage 1.",
+                        "doi":  "10.7717/peerj.12819/supp-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.16832/supp-3",
+                        "title":  "Supplemental Information 3: Detection of senescence-associated beta-galactosidase (SA-β-Gal).",
+                        "doi":  "10.7717/peerj.16832/supp-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the senescence marker p16 in development adulthood and aging",
+                        "title":  "The Senescence Marker p16 in Development, Adulthood, and Aging",
+                        "doi":  "10.70675/7ae7d64fzb69dz45a9z8ad1z2a98dee95ead",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

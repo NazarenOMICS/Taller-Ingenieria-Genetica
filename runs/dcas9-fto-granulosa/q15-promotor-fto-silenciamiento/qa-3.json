@@ -1,0 +1,68 @@
+{
+  "answer": "Based on the provided sources, several transcription factors are reported to directly regulate the transcription of the ***FTO*** **gene**, primarily acting as activators whose suppression or activation is linked to oxidative stress and reproductive pathologies. No specific proteins are explicitly identified as \"promoter-bound repressors\" for *FTO* in these contexts; instead, downregulation is typically described as a result of lost activation or complex feedback loops.\n\nThe following regulators and their links to stress and aging are reported:\n\n### 1. Specific Transcription Factors Regulating *FTO*\n*   **SP1 (Specificity Protein 1):**\n    *   **Regulation:** SP1 is identified as a positive regulator that **activates the transcription of *FTO*** [1, 2].\n    *   **Link to Oxidative Stress:** SP1-mediated activation of *FTO* is specifically linked to the response to **ischemia-reperfusion injury** (a form of oxidative stress) [2]. In this model, SP1-driven *FTO* expression improves recovery by activating autophagy flux [1, 2].\n    *   **Link to Aging:** While not described as an *FTO* regulator in oocytes, the sources note that under **aging and oxidative stress**, the binding sites for Sp1 in *other* gene promoters (like *LEDGF*) become hypermethylated, suppressing their expression [3]. This suggests a general mechanism where age-related epigenetic changes could interfere with SP1's ability to maintain *FTO* transcription.\n*   **CEBPA (CCAAT/Enhancer-Binding Protein Alpha):**\n    *   **Regulation:** CEBPA is linked to *FTO* transcription through a feedback loop [2]. Suppression of CEBPA has been shown to **inhibit *FTO* transcription** [2].\n    *   **Link to Stress/Cancer:** This mechanism is documented in the context of the oncometabolite **R-2HG**, which induces metabolic stress and inhibits *FTO* activity [2]. R-2HG inhibits *FTO* transcription by driving the suppression of CEBPA [2].\n*   **Androgen Receptor (AR):**\n    *   **Regulation:** AR activation is reported to **trigger increased *FTO* levels** in ovarian contexts [2, 4].\n    *   **Link to Ovarian Pathologies:** In granulosa cells from **Polycystic Ovary Syndrome (PCOS)** patients, AR activation creates a positive feedback loop that upregulates *FTO*, which in turn exacerbates hyperandrogenism [2, 4].\n\n### 2. Links to Ovarian Aging and Senescence\nWhile the sources document that ***FTO* expression significantly drops** during **ovarian aging** and **granulosa cell (GC) senescence**, they do not always name the specific transcription factor responsible for this decline. However, they establish the following:\n*   **ROS-Driven Downregulation:** Reactive oxygen species (ROS) are explicitly reported to activate pathways that lead to **the downregulation of *FTO***, which then promotes GC senescence by allowing the accumulation of m6A on aging-related transcripts like ***FOS*** [2, 4].\n*   **Chemotherapy-Induced Silencing:** Iatrogenic stress from agents like **cisplatin or cyclophosphamide** (which induce oxidative stress and DNA damage) causes a marked decrease in *FTO* transcription and protein levels in GCs [2, 4, 5].\n*   **Absence of Named Repressors:** The sources focus on the *loss* of *FTO* as a driver of the **SASP (senescence-associated secretory phenotype)** and organic decline, rather than identifying a specific repressor protein that actively binds the *FTO* promoter to silence it during aging [1, 2].",
+  "conversation_id": "38f83846-61d6-448f-bbac-a40868b4b94e",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "e72fc79f-28cd-49d0-8b54-2390fce1bc35",
+      "citation_number": 1,
+      "cited_text": "to several causes such as aneuploidy, oxidative stress, epigenetics, or metabolic disorders. In particular,",
+      "start_char": 1715,
+      "end_char": 1823,
+      "chunk_id": "b65fcfd1-8560-45c3-bfd2-3484d84cd43d",
+      "passage_id": null,
+      "answer_start_char": 1715,
+      "answer_end_char": 2256,
+      "score": 0.981044957472661
+    },
+    {
+      "source_id": "e72fc79f-28cd-49d0-8b54-2390fce1bc35",
+      "citation_number": 2,
+      "cited_text": "inactivation, and aging [7]. As the methylome acts as one",
+      "start_char": 4947,
+      "end_char": 5005,
+      "chunk_id": "ef6542ad-dc7f-495a-a2b4-0d4576f2c694",
+      "passage_id": null,
+      "answer_start_char": 4947,
+      "answer_end_char": 5451,
+      "score": 0.7737545565006075
+    },
+    {
+      "source_id": "e72fc79f-28cd-49d0-8b54-2390fce1bc35",
+      "citation_number": 3,
+      "cited_text": "License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+      "start_char": 520,
+      "end_char": 662,
+      "chunk_id": "93be023e-48b2-42e7-a898-2540ee3b182a",
+      "passage_id": null,
+      "answer_start_char": 520,
+      "answer_end_char": 1121,
+      "score": 0.8332928311057108
+    },
+    {
+      "source_id": "6ccf8c7b-d6d7-45d9-898b-73c19d5914f2",
+      "citation_number": 4,
+      "cited_text": "Tola EN, Mungan MT, Uğuz AC, Nazıroğlu M. 2013. Intracellular Ca2+ and antioxidant values induced positive effect on fertilisation ratio and oocyte quality of granulosa cells in patients undergoing in vitro fertilisation. Reprod Fertil Dev. 25(5):746-52",
+      "start_char": 12647,
+      "end_char": 12901,
+      "chunk_id": "2a03153b-ff37-4b19-bfec-116e3f056a66",
+      "passage_id": null,
+      "answer_start_char": 12647,
+      "answer_end_char": 13137,
+      "score": 0.8121506682867558
+    },
+    {
+      "source_id": "e72fc79f-28cd-49d0-8b54-2390fce1bc35",
+      "citation_number": 5,
+      "cited_text": null,
+      "start_char": 4433,
+      "end_char": 4436,
+      "chunk_id": "c22effbf-5c24-4a7d-8554-3f53848020d3",
+      "passage_id": null,
+      "answer_start_char": 4433,
+      "answer_end_char": 4947,
+      "score": 0.8998784933171324
+    }
+  ]
+}

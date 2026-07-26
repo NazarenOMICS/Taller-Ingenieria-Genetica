@@ -1,0 +1,18 @@
+[11:08:48] Starting parallel upload: 16 PDFs, 4 workers
+[11:09:00] OK - chang_2022_transcriptome_wide_n6_methyladenine_methylation_in_granulosa_cells.pdf
+[11:09:01] OK - erqing_2023_rna_n6_methyladenosine_modification_in_female_reproductive_biology.pdf
+[11:09:01] OK - guanwen_2021_correction_fto_promotes_tumour_proliferation_in_bladder_cancer.pdf
+[11:09:02] OK - jiang_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf
+[11:09:05] OK - jin_2022_the_potential_role_of_m6a_rna_methylation_in.pdf
+[11:09:07] OK - lei_2024_wtap_mediated_n6_methyladenosine_rna_modification_of_elf3.pdf
+[11:09:07] OK - liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf
+[11:09:09] OK - li_2024_fat_mass_and_obesity_associated_protein_regulates_granulosa.pdf
+[11:09:11] OK - paz_2021_the_role_of_m6a_m5c_and_rna_modifications.pdf
+[11:09:12] OK - sun_2022_the_role_of_m_sup_6_sup_a.pdf
+[11:09:12] OK - xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf
+[11:09:15] OK - xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf
+[11:09:16] OK - yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf
+[11:09:18] OK - zhong_xin_2021_correction_the_m6a_mrna_demethylase_fto_in_granulosa.pdf
+[11:09:19] OK - zhuoxian_2019_downregulation_of_fat_mass_and_obesity_associated_fto.pdf
+[11:09:22] OK - zhu_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf
+[11:09:23] DONE: 16 OK, 0 FAIL (of 16)

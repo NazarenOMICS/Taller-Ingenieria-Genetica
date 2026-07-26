@@ -1,0 +1,65 @@
+{
+  "slug": "q08-restauracion-fto-fenotipos",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q08-restauracion-fto-fenotipos",
+  "goal": "Determinar si existen antecedentes de restauracion de FTO por sobreexpresion o por edicion epigenetica, y que fenotipos de senescencia o de daño al ADN revierten.",
+  "dashboard": "FTO restoration phenotypes",
+  "notebook_id": "361a29b3-7eda-4a7a-83e5-bc7b8e4c1524",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, how does FTO overexpression protect human granulosa cells, and what specific phenotypes (senescence markers, viability, function) improve as a result?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/answers/2026-07-24 Q01 - according-to-these-sources-how-does.md"
+    },
+    {
+      "id": 2,
+      "theme": "mechanisms",
+      "question": "According to these sources (e.g., FTO stabilizing MIS12), what molecular mechanism links FTO restoration to counteracting cellular senescence?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/answers/2026-07-24 Q02 - according-to-these-sources-e-g.md"
+    },
+    {
+      "id": 3,
+      "theme": "context",
+      "question": "What antecedents in these sources describe reversing ovarian aging phenotypes through cell-based or molecular interventions (e.g., mesenchymal stem cells), and how do these relate to FTO restoration specifically?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/answers/2026-07-24 Q03 - what-antecedents-these-sources-describe-reversing.md"
+    },
+    {
+      "id": 4,
+      "theme": "dna-damage",
+      "question": "Do these sources report effects of FTO restoration (overexpression or epigenetic editing) on DNA damage markers, and if so, which markers and what direction of change?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/answers/2026-07-24 Q04 - do-these-sources-report-effects-fto.md"
+    },
+    {
+      "id": 5,
+      "theme": "methods",
+      "question": "Which of these interventions to restore FTO are via direct overexpression (transgene/plasmid) versus via epigenetic editing (e.g., CRISPRa) versus via indirect approaches (e.g., stem cell exosomes, small molecules)? According to these sources, which approach shows the strongest phenotype reversal?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/answers/2026-07-24 Q05 - which-these-interventions-to-restore-fto.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding FTO restoration specifically via epigenetic/CRISPRa-based methods (as opposed to plasmid overexpression), and regarding senescence/DNA-damage phenotype reversal specifically in granulosa cells?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q08-restauracion-fto-fenotipos\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/answers/2026-07-24 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q08-restauracion-fto-fenotipos/QA/summaries/2026-07-24 FTO restoration phenotypes - NotebookLM block summary.md"
+}

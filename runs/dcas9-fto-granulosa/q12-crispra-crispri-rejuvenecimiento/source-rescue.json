@@ -1,0 +1,1157 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.1042/cs20260240",
+                        "title":  "A cross-talk between p16High senescence and cellular reprogramming.",
+                        "doi":  "10.1042/cs20260240",
+                        "pmid":  "42212384",
+                        "pmcid":  "PMC13229649",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40735996",
+                        "title":  "Can iPSCs Turn Back Time? Prospects and Pitfalls in Age Reversal.",
+                        "doi":  "10.2174/011574888x400606250721112037",
+                        "pmid":  "40735996",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13020644",
+                        "title":  "Drift of positional identity drives reproductive aging in a long-lived regenerative animal.",
+                        "doi":  "10.1016/j.cub.2026.02.050",
+                        "pmid":  "41875878",
+                        "pmcid":  "PMC13020644",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.47316/cajmhe.2026.7.2.01",
+                        "title":  "EPIGENETIC REJUVENATION THROUGH PARTIAL REPROGRAMMING: A REGENERATIVE STRATEGY FOR TISSUE REPAIR AND FUNCTIONAL RESTORATION",
+                        "doi":  "10.47316/cajmhe.2026.7.2.01",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13290663",
+                        "title":  "Engineering Extracellular Vesicles for Anti-Aging Therapy: Mechanisms, Applications, and Perspectives.",
+                        "doi":  "10.1111/acel.70607",
+                        "pmid":  "42337937",
+                        "pmcid":  "PMC13290663",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:engineering immune cell to counteract aging and aging associated diseases",
+                        "title":  "Engineering Immune Cell to Counteract Aging and Aging-Associated Diseases.",
+                        "doi":  "10.1002/advs.202521776",
+                        "pmid":  "41603194",
+                        "pmcid":  "PMC12970235",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic aging and rejuvenation of the brain drivers consequences and interventions",
+                        "title":  "Epigenetic aging and rejuvenation of the brain: drivers, consequences, and interventions.",
+                        "doi":  "",
+                        "pmid":  "41521073",
+                        "pmcid":  "PMC12867171",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:from germline immortality to somatic rejuvenation unlocking the ovarian blueprint for longevity",
+                        "title":  "From germline immortality to somatic rejuvenation: Unlocking the ovarian blueprint for longevity.",
+                        "doi":  "10.1371/journal.pbio.3003804",
+                        "pmid":  "42189781",
+                        "pmcid":  "PMC13210268",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s40104-026-01435-6",
+                        "title":  "Mechanistic understanding of female reproductive aging based on the chicken model.",
+                        "doi":  "10.1186/s40104-026-01435-6",
+                        "pmid":  "42251437",
+                        "pmcid":  "PMC13242674",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41634747",
+                        "title":  "Mesenchymal stem cell therapy for premature ovarian insufficiency: progress and challenges.",
+                        "doi":  "10.1186/s13048-026-01976-4",
+                        "pmid":  "41634747",
+                        "pmcid":  "PMC12964609",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12839720",
+                        "title":  "Partial Reprogramming Is Conserved from Insect to Mammal.",
+                        "doi":  "10.3390/cells15020168",
+                        "pmid":  "41597242",
+                        "pmcid":  "PMC12839720",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12843827",
+                        "title":  "Reproductive Longevity: Innovative Approaches Beyond Hormone Replacement Therapy.",
+                        "doi":  "10.3390/medicina62010157",
+                        "pmid":  "41597443",
+                        "pmcid":  "PMC12843827",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12965852",
+                        "title":  "Reprogramming Skin Aging: A Regenerative and Epigenetic Perspective on Cutaneous Longevity",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC12965852",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.arr.2026.103009",
+                        "title":  "The epigenetic rejuvenation promise: Partial reprogramming as a therapeutic strategy for aging and disease.",
+                        "doi":  "10.1016/j.arr.2026.103009",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12907026",
+                        "title":  "The harmonies played by miR-302/367 cluster in pluripotency, reprogramming, and rejuvenation.",
+                        "doi":  "10.1093/stcltm/szaf072",
+                        "pmid":  "41693061",
+                        "pmcid":  "PMC12907026",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a state of the art overview on epi genomics and personalized skin rejuvenating strategies",
+                        "title":  "A State-of-the-Art Overview on (Epi)Genomics and Personalized Skin Rejuvenating Strategies.",
+                        "doi":  "10.3390/pharmaceutics17121585",
+                        "pmid":  "41471101",
+                        "pmcid":  "PMC12736729",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cellular models of aging and senescence",
+                        "title":  "Cellular Models of Aging and Senescence.",
+                        "doi":  "10.3390/cells14161278",
+                        "pmid":  "40862757",
+                        "pmcid":  "PMC12384970",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fphar.2025.1699296",
+                        "title":  "Epigenetic pharmacology in aging: from mechanisms to therapies for age-related disorders.",
+                        "doi":  "10.3389/fphar.2025.1699296",
+                        "pmid":  "41244840",
+                        "pmcid":  "PMC12611946",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40650152",
+                        "title":  "Epigenome Engineering Using dCas Systems for Biomedical Applications and Biotechnology: Current Achievements, Opportunities and Challenges.",
+                        "doi":  "10.3390/ijms26136371",
+                        "pmid":  "40650152",
+                        "pmcid":  "PMC12250444",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12364888",
+                        "title":  "Is postoperative cognitive dysfunction a disease of microglial inflammatory memory? A state-transition model from metabolic stress to epigenetic lock-in.",
+                        "doi":  "10.3389/fnmol.2025.1648161",
+                        "pmid":  "40843245",
+                        "pmcid":  "PMC12364888",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:new perspectives on polycystic ovary syndrome hypothalamic sympathetic adipose tissue interactions",
+                        "title":  "New perspectives on polycystic ovary syndrome hypothalamic-sympathetic-adipose tissue interactions",
+                        "doi":  "10.1016/j.jri.2025.104726",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12610414",
+                        "title":  "Organ-Specific Dedifferentiation and Epigenetic Remodeling in In Vivo Reprogramming.",
+                        "doi":  "10.1111/acel.70268",
+                        "pmid":  "41114535",
+                        "pmcid":  "PMC12610414",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.pneurobio.2025.102743",
+                        "title":  "Partial reprogramming by cyclical overexpression of Yamanaka factors improves pathological phenotypes of tauopathy mouse model of human Alzheimer\u0027s disease.",
+                        "doi":  "10.1016/j.pneurobio.2025.102743",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:prevalent mesenchymal drift in aging and disease is reversed by partial reprogramming",
+                        "title":  "Prevalent mesenchymal drift in aging and disease is reversed by partial reprogramming.",
+                        "doi":  "10.1016/j.cell.2025.07.031",
+                        "pmid":  "40816266",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12535130",
+                        "title":  "Targeting PURPL RNA enabled rejuvenation of senescence cells via epigenetic reprogramming.",
+                        "doi":  "10.1186/s12967-025-07208-5",
+                        "pmid":  "41107828",
+                        "pmcid":  "PMC12535130",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcell.2025.1593096",
+                        "title":  "The interplay of cellular senescence and reprogramming shapes the biological landscape of aging and cancer revealing novel therapeutic avenues.",
+                        "doi":  "10.3389/fcell.2025.1593096",
+                        "pmid":  "40356604",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\ding_2025_the_interplay_of_cellular_senescence_and_reprogramming_shapes.pdf",
+                        "notebook_source_id":  "61d0b838-37f8-4fae-a371-82841231f115",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:38381405",
+                        "title":  "Gene Therapy-Mediated Partial Reprogramming Extends Lifespan and Reverses Age-Related Changes in Aged Mice.",
+                        "doi":  "10.1089/cell.2023.0072",
+                        "pmid":  "38381405",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.65695/igvfds5239sbbt",
+                        "title":  "IGVFDS5239SBBT",
+                        "doi":  "10.65695/igvfds5239sbbt",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.90579.3.sa1",
+                        "title":  "Reviewer #1 (Public Review): Multi-omics characterization of partial chemical reprogramming reveals evidence of cell rejuvenation",
+                        "doi":  "10.7554/elife.90579.3.sa1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:38658440",
+                        "title":  "Telomerase is essential for cardiac differentiation and sustained metabolism of human cardiomyocytes.",
+                        "doi":  "10.1007/s00018-024-05239-7",
+                        "pmid":  "38658440",
+                        "pmcid":  "PMC11043037",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\chatterjee_2024_telomerase_is_essential_for_cardiac_differentiation_and_sustained.pdf",
+                        "notebook_source_id":  "f1475c40-64bf-4607-aed6-fbb103f44ea1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abstract 3 i in vivo i crispr activation screening identifies tissue specific oncogene selection",
+                        "title":  "Abstract 3: \u003ci\u003eIn vivo\u003c/i\u003e CRISPR activation screening identifies tissue-specific oncogene selection",
+                        "doi":  "10.1158/1538-7445.am2023-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-023-01343-5",
+                        "title":  "Cellular rejuvenation: molecular mechanisms and potential therapeutic interventions for diseases",
+                        "doi":  "10.1038/s41392-023-01343-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\shuaifei_2023_cellular_rejuvenation_molecular_mechanisms_and_potential_therapeutic_interventions.pdf",
+                        "notebook_source_id":  "4dd873f1-9fb7-4e07-99aa-e73e22b63972",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC10093039",
+                        "title":  "Empowering the Potential of CAR-T Cell Immunotherapies by Epigenetic Reprogramming.",
+                        "doi":  "10.3390/cancers15071935",
+                        "pmid":  "37046597",
+                        "pmcid":  "PMC10093039",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.26226/m.6437c125d44f9e0012ceb0c0",
+                        "title":  "ISIDLB1786 - Transient epigenetic reprogramming by mRNA for skin rejuvenation",
+                        "doi":  "10.26226/m.6437c125d44f9e0012ceb0c0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:loss of epigenetic information as a cause of mammalian aging",
+                        "title":  "Loss of epigenetic information as a cause of mammalian aging",
+                        "doi":  "10.1016/j.cell.2022.12.027",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1242/prelights.35033",
+                        "title":  "Regeneration leads to global tissue rejuvenation in aging sexual planarians",
+                        "doi":  "10.1242/prelights.35033",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reviewer 1 public review multi omics characterization of partial chemical reprogramming reveals evidence of cell rejuvenation",
+                        "title":  "Reviewer #1 (Public Review): Multi-omics characterization of partial chemical reprogramming reveals evidence of cell rejuvenation",
+                        "doi":  "10.7554/elife.90579.1.sa1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-981-19-5888-5",
+                        "title":  "Seed Science and Technology",
+                        "doi":  "10.1007/978-981-19-5888-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\malavika_2023_seed_science_and_technology.pdf",
+                        "notebook_source_id":  "9ad8491d-781b-4483-8397-6adb4c21ae30",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41580-022-00510-w",
+                        "title":  "Ageing and rejuvenation of tissue stem cells and their niches",
+                        "doi":  "10.1038/s41580-022-00510-w",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\anne_2022_ageing_and_rejuvenation_of_tissue_stem_cells_and.pdf",
+                        "notebook_source_id":  "7df4c7df-ebc4-40c8-9cbf-42c66aef6480",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/9781119671404.ch10",
+                        "title":  "Applications of CRISPRi and CRISPRa in Drug Discovery",
+                        "doi":  "10.1002/9781119671404.ch10",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cellular senescence a key therapeutic target in aging and diseases",
+                        "title":  "Cellular senescence: a key therapeutic target in aging and diseases",
+                        "doi":  "10.1172/jci158450",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\lei_2022_cellular_senescence_a_key_therapeutic_target_in_aging.pdf",
+                        "notebook_source_id":  "faa734bc-6739-4231-84fd-3a66e2c5856e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:multi omic rejuvenation of naturally aged tissues by a single cycle of transient reprogramming",
+                        "title":  "Multi-omic rejuvenation of naturally aged tissues by a single cycle of transient reprogramming.",
+                        "doi":  "10.1111/acel.13578",
+                        "pmid":  "35235716",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fragi.2021.714926",
+                        "title":  "\u003ci\u003eIn vivo\u003c/i\u003e Pooled Screening: A Scalable Tool to Study the Complexity of Aging and Age-Related Disease.",
+                        "doi":  "10.3389/fragi.2021.714926",
+                        "pmid":  "35822038",
+                        "pmcid":  "PMC9261400",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\borch_2021_i_in_vivo_i_pooled_screening_a_scalable.pdf",
+                        "notebook_source_id":  "c4c7c2fa-83ed-47ae-ad88-36294a97af9e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:application of the crispr cas9 based gene editing technique in basic research diagnosis and therapy of cancer",
+                        "title":  "Application of the CRISPR/Cas9-based gene editing technique in basic research, diagnosis, and therapy of cancer",
+                        "doi":  "10.1186/s12943-021-01431-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\huimin_2021_application_of_the_crispr_cas9_based_gene_editing.pdf",
+                        "notebook_source_id":  "4c6459e3-4cbf-44fe-a0be-95b6dddebd6c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13148-021-01158-7",
+                        "title":  "Cellular reprogramming and epigenetic rejuvenation",
+                        "doi":  "10.1186/s13148-021-01158-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\daniel_2021_cellular_reprogramming_and_epigenetic_rejuvenation.pdf",
+                        "notebook_source_id":  "322663e4-9a72-4769-9181-c33fdbef9ba6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/jpm11111050",
+                        "title":  "Epigenetic Clock and Circadian Rhythms in Stem Cell Aging and Rejuvenation",
+                        "doi":  "10.3390/jpm11111050",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-021-00646-9",
+                        "title":  "Inflammation, epigenetics, and metabolism converge to cell senescence and ageing: the regulation and intervention",
+                        "doi":  "10.1038/s41392-021-00646-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\xudong_2021_inflammation_epigenetics_and_metabolism_converge_to_cell_senescence.pdf",
+                        "notebook_source_id":  "950af49b-c017-41ff-b198-79d08b977533",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcell.2021.645593",
+                        "title":  "Mechanisms of Cellular Senescence: Cell Cycle Arrest and Senescence Associated Secretory Phenotype",
+                        "doi":  "10.3389/fcell.2021.645593",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\ruchi_2021_mechanisms_of_cellular_senescence_cell_cycle_arrest_and.pdf",
+                        "notebook_source_id":  "573f2cb5-b257-4de9-ad8b-9c6223a7acfb",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1210/endrev/bnab034",
+                        "title":  "Novel Noninvasive Approaches to the Treatment of Obesity: From Pharmacotherapy to Gene Therapy",
+                        "doi":  "10.1210/endrev/bnab034",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:transient or partial epigenetic reprogramming to overcome senescence in human keratinocyte cultures for skin engineering and rejuvenation",
+                        "title":  "Transient or partial epigenetic reprogramming to overcome senescence in human keratinocyte cultures for skin engineering and rejuvenation",
+                        "doi":  "10.1016/j.burns.2021.04.008",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:alpha ketoglutarate for adipose tissue rejuvenation",
+                        "title":  "Alpha-ketoglutarate for adipose tissue rejuvenation",
+                        "doi":  "10.18632/aging.103853",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-019-0089-y",
+                        "title":  "Applications of genome editing technology in the targeted therapy of human diseases: mechanisms, advances and prospects",
+                        "doi":  "10.1038/s41392-019-0089-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+                        "notebook_source_id":  "63fedfc6-9679-4146-bf71-74f7293b8789",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:encsr349lhq",
+                        "title":  "ENCSR349LHQ",
+                        "doi":  "10.17989/encsr349lhq",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:encsr467rqj",
+                        "title":  "ENCSR467RQJ",
+                        "doi":  "10.17989/encsr467rqj",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:encsr895nmn",
+                        "title":  "ENCSR895NMN",
+                        "doi":  "10.17989/encsr895nmn",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.14336/ad.2019.0927",
+                        "title":  "The Impact of CRISPR-Cas9 on Age-related Disorders: From Pathology to Therapy",
+                        "doi":  "10.14336/ad.2019.0927",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\allen_2020_the_impact_of_crispr_cas9_on_age_related.pdf",
+                        "notebook_source_id":  "46d1a477-4a02-4a05-9fe5-dfc9b8cc6e99",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:in vivo aktivierung von regenerativen zellen im fettgewebe f r die gesichtsrejuvenation",
+                        "title":  "In-vivo-Aktivierung von regenerativen Zellen im Fettgewebe für die Gesichtsrejuvenation",
+                        "doi":  "10.1007/s12631-019-0173-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mitochondria as a tool for oocyte rejuvenation",
+                        "title":  "Mitochondria as a tool for oocyte rejuvenation",
+                        "doi":  "10.1016/j.fertnstert.2018.10.036",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1111/acel.12877",
+                        "title":  "Partial reprogramming induces a steady decline in epigenetic age before loss of somatic identity",
+                        "doi":  "10.1111/acel.12877",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fnins.2018.00075",
+                        "title":  "Precise Excision of the CAG Tract from the Huntingtin Gene by Cas9 Nickases",
+                        "doi":  "10.3389/fnins.2018.00075",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\magdalena_2018_precise_excision_of_the_cag_tract_from_the.pdf",
+                        "notebook_source_id":  "ec73f5d6-8e89-4edc-916f-c09225eb258d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1172/jci124583",
+                        "title":  "Rejuvenation of β cells by epigenetic editing",
+                        "doi":  "10.1172/jci124583",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\tao_2018_rejuvenation_of_cells_by_epigenetic_editing.pdf",
+                        "notebook_source_id":  "71cf0398-d619-4997-8cfc-535a7fd40db6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the crispr tool kit for genome editing and beyond",
+                        "title":  "The CRISPR tool kit for genome editing and beyond",
+                        "doi":  "10.1038/s41467-018-04252-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+                        "notebook_source_id":  "34c83d90-22b5-4b98-a8ea-aa0bb1172886",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.cell.2016.11.052",
+                        "title":  "In Vivo Amelioration of Age-Associated Hallmarks by Partial Reprogramming",
+                        "doi":  "10.1016/j.cell.2016.11.052",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17504/protocols.io.dkv4w5",
+                        "title":  "Re-amplification of CRISPRa and CRISPRi libraries v1",
+                        "doi":  "10.17504/protocols.io.dkv4w5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.15252/embj.201490386",
+                        "title":  "Switching roles: the functional plasticity of adult tissue stem cells",
+                        "doi":  "10.15252/embj.201490386",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:partial reversal of skeletal muscle aging by restoration of normal nad sup sup levels",
+                        "title":  "Partial Reversal of Skeletal Muscle Aging by Restoration of Normal NAD\n                    \u003csup\u003e+\u003c/sup\u003e\n                    Levels",
+                        "doi":  "10.1089/rej.2014.1546",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:rejuvenation of adult stem cells is age associated dysfunction epigenetic",
+                        "title":  "Rejuvenation of Adult Stem Cells: Is Age-Associated Dysfunction Epigenetic?",
+                        "doi":  "10.1089/rej.2013.1424",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:time to re think ovarian tissue transplantation versus whole ovary transplantation",
+                        "title":  "Time to re-think: ovarian tissue transplantation versus whole ovary transplantation",
+                        "doi":  "10.1016/j.rbmo.2009.11.019",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a broad host range crispri toolkit for silencing gene expression in burkholderia",
+                        "title":  "A Broad-Host-Range CRISPRi Toolkit for Silencing Gene Expression in Burkholderia",
+                        "doi":  "10.1021/acssynbio.9b00232.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a broad host range crispri toolkit for silencing gene expression in burkholderia",
+                        "title":  "A Broad-Host-Range CRISPRi Toolkit for Silencing Gene Expression in Burkholderia",
+                        "doi":  "10.1021/acssynbio.9b00232.s002",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 4 figure supplement 1 additional crispra crispri rna seq analyses",
+                        "title":  "Figure 4—figure supplement 1. Additional CRISPRa/CRISPRi RNA-seq analyses.",
+                        "doi":  "10.7554/elife.35989.010",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.19760.013",
+                        "title":  "Supplementary file 1. CRISPRi and CRISPRa activity score datasets.",
+                        "doi":  "10.7554/elife.19760.013",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

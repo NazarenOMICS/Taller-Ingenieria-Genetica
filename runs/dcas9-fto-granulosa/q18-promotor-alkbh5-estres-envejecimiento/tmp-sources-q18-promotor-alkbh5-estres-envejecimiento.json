@@ -1,0 +1,157 @@
+{
+  "notebook_id": "2afd3883-300f-4a23-b1c5-30e8e9567722",
+  "notebook_title": "ALKBH5 promoter under stress and aging (q18)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "463b2162-7346-4e2a-bf3e-156a61e71858",
+      "title": "biju_2024_dna_methylation_as_an_epigenetic_mechanism_in_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:45"
+    },
+    {
+      "index": 2,
+      "id": "7f0d2e39-3d9b-46ca-8f18-a9011506a07f",
+      "title": "chen_2026_m_lt_sup_gt_6_lt_sup_gt.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:45"
+    },
+    {
+      "index": 3,
+      "id": "55d9c10b-04aa-422a-b8b9-348cc7f684df",
+      "title": "fang_2024_astrocytic_alkbh5_in_stress_response_contributes_to_depressive.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:46"
+    },
+    {
+      "index": 4,
+      "id": "6c00df03-56cd-4cf5-aff4-a324f2c3349b",
+      "title": "jiasen_2024_chac1_a_master_regulator_of_oxidative_stress_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:47"
+    },
+    {
+      "index": 5,
+      "id": "a581b7a2-c138-4ede-9d06-25ab96b4718e",
+      "title": "jing_2023_epigenetic_regulation_in_the_tumor_microenvironment_molecular_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:52"
+    },
+    {
+      "index": 6,
+      "id": "e2fe6d19-6193-4aaa-8295-0c6e79fcdeb5",
+      "title": "juan_2024_histone_acetyltransferase_kat2a_regulates_ferroptosis_via_enhancing_tfrc.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:51"
+    },
+    {
+      "index": 7,
+      "id": "2a05047f-5774-4c11-9666-c4df63a592fd",
+      "title": "kuai_2026_unravelling_multilayered_rna_modification_networks_in_female_reproduction.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:54"
+    },
+    {
+      "index": 8,
+      "id": "da907955-8c29-4c9d-b18a-0ce980bec03c",
+      "title": "lei_2021_small_molecules_in_targeted_cancer_therapy_advances_challenges.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:54"
+    },
+    {
+      "index": 9,
+      "id": "cd7b0d6a-44a3-41db-8100-72e159cb592b",
+      "title": "li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:57"
+    },
+    {
+      "index": 10,
+      "id": "4360f604-ea8d-4c71-bc37-a31211eb8056",
+      "title": "sipei_2021_alkbh5_hoxa10_loop_mediated_jak2_m6a_demethylation_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:07:58"
+    },
+    {
+      "index": 11,
+      "id": "29e29f6a-c8b3-403c-927a-2451bba7deb5",
+      "title": "yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:08:00"
+    },
+    {
+      "index": 12,
+      "id": "2aa596fc-a55b-4bda-a66b-183780133bb1",
+      "title": "yuanyuan_2022_the_role_of_m6a_rna_methylation_in_cancer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:08:00"
+    },
+    {
+      "index": 13,
+      "id": "f09ecd87-08a7-47e1-af8b-40392a392f31",
+      "title": "yumin_2023_targeting_epigenetic_and_posttranslational_modifications_regulating_ferroptosis_for.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:08:03"
+    },
+    {
+      "index": 14,
+      "id": "f9db0280-e965-4618-baf1-7f8bbd257957",
+      "title": "zeyu_2024_cross_talk_of_inflammation_and_cellular_senescence_a.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:08:04"
+    },
+    {
+      "index": 15,
+      "id": "7f47d67f-7e87-4200-9020-6bb218258d97",
+      "title": "zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T18:08:05"
+    }
+  ],
+  "count": 15
+}

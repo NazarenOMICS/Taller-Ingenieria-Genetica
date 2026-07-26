@@ -1,0 +1,116 @@
+{
+  "answer": "In CRISPRa experiments, a **dCas9-only control** (a nuclease-dead Cas9 lacking any attached transcriptional effector) is used to establish a baseline for gene expression and to confirm that any observed activation is strictly due to the recruited effector and not the physical binding of the dCas9 protein itself [1, 2]. This control is essential for proving the **necessity of the effector** for the desired biological phenotype; for instance, while a dCas9-activator fusion successfully activated the *MSI1* gene, dCas9 lacking an activation domain failed to do so [1]. In pooled library screens, dCas9-only controls help researchers distinguish between general cellular stress caused by dCas9 binding and the specific off-target toxicity introduced by the CRISPRa or CRISPRi perturbation [3, 4]. Researchers have observed that dCas9 binding alone frequently has \"unmeasurable growth effects\" in contexts where the same sgRNAs used with CRISPRi or CRISPRa effectors cause significant confounding fitness impacts [3, 4].\n\nDespite being a control, dCas9 binding alone can introduce several artifacts, most significantly **transcriptional repression** via **steric hindrance** [5-8]. This effect, often termed CRISPR interference (CRISPRi), occurs when the dCas9 protein physically blocks the transcriptional initiation machinery or prevents the progress of RNA Polymerase II [6, 8]. These inhibitory effects are particularly common when dCas9 targets the **transcription start site (TSS)** or regions downstream of the TSS, where its presence can impede the interaction of endogenous transcription factors with the targeted locus [5-7]. In specific bacterial CRISPRa systems, the physical bulk of the dCas9 protein can also cause artifacts by **interfering with the required assembly** of multi-subunit activator complexes, such as the hexameric PspF [9]. These artifacts demonstrate that dCas9 occupancy at a genomic site is not biologically neutral and can unintentionally modulate transcription or the local chromatin environment even in the absence of an effector domain [5, 7, 8].",
+  "conversation_id": "8a99bb79-cdfb-49e4-b7b3-1867ac3ac256",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "8bdb836c-d04c-4b22-b56d-418fe4481173",
+      "citation_number": 1,
+      "cited_text": "We tested whether CRISPR-on can activate a sin-gle-copy transgene in mouse embryonic stem cells (mESCs). For this, dCas9VP48 was co-transfected with sgTetO into KH2MSI1 ESCs carrying a Tet- inducible Musashi1 (MSI1) transgene at the Col1A1 locus and the rtTA-M2 in the Rosa26 locus [23] (Supplementary information, Figure S3). Transient transfection of dCas9VP48 alone did not activate MSI1 expression (Supplementary information, Figure S3 Lane 1), while co-transfection of dCas9VP48 with sgTetO or addition of doxycycline (positive control) activated MSI1 expression (Supplementary information, Figure S3 Lane 2 and 7). Neither expression of dCas9VP48 with a mutant TetO sgRNA (sgTetO-mut) carrying mismatches to the TetO binding sites (Supplementary information, Figure S3 Lane 3) nor expression of sgTetO with dCas9 lacking an activation domain activated MSI1 expression (Supplementary information, Figure S3 Lane 4).",
+      "start_char": 7303,
+      "end_char": 8223,
+      "chunk_id": "22d4db2c-3db8-4334-9ca2-6d94cbb0acc8",
+      "passage_id": null,
+      "answer_start_char": 7303,
+      "answer_end_char": 8223,
+      "score": 0.7657185442540124
+    },
+    {
+      "source_id": "674f0049-b475-4395-9b8d-d5cc7fab1f10",
+      "citation_number": 2,
+      "cited_text": null,
+      "start_char": 12311,
+      "end_char": 12312,
+      "chunk_id": "c9882b7a-c1ad-4383-a0e6-56da72bf380d",
+      "passage_id": null,
+      "answer_start_char": 12311,
+      "answer_end_char": 15092,
+      "score": 0.7730116873471486
+    },
+    {
+      "source_id": "603e6fcf-f685-4303-86f2-3da58fbaeb04",
+      "citation_number": 3,
+      "cited_text": null,
+      "start_char": 38536,
+      "end_char": 38537,
+      "chunk_id": "92f76f7a-c999-43cf-aa8e-aa4b400b3c15",
+      "passage_id": null,
+      "answer_start_char": 38536,
+      "answer_end_char": 39764,
+      "score": 0.7938110783829226
+    },
+    {
+      "source_id": "603e6fcf-f685-4303-86f2-3da58fbaeb04",
+      "citation_number": 4,
+      "cited_text": "Surprisingly, we find that low-specificity sgRNAs are the dominant confounding factor not only for active Cas9 screens but also for dCas9-mediated perturbations such as CRISPRi and CRISPRa. Cas9 generates double-strand breaks (DSB), so a large number of off-targets for a given sgRNA could result in a major fitness effect due to cellular toxicity as a result of activation of the DNA damage response and apoptosis23,25–27,53, regardless of the location of off-target sites. In contrast, dCas9-recruited epigenetic perturbations do not generate DSBs, and their off-target effects are expected to be location-dependent. Interestingly, these offtarget effects cannot be fully accounted for by dCas9 binding itself, as we tested the same sgRNAs with all four CRISPR-Cas9 platforms, and nearly all sgRNAs showed unmeasurable growth effects with dCas9 alone. Future studies of the mechanisms of CRISPRi/a off-target toxicity will improve our understanding of the cellular response to these perturbations and enable improved experimental designs. This is especially relevant for non-coding screens, which may be particularly vulnerable to confounding offtarget activity given the need to target small regions with few available sgRNAs. As an example of the impact that off-target effects can have, growth screens targeting CTCF sites in K562 cells returned only hits that on closer examination were confounded by off-target activity. None of the CTCF sites that we characterized in more detail in cell lines expressing sgRNAs had a measurable impact on gene expression or chromatin states in the genomic neighborhood (Supplementary Fig. 1). Dense-tiling of those motifs also did not find concordant evidence of CTCF site essentiality from multiple high-specificity sgRNAs, which further supports the conclusion that the hits were false positives. Although this is unexpected, it is potentially consistent with recent studies that reported acute global degradation of either all CTCF protein40 or all of the loop anchor cohesin component RAD21 in cells49 did not result in dramatic changes in gene expression. Individual CTCF site deletions at the boundaries of TADs containing developmental genes were recently reported to have no effect on nearby gene expression or developmental phenotypes in mouse embryos48,50. Therefore, our results appear consistent with other evidence that individual CTCF sites are dispensable for gene regulation in many contexts.",
+      "start_char": 43953,
+      "end_char": 46404,
+      "chunk_id": "256110a5-1dde-4a4f-8f95-027751963d05",
+      "passage_id": null,
+      "answer_start_char": 43953,
+      "answer_end_char": 46404,
+      "score": 0.8031586302520087
+    },
+    {
+      "source_id": "8bdb836c-d04c-4b22-b56d-418fe4481173",
+      "citation_number": 5,
+      "cited_text": null,
+      "start_char": 12910,
+      "end_char": 12911,
+      "chunk_id": "2681ed49-14ba-4c9a-a164-300ccbcf7164",
+      "passage_id": null,
+      "answer_start_char": 12910,
+      "answer_end_char": 14978,
+      "score": 0.7698975418845277
+    },
+    {
+      "source_id": "603e6fcf-f685-4303-86f2-3da58fbaeb04",
+      "citation_number": 6,
+      "cited_text": null,
+      "start_char": 28135,
+      "end_char": 28136,
+      "chunk_id": "bef64838-9741-4aac-b5e2-ddd16d587881",
+      "passage_id": null,
+      "answer_start_char": 28135,
+      "answer_end_char": 28665,
+      "score": 0.7840919929407295
+    },
+    {
+      "source_id": "df245a76-925b-460e-be23-c1a54e53aee3",
+      "citation_number": 7,
+      "cited_text": null,
+      "start_char": 49156,
+      "end_char": 49157,
+      "chunk_id": "403cef73-bda5-4d15-ae50-49b7cd0c4043",
+      "passage_id": null,
+      "answer_start_char": 49156,
+      "answer_end_char": 50033,
+      "score": 0.7508173658994438
+    },
+    {
+      "source_id": "d6fa73f7-9ae6-44c2-bfd6-46802fbe79a0",
+      "citation_number": 8,
+      "cited_text": "CRISPR-mediated gene expression regulation Soon after the initial demonstration that WT Cas9 can be used as a programmable endonuclease for gene editing, researchers started to exploit dCas9 to specifically regulate gene expression. In the following sections, we will highlight some of the application areas where researchers are uniquely repurposing dCas9 for various regulatory purposes (Fig. 3). Interestingly, dCas9 strongly binds to the DNA target sequence and this tight binding interferes with the activity of other DNA binding proteins such as endogenous transcription factors and RNA Polymerase II85. This has been exploited to develop the CRISPR interference (CRISPRi) approach in which dCas9 binding activity blocks the transcriptional process and thus knocks down (KD) gene expression85. Notably, fusing a strong repressor complex such as Kruppel-associated Box (KRAB) to dCas9 results in a stronger and more specific gene repressor than dCas9 alone95. The repression",
+      "start_char": 29828,
+      "end_char": 30808,
+      "chunk_id": "c7c99838-a071-4c68-8962-ce14fffd1b22",
+      "passage_id": null,
+      "answer_start_char": 29828,
+      "answer_end_char": 30808,
+      "score": 0.8073472301265593
+    },
+    {
+      "source_id": "4ccbd30f-504c-432b-b815-5fe3bc19646c",
+      "citation_number": 9,
+      "cited_text": "Given that many CRISPRa systems in eukaryotes were built by fusing the activation domain to dCas9 directly3,5, we asked if the same could be applied to the PspF activation domain. The HTH domain truncated PspF was fused to dCas9 and CRISPRa was attempted, but was unsuccessful (Supplementary Fig. 1c). This result was within expectation given that PspF must assemble as a hexamer to function, and dCas9 probably interfered with the assembly process as it was relatively bulky24,25.",
+      "start_char": 6194,
+      "end_char": 6676,
+      "chunk_id": "5d438c3b-8305-4e50-8555-913a38876540",
+      "passage_id": null,
+      "answer_start_char": 6194,
+      "answer_end_char": 7763,
+      "score": 0.790511835238008
+    }
+  ]
+}

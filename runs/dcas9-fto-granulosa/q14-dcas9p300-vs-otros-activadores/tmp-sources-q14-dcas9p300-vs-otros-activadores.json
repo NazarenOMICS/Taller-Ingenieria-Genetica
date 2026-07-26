@@ -1,0 +1,187 @@
+{
+  "notebook_id": "997cd2ff-f1d7-42e0-9026-f046a1d2c7dd",
+  "notebook_title": "dCas9-p300 vs other activators (q14)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "129c39bd-fc27-461e-80a6-eecd6f332663",
+      "title": "agustin_2023_epigenetic_reactivation_of_tumor_suppressor_genes_with_crispra.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:46"
+    },
+    {
+      "index": 2,
+      "id": "51c40e04-4527-46b1-b7f5-5296c09e0ac6",
+      "title": "albert_2017_genetic_and_epigenetic_control_of_gene_expression_by.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:46"
+    },
+    {
+      "index": 3,
+      "id": "31d84357-8f90-4a4e-9c4a-77c759bcbe62",
+      "title": "alexander_2022_engineering_the_next_generation_of_car_t_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:47"
+    },
+    {
+      "index": 4,
+      "id": "6a5b4eee-19e9-4c6f-a122-7d1a1ed33501",
+      "title": "andreas_2020_activation_of_silent_secondary_metabolite_gene_clusters_by.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:47"
+    },
+    {
+      "index": 5,
+      "id": "0712ac3e-733e-44fd-976f-e83b48c9d64f",
+      "title": "anil_2021_mechanisms_of_enhancer_action_the_known_and_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:51"
+    },
+    {
+      "index": 6,
+      "id": "dbd50819-0a83-497c-9152-3aa653d10032",
+      "title": "chenya_2021_spatiotemporal_control_of_crispr_cas9_gene_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:52"
+    },
+    {
+      "index": 7,
+      "id": "fb64d99f-e617-4045-b5bf-386657be1899",
+      "title": "christian_2018_a_modular_dcas9_suntag_dnmt3a_epigenome_editing_system.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:53"
+    },
+    {
+      "index": 8,
+      "id": "fb61026c-0751-406a-89c5-af811c13055a",
+      "title": "fatma_2025_comparison_of_dcas9_activator_complexes_for_the_activation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:53"
+    },
+    {
+      "index": 9,
+      "id": "3535b9bc-a600-4081-937f-a950588221de",
+      "title": "jorge_2021_transcription_activation_is_enhanced_by_multivalent_interactions_independent.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:57"
+    },
+    {
+      "index": 10,
+      "id": "edf2e80d-e50f-4d30-af21-c00124cac84e",
+      "title": "kachanov_2025.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T16:39:02"
+    },
+    {
+      "index": 11,
+      "id": "be1b0e85-b854-4858-9ace-99e71cf945ab",
+      "title": "kendall_2018_optimized_libraries_for_crispr_cas9_genetic_screens_with.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:53:58"
+    },
+    {
+      "index": 12,
+      "id": "bd8234f6-f739-4cc9-9cdd-904f9fcd24b7",
+      "title": "kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:54:01"
+    },
+    {
+      "index": 13,
+      "id": "3d7a216f-77ce-450d-95a2-bcb92f191393",
+      "title": "mahata_2023_compact_engineered_human_mechanosensitive_transactivation_modules_enable_potent.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:54:01"
+    },
+    {
+      "index": 14,
+      "id": "c9f40eaa-6587-4992-947d-9d397bfa22e0",
+      "title": "mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:54:01"
+    },
+    {
+      "index": 15,
+      "id": "835d1417-47b5-4aa7-8f13-896199b08660",
+      "title": "ronghao_2023_enhancement_of_a_prime_editing_system_via_optimal.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:54:03"
+    },
+    {
+      "index": 16,
+      "id": "7234979e-b3f7-4c7e-b10b-89e84faf573a",
+      "title": "tessa_2022_a_modular_dcas9_based_recruitment_platform_for_combinatorial.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:54:08"
+    },
+    {
+      "index": 17,
+      "id": "727dbcc6-fcc6-405b-be2f-aef9c35d0993",
+      "title": "tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:54:07"
+    },
+    {
+      "index": 18,
+      "id": "577d0136-4a1e-4d5e-a2f1-e49eb25013ef",
+      "title": "yujuan_2025_dynamic_properties_of_transcriptional_condensates_modulate_crispra_mediated.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:54:08"
+    }
+  ],
+  "count": 18
+}

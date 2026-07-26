@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q12-crispra-crispri-rejuvenecimiento",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento",
+    "goal":  "Determinar si se ha aplicado edicion epigenomica (CRISPRa o CRISPRi) al rejuvenecimiento de tejido reproductivo o a la reversion parcial del envejecimiento en otros tejidos, y con que resultados.",
+    "notebook_title":  "CRISPRa CRISPRi rejuvenation (q12)",
+    "dashboard":  "CRISPRa CRISPRi rejuvenation",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T18:35:14",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q12-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\questions-q12-crispra-crispri-rejuvenecimiento.json",
+    "notebook_id":  "b12f5e97-10fe-4024-bf49-afab0fd1c866",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\tmp-sources-q12-crispra-crispri-rejuvenecimiento.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q12-crispra-crispri-rejuvenecimiento\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento\" -Goal \"Determinar si se ha aplicado edicion epigenomica (CRISPRa o CRISPRi) al rejuvenecimiento de tejido reproductivo o a la reversion parcial del envejecimiento en otros tejidos, y con que resultados.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q12-queries.json\" -NotebookTitle \"CRISPRa CRISPRi rejuvenation (q12)\" -Dashboard \"CRISPRa CRISPRi rejuvenation\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"b12f5e97-10fe-4024-bf49-afab0fd1c866\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

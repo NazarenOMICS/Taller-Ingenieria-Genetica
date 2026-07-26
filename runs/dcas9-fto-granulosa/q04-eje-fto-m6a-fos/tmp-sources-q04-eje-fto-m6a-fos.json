@@ -1,0 +1,167 @@
+{
+  "notebook_id": "0bf608b2-1812-42af-a82e-885597208929",
+  "notebook_title": "FTO-m6A-FOS axis in granulosa cells (q04)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "ab3d9496-f8a6-4f7b-bf91-438c5542ab5d",
+      "title": "chang_2022_transcriptome_wide_n6_methyladenine_methylation_in_granulosa_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:08:59"
+    },
+    {
+      "index": 2,
+      "id": "774ea58c-2959-42d3-8587-2af75df0fc40",
+      "title": "erqing_2023_rna_n6_methyladenosine_modification_in_female_reproductive_biology.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:00"
+    },
+    {
+      "index": 3,
+      "id": "68a72f35-3b45-45a6-82e4-ef40863d9546",
+      "title": "guanwen_2021_correction_fto_promotes_tumour_proliferation_in_bladder_cancer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:02"
+    },
+    {
+      "index": 4,
+      "id": "33e9014e-b349-4312-aecf-9e8fb66f78bf",
+      "title": "jiang_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:03"
+    },
+    {
+      "index": 5,
+      "id": "b12e9052-cd22-498b-85b0-84222211411a",
+      "title": "jin_2022_the_potential_role_of_m6a_rna_methylation_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:06"
+    },
+    {
+      "index": 6,
+      "id": "b7779305-fcad-447b-a2a7-13f84cefe648",
+      "title": "lei_2024_wtap_mediated_n6_methyladenosine_rna_modification_of_elf3.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:07"
+    },
+    {
+      "index": 7,
+      "id": "4f94eff2-ba20-411a-96c6-a20f0d573449",
+      "title": "li_2024_fat_mass_and_obesity_associated_protein_regulates_granulosa.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:08"
+    },
+    {
+      "index": 8,
+      "id": "dd0f5c78-6575-481e-9ddf-b53a808ac130",
+      "title": "liuer_2019_functions_of_n6_methyladenosine_and_its_role_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:07"
+    },
+    {
+      "index": 9,
+      "id": "092b317c-4650-4413-88a8-0ec354918812",
+      "title": "paz_2021_the_role_of_m6a_m5c_and_rna_modifications.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:11"
+    },
+    {
+      "index": 10,
+      "id": "4da4c875-d615-4638-b149-2ce12d2ef1c4",
+      "title": "sun_2022_the_role_of_m_sup_6_sup_a.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:13"
+    },
+    {
+      "index": 11,
+      "id": "2e9ad0fe-a973-4c44-a983-f390f9d84fb8",
+      "title": "xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:13"
+    },
+    {
+      "index": 12,
+      "id": "ab264f25-1e5b-49b8-943a-050548163ea4",
+      "title": "xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:15"
+    },
+    {
+      "index": 13,
+      "id": "30ab229c-655a-4484-9f53-009b46240b95",
+      "title": "yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:17"
+    },
+    {
+      "index": 14,
+      "id": "23d4a4d4-23c5-497d-a1f4-2e49693aa71a",
+      "title": "zhong_xin_2021_correction_the_m6a_mrna_demethylase_fto_in_granulosa.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:18"
+    },
+    {
+      "index": 15,
+      "id": "27b6eff6-8cc7-43ec-ba97-003f65a50df7",
+      "title": "zhu_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:22"
+    },
+    {
+      "index": 16,
+      "id": "0e9549bc-7a70-4e7d-aecd-f8d9202a6ab1",
+      "title": "zhuoxian_2019_downregulation_of_fat_mass_and_obesity_associated_fto.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T11:09:19"
+    }
+  ],
+  "count": 16
+}

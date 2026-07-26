@@ -1,0 +1,140 @@
+{
+  "answer": "While the sources provide advanced tools for achieving temporal control over **dCas9-p300** activity, they reveal several critical gaps and limitations regarding the quantitative kinetics of **H3K27ac persistence and decay** following effector withdrawal.\n\n### 1. Absence of High-Resolution Decay Curves for the Mark\nThe most significant limitation is the **lack of granular, time-course data** specifically for the H3K27ac mark itself [1, 2]. While researchers have established a numerical half-life for the **dCas9 protein** (less than 15 minutes, with total clearance in 1–2 hours using AID systems), a corresponding **half-life for the histone mark** it deposits is missing [1]. Existing measurements of transcriptional effects often use broad intervals, such as 48 hours post-withdrawal, which is too coarse to define the exact rate at which the acetyl mark returns to baseline [1].\n\n### 2. The \"Complex vs. Mark\" Causality Dilemma\nThe sources identify a fundamental experimental challenge in distinguishing whether sustained gene expression is driven by the **epigenetic mark** or the physical occupancy of the **dCas9-fusion complex** [2-4]. Because the synthetic \"writer\" remains associated with the target site during the activation window, it is \"unclear whether the regulatory activity is due to the induced epigenetic mark or the complex\" [2, 5]. This ambiguity prevents researchers from definitively modeling the functional kinetics of the mark in isolation [4, 5].\n\n### 3. Lack of Comparative mRNA and Histone Mark Kinetics\nThere is a notable lack of quantitative data comparing the **rate of transcript decay** (mRNA half-life) to the **rate of H3K27ac decay** at the same genomic locus [1, 6]. Research indicates that H3K27ac levels at distal enhancers are **not fully predictive** of target gene activation levels, further complicating the ability to model mark decay based purely on transcriptional readouts [6, 7]. The sources do not establish if there is a temporal lag between the removal of the acetyl mark and the cessation of transcription [1].\n\n### 4. Contextual Variability and \"Eraser\" Dynamics\nThe sources acknowledge that decay rates likely depend on the **local chromatin environment** and the concentration of endogenous \"eraser\" enzymes (HDACs), but these variables are not fully quantified [4, 8].\n*   **Cell-Type Specificity:** Significant differences in degradation efficiency have been observed between cell lines (e.g., HEK293 vs. CHO cells), suggesting that the \"rules\" for epigenetic decay may vary across biological contexts in ways that are not yet predictable [8].\n*   **Passive vs. Active Decay:** The relative contribution of **passive dilution** (via cell division) versus **active erasure** (via endogenous HDACs) in removing synthetic acetylation marks remains largely untested and unquantified [9, 10].\n\n### 5. Identification of \"Short-Term\" Memory Thresholds\nWhile histone deacetylation is categorized as a mechanism with **\"no memory,\"** the sources note that many histone modifications have yet to be rigorously tested for their specific \"temporal epigenetic memory\" [4, 11]. Identifying the specific duration that defines \"flexible\" versus \"permanent\" memory is cited as a primary goal for future research using these rapid-degradation tools [4, 9]. Without numerical definitions for these terms, the \"short-lived\" nature of acetylation remains a qualitative rather than a quantitative observation [9].",
+  "conversation_id": "31b7bdae-6e31-4dde-8fc0-83e695d2298f",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "16851046-cd7b-4fa6-abfe-dfb1507d0066",
+      "citation_number": 1,
+      "cited_text": null,
+      "start_char": 16862,
+      "end_char": 16863,
+      "chunk_id": "b0331a26-f7a3-4ee9-a632-50a1f771117d",
+      "passage_id": null,
+      "answer_start_char": 16862,
+      "answer_end_char": 18078,
+      "score": 0.7769601380085446
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 2,
+      "cited_text": "proved functional or biochemical specificity have been explored. One key strategy is to truncate chromatinmodifying enzymes to their catalytic core domains. A notable recent example involved the human co-activator protein p300, which functions as a histone acetyltransferase and mediates interactions with multiple transcription",
+      "start_char": 18762,
+      "end_char": 19090,
+      "chunk_id": "467c0165-c73d-4d19-af6a-a6cf984ecd92",
+      "passage_id": null,
+      "answer_start_char": 18762,
+      "answer_end_char": 20161,
+      "score": 0.8103505717246067
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 3,
+      "cited_text": "catalytic domains to develop epigenetic editors that have improved functional specificity. Efforts to truly isolate and re-engineer the catalytic domains of CRs will be key to improving the functional specificity of epigenetic editors.",
+      "start_char": 20987,
+      "end_char": 21223,
+      "chunk_id": "85554964-9f23-4595-a800-7df1116e3958",
+      "passage_id": null,
+      "answer_start_char": 20987,
+      "answer_end_char": 21958,
+      "score": 0.7380884348794837
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 4,
+      "cited_text": null,
+      "start_char": 41642,
+      "end_char": 41643,
+      "chunk_id": "076ee86e-09b8-497e-8464-3dd2b0311a9b",
+      "passage_id": null,
+      "answer_start_char": 41642,
+      "answer_end_char": 43352,
+      "score": 0.7767061687259191
+    },
+    {
+      "source_id": "39014e8c-7acc-4cc3-a3f5-d58c8e8ff055",
+      "citation_number": 5,
+      "cited_text": "Identifying the causal link between epigenetic marks and gene expression remains a central goal of chromatin biology. Thus, these aforementioned studies using dCas9 as a guidable platform to edit locus-specific epigenetic information will be an indispensable tool to achieve this. Now that the tools that enable us to alter the epigenome are in place, the next phase is to utilize them to better characterize regulatory elements and cellular states. To this end, researchers have already applied dCas9-based epigen-ome-editing tools for a number of exciting purposes including high-throughput screenings to characterize functional distal enhancers146, targeted reprogramming of lineage specifica-tion147,148, generation of induced pluripotent stem cells149, and reversal of HIV latency150. One of the remaining challenges is to elucidate the causal relationship between the presence of an epigenetic mark and its regulatory impact. Since the dCas9-fused epigenetic modifier remains associated with the target site, it is unclear whether the regulatory activity is due to the induced epigenetic mark or the complex. To this end, recent efforts using rapid and reversible epigenome-editing approaches are highly notable145. Future studies that enable rapid degradation of the targeting complex at the target site, such as with auxin-inducible degron technology151, should allow us to further characterize the functional consequences of epigenetic marks and investigate the associated temporal epigenetic memory for each mark.",
+      "start_char": 46524,
+      "end_char": 48048,
+      "chunk_id": "c6c99490-9fcd-439b-b322-0be05ec586f2",
+      "passage_id": null,
+      "answer_start_char": 46524,
+      "answer_end_char": 48048,
+      "score": 0.7486692800148588
+    },
+    {
+      "source_id": "87749aac-5085-4394-86b9-8bf9e67fadd4",
+      "citation_number": 6,
+      "cited_text": null,
+      "start_char": 15356,
+      "end_char": 15357,
+      "chunk_id": "e88f3e1e-b9d1-4d6f-950d-941432101e71",
+      "passage_id": null,
+      "answer_start_char": 15356,
+      "answer_end_char": 16100,
+      "score": 0.7847858060742723
+    },
+    {
+      "source_id": "87749aac-5085-4394-86b9-8bf9e67fadd4",
+      "citation_number": 7,
+      "cited_text": "We tested two dCas9 fusions and found that dCas9-VP16(10x) activates genes to a higher level than dCas9-p300(core). The fusions caused similar levels of H3K27ac to be deposited at targeted loci, suggesting that histone acetylation is not the only event that impacts transcription and that VP16 is likely contributing to gene activation in other ways. This could be because VP16 recruits a host of cofactors, including basal TFs and mediator, in addition to histone acetyltransferases (Hirai et al, 2010). These interactions allow VP16 to more directly assemble the transcriptional machinery, whereas p300-induced acetylation may be limited by other methods of transcriptional control, such as protein recruitment. The superior performance of dCas9-VP16(10x) may also be specific to the ERBS that we targeted, as dCas9-p300(core) has been shown to bemore effective than VP16(4x) at other loci (Hilton et al, 2015), or it could be explained by the extra copies of VP16 in the 10x fusion.",
+      "start_char": 32177,
+      "end_char": 33163,
+      "chunk_id": "07c04b85-c299-41c5-b799-40d3831db998",
+      "passage_id": null,
+      "answer_start_char": 32177,
+      "answer_end_char": 33163,
+      "score": 0.766129154914487
+    },
+    {
+      "source_id": "16851046-cd7b-4fa6-abfe-dfb1507d0066",
+      "citation_number": 8,
+      "cited_text": "(Supplementary Fig. 5a). We first attached the ecDDD to S. pyogenes dCas9. Though some residual protein was detectable by Western blot, stability of the fusion protein was greatly improved by addition of TMP (Supplementary Fig. 5b). Next we constructed ecDDD tagged versions of the set of orthogonal dCas9 or Cpf1 proteins (S. thermophiles 1 dCas9, S. aureus dCas9, As.Cpf1, Lb.Cpf1 and Fn.Cpf1). With the exception of a moderate effect on SadCas9, the addition of the ecDDD degron did not appear to affect the stability of the set of orthogonal Cas9 or Cpf1 proteins when transfected in HEK293FT cells (Supplementary Fig. 5c). To investigate whether cell-type specific characteristics would affect degradation efficiency we next tested the effect of the degron-tag in CHO-K1 cells. CHO cells are an important resource in the biotechnology industry and a valuable target for systems that enable the drug controlled manipulation of gene expression output17. Interestingly the sensitivity of our panel of degrontagged Cas9 or Cpf1 proteins to proteosomal degradation is markedly enhanced in CHO cells compared with 293 cells, showing a clear difference in drug dependent stability of the fusion proteins for most of the constructs in both the AID and ecDDD degron tagged sets (Supplementary Fig. 5d).",
+      "start_char": 23316,
+      "end_char": 24615,
+      "chunk_id": "a3c595d4-cdb5-42f1-999d-ff356b8b2ef6",
+      "passage_id": null,
+      "answer_start_char": 23316,
+      "answer_end_char": 24615,
+      "score": 0.7491290055106559
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 9,
+      "cited_text": "of epigenetic regulation lie ahead. Researchers could work to harness any potential restricted or conditional epigenetic inheritance of histone modifications for developing “short-term” or “flexible” epigenetic memory circuitry [99], which could be intentionally designed to maintain the edited epigenome state for a short period of time. For example, there may be instances, in normal development or for transient therapeutic applications, that require that genes are regulated such that they are suppressed for a short period of time and subsequently reactivated. The repressive state of a gene could be induced with repressive histone methyltransferases and later (before one cell cycle is completed or within very few cell divisions) reversed by either demethylases or a passive histone dilution mechanism. By contrast, complete and permanent repression of genes could be achieved with the incorporation of DNA-methylation-mediated gene silencing [25, 56]. It is important to note that there is evidence to suggest that transiently induced DNA methylation is not maintained, highlighting the",
+      "start_char": 43352,
+      "end_char": 44447,
+      "chunk_id": "0207f605-41ed-4cd3-b2bf-57a238745f72",
+      "passage_id": null,
+      "answer_start_char": 43352,
+      "answer_end_char": 44447,
+      "score": 0.7390318742977475
+    },
+    {
+      "source_id": "57320331-3b1e-4dec-ba41-efb2b548935f",
+      "citation_number": 10,
+      "cited_text": "Artificial perturbations of chromatin structure Chromatin adds a unique spatial element to gene regulation at multiple scales [115, 116]. For example, certain histone modifications have been observed to demarcate and preserve chromatin domains such as silent heterochromatic and active euchromatic regions. These regions are hypothesized to be established and preserved by highly dynamic processes involving histone modifications; these include self-reinforcing mechanisms that spread modifications along adjacent nucleosomes [111, 112], so-called “reader-writer” mechanisms [117]. Chro-matin’s three-dimensional conformation and positioning in the nucleus also orchestrate gene expression. For example, looping mediates long-range genomic interactions by juxtaposing distal regulatory elements such as enhancers with distant loci, to either coordinate their expression or co-localize regulatory factors. This type of spatial organization is observed in tissue-specific gene regulation, in which genomic elements cluster together at certain stages of development [118]. Tools that can replicate or perturb chromatin’s spatial properties will enhance our ability to study and potentially harness these complex mechanisms. Several molecular approaches have already been used",
+      "start_char": 45053,
+      "end_char": 46326,
+      "chunk_id": "7975897c-06dc-4978-abb8-3c8acee5a2a1",
+      "passage_id": null,
+      "answer_start_char": 45053,
+      "answer_end_char": 46326,
+      "score": 0.7414104691694261
+    },
+    {
+      "source_id": "dc4d41b8-886d-4432-8106-3548a3efece1",
+      "citation_number": 11,
+      "cited_text": "Manipulating the epigenome and gene expression using TEMs and TTFs So far only a few studies have been published reporting the use of dCas9 fusions for epigenome editing and manipulating gene expression. The catalytic histone acetyltransferase (HAT) core domain p300 has been used to catalyse acetylation of histones in human HEK293T cells (Hilton et al., 2015). Targeting dCas9–p300 fusions to promoter regions or proximal or distant enhancers caused activation of gene expression. Increased expression upon enhancer-targeting was concomitant with enrichment in H3K27ac at the correspond- ing genomic target sites (Hilton et al., 2015). In most cases the same genes could be transactivated by dCas9-VP64 when targeted at promoters. To achieve transactivation both effectors can thus be used. The two effectors behave somewhat differently in terms of their impact on histone acetylation state, as p300 directly catalyses H3K27ac (Ogryzko et al., 1996; Delvecchio et al., 2013), whereas VP64 recruits subsequent transactivation components, amongst which is p300 (Memedula and Belmont, 2003). Also the histone acetyltransferase domain of the CREB-binding protein has been fused to dCas9 (dCas9-CBPHAT) and has been used to catalyse locus-specific acetylation of histones (Cheng et al., 2016). dCas9-CBPHAT was targeted using the Casilio (CRISPR/Cas9-Pumilio) system, which harbours an scRNA containing multiple PUF binding sites (PBS), to recruit additional CBPHAT domains via fusions with Pumilio/FBF (PUF) RNA-binding domains. Similar to dCas9-p300, targeting dCas9-CBPHAT to promoters or proximal and distal enhancer",
+      "start_char": 28021,
+      "end_char": 29638,
+      "chunk_id": "68ba3bc1-f7ba-4af7-ae07-233fb3a20a72",
+      "passage_id": null,
+      "answer_start_char": 28021,
+      "answer_end_char": 29638,
+      "score": 0.7577066378311191
+    }
+  ]
+}

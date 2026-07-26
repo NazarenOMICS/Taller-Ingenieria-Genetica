@@ -1,0 +1,197 @@
+{
+  "notebook_id": "ed51dcbd-977c-4cf0-9c1b-01abfe96bdc8",
+  "notebook_title": "ROS-FTO-senescence (q06)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "74cfb074-4ee7-4485-b9a9-6a5dfe64125b",
+      "title": "fanpeng_2021_mettl3_dependent_rna_m6a_dysregulation_contributes_to_neurodegeneration.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:11:44"
+    },
+    {
+      "index": 2,
+      "id": "0cb73e27-ba36-4034-b758-cb9c2acd8bf7",
+      "title": "helou_2025_narrowband_ultraviolet_b_radiation_attenuates_nucleus_pulposus_pyroptosis.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:11:44"
+    },
+    {
+      "index": 3,
+      "id": "23c5cbd1-2b18-4c52-bd4b-556a405afcfc",
+      "title": "hengzhao_2023_the_role_of_m6a_methylation_in_therapy_resistance.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:52"
+    },
+    {
+      "index": 4,
+      "id": "d5f5d071-5202-4149-9674-e48055499199",
+      "title": "hye_2023_exosomes_from_adipose_derived_stem_cells_alleviate_inflammation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:53"
+    },
+    {
+      "index": 5,
+      "id": "bf06ac0d-ed77-43f7-8cf1-264fcf47602e",
+      "title": "jae_2008_effect_of_hydrogen_peroxide_induced_oxidative_stress_on.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:53"
+    },
+    {
+      "index": 6,
+      "id": "1bc55f3b-96b3-4328-a838-ed87d1047365",
+      "title": "jianting_2025_new_insights_into_the_role_of_cellular_senescence.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:54"
+    },
+    {
+      "index": 7,
+      "id": "5b00313d-799c-44aa-a073-ac6c0a8188b3",
+      "title": "jun_2022_aging_and_aging_related_diseases_from_molecular_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:56"
+    },
+    {
+      "index": 8,
+      "id": "39e2bc45-6a02-45c8-8280-304d9b0882e5",
+      "title": "lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:57"
+    },
+    {
+      "index": 9,
+      "id": "ff79897f-980b-4f70-8d9c-2dc54daa843f",
+      "title": "miaomiao_2018_ythdf2_mediated_m6a_mrna_clearance_modulates_neural_development.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:58"
+    },
+    {
+      "index": 10,
+      "id": "4e1e4790-0b1d-4292-9edc-3d6363260f99",
+      "title": "na_2020_nad_metabolism_pathophysiologic_mechanisms_and_therapeutic_potential.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:08:59"
+    },
+    {
+      "index": 11,
+      "id": "ce11611c-d2b2-4f30-95b6-ef6a3dea56d8",
+      "title": "rizwan_2026_deciphering_reactive_oxygen_species_with_cutting_edge_aging.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:02"
+    },
+    {
+      "index": 12,
+      "id": "57edd650-12b7-401c-b510-f185ec5fca90",
+      "title": "ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:04"
+    },
+    {
+      "index": 13,
+      "id": "ba9b8101-d918-4351-ba18-12b4207b20f9",
+      "title": "shanze_2023_macrophages_in_immunoregulation_and_therapeutics.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:03"
+    },
+    {
+      "index": 14,
+      "id": "80254911-7a80-4adb-92fb-d7c101e31759",
+      "title": "teppei_2018_reactive_oxygen_species_and_sperm_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:05"
+    },
+    {
+      "index": 15,
+      "id": "0f3387c4-a81b-448b-bbaf-e9609879f42d",
+      "title": "xiaoyun_2026_a_histone_demethylase_gbjmj25_regulates_somatic_embryogenesis_cotton.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:08"
+    },
+    {
+      "index": 16,
+      "id": "67a6323b-4029-4ad0-b28a-1cfc0aa92b20",
+      "title": "yuhao_2020_m6a_modification_in_rna_biogenesis_functions_and_roles.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:11"
+    },
+    {
+      "index": 17,
+      "id": "aa6bc750-2b4e-4aa6-8949-5bba1584d7d8",
+      "title": "yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:08"
+    },
+    {
+      "index": 18,
+      "id": "8ddd1f1d-c0f1-4913-978d-177558a74df2",
+      "title": "zehan_2019_nrf2_drives_oxidative_stress_induced_autophagy_in_nucleus.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:11"
+    },
+    {
+      "index": 19,
+      "id": "a35858f2-456f-4035-b8e4-e7d92415cd10",
+      "title": "zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T17:09:14"
+    }
+  ],
+  "count": 19
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "q06-ros-fto-senescencia",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q06-ros-fto-senescencia",
+  "goal": "Determinar que relacion causal esta documentada entre el estres oxidativo (ROS o peroxido de hidrogeno), el descenso de FTO y la senescencia en celulas somaticas del ovario.",
+  "dashboard": "ROS FTO senescence",
+  "notebook_id": "ed51dcbd-977c-4cf0-9c1b-01abfe96bdc8",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, what evidence links oxidative stress (ROS or hydrogen peroxide) to a decline in FTO expression or activity in somatic or ovarian cells?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/answers/2026-07-14 Q01 - according-to-these-sources-what-evidence.md"
+    },
+    {
+      "id": 2,
+      "theme": "mechanisms",
+      "question": "What molecular mechanism is proposed in these sources by which oxidative stress causes downstream cellular senescence (e.g., via m6A dysregulation, Nrf2 signaling, or other pathways)?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/answers/2026-07-14 Q02 - what-molecular-mechanism-proposed-these-sources.md"
+    },
+    {
+      "id": 3,
+      "theme": "causality",
+      "question": "Do these sources provide direct causal evidence (e.g., via FTO knockdown/overexpression rescue experiments) that FTO decline mediates oxidative-stress-induced senescence, or is the relationship mainly correlative?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/answers/2026-07-14 Q03 - do-these-sources-provide-direct-causal.md"
+    },
+    {
+      "id": 4,
+      "theme": "context",
+      "question": "What role does Nrf2 signaling play in connecting oxidative stress, m6A regulation, and cellular senescence or protection against it, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/answers/2026-07-14 Q04 - what-role-does-nrf2-signaling-play.md"
+    },
+    {
+      "id": 5,
+      "theme": "context",
+      "question": "According to these sources, is there specific evidence of this ROS-FTO-senescence relationship in ovarian or granulosa cells specifically, as opposed to other somatic cell types?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/answers/2026-07-14 Q05 - according-to-these-sources-there-specific.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding a direct causal chain from oxidative stress to FTO decline to senescence in ovarian somatic cells specifically?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q06-ros-fto-senescencia\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/answers/2026-07-14 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/summaries/2026-07-14 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/summaries/2026-07-14 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/summaries/2026-07-14 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q06-ros-fto-senescencia/QA/summaries/2026-07-14 ROS FTO senescence - NotebookLM block summary.md"
+}

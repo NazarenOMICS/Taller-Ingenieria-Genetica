@@ -1,0 +1,140 @@
+{
+  "answer": "Based on the public datasets and integrated multi-omics analyses described in the sources, several transcription factors (TFs) are identified as binding at or near the regulatory regions of the ***FTO*** locus. These include candidate repressors whose binding is disrupted by obesity-associated variants, as well as plausible activators.\n\n### **Candidate Repressors and Disrupted Binding Sites**\nSeveral transcription factors act as repressors at the ***FTO*** locus, often binding to intronic enhancers that regulate both ***FTO*** and distant target genes like *IRX3* and *IRX5*:\n\n*   **ARID5B:** This is the most extensively documented repressor in the sources [1-3]. The risk allele (C) at **rs1421085** (located in the first intron of ***FTO***) disrupts a conserved motif for the **ARID5B repressor** [1, 2]. This disruption leads to the \"derepression\" of a potent enhancer, causing a doubling of *IRX3* and *IRX5* expression and activating adipogenesis [1, 2].\n*   **ONECUT2:** Predicted as a regulatory factor in pathologically relevant cell types like brain microvascular endothelial cells (BMECs), **ONECUT2** is a known suppressor of androgen receptor signaling [4]. The T-to-C substitution at **rs1421085** is predicted to strengthen enhancer activity by potentially disrupting the binding site of this repressor [4].\n*   **ONECUT1:** Deep learning models (TREDNet) prioritize **ONECUT1** as a factor whose binding site is disrupted by the **rs8050136** variant within the ***FTO*** locus [5]. **ONECUT1** is essential for pancreatic development, and its disrupted interaction at this site may link the locus to metabolic dysfunction [5].\n\n### **Plausible Activators or Regulatory Responders**\nThe sources also identify factors that may function as activators or are recruited to the ***FTO*** regulatory environment in specific developmental or physiological contexts:\n\n*   **Htf1 (Heat Shock Factor 1):** Research suggests **Htf1** is a plausible activator, as the ***FTO*** gene is reportedly **down-regulated** when this heat shock response transcription factor is inhibited [6].\n*   **Androgen Receptor (AR):** The variant **rs7193144** within the ***FTO*** locus is predicted to modulate the binding site of the **Androgen Receptor** [7]. This makes it a candidate for mediating the pleiotropic effects of the locus across tissues like the pancreas and adipocytes via disrupted androgen signaling [7].\n*   **T-box Family (TBX21 and TBX20):** These transcription factors are predicted to bind at the **rs3751812** regulatory variant in the fetal brain [8, 9]. Members of the T-box family are critical for the commitment of hypothalamic and pituitary lineages [8].\n*   **RARA and RXRA:** These retinoic acid receptors are identified in predicted regulatory maps as binding at the **rs1421085** site alongside **ONECUT2** [9].\n\n### **Summary of Transcription Factor Interactions**\n| Transcription Factor | Functional Role | Genomic Target Site (SNP) |\n| :--- | :--- | :--- |\n| **ARID5B** | Repressor (Disrupted by risk allele) | rs1421085 [1, 2] |\n| **ONECUT2** | Repressor / Suppressor | rs1421085 [4, 9] |\n| **ONECUT1** | Developmental Regulator | rs8050136 [5, 9] |\n| **Htf1** | Plausible Activator | General ***FTO*** expression [6] |\n| **AR** | Androgen-mediated Signalling | rs7193144 [7] |\n| **TBX20 / TBX21** | Fetal Brain Regulator | rs3751812 [8, 9] |\n| **RARA / RXRA** | Retinoic Acid Signalling | rs1421085 [9] |\n\nWhile many of these interactions occur within **Intron 1** of ***FTO***, the sources treat these sites as the primary functional components of the ***FTO*** regulatory circuitry [1, 10]. Furthermore, the methylation status of the ***FTO*** promoter itself is regulated by epigenetic \"erasers\" and \"writers\" like **DNMT1**, **DNMT3A**, and **DNMT3B**, which can reduce its expression [11].",
+  "conversation_id": "57684c16-0803-4ffe-a338-f28235a0d45f",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "53a379e3-47ec-47de-a5d0-f1e9686e63ca",
+      "citation_number": 1,
+      "cited_text": "Atopic asthma rs928413 A→G",
+      "start_char": 11689,
+      "end_char": 11716,
+      "chunk_id": "263b0b47-6ba6-4c9f-9221-eb2be598cb71",
+      "passage_id": null,
+      "answer_start_char": 11689,
+      "answer_end_char": 12265,
+      "score": 0.9147058823529411
+    },
+    {
+      "source_id": "53a379e3-47ec-47de-a5d0-f1e9686e63ca",
+      "citation_number": 2,
+      "cited_text": "and TAD boundary regions (Mei et al., 2019) (see Table 1). For example, the rs1421085 T→C substitution associated with obesity impairs the functioning of the negative regula- tory region controlling expression of the IRX3 and IRX5 genes (Claussnitzer et al., 2015). The rs1421085 locus is located in the intron of the FTO gene (Fig. 1) at a considerable distance from the transcription start sites of IRX3 and IRX5 (~520,000 and ~1,164,000 bases). Normally, the DNA region containing allele T interacts with a repressor factor ARID5B, leading to a decrease in transcriptional activity of IRX3 and IRX5 genes. In carriers of the mutant variant of the DNA sequence (allele C), the binding site of the ARID5B repressor factor is disrupted, which causes an excessively high expression of the IRX3 and IRX5 genes and activates adipogenesis (Claussnitzer et al., 2015).",
+      "start_char": 17000,
+      "end_char": 17863,
+      "chunk_id": "c183647b-f56e-4fd0-a6e9-73662e86e250",
+      "passage_id": null,
+      "answer_start_char": 17000,
+      "answer_end_char": 17863,
+      "score": 0.9754901960784313
+    },
+    {
+      "source_id": "53a379e3-47ec-47de-a5d0-f1e9686e63ca",
+      "citation_number": 3,
+      "cited_text": "Claussnitzer M., Dankel S.N., Kim K.-H., Quon G., Meuleman W., Haugen C., Glunk V., Sousa I.S., Beaudry J.L., Puviindran V., Ab-dennur N.A., Liu J., Svensson P.-A., Hsu Y.-H., Drucker D.J., Mell- gren G., Hui C.-Ch., Hauner H., Kellis M. FTO obesity variant circuitry and adipocyte browning in humans. N. Engl. J. Med. 2015; 373:895-907. DOI 10.1056/NEJMoa1502214.",
+      "start_char": 50312,
+      "end_char": 50676,
+      "chunk_id": "7073def7-1e2e-4444-beb8-88bf3a0f1ea0",
+      "passage_id": null,
+      "answer_start_char": 50312,
+      "answer_end_char": 50919,
+      "score": 0.9627450980392157
+    },
+    {
+      "source_id": "49227af1-333c-4504-89d0-de5d98fecfea",
+      "citation_number": 4,
+      "cited_text": "We identified 12 reSNVs exhibiting significant fold changes across 9 cell types (Fig. S8 [27]). Among these, 3 variants, rs1421085, rs11642015, and rs9940128 have been validated by MPRA studies to show allelic changes in enhancer activity in mouse preadipocyte and/or neuronal cell lines [92], further supporting the predictive accuracy of TREDNet in identifying regulatory variants. Interestingly, we predicted that T-to-C substitution at rs1421085 additionally strengthens enhancer activity in BMEC, a granulosa-like cell line, by potentially disrupting the binding site of ONECUT2 (Fig. 4A, Table S9 [27]), a suppressor of androgen receptor signaling which was recently identified as a marker of follicle growth [94, 95].",
+      "start_char": 41271,
+      "end_char": 41996,
+      "chunk_id": "e228776f-dfc5-4b97-906a-88600c86fbe8",
+      "passage_id": null,
+      "answer_start_char": 41271,
+      "answer_end_char": 41996,
+      "score": 0.9446078431372549
+    },
+    {
+      "source_id": "49227af1-333c-4504-89d0-de5d98fecfea",
+      "citation_number": 5,
+      "cited_text": "We also identified another reSNV within this locus, rs8050136, where C-to-A substitution is predicted as an enhancer- strengthening variant in the pancreas and liver (Fig. 4A). This variant colocalizes with an eQTL for IRX3 in the pancreas, where it regulates the conversion of β cells to ϵ cells, directly linking it to type 2 diabetes [97]. Notably, rs8050136 is also predicted to dis- rupt the binding site of ONECUT1, a TF essential for pancreatic development (Fig. 4A). However, no allelic differences were predicted in KGN or related granulosa-like cell types, suggesting that this variant is unlikely to have direct consequences on PCOS pathophysiology.",
+      "start_char": 43483,
+      "end_char": 44143,
+      "chunk_id": "b67ceea4-a7ae-4e4b-9bf8-ba64cbb763b9",
+      "passage_id": null,
+      "answer_start_char": 43483,
+      "answer_end_char": 44143,
+      "score": 0.7480392156862745
+    },
+    {
+      "source_id": "5532c87b-c78b-4e00-9d47-8ed390d4ebb7",
+      "citation_number": 6,
+      "cited_text": null,
+      "start_char": 27986,
+      "end_char": 27987,
+      "chunk_id": "f52e8e31-e716-45be-a086-9aeb6c744cf0",
+      "passage_id": null,
+      "answer_start_char": 27986,
+      "answer_end_char": 28705,
+      "score": 0.9926470588235294
+    },
+    {
+      "source_id": "49227af1-333c-4504-89d0-de5d98fecfea",
+      "citation_number": 7,
+      "cited_text": "In addition to rs1421085, G-to-A substitution at rs9940128 was predicted as enhancer-damaging variant in BMECs and HUVECs and was found to localize within regions forming chromatin contacts with the promoters of IRX3 and IRX5 in HUVECs (Fig. 4B). Another variant within this locus, rs7193144, was predicted to exhibit nominal allele-specific regulatory differences in KGN cells, granulosa-like cell lines, BMECs, and HUVECs (Table S9 [27]). Notably, this variant was also predicted to modulate the binding site of the AR and to display allele-specific regulatory activity in pancreas and adipocyte, making it a compelling candidate for mediating the pleiotropic effects of IRX3/IRX5 dysregulation across these cell types through disrupted androgen signaling.",
+      "start_char": 41996,
+      "end_char": 42755,
+      "chunk_id": "44f401ff-db21-4f56-ba0c-b9456fc64cf3",
+      "passage_id": null,
+      "answer_start_char": 41996,
+      "answer_end_char": 42755,
+      "score": 0.7205882352941176
+    },
+    {
+      "source_id": "49227af1-333c-4504-89d0-de5d98fecfea",
+      "citation_number": 8,
+      "cited_text": "The allelic effects of variants in this locus may also impact IRX3/IRX5-mediated functions in hypothalamic neurons (Fig. S7 [27]), as demonstrated in mice [92]. In this regard, we predicted rs3751812 as a regulatory variant in fetal brain which is located within binding sites of T-box family TFs (Fig. 4A). Members of the T-box family play a critical role in the commitment of hypothalamus and pituitary lineages from neuronal precursors",
+      "start_char": 42755,
+      "end_char": 43194,
+      "chunk_id": "d3bcf240-3cda-4e52-a5d8-1c46a800b661",
+      "passage_id": null,
+      "answer_start_char": 42755,
+      "answer_end_char": 43483,
+      "score": 0.8362745098039216
+    },
+    {
+      "source_id": "49227af1-333c-4504-89d0-de5d98fecfea",
+      "citation_number": 9,
+      "cited_text": null,
+      "start_char": 49467,
+      "end_char": 49468,
+      "chunk_id": "7c14a213-85a0-45c1-bdb9-3b5883c40e9a",
+      "passage_id": null,
+      "answer_start_char": 49467,
+      "answer_end_char": 50378,
+      "score": 0.6955882352941176
+    },
+    {
+      "source_id": "49227af1-333c-4504-89d0-de5d98fecfea",
+      "citation_number": 10,
+      "cited_text": null,
+      "start_char": 39510,
+      "end_char": 39511,
+      "chunk_id": "279b4ba3-027c-4002-bc62-a0d1fbf23ac6",
+      "passage_id": null,
+      "answer_start_char": 39510,
+      "answer_end_char": 41271,
+      "score": 0.9053921568627451
+    },
+    {
+      "source_id": "a4216d30-4acf-4641-a848-4a3b783b6003",
+      "citation_number": 11,
+      "cited_text": "ALKBH5 ALKBH5 expression level was increased through the hypomethylation of its promoter.",
+      "start_char": 14336,
+      "end_char": 14426,
+      "chunk_id": "d8dc7f22-3c81-4c96-b452-3d1e31abaf69",
+      "passage_id": null,
+      "answer_start_char": 14336,
+      "answer_end_char": 15555,
+      "score": 0.7808823529411765
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q17-metilacion-promotor-fto-otros-tejidos",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos",
+    "goal":  "Determinar si la metilación del promotor de FTO actúa como mecanismo de silenciamiento en otros tejidos y qué enzimas DNMT/TET la regulan en estrés oxidativo o envejecimiento.",
+    "notebook_title":  "FTO promoter methylation in other tissues (q17)",
+    "dashboard":  "FTO promoter methylation in other tissues",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T18:03:42",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers",
+    "queries_file":  "C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q17-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\questions-q17-metilacion-promotor-fto-otros-tejidos.json",
+    "notebook_id":  "44e0bea6-2947-4802-810a-c140ba64ed5c",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\tmp-sources-q17-metilacion-promotor-fto-otros-tejidos.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q17-metilacion-promotor-fto-otros-tejidos\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos\" -Goal \"Determinar si la metilación del promotor de FTO actúa como mecanismo de silenciamiento en otros tejidos y qué enzimas DNMT/TET la regulan en estrés oxidativo o envejecimiento.\" -QueriesFile \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q17-queries.json\" -NotebookTitle \"FTO promoter methylation in other tissues (q17)\" -Dashboard \"FTO promoter methylation in other tissues\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"44e0bea6-2947-4802-810a-c140ba64ed5c\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

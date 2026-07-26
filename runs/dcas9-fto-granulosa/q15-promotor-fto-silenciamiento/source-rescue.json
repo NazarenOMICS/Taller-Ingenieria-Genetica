@@ -1,0 +1,789 @@
+﻿{
+    "date":  "2026-07-24",
+    "sources":  [
+                    {
+                        "target_id":  "PMID:41778387",
+                        "title":  "Emerging roles of RNA N5-methylcytosine modification in reproductive physiology and gynecological diseases.",
+                        "doi":  "10.1080/15592294.2026.2629068",
+                        "pmid":  "41778387",
+                        "pmcid":  "PMC12962712",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic deciphering of ovarian aging multilayer interactive mechanisms and targeted reversal strategies",
+                        "title":  "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+                        "doi":  "10.1186/s13072-026-00664-3",
+                        "pmid":  "42050634",
+                        "pmcid":  "PMC13274177",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epitranscriptomic modifications in embryonic development insights into natural and art induced mechanisms and implications",
+                        "title":  "Epitranscriptomic modifications in embryonic development: insights into natural and ART-induced mechanisms and implications.",
+                        "doi":  "10.1093/humupd/dmaf032",
+                        "pmid":  "41445111",
+                        "pmcid":  "PMC13017785",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:line 1 retrotransposons multifaceted functions and regulatory mechanisms in health and disease",
+                        "title":  "LINE-1 retrotransposons: Multifaceted functions and regulatory mechanisms in health and disease.",
+                        "doi":  "10.1016/j.omtn.2026.102934",
+                        "pmid":  "42100560",
+                        "pmcid":  "PMC13147398",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reviewer 1 public review the clamp ga binding transcription factor regulates heat stress induced transcriptional repression",
+                        "title":  "Reviewer #1 (Public review): The CLAMP GA-binding transcription factor regulates heat stress-induced transcriptional repression",
+                        "doi":  "10.7554/elife.110960.1.sa2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:reviewer 2 public review the clamp ga binding transcription factor regulates heat stress induced transcriptional repression",
+                        "title":  "Reviewer #2 (Public review): The CLAMP GA-binding transcription factor regulates heat stress-induced transcriptional repression",
+                        "doi":  "10.7554/elife.110960.1.sa1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.110960.1.sa0",
+                        "title":  "Reviewer #3 (Public review): The CLAMP GA-binding transcription factor regulates heat stress-induced transcriptional repression",
+                        "doi":  "10.7554/elife.110960.1.sa0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/mco2.70767",
+                        "title":  "The Role of N\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;-Methyladenosine Modification in Health and Disease.",
+                        "doi":  "10.1002/mco2.70767",
+                        "pmid":  "42164653",
+                        "pmcid":  "PMC13183813",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+                        "notebook_source_id":  "b1e836d2-7154-4a3f-b7d3-6f82aab253b5",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13113650",
+                        "title":  "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+                        "doi":  "10.3390/biom16040571",
+                        "pmid":  "42072692",
+                        "pmcid":  "PMC13113650",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\kuai_2026_unravelling_multilayered_rna_modification_networks_in_female_reproduction.pdf",
+                        "notebook_source_id":  "889a3994-eb82-4ecb-9d68-341cec4f3761",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1620/tjem.2025.j009",
+                        "title":  "Effects of Liraglutide on Leptin Promoter Methylation in Ovarian Granulosa Cells of Obese Polycystic Ovary Syndrome Patients",
+                        "doi":  "10.1620/tjem.2025.j009",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\lina_2025_effects_of_liraglutide_on_leptin_promoter_methylation_in.pdf",
+                        "notebook_source_id":  "2c76ff99-5915-4fea-b146-6fef42583f86",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic impact of endocrine disrupting chemicals on atherosclerosis",
+                        "title":  "Epigenetic impact of endocrine-disrupting chemicals on atherosclerosis",
+                        "doi":  "10.1042/ebc20253022",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.24272/j.issn.2095-8137.2024.378",
+                        "title":  "HNRNPA2B1-mediated m6A modification enhances lncRNA NORHA stability to control granulosa cell functions.",
+                        "doi":  "10.24272/j.issn.2095-8137.2024.378",
+                        "pmid":  "40407136",
+                        "pmcid":  "PMC12361897",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:implications of gut microbiota mediated epigenetic modifications in intestinal diseases",
+                        "title":  "Implications of gut microbiota-mediated epigenetic modifications in intestinal diseases",
+                        "doi":  "10.1080/19490976.2025.2508426",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12383119",
+                        "title":  "Interplay of Oxidative Stress, Autophagy, and Rubicon in Ovarian Follicle Dynamics: Orchestrating Ovarian Aging.",
+                        "doi":  "10.3390/antiox14080919",
+                        "pmid":  "40867818",
+                        "pmcid":  "PMC12383119",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\yamada_2025_interplay_of_oxidative_stress_autophagy_and_rubicon_in.pdf",
+                        "notebook_source_id":  "84228229-b081-48e3-b908-fa4db2cca6bc",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1080/15592294.2025.2528563",
+                        "title":  "Mechanism of crosstalk between DNA methylation and histone acetylation and related advances in diagnosis and treatment of premature ovarian failure.",
+                        "doi":  "10.1080/15592294.2025.2528563",
+                        "pmid":  "40620015",
+                        "pmcid":  "PMC12239803",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\li_2025_mechanism_of_crosstalk_between_dna_methylation_and_histone.pdf",
+                        "notebook_source_id":  "57abb53e-32d2-4b1c-bbf4-89cc73fc9a26",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:oxidative stress response protein delays ovarian aging by promoting stress granule clearance",
+                        "title":  "Oxidative stress response protein delays ovarian aging by promoting stress granule clearance",
+                        "doi":  "10.1038/s43587-025-00960-9",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:smcle25 coordinates stress resistance and leaf senescence inhibition via transcriptional repression of rboh mediated oxidative burst",
+                        "title":  "Smcle25 Coordinates Stress Resistance and Leaf Senescence Inhibition Via Transcriptional Repression of Rboh-Mediated Oxidative Burst",
+                        "doi":  "10.2139/ssrn.5266931",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abstracts from the 56th european society of human genetics eshg conference hybrid posters",
+                        "title":  "Abstracts from the 56th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC10772074",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC11627200",
+                        "title":  "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC11627200",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:effects of liraglutide on leptin promoter methylation in ovarian granulosa cells of patients with polycystic ovary syndrome and obesity",
+                        "title":  "Effects of Liraglutide on Leptin Promoter Methylation in Ovarian Granulosa Cells of Patients with Polycystic Ovary Syndrome and Obesity",
+                        "doi":  "10.1159/000539039",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/mog2.70000",
+                        "title":  "Epigenetic remodeling under oxidative stress: Mechanisms driving tumor metastasis",
+                        "doi":  "10.1002/mog2.70000",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:m6a demethylase fto stabilized exosomal circbrca1 alleviates oxidative stress induced granulosa cell damage via the mir 642a 5p foxo1 axis",
+                        "title":  "M6A demethylase FTO-stabilized exosomal circBRCA1 alleviates oxidative stress-induced granulosa cell damage via the miR-642a-5p/FOXO1 axis",
+                        "doi":  "10.21203/rs.3.rs-3894773/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\xiaolan_2024_m6a_demethylase_fto_stabilized_exosomal_circbrca1_alleviates_oxidative.pdf",
+                        "notebook_source_id":  "b6f84982-1594-4625-b5e2-cc8a69e77a0e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.14336/ad.2023.0527",
+                        "title":  "Oocyte Aging: A Multifactorial Phenomenon in A Unique Cell.",
+                        "doi":  "10.14336/ad.2023.0527",
+                        "pmid":  "37307833",
+                        "pmcid":  "PMC10796106",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\kordowitzki_2024_oocyte_aging_a_multifactorial_phenomenon_in_a_unique.pdf",
+                        "notebook_source_id":  "e72fc79f-28cd-49d0-8b54-2390fce1bc35",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC11802351",
+                        "title":  "RNA modifications: emerging players in the regulation of reproduction and development.",
+                        "doi":  "10.3724/abbs.2024201",
+                        "pmid":  "39574165",
+                        "pmcid":  "PMC11802351",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\wen_2024_rna_modifications_emerging_players_in_the_regulation_of.pdf",
+                        "notebook_source_id":  "dc6fae9a-bea8-4805-94f2-cb591635e74d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fendo.2024.1399757",
+                        "title":  "The role of epigenetics in women’s reproductive health: the impact of environmental factors",
+                        "doi":  "10.3389/fendo.2024.1399757",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\xinru_2024_the_role_of_epigenetics_in_women_s_reproductive.pdf",
+                        "notebook_source_id":  "5f4ed0e4-ab2c-452d-ab44-f6dccbdb4306",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/ijms24119205",
+                        "title":  "Mechanisms of and Potential Medications for Oxidative Stress in Ovarian Granulosa Cells: A Review.",
+                        "doi":  "10.3390/ijms24119205",
+                        "pmid":  "37298157",
+                        "pmcid":  "PMC10252376",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\liu_2023_mechanisms_of_and_potential_medications_for_oxidative_stress.pdf",
+                        "notebook_source_id":  "bb3eb761-3366-4a4a-8949-fb9184df1bf6",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-023-01528-y",
+                        "title":  "Methylation across the central dogma in health and diseases: new therapeutic strategies",
+                        "doi":  "10.1038/s41392-023-01528-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\ruochen_2023_methylation_across_the_central_dogma_in_health_and.pdf",
+                        "notebook_source_id":  "37b62299-1e2d-4ea8-b171-16d5b70e0e51",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:molecular mechanisms of environmental exposures and human disease",
+                        "title":  "Molecular mechanisms of environmental exposures and human disease",
+                        "doi":  "10.1038/s41576-022-00569-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:pgc 1 is a master regulator of mitochondrial lifecycle and ros stress response",
+                        "title":  "PGC-1α Is a Master Regulator of Mitochondrial Lifecycle and ROS Stress Response",
+                        "doi":  "10.3390/antiox12051075",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:polycystic ovary syndrome etiology current management and future therapeutics",
+                        "title":  "Polycystic Ovary Syndrome: Etiology, Current Management, and Future Therapeutics",
+                        "doi":  "10.3390/jcm12041454",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:premature ovarian insufficiency a review on the role of oxidative stress and the application of antioxidants",
+                        "title":  "Premature ovarian insufficiency: a review on the role of oxidative stress and the application of antioxidants",
+                        "doi":  "10.3389/fendo.2023.1172481",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\yuqian_2023_premature_ovarian_insufficiency_a_review_on_the_role.pdf",
+                        "notebook_source_id":  "efc32758-bd27-42c2-a84d-dec8f486bba1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:mir 143 3p promotes ovarian granulosa cell senescence and inhibits estradiol synthesis by targeting ube2e3 and lhcgr",
+                        "title":  "miR-143-3p Promotes Ovarian Granulosa Cell Senescence and Inhibits Estradiol Synthesis by Targeting UBE2E3 and LHCGR",
+                        "doi":  "10.3390/ijms241612560",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:35393538",
+                        "title":  "Abstracts from the 54\u003csup\u003eth\u003c/sup\u003e European Society of Human Genetics (ESHG) Conference: e-Posters.",
+                        "doi":  "10.1038/s41431-021-01026-1",
+                        "pmid":  "35393538",
+                        "pmcid":  "PMC9063679",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\paper_2022_abstracts_from_the_54_sup_th_sup_european.pdf",
+                        "notebook_source_id":  "82523293-0bc1-4e35-8791-42801bd63b8e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.21203/rs.3.rs-1816507/v1",
+                        "title":  "Plumbagin rescues the granulosa cell\u0027s pyroptosis by reducing WTAP-mediated N6-methylation in polycystic ovary syndrome",
+                        "doi":  "10.21203/rs.3.rs-1816507/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\zhaowei_2022_plumbagin_rescues_the_granulosa_cell_s_pyroptosis_by.pdf",
+                        "notebook_source_id":  "b97a9731-c684-4f90-a8ba-112580624744",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/ijms22010401",
+                        "title":  "Epigenetics of Aging and Aging-Associated Diseases",
+                        "doi":  "10.3390/ijms22010401",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:overexpression of fto protects human granulosa cells from cisplatin induced injury",
+                        "title":  "Overexpression of FTO Protects Human Granulosa Cells From Cisplatin-Induced Injury",
+                        "doi":  "10.21203/rs.3.rs-929583/v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\rongli_2021_overexpression_of_fto_protects_human_granulosa_cells_from.pdf",
+                        "notebook_source_id":  "645aa128-c560-4145-bf4c-1afa4c64acda",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:circular rna metabolism functions and interactions with proteins",
+                        "title":  "Circular RNA: metabolism, functions and interactions with proteins",
+                        "doi":  "10.1186/s12943-020-01286-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+                        "notebook_source_id":  "b73dcc9f-db50-4839-8d12-0fba48e7fd31",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the potential role of rna n6 methyladenosine in cancer progression",
+                        "title":  "The potential role of RNA N6-methyladenosine in Cancer progression",
+                        "doi":  "10.1186/s12943-020-01204-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\tianyi_2020_the_potential_role_of_rna_n6_methyladenosine_in.pdf",
+                        "notebook_source_id":  "8325edbd-9c06-4af4-a1f5-e29fc496b01f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetics in disease etiopathogenesis",
+                        "title":  "Epigenetics in disease etiopathogenesis",
+                        "doi":  "10.2298/gensr1903975g",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\mila_2019_epigenetics_in_disease_etiopathogenesis.pdf",
+                        "notebook_source_id":  "7ea1d542-8f93-44a6-9b48-7897182556cb",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:psychological and oxidative stress induce apoptosis through trpv1 channel activation in granulosa cells of oocyte during in vitro fertilization",
+                        "title":  "Psychological and oxidative stress induce apoptosis through TRPV1 channel activation in granulosa cells of oocyte during in vitro fertilization",
+                        "doi":  "10.37212/jcnos.584712",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "unpaywall",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\dilek_2019_psychological_and_oxidative_stress_induce_apoptosis_through_trpv1.pdf",
+                        "notebook_source_id":  "6ccf8c7b-d6d7-45d9-898b-73c19d5914f2",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1088/1742-6596/1073/3/032078",
+                        "title":  "DNA methylation of the androgen receptor gene promoter in the granulosa cells of polycystic ovary syndrome patients",
+                        "doi":  "10.1088/1742-6596/1073/3/032078",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q15-promotor-fto-silenciamiento\\papers\\desmawati_2018_dna_methylation_of_the_androgen_receptor_gene_promoter.pdf",
+                        "notebook_source_id":  "b7098a50-7116-4795-ad4f-e4fb6be59a18",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.18632/aging.101547",
+                        "title":  "Sumoylation-deficient Prdx6 repairs aberrant Sumoylation-mediated Sp1 dysregulation-dependent Prdx6 repression and cell injury in aging and oxidative stress",
+                        "doi":  "10.18632/aging.101547",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.18632/oncotarget.8544",
+                        "title":  "Comprehensive analysis of genome-wide DNA methylation across human polycystic ovary syndrome ovary granulosa cell",
+                        "doi":  "10.18632/oncotarget.8544",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/978-3-319-33486-8_12",
+                        "title":  "Oxidative Stress Is a Driver of Normal and Pathological Ovarian Aging",
+                        "doi":  "10.1007/978-3-319-33486-8_12",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dominant repression by arabidopsis transcription factor myb44 causes oxidative damage and hypersensitivity to abiotic stress",
+                        "title":  "Dominant Repression by Arabidopsis Transcription Factor MYB44 Causes Oxidative Damage and Hypersensitivity to Abiotic Stress",
+                        "doi":  "10.3390/ijms15022517",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acsami.2c18734.s002",
+                        "title":  "A Novel Three-Dimensional Follicle Culture System Decreases Oxidative Stress and Promotes the Prolonged Culture of Human Granulosa Cells",
+                        "doi":  "10.1021/acsami.2c18734.s002",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acsami.2c18734.s003",
+                        "title":  "A Novel Three-Dimensional Follicle Culture System Decreases Oxidative Stress and Promotes the Prolonged Culture of Human Granulosa Cells",
+                        "doi":  "10.1021/acsami.2c18734.s003",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a novel region in the collagenase promoter is involved in transcriptional activation and repression",
+                        "title":  "A novel region in the collagenase promoter is involved in transcriptional activation and repression.",
+                        "doi":  "10.1349/ddlp.3007",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:deoxynivalenol impairs ovarian function by triggering ferroptosis in granulosa cells through gpx2 inhibition and oxidative stress",
+                        "title":  "Deoxynivalenol Impairs Ovarian Function by Triggering Ferroptosis in Granulosa Cells through GPX2 Inhibition and Oxidative Stress",
+                        "doi":  "10.1021/acs.jafc.6c02013.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus",
+  "goal": "Determine whether Kachanov et al. (2025) provides direct evidence about why FTO is basally low or repressed versus only technical activation of endogenous FTO with dCas9-p300, and identify the strongest positive transferability signals and key caveats for a granulosa project.",
+  "dashboard": "Hermes QA - qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does",
+  "notebook_id": "23960ed1-7a4a-4cda-80ec-ae1055d55897",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "kachanov-fto-p300-transferability",
+      "question": "According to these sources, does Kachanov et al. (2025) provide any direct evidence about why FTO is basally low or repressed (for example promoter state, H3K27ac, chromatin repression, methylation, transcription factor loss), or does it only show technical activation of endogenous FTO with dCas9-p300? Also, which concrete results from that paper most strongly support that activating FTO with dCas9-p300 could plausibly work in our granulosa project, and what key caveats prevent overclaiming transferability?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\general\\qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus/QA/answers/2026-07-25 Q01 - according-to-these-sources-does-kachanov.md"
+    }
+  ],
+  "project": "general",
+  "vault_slug": "general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus",
+  "qa_summary_note": "Notes/NotebookLM/general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus/QA/summaries/2026-07-25 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus/QA/summaries/2026-07-25 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus/QA/summaries/2026-07-25 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/general/qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does-corpus/QA/summaries/2026-07-25 Hermes QA - qa-20260725-according-to-existing-dcas9-fto-granulosa-corpus-does - NotebookLM block summary.md"
+}

@@ -1,0 +1,19 @@
+[18:53:38] Starting parallel upload: 17 PDFs, 4 workers
+[18:53:46] OK - agustin_2023_epigenetic_reactivation_of_tumor_suppressor_genes_with_crispra.pdf
+[18:53:47] OK - albert_2017_genetic_and_epigenetic_control_of_gene_expression_by.pdf
+[18:53:48] OK - alexander_2022_engineering_the_next_generation_of_car_t_cells.pdf
+[18:53:48] OK - andreas_2020_activation_of_silent_secondary_metabolite_gene_clusters_by.pdf
+[18:53:51] OK - anil_2021_mechanisms_of_enhancer_action_the_known_and_the.pdf
+[18:53:53] OK - chenya_2021_spatiotemporal_control_of_crispr_cas9_gene_editing.pdf
+[18:53:53] OK - fatma_2025_comparison_of_dcas9_activator_complexes_for_the_activation.pdf
+[18:53:54] OK - christian_2018_a_modular_dcas9_suntag_dnmt3a_epigenome_editing_system.pdf
+[18:53:56] OK - jorge_2021_transcription_activation_is_enhanced_by_multivalent_interactions_independent.pdf
+[18:53:57] OK - kendall_2018_optimized_libraries_for_crispr_cas9_genetic_screens_with.pdf
+[18:54:01] OK - kohei_2022_comparative_analysis_of_dcas9_vp64_variants_and_multiplexed.pdf
+[18:54:01] OK - mahata_2023_compact_engineered_human_mechanosensitive_transactivation_modules_enable_potent.pdf
+[18:54:01] OK - mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf
+[18:54:03] OK - ronghao_2023_enhancement_of_a_prime_editing_system_via_optimal.pdf
+[18:54:07] OK - tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf
+[18:54:09] OK - yujuan_2025_dynamic_properties_of_transcriptional_condensates_modulate_crispra_mediated.pdf
+[18:54:10] OK - tessa_2022_a_modular_dcas9_based_recruitment_platform_for_combinatorial.pdf
+[18:54:10] DONE: 17 OK, 0 FAIL (of 17)

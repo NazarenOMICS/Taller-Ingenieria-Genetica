@@ -1,0 +1,28 @@
+---
+type: notebook-source
+source_id: "80254911-7a80-4adb-92fb-d7c101e31759"
+notebook_id: "ed51dcbd-977c-4cf0-9c1b-01abfe96bdc8"
+slug: "q06-ros-fto-senescencia"
+vault_slug: "dcas9-fto-granulosa/q06-ros-fto-senescencia"
+project: "dcas9-fto-granulosa"
+url: ""
+source_type: web
+status: active
+date: 2026-07-14
+pdf: "Research/Papers/dcas9-fto-granulosa/q06-ros-fto-senescencia/teppei_2018_reactive_oxygen_species_and_sperm_cells.pdf"
+related:
+  - "[[Notes/Dashboards/ROS FTO senescence]]"
+used_in_qa: false
+cited_in_count: 0
+qa_notes: []
+---
+
+# teppei_2018_reactive_oxygen_species_and_sperm_cells.pdf
+
+## PDF
+
+![[Research/Papers/dcas9-fto-granulosa/q06-ros-fto-senescencia/teppei_2018_reactive_oxygen_species_and_sperm_cells.pdf]]
+
+## Source Guide
+
+

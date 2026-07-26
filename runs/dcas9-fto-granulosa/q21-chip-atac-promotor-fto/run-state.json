@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q21-chip-atac-promotor-fto",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q21-chip-atac-promotor-fto",
+    "goal":  "Identificar bases públicas ChIP-seq o ATAC-seq que perfilen el promotor de FTO y extraer candidatos de factores de transcripción o marcas de cromatina con potencial represor.",
+    "notebook_title":  "Public ChIP-seq and ATAC-seq at FTO promoter (q21)",
+    "dashboard":  "Public ChIP-seq and ATAC-seq at FTO promoter",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-24T18:44:20",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers",
+    "queries_file":  "C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q21-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\questions-q21-chip-atac-promotor-fto.json",
+    "notebook_id":  "88cd18f7-147a-46da-adea-544dfdab4816",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\tmp-sources-q21-chip-atac-promotor-fto.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q21-chip-atac-promotor-fto\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q21-chip-atac-promotor-fto\" -Goal \"Identificar bases públicas ChIP-seq o ATAC-seq que perfilen el promotor de FTO y extraer candidatos de factores de transcripción o marcas de cromatina con potencial represor.\" -QueriesFile \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\runs\\dcas9-fto-granulosa-q21-queries.json\" -NotebookTitle \"Public ChIP-seq and ATAC-seq at FTO promoter (q21)\" -Dashboard \"Public ChIP-seq and ATAC-seq at FTO promoter\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"88cd18f7-147a-46da-adea-544dfdab4816\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/summaries/2026-07-24 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

@@ -1,0 +1,1061 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.64898/2026.06.08.730844",
+                        "title":  "A Drug–Target Specificity Foundation Model for Off-target Prediction, Repurposing, and Generative Design",
+                        "doi":  "10.64898/2026.06.08.730844",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a systematic guide for identifying transcription factors that directly regulate the expression of a gene of interest",
+                        "title":  "A systematic guide for identifying transcription factors that directly regulate the expression of a gene of interest.",
+                        "doi":  "10.1101/gr.281154.125",
+                        "pmid":  "41702709",
+                        "pmcid":  "PMC12951958",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13036-026-00673-6",
+                        "title":  "Application of extracellular vesicles in the CRISPR-based diagnosis and treatment: possibilities and challenges.",
+                        "doi":  "10.1186/s13036-026-00673-6",
+                        "pmid":  "41992329",
+                        "pmcid":  "PMC13202827",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:beyond crispr next gen precision engineering of car nk cells for enhanced persistence trafficking and tumor eradication",
+                        "title":  "Beyond CRISPR: next-gen precision engineering of CAR-NK cells for enhanced persistence, trafficking, and tumor eradication.",
+                        "doi":  "10.1186/s12935-026-04219-0",
+                        "pmid":  "41645252",
+                        "pmcid":  "PMC12964733",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13116973",
+                        "title":  "CRISPR and the Future of Cardiac Disease Therapy: A New Genetic Frontier.",
+                        "doi":  "10.3390/ijms27083641",
+                        "pmid":  "42074279",
+                        "pmcid":  "PMC13116973",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13276603",
+                        "title":  "Delivering the future of immunotherapy: A state-of-the-art review of gene editing in immune cells with lipid nanoparticles.",
+                        "doi":  "10.1016/j.mtbio.2026.103334",
+                        "pmid":  "42326077",
+                        "pmcid":  "PMC13276603",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13160219",
+                        "title":  "Enhancer Dynamics for Gene Regulation in the Cardiovascular System.",
+                        "doi":  "10.1161/atvbaha.125.323110",
+                        "pmid":  "41503698",
+                        "pmcid":  "PMC13160219",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/cimb48040425",
+                        "title":  "Epigenetic and Transcriptomic Pathways Underlying Animal Models of Cognitive and Psychiatric Disorders: A Scoping Review.",
+                        "doi":  "10.3390/cimb48040425",
+                        "pmid":  "42042085",
+                        "pmcid":  "PMC13115134",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenetic editing of marine medaka lt i gt oryzias lt i gt lt i gt melastigma lt i gt lt i gt fgf2 lt i gt using crispr dcas9 tet1cd",
+                        "title":  "Epigenetic editing of marine medaka ( \u0026lt;i\u0026gt;Oryzias\u0026lt;/i\u0026gt; \u0026lt;i\u0026gt;melastigma\u0026lt;/i\u0026gt;) \u0026lt;i\u0026gt;fgf2\u0026lt;/i\u0026gt; using CRISPR/dCas9-Tet1CD.",
+                        "doi":  "10.24272/j.issn.2095-8137.2025.089",
+                        "pmid":  "41633939",
+                        "pmcid":  "PMC13276642",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/ctm2.70720",
+                        "title":  "Inducible CRISPR/Cas systems in precision oncology: Current applications and future perspectives.",
+                        "doi":  "10.1002/ctm2.70720",
+                        "pmid":  "42298891",
+                        "pmcid":  "PMC13269835",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:isoform specific single cell perturb seq reveals distinct functions of alternative promoters in drug response",
+                        "title":  "Isoform-specific single-cell perturb-seq reveals distinct functions of alternative promoters in drug response.",
+                        "doi":  "10.1093/nar/gkag118",
+                        "pmid":  "41728950",
+                        "pmcid":  "PMC12926921",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12998525",
+                        "title":  "KLF5 controls subtype-independent highly interactive enhancers in pancreatic cancer to regulate cell survival.",
+                        "doi":  "10.1126/sciadv.aea2106",
+                        "pmid":  "41849608",
+                        "pmcid":  "PMC12998525",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fcimb.2026.1844116",
+                        "title":  "Multilayer regulation of CRISPR systems: integrating anti-CRISPR proteins, CRISPRi/a, and quorum sensing networks.",
+                        "doi":  "10.3389/fcimb.2026.1844116",
+                        "pmid":  "42272755",
+                        "pmcid":  "PMC13246641",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.cobme.2026.100654",
+                        "title":  "Next generation technologies for CRISPR-based epigenome and transcriptional modulation.",
+                        "doi":  "10.1016/j.cobme.2026.100654",
+                        "pmid":  "42266835",
+                        "pmcid":  "PMC13246158",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:pocket seq enables genome wide profiling of on and off target transcriptional regulation events by dcas9 krab during crispr interference experiments",
+                        "title":  "POCKET-seq enables genome-wide profiling of on- and off-target transcriptional regulation events by dCas9-KRAB during CRISPR interference experiments",
+                        "doi":  "10.64898/2026.06.01.729390",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3892/or.2026.9118",
+                        "title":  "Perturbation of BRD4 and p300 activity suppresses super enhancer‑driven \u0026lt;i\u0026gt;KLF6\u0026lt;/i\u0026gt; expression in renal carcinoma.",
+                        "doi":  "10.3892/or.2026.9118",
+                        "pmid":  "41992978",
+                        "pmcid":  "PMC13107101",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12795505",
+                        "title":  "Predicting the effect of CRISPR-Cas9-based epigenome editing.",
+                        "doi":  "10.7554/elife.92991",
+                        "pmid":  "41524535",
+                        "pmcid":  "PMC12795505",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:research progress and applications of gene activation editing technology in crops",
+                        "title":  "Research progress and applications of gene activation editing technology in crops.",
+                        "doi":  "10.3389/fpls.2026.1787461",
+                        "pmid":  "41937789",
+                        "pmcid":  "PMC13047105",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1111/pbi.70647",
+                        "title":  "Single-Cell CRISPR: An Efficient Strategy for Decoding Plant Cis-Regulatory Complexity.",
+                        "doi":  "10.1111/pbi.70647",
+                        "pmid":  "41854240",
+                        "pmcid":  "PMC13278549",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:targeted epigenetic activation of lt i gt ctla4 lt i gt in haploinsufficiency cellular models by crispra",
+                        "title":  "Targeted Epigenetic Activation of \u0026lt;i\u0026gt;CTLA4\u0026lt;/i\u0026gt; in Haploinsufficiency Cellular Models by CRISPRa.",
+                        "doi":  "10.3390/biomedicines14040793",
+                        "pmid":  "42072337",
+                        "pmcid":  "PMC13113370",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1109/rbme.2024.3494715",
+                        "title":  "A Manual for Genome and Transcriptome Engineering.",
+                        "doi":  "10.1109/rbme.2024.3494715",
+                        "pmid":  "39514364",
+                        "pmcid":  "PMC11875898",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:enhancing specificity precision accessibility flexibility and safety to overcome traditional crispr cas editing challenges and shape future innovations",
+                        "title":  "Enhancing Specificity, Precision, Accessibility, Flexibility, and Safety to Overcome Traditional CRISPR/Cas Editing Challenges and Shape Future Innovations.",
+                        "doi":  "10.1002/advs.202416331",
+                        "pmid":  "40548648",
+                        "pmcid":  "PMC12302564",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40848716",
+                        "title":  "LINE-1 retrotransposons mediate cis-acting transcriptional control in human pluripotent stem cells and regulate early brain development.",
+                        "doi":  "10.1016/j.xgen.2025.100979",
+                        "pmid":  "40848716",
+                        "pmcid":  "PMC12791003",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12783717",
+                        "title":  "Versatile molecular tools enabling customizable DNA methylation editing in Arabidopsis.",
+                        "doi":  "10.1038/s41467-025-66933-z",
+                        "pmid":  "41353342",
+                        "pmcid":  "PMC12783717",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.ymthe.2023.03.024",
+                        "title":  "CRISPR-Cas-mediated transcriptional modulation: The therapeutic promises of CRISPRa and CRISPRi",
+                        "doi":  "10.1016/j.ymthe.2023.03.024",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:38003266",
+                        "title":  "CRISPR/Cas9 Landscape: Current State and Future Perspectives.",
+                        "doi":  "10.3390/ijms242216077",
+                        "pmid":  "38003266",
+                        "pmcid":  "PMC10671331",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas9 therapeutics progress and prospects",
+                        "title":  "CRISPR/Cas9 therapeutics: progress and prospects",
+                        "doi":  "10.1038/s41392-023-01309-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf",
+                        "notebook_source_id":  "22a9f207-9d6d-4452-99ba-cb31b753e321",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr dcas9 tools epigenetic mechanism and application in gene transcriptional regulation",
+                        "title":  "CRISPR/dCas9 Tools: Epigenetic Mechanism and Application in Gene Transcriptional Regulation",
+                        "doi":  "10.3390/ijms241914865",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3389/fbioe.2023.1143157",
+                        "title":  "Off-target effects in CRISPR/Cas9 gene editing",
+                        "doi":  "10.3389/fbioe.2023.1143157",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\congting_2023_off_target_effects_in_crispr_cas9_gene_editing.pdf",
+                        "notebook_source_id":  "b88bde65-5643-4d19-9d2f-b0946e56ad5c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:review for the prolactin receptor a cross species comparison of gene structure transcriptional regulation tissue specificity and genetic variation",
+                        "title":  "Review for \"The prolactin receptor: A cross‐species comparison of gene structure, transcriptional regulation, tissue‐specificity, and genetic variation\"",
+                        "doi":  "10.1111/jne.13385/v1/review3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1111/jne.13385/v1/review2",
+                        "title":  "Review for \"The prolactin receptor: A cross‐species comparison of gene structure, transcriptional regulation, tissue‐specificity, and genetic variation\"",
+                        "doi":  "10.1111/jne.13385/v1/review2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas13 effectors have differing extents of off target effects that limit their utility in eukaryotic cells",
+                        "title":  "CRISPR/Cas13 effectors have differing extents of off-target effects that limit their utility in eukaryotic cells",
+                        "doi":  "10.1101/2021.11.04.467323",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.20944/preprints202102.0033.v1",
+                        "title":  "CRISPR/dCas9-based Systems: Mechanisms and Applications in Plant Sciences",
+                        "doi":  "10.20944/preprints202102.0033.v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:targeted regulation of transcription in primary cells using crispra and crispri",
+                        "title":  "Targeted regulation of transcription in primary cells using CRISPRa and CRISPRi",
+                        "doi":  "10.1101/gr.275607.121",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41392-019-0089-y",
+                        "title":  "Applications of genome editing technology in the targeted therapy of human diseases: mechanisms, advances and prospects",
+                        "doi":  "10.1038/s41392-019-0089-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+                        "notebook_source_id":  "631dbc4e-4971-4d36-ac58-5a8e230cf27b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr rna guided integrases for high efficiency multiplexed bacterial genome engineering",
+                        "title":  "CRISPR RNA-guided integrases for high-efficiency, multiplexed bacterial genome engineering",
+                        "doi":  "10.1038/s41587-020-00745-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas systems in genome editing methodologies and tools for sgrna design off target evaluation and strategies to mitigate off target effects",
+                        "title":  "CRISPR/Cas Systems in Genome Editing: Methodologies and Tools for sgRNA Design, Off‐Target Evaluation, and Strategies to Mitigate Off‐Target Effects",
+                        "doi":  "10.1002/advs.201902312",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:latest developed strategies to minimize the off target effects in crispr cas mediated genome editing",
+                        "title":  "Latest Developed Strategies to Minimize the Off-Target Effects in CRISPR-Cas-Mediated Genome Editing",
+                        "doi":  "10.3390/cells9071608",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13578-019-0298-7",
+                        "title":  "CRISPR Cpf1 proteins: structure, function and implications for genome editing",
+                        "doi":  "10.1186/s13578-019-0298-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\fatemeh_2019_crispr_cpf1_proteins_structure_function_and_implications_for.pdf",
+                        "notebook_source_id":  "667b0829-808a-4a71-ae88-955f90cb6931",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17504/protocols.io.zcpf2vn",
+                        "title":  "CUT\u0026amp;RUN: Targeted in situ genome-wide profiling with high efficiency for low cell numbers v3",
+                        "doi":  "10.17504/protocols.io.zcpf2vn",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:off target effects of crispra on interleukin 6 expression",
+                        "title":  "Off-target effects of CRISPRa on interleukin-6 expression",
+                        "doi":  "10.1371/journal.pone.0224113",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:site specific manipulation of arabidopsis loci using crispr cas9 suntag systems",
+                        "title":  "Site-specific manipulation of Arabidopsis loci using CRISPR-Cas9 SunTag systems",
+                        "doi":  "10.1038/s41467-019-08736-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\ashot_2019_site_specific_manipulation_of_arabidopsis_loci_using_crispr.pdf",
+                        "notebook_source_id":  "7d198aa7-8478-48b2-b4bf-d99c9d85f7fe",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.cell.2018.03.052",
+                        "title":  "An Integrated Genome-wide CRISPRa Approach to Functionalize lncRNAs in Drug Resistance",
+                        "doi":  "10.1016/j.cell.2018.03.052",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:cut amp run targeted in situ genome wide profiling with high efficiency for low cell numbers v1",
+                        "title":  "CUT\u0026amp;RUN: Targeted in situ genome-wide profiling with high efficiency for low cell numbers v1",
+                        "doi":  "10.17504/protocols.io.mgjc3un",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17504/protocols.io.n6wdhfe",
+                        "title":  "CUT\u0026amp;RUN: Targeted in situ genome-wide profiling with high efficiency for low cell numbers v2",
+                        "doi":  "10.17504/protocols.io.n6wdhfe",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17504/protocols.io.wikfccw",
+                        "title":  "GUIDE-seq simplified library preparation protocol (CRISPR/Cas9 off-target cleavage detection) v1",
+                        "doi":  "10.17504/protocols.io.wikfccw",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-018-07901-8",
+                        "title":  "Optimized libraries for CRISPR-Cas9 genetic screens with multiple modalities",
+                        "doi":  "10.1038/s41467-018-07901-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\kendall_2018_optimized_libraries_for_crispr_cas9_genetic_screens_with.pdf",
+                        "notebook_source_id":  "0dc4f046-5781-4a23-ac61-fe9543c91835",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the crispr tool kit for genome editing and beyond",
+                        "title":  "The CRISPR tool kit for genome editing and beyond",
+                        "doi":  "10.1038/s41467-018-04252-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+                        "notebook_source_id":  "b3678d5a-9f29-4abb-a50c-5e914e81d936",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:rna guided transcriptional activation via crispr dcas9 mimics overexpression phenotypes in arabidopsis",
+                        "title":  "RNA-guided transcriptional activation via CRISPR/dCas9 mimics overexpression phenotypes in Arabidopsis",
+                        "doi":  "10.1371/journal.pone.0179410",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13072-017-0129-1",
+                        "title":  "Stabilization of Foxp3 expression by CRISPR-dCas9-based epigenome editing in mouse primary T cells",
+                        "doi":  "10.1186/s13072-017-0129-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\masahiro_2017_stabilization_of_foxp3_expression_by_crispr_dcas9_based.pdf",
+                        "notebook_source_id":  "e890b126-9491-4131-97f3-832d68092a34",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1098/rstb.2015.0496",
+                        "title":  "CRISPR-Cas: biology, mechanisms and relevance",
+                        "doi":  "10.1098/rstb.2015.0496",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas9 in genome editing and beyond",
+                        "title":  "CRISPR/Cas9 in Genome Editing and Beyond",
+                        "doi":  "10.1146/annurev-biochem-060815-014607",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/nar/gkv137",
+                        "title":  "A genome-wide analysis of Cas9 binding specificity using ChIP-seq and targeted sequence capture",
+                        "doi":  "10.1093/nar/gkv137",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/nbt.3404",
+                        "title":  "Broadening the targeting range of Staphylococcus aureus CRISPR-Cas9 by modifying PAM recognition",
+                        "doi":  "10.1038/nbt.3404",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:faculty opinions recommendation of a genome wide analysis of cas9 binding specificity using chip seq and targeted sequence capture",
+                        "title":  "Faculty Opinions recommendation of A genome-wide analysis of Cas9 binding specificity using ChIP-seq and targeted sequence capture.",
+                        "doi":  "10.3410/f.725367733.793511745",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13072-015-0050-4",
+                        "title":  "Making sense of GWAS: using epigenomics and genome engineering to understand the functional relevance of SNPs in non-coding regions of the human genome",
+                        "doi":  "10.1186/s13072-015-0050-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q03-especificidad-off-target\\papers\\yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf",
+                        "notebook_source_id":  "9d5ef908-b0b3-4a7b-aeb5-002cc6288aac",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:non coding rna sequence specific guide for chromatin modification and dna damage signaling",
+                        "title":  "Non-Coding RNA: Sequence-Specific Guide for Chromatin Modification and DNA Damage Signaling",
+                        "doi":  "10.3389/fgene.2015.00320",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.2210/pdb4zt9/pdb",
+                        "title":  "Nuclease-inactive Streptococcus pyogenes Cas9 (D10A/H840A, dCas9) in complex with single-guide RNA at 3.1 Angstrom resolution",
+                        "doi":  "10.2210/pdb4zt9/pdb",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/005413",
+                        "title":  "A genome-wide analysis of Cas9 binding specificity using ChIP-seq and targeted sequence capture",
+                        "doi":  "10.1101/005413",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:comparison of tale designer transcription factors and the crispr dcas9 in regulation of gene expression by targeting enhancers",
+                        "title":  "Comparison of TALE designer transcription factors and the CRISPR/dCas9 in regulation of gene expression by targeting enhancers",
+                        "doi":  "10.1093/nar/gku836",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1523/eneuro.0157-25.2025.f1-1",
+                        "title":  "",
+                        "doi":  "10.1523/eneuro.0157-25.2025.f1-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a cellular stress response induced by the crispr dcas9 activation system is not heritable through cell divisions",
+                        "title":  "A cellular stress response induced by the CRISPR/dCas9 activation system is not heritable through cell divisions",
+                        "doi":  "10.37473//10.1101/2019.12.23.887224",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a cellular stress response induced by the crispr dcas9 activation system is not heritable through cell divisions",
+                        "title":  "A cellular stress response induced by the CRISPR/dCas9 activation system is not heritable through cell divisions",
+                        "doi":  "10.37473/dac/10.1101/2019.12.23.887224",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.21856.017",
+                        "title":  "Figure 6—figure supplement 1. CUT\u0026amp;RUN recapitulates X-ChIP-seq but with higher dynamic range.",
+                        "doi":  "10.7554/elife.21856.017",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:predicting off target potential of crispr cas9 single guide rna",
+                        "title":  "Predicting Off-Target Potential of CRISPR-Cas9 Single Guide RNA",
+                        "doi":  "10.31979/etd.r4d9-6y79",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.15082.014",
+                        "title":  "Supplementary file 1. Wiz genome wide binding sites.",
+                        "doi":  "10.7554/elife.15082.014",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

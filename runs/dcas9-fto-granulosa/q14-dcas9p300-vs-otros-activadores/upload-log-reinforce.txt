@@ -1,0 +1,3 @@
+[16:38:48] Starting parallel upload: 1 PDFs, 1 workers
+[16:38:56] OK - kachanov_2025.pdf
+[16:38:57] DONE: 1 OK, 0 FAIL (of 1)

@@ -1,0 +1,65 @@
+{
+  "slug": "q13-riesgo-desregulacion-fto",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q13-riesgo-desregulacion-fto",
+  "goal": "Determinar cuales son los riesgos de la desregulacion global asociada a FTO por su multiplicidad de blancos de m6A, y como se acota una activacion fisiologica frente a una suprafisiologica.",
+  "dashboard": "FTO dysregulation risk",
+  "notebook_id": "ef0da090-9b28-43a3-9dd4-5889790ce012",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, what unintended or off-target phenotypes have been observed from FTO dysregulation (overexpression or altered activity) in tissues other than the ovary (e.g., memory/neurological deficits, cardiac dysfunction, metabolic effects)?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/answers/2026-07-14 Q01 - according-to-these-sources-what-unintended.md"
+    },
+    {
+      "id": 2,
+      "theme": "mechanisms",
+      "question": "According to these sources, why does FTO's role as a demethylase acting on many m6A-marked transcripts create a risk of pleiotropic or unintended transcriptome-wide effects when its activity is altered?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/answers/2026-07-14 Q02 - according-to-these-sources-why-does.md"
+    },
+    {
+      "id": 3,
+      "theme": "dose-control",
+      "question": "According to these sources (e.g., orthogonal control of mean and variability of endogenous gene expression), what strategies exist for titrating or dose-controlling CRISPRa-driven gene activation to stay within a physiological range rather than supraphysiological overexpression?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/answers/2026-07-14 Q03 - according-to-these-sources-e-g.md"
+    },
+    {
+      "id": 4,
+      "theme": "context",
+      "question": "According to these sources, what is known about FTO's original link to obesity and metabolic phenotypes, and how does this inform the risk of activating FTO beyond physiological levels?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/answers/2026-07-14 Q04 - according-to-these-sources-what-known.md"
+    },
+    {
+      "id": 5,
+      "theme": "mitigation",
+      "question": "What experimental or design strategies do these sources suggest for monitoring or limiting off-target transcriptome-wide effects when using CRISPRa to activate a pleiotropic gene like FTO?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/answers/2026-07-14 Q05 - what-experimental-or-design-strategies-do.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding directly quantifying or bounding the risk of supraphysiological FTO activation specifically via dCas9-p300 CRISPRa in granulosa cells?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/answers/2026-07-14 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/summaries/2026-07-14 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/summaries/2026-07-14 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/summaries/2026-07-14 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/summaries/2026-07-14 FTO dysregulation risk - NotebookLM block summary.md"
+}

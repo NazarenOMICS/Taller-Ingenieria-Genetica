@@ -1,0 +1,140 @@
+{
+  "answer": "The **SELECT method** (single-base elongation- and ligation-based qPCR amplification) is a site-specific technique used to quantify m6A modification at specific adenosine residues [1, 2].\n\n### **How the SELECT Method Works**\nThe method relies on the ability of m6A modifications to hinder the efficiency of DNA polymerase and ligase [1, 3]. The process involves the following steps:\n\n*   **Annealing:** Total RNA is mixed with two specially designed DNA probes, known as **Up and Down primers**, which are complementary to the sequences flanking the interrogated adenosine site [4, 5].\n*   **Elongation and Ligation:** An enzyme mixture containing **Bst 2.0 DNA polymerase**, **SplintR ligase**, and ATP is added to the annealed RNA-DNA complex [5, 6]. \n*   **Hindrance by m6A:** The DNA polymerase elongates the Up primer by a single base to meet the Down primer, and the ligase then joins them. However, if the target adenosine is **m6A-modified**, this elongation and ligation process is significantly impeded [3, 5].\n*   **qPCR Quantification:** The resulting ligated DNA products are amplified and quantified using **real-time qPCR** with common primers [2, 6]. \n*   **Data Interpretation:** Because the modification blocks the reaction, the abundance of the final qPCR products is **inversely proportional** to the level of m6A modification at that specific site [2, 3].\n\n### **Resolution Comparison: SELECT vs. MeRIP**\nThe SELECT method offers significantly higher resolution than traditional MeRIP techniques:\n\n*   **SELECT Resolution:** It provides **single-nucleotide (site-specific) resolution**, allowing researchers to interrogate and quantify modification levels at a precise adenosine residue [1, 7, 8].\n*   **MeRIP Resolution:** In contrast, MeRIP (both MeRIP-seq and MeRIP-qPCR) identifies enriched **\"peaks\"** or regions rather than specific modified bases [9, 10]. Its resolution is limited by the size of the RNA fragments used, typically localizing the modification to a window of **100–200 nucleotides** [9, 10].\n\nWhile SELECT provides superior resolution for individual sites, it requires prior knowledge of the target site (often predicted by tools like SRAMP or identified via broad MeRIP-seq screens), whereas MeRIP-seq can be used for unbiased transcriptome-wide mapping [7, 8, 11].",
+  "conversation_id": "ba06360b-aea4-464f-ac1b-ca750d03c22a",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "99dcba01-13ea-418f-8fb6-9a4d90401cec",
+      "citation_number": 1,
+      "cited_text": "methylation, validation assay, specific quantification of m6a rna modification, m6a rna modification, specific m6a modification,",
+      "start_char": 1176,
+      "end_char": 1305,
+      "chunk_id": "9ef9c5b3-55ab-46c7-ac44-15e5c1399e4f",
+      "passage_id": null,
+      "answer_start_char": 1176,
+      "answer_end_char": 1705,
+      "score": 0.9981938591210114
+    },
+    {
+      "source_id": "99dcba01-13ea-418f-8fb6-9a4d90401cec",
+      "citation_number": 2,
+      "cited_text": "SELECT common primers",
+      "start_char": 3265,
+      "end_char": 3287,
+      "chunk_id": "c0af0eff-df93-4fab-a701-c593c6ce58d5",
+      "passage_id": null,
+      "answer_start_char": 3265,
+      "answer_end_char": 3866,
+      "score": 0.9993979530403372
+    },
+    {
+      "source_id": "bca2deb8-8dd9-4856-97dc-e60503425ec2",
+      "citation_number": 3,
+      "cited_text": "m6A quantification by SELECT method The constructs of minigenes were transfected to HEK293T, and total RNA was extracted after 48 h. The elongation and ligation-based qPCR amplification method SELECT30 was used to quantify the m6A modification. For each RAC site in mRNA, the Ct value of m6A sites was first normalized to two non-RAC sites at each construct to calculate the m6A signal level for each site; the fold change of intensity for each m6A site was calculated by comparing their normalized Ct",
+      "start_char": 74522,
+      "end_char": 75024,
+      "chunk_id": "4d7a4a3f-4014-4b35-950d-c1c1d6bb24ae",
+      "passage_id": null,
+      "answer_start_char": 74522,
+      "answer_end_char": 75024,
+      "score": 0.9969897652016857
+    },
+    {
+      "source_id": "99dcba01-13ea-418f-8fb6-9a4d90401cec",
+      "citation_number": 4,
+      "cited_text": "specific quantification of m6A RNA modification using total RNA, followed by qPCR-based detection of SELECT",
+      "start_char": 1705,
+      "end_char": 1813,
+      "chunk_id": "c0da26eb-9a9e-4cce-9be8-01a4f16c1312",
+      "passage_id": null,
+      "answer_start_char": 1705,
+      "answer_end_char": 2232,
+      "score": 0.9933774834437086
+    },
+    {
+      "source_id": "6add2425-5da2-443e-8dc6-984b23851770",
+      "citation_number": 5,
+      "cited_text": "added to the membrane for 2 h at room temperature with gentle shaking and then developed with enhanced chemiluminescence. Methylene blue staining was used to verify that equal amount mRNA spotted on the membrane.",
+      "start_char": 13038,
+      "end_char": 13251,
+      "chunk_id": "059271d4-8e0e-49fa-8f6d-082d4376ce76",
+      "passage_id": null,
+      "answer_start_char": 13038,
+      "answer_end_char": 14223,
+      "score": 0.9951836243226971
+    },
+    {
+      "source_id": "99dcba01-13ea-418f-8fb6-9a4d90401cec",
+      "citation_number": 6,
+      "cited_text": "50°C for 1 min",
+      "start_char": 2733,
+      "end_char": 2748,
+      "chunk_id": "573c417f-5130-491e-aa5d-092e1fd41aa0",
+      "passage_id": null,
+      "answer_start_char": 2733,
+      "answer_end_char": 3265,
+      "score": 0.9879590608067429
+    },
+    {
+      "source_id": "0146ce5e-d922-48f3-a6f0-b6f6e04f39c7",
+      "citation_number": 7,
+      "cited_text": "Mettl3, we employed SRAMP prediction server (https://www.cuilab.cn/sramp), a sequence-based m6A modi\u0000cation site predictor, and found three sites in Spp1 mRNA, at positions 18, 309, and 559, and one site in Fos mRNA, at position 786 (Fig. 5g). Then we used single-base elongation-and ligation-based qPCR ampli\u0000cation method (SELECT) assay to examine whether Mettl3 undergoes m6A modi\u0000cation through two sites (Spp1 mRNA: position 18; Fos mRNA: position 786). The results showed that Mettl3 increased the m6A modi\u0000cation of Spp1 and Fos at those two positions (Fig. 5h, i). These data",
+      "start_char": 22058,
+      "end_char": 22642,
+      "chunk_id": "546e325b-e0e9-43b8-a4ce-396790dd803d",
+      "passage_id": null,
+      "answer_start_char": 22058,
+      "answer_end_char": 22642,
+      "score": 0.9289584587597832
+    },
+    {
+      "source_id": "b2c66f91-da70-42b0-a9df-2eef81920bc8",
+      "citation_number": 8,
+      "cited_text": "Future prospects New m6A profiling technologies m6A detection and quantification can be achieved by high-speed liquid chromatography after labeling with radioactive [methyl-H3] methionine or LC-MS/MS with deuterium-labeled AdoMet [32, 81]. These methods allow the detection and comparison of the overall m6A level with high sensitivity. However, sequence-specific information is lost during RNase digestion; therefore, the above methods are not suitable for studying m6A modification at specific adenosine residues. SELECT, a single-base elongation and ligation-based qPCR amplification method, has been developed for measuring m6A levels at specific adenosine residues [82]. SELECT is a flexible and convenient approach and is expected to facilitate the detailed characterization of site-specific m6A modifications in the future. Beyond site-specific studies, many groups have also developed various highthroughput assays to delineate the m6A modification profiles on a transcriptome-wide scale. Methylated RNA immunoprecipitation sequencing (MeRIP-Seq or m6A-seq) is the mainstay method for transcriptome-wide m6A profiling. This technique, analogous to ChIP-Seq in the mapping of histone modifications, relies on a specific anti-m6A antibody to pull down m6A-containing RNA fragments, which can then be mapped by next generation sequencing (NGS). Through this approach, more than 10,000 putative m6A modification sites have been identified in the human transcriptome, more commonly",
+      "start_char": 30730,
+      "end_char": 32215,
+      "chunk_id": "f4fff935-d362-4fa9-903c-444fcaad3146",
+      "passage_id": null,
+      "answer_start_char": 30730,
+      "answer_end_char": 32215,
+      "score": 0.9825406381697772
+    },
+    {
+      "source_id": "3a4cd8a7-a845-4922-8770-87ca95b34162",
+      "citation_number": 9,
+      "cited_text": "The first and most widely-used method to enable transcriptome-wide studies of m6A, MeRIP-seq or m6A-seq, involves the immunoprecipitation of m6A-modified RNA fragments followed by peak detection through comparison to background gene coverage16,17. A second method was developed in 2015, miCLIP or m6A-CLIP, which involves crosslinking at the site of antibody binding to induce mutations during reverse transcription for single-nucleotide detection of methylated bases2,18. MeRIP-seq is still more often used than miCLIP, despite less precise localization of m6A to peak regions of approximately 50–200 base pairs that can contain multiple DRAC motifs, since it follows a simpler protocol, requires less starting material, and generally produces higher coverage of more transcripts. Antibodies for m6A can also detect a second base modification, N6,2′-O-dimethyladenosine (m6Am), found at a lower abundance than m6A and located at the 5′ ends of select transcripts15,18. We thus refer to the base modifications detected through MeRIP-seq collectively as m6A(m), although most are likely m6A. As of late 2018, over fifty studies used MeRIP-seq to detect m6A(m) in mammalian mRNA (Supplementary Table 1).",
+      "start_char": 2081,
+      "end_char": 3283,
+      "chunk_id": "150f7f04-3450-4d8d-a82f-b91ba5c085b8",
+      "passage_id": null,
+      "answer_start_char": 2081,
+      "answer_end_char": 3283,
+      "score": 0.99157134256472
+    },
+    {
+      "source_id": "b2c66f91-da70-42b0-a9df-2eef81920bc8",
+      "citation_number": 10,
+      "cited_text": "Fig. 2 Deregulation of m6A modification and m6A regulators in human HCC",
+      "start_char": 32215,
+      "end_char": 32287,
+      "chunk_id": "7b7a33c3-dc63-476a-9085-04f39213a56d",
+      "passage_id": null,
+      "answer_start_char": 32215,
+      "answer_end_char": 35181,
+      "score": 0.9229379891631547
+    },
+    {
+      "source_id": "c2ba7753-77e4-48ad-a27c-40db39a86ac6",
+      "citation_number": 11,
+      "cited_text": "low resolution, antibody-associated bias, higher RNA input requirements, and the need for next-generation sequencing infrastructure [31]. Higher-resolution approaches, including miCLIP, SCARLET, SELECT, DART-seq, GLORI, and enzyme-based methods such as MAZTER-seq, enable site- and transcript-specific detection of m6A modifications. However, these methods involve complex workflows and require specialized reagents, recombinant proteins, or motif-dependent detection strategies [30]. Sequencing-based approaches depend on deep sequencing to obtain sufficient coverage and statistical significance, making them expensive and less practical for routine laboratory use [34]. Lim-ited coverage and technical variability may also increase false-positive and false-negative detection rates and affect reproducibility across studies [34–37]. To address these limitations, we have developed a cost-effective, ELISA-based colorimetric quantification method termed Methylation6A Quantification for Genes (MAQ-G), incorporating comple- mentary capture oligonucleotides (CCOs) designed to target m6A-binding motifs in mRNA transcripts identified through the m6A-FINDiT pipeline. This technique is ultra-sensitive, enabling targeted detection of m6A-modified RNA via complementary capture ssDNA, thereby selectively enriching specific m6A-containing transcripts without the need for recombinant RNA-binding proteins or motif-specific antibodies. MAQ-G utilizes a universal m6A-specific antibody, making the approach more flexible and economically sustainable across different target transcripts. The method is highly sensitive and can detect RNA inputs as low as 100 pg. This increased sensitivity and sequence specificity expand the feasibility of m6A analysis in limited biological samples and support broader application of transcript-specific epitranscriptomic studies and high-throughput research.",
+      "start_char": 6888,
+      "end_char": 8778,
+      "chunk_id": "3a787d43-6d70-4b6f-a522-dfa45b6eedea",
+      "passage_id": null,
+      "answer_start_char": 6888,
+      "answer_end_char": 8778,
+      "score": 0.9909692956050572
+    }
+  ]
+}

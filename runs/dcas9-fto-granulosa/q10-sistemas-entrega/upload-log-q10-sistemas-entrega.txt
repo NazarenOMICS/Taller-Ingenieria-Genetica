@@ -1,0 +1,14 @@
+[18:03:36] Starting parallel upload: 12 PDFs, 4 workers
+[18:03:45] OK - kasra_2020_exosomal_micrornas_derived_from_mesenchymal_stem_cells_cell.pdf
+[18:03:45] OK - johanna_1970_lipid_nanoparticle_mediated_delivery_of_crispr_cas9_for.pdf
+[18:03:46] OK - mahdi_2021_delivery_of_dcas9_crispr_system_into_the_hard.pdf
+[18:03:46] OK - li_2021_nanoparticle_delivery_of_crispr_cas9_for_genome_editing.pdf
+[18:03:49] OK - mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf
+[18:03:50] OK - maryam_2021_b2m_gene_knockout_in_hek293t_cells_by_non.pdf
+[18:03:51] OK - namit_2021_mrna_vaccines_for_infectious_diseases_principles_delivery_and.pdf
+[18:03:53] OK - morane_1970_structural_and_functional_investigations_of_designed_histidine_rich.pdf
+[18:03:55] OK - parisa_2024_comparing_chemical_transfection_electroporation_and_lentiviral_vector_transduction.pdf
+[18:03:55] OK - pawan_2016_protein_kinase_a_a_master_kinase_of_granulosa.pdf
+[18:03:56] OK - vasco_2021_delivery_platforms_for_crispr_cas9_genome_editing_of.pdf
+[18:03:58] OK - shiyi_2025_lentiviral_vector_production_and_primary_astrocyte_transduction_v1.pdf
+[18:03:58] DONE: 12 OK, 0 FAIL (of 12)

@@ -1,0 +1,57 @@
+{
+  "slug": "q03-especificidad-off-target",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q03-especificidad-off-target",
+  "goal": "Determinar el perfil de especificidad y de efectos fuera de blanco de dCas9-p300 en celulas humanas, tanto a nivel de union de las guias como de cambios transcriptomicos globales.",
+  "dashboard": "dCas9-p300 off-target specificity",
+  "notebook_id": "e1baac88-0719-426f-b47a-b620d48b6489",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, what is known specifically about dCas9-p300 (nuclease-dead CRISPRa fusion) off-target binding or off-target transcriptional activation in human cells, as distinct from wild-type Cas9 nuclease off-target cutting?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q03-especificidad-off-target\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/answers/2026-07-24 Q01 - according-to-these-sources-what-known.md"
+    },
+    {
+      "id": 2,
+      "theme": "mechanisms",
+      "question": "What guide RNA mismatch tolerance or sequence features have been reported in these sources that predispose dCas9-based systems to bind or activate unintended genomic loci?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q03-especificidad-off-target\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/answers/2026-07-24 Q02 - what-guide-rna-mismatch-tolerance-or.md"
+    },
+    {
+      "id": 3,
+      "theme": "mechanisms",
+      "question": "What genome-wide profiling methods (e.g., ChIP-seq, CUT&RUN, GUIDE-seq, RNA-seq) do these sources describe for assessing dCas9 or CRISPRa binding specificity and global transcriptomic off-target effects?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q03-especificidad-off-target\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/answers/2026-07-24 Q03 - what-genome-wide-profiling-methods-e.md"
+    },
+    {
+      "id": 4,
+      "theme": "comparisons",
+      "question": "How does the specificity profile of dCas9 fusion-based CRISPR activators compare to the off-target profile of catalytically active Cas9 nuclease editing, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q03-especificidad-off-target\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/answers/2026-07-24 Q04 - how-does-specificity-profile-dcas9-fusion.md"
+    },
+    {
+      "id": 5,
+      "theme": "limitations",
+      "question": "What gaps or limitations remain in these sources regarding direct experimental evidence of dCas9-p300-specific off-target binding or off-target transcriptomic changes in human cells (as opposed to general CRISPR-Cas9 off-target literature)?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q03-especificidad-off-target\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/answers/2026-07-24 Q05 - what-gaps-or-limitations-remain-these.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q03-especificidad-off-target/QA/summaries/2026-07-24 dCas9-p300 off-target specificity - NotebookLM block summary.md"
+}

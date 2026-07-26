@@ -1,0 +1,197 @@
+{
+  "notebook_id": "e1e63fca-378c-4d40-8517-608d3cf815cc",
+  "notebook_title": "C/EBPα occupancy at FTO promoter (q16)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "29cddaf7-6675-465c-8270-1fc8bc3d179b",
+      "title": "bao_2026_inside_the_battle_against_acute_myeloid_leukemia_biology.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:30"
+    },
+    {
+      "index": 2,
+      "id": "ebf9ffbe-4730-4f8b-870a-2b159e0b462c",
+      "title": "bathina_2026_lifestyle_intervention_therapy_modulates_global_dna_methylation_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:30"
+    },
+    {
+      "index": 3,
+      "id": "411716c6-f7f5-4525-92ec-700ed74167e3",
+      "title": "david_2020_cyclin_c_promoter_occupancy_directs_changes_in_stress.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:31"
+    },
+    {
+      "index": 4,
+      "id": "b7016a9c-a199-43e4-9953-84ed5ec1fc11",
+      "title": "lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:31"
+    },
+    {
+      "index": 5,
+      "id": "873aa51b-e325-4f52-b9c9-73f6121b425f",
+      "title": "lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:36"
+    },
+    {
+      "index": 6,
+      "id": "90aebba3-66a1-4301-bf85-eca85c5f1972",
+      "title": "li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:36"
+    },
+    {
+      "index": 7,
+      "id": "bbba47b1-1607-4d63-986c-46b56d5913fa",
+      "title": "poltronieri_2024_regulatory_rnas_role_as_scaffolds_assembling_protein_complexes.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:37"
+    },
+    {
+      "index": 8,
+      "id": "110b9dd5-8c51-4203-8655-5655597b4cf1",
+      "title": "rajaganapathi_2025_tead1_is_a_novel_regulator_of_nrf2_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:37"
+    },
+    {
+      "index": 9,
+      "id": "a9a0c44c-e955-4e59-b1ee-06f6488e0008",
+      "title": "shanshan_2022_dynamic_regulation_and_functions_of_mrna_m6a_modification.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:42"
+    },
+    {
+      "index": 10,
+      "id": "8d7b52a2-1f71-409a-82a5-ad8bc2e3a2fb",
+      "title": "tobias_2024_recruitment_of_ctcf_to_the_sirt1_promoter_after.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:43"
+    },
+    {
+      "index": 11,
+      "id": "cedd8a36-05c1-440d-b804-b2dab4e420bb",
+      "title": "wen_2025_dynamic_rendition_of_adipose_genes_under_epigenetic_regulation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:42"
+    },
+    {
+      "index": 12,
+      "id": "460db9d7-a7e9-4035-9a8e-9f762be0c457",
+      "title": "xiaoyu_2019_the_role_of_m6a_rna_methylation_in_human.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:43"
+    },
+    {
+      "index": 13,
+      "id": "4bc3b656-6f3c-4156-9b8a-0e2b04829156",
+      "title": "yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:48"
+    },
+    {
+      "index": 14,
+      "id": "78c3cc6e-bf56-44c9-952d-359d7f67ce31",
+      "title": "yuhan_2020_role_of_m6a_rna_methylation_in_cardiovascular_disease.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:49"
+    },
+    {
+      "index": 15,
+      "id": "77b32edd-401b-46c3-a3b4-54c39ca43cf4",
+      "title": "zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:48"
+    },
+    {
+      "index": 16,
+      "id": "17a93af7-16e9-49a5-9963-f5900686b186",
+      "title": "zhang_2025_hsf1_activation_mechanisms_disease_roles_and_small_molecule.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:48"
+    },
+    {
+      "index": 17,
+      "id": "dafa4963-1f75-44b4-b60c-0d87753d139c",
+      "title": "zhang_2026_rna_modifications_in_cancer_stem_cells_molecular_mechanisms.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:54"
+    },
+    {
+      "index": 18,
+      "id": "fac254ff-a2ec-409a-b5fb-9010c7d1681f",
+      "title": "zhao_2024_role_of_n6_methyladenosine_methylation_in_nasopharyngeal_carcinoma.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:56"
+    },
+    {
+      "index": 19,
+      "id": "b32a372e-1346-4ba1-925f-4782441d7391",
+      "title": "zhu_2026_cell_signaling_and_transcriptional_regulation_of_osteoclast_lineage.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T17:48:54"
+    }
+  ],
+  "count": 19
+}

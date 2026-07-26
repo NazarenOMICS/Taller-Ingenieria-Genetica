@@ -1,0 +1,152 @@
+{
+  "answer": "Evidence for the **direct repression** of *FTO* through chromatin-level changes and transcription factor (TF) activity is documented in several non-granulosa stress models, though the sources acknowledge that much of the field still relies on associative mRNA/protein correlations [1, 2].\n\nThe more direct evidence found in the sources includes:\n\n### 1. Direct Transcription Factor Regulation\nSpecific transcription factors have been identified as direct regulators of *FTO* transcription, moving beyond simple correlation:\n*   **SP1 in Cardiomyocytes:** In models of oxidative stress in the heart, the transcription factor **SP1** has been shown to directly activate the transcription of *FTO* [3]. Conversely, a reduction in SP1 activity or its binding to the *FTO* promoter under stress leads to decreased *FTO* expression [3].\n*   **CEBPA Feedback Loop:** In leukemia and some cardiomyopathy models, the oncometabolite **R-2HG** represses *FTO* transcription through a positive feedback loop involving **CEBPA** [4, 5]. Specifically, R-2HG initially inhibits FTO enzymatic activity, which leads to the downregulation of *CEBPA* transcripts; the loss of CEBPA then directly inhibits the transcription of the *FTO* gene itself [4].\n\n### 2. DNA Methylation and Promoter Occupancy\nDNA methylation profiling provides some of the most direct evidence for chromatin-mediated regulation of *FTO*:\n*   **Obesity and Adipose Tissue:** The sources state that **hypomethylation of the *FTO* promoter**—often induced by inactivity or high-fat diets—markedly upregulates *FTO* expression [6, 7]. Conversely, **promoter hypermethylation** is identified as a mechanism that silences the gene, reducing the risk of obesity [7].\n*   **Type 2 Diabetes (Pancreatic Islets):** Genome-wide DNA methylation analysis of human pancreatic islets from T2D patients identified *FTO* as one of the genes exhibiting **significant changes in DNA methylation levels** [8]. This provides physical evidence of an altered epigenetic state at the *FTO* locus in a disease context [8].\n\n### 3. Long-Range Chromatin Interactions\n*   **FTO-IRX3/5 Looping:** While the query focuses on the repression of *FTO*, it is worth noting that the *FTO* locus itself acts as a regulatory hub. Chromosome capture experiments have demonstrated that obesity-associated variants within the *FTO* gene form **long-range functional loops** to physically interact with and regulate the *IRX3* and *IRX5* genes megabases away [9, 10].\n\n### 4. Limitations and Correlative vs. Direct Evidence\nThe sources explicitly distinguish between direct mechanistic evidence and simple correlation:\n*   **Associative Nature of Current Research:** A major critique noted in the sources is that current evidence linking m6A modifications to disease is \"largely fragmented and **predominantly associative**,\" focusing on descriptive changes in enzyme expression without defining functional consequences [1].\n*   **Lack of Direct Evidence for Emerging Models:** For newer models like **histone lactylation**, the sources admit that \"direct evidence... is currently lacking\" [2]. It is currently a **conceptual model** that lactylation-mediated chromatin remodeling might alter the accessibility of the *FTO* locus during sepsis-induced metabolic rewiring [2].\n*   **Caution with Peripheral Markers:** Some findings (e.g., regarding *FKBP5* and *DNMT* levels in cardiomyopathy) are identified in **peripheral blood leukocytes** rather than cardiac tissue, which may not accurately reflect direct myocardial-specific mechanisms [11, 12].",
+  "conversation_id": "71ccdea8-4b06-401d-b7b0-6d6782067a2a",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 1,
+      "cited_text": "7. Current limitations and challenges",
+      "start_char": 81424,
+      "end_char": 81462,
+      "chunk_id": "49acc568-5e58-423c-a899-f12cd43139c3",
+      "passage_id": null,
+      "answer_start_char": 81424,
+      "answer_end_char": 82416,
+      "score": 0.7089893420033427
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 2,
+      "cited_text": "Although direct evidence for histone lactylation–m6A coupling in sepsis-induced myocardial dysfunction is currently lacking, several conceptual models support a potential interaction between these two regulatory layers. First, lactylation-mediated chromatin remodeling may alter the transcriptional accessibility of loci encoding core m6A regulators, such as METTL3, FTO, and ALKBH5, thereby indirectly modulating the abundance and balance of the m6A machinery [25,152]. Second, changes in chromatin openness and RNA polymerase II elongation dynamics induced by histone lactylation could influence co-transcriptional m6A deposition on nascent transcripts, particularly those involved in mitochondrial quality control, redox signaling, and regulated cell death pathways [153–156].",
+      "start_char": 87653,
+      "end_char": 88433,
+      "chunk_id": "80bf9f37-792f-4b21-be09-578a8e895b5a",
+      "passage_id": null,
+      "answer_start_char": 87653,
+      "answer_end_char": 88433,
+      "score": 0.7238611163278642
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 3,
+      "cited_text": "xidative stress, arising from an imbalance in reactive oxygen pecies (ROS) homeostasis, is similarly modulated by epitrancriptomic changes. FTO is essential for maintaining mitochon-",
+      "start_char": 41806,
+      "end_char": 41988,
+      "chunk_id": "e0d8e945-8588-486b-8755-f99755dde80d",
+      "passage_id": null,
+      "answer_start_char": 41806,
+      "answer_end_char": 43057,
+      "score": 0.7796752403540137
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 4,
+      "cited_text": null,
+      "start_char": 139912,
+      "end_char": 139913,
+      "chunk_id": "9b16304e-654b-4f7f-a076-e3cf414bf67c",
+      "passage_id": null,
+      "answer_start_char": 139912,
+      "answer_end_char": 140596,
+      "score": 0.7179693709913254
+    },
+    {
+      "source_id": "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+      "citation_number": 5,
+      "cited_text": "that catalyzes the conversion of isocitrate to α-KG and CO2. They",
+      "start_char": 34479,
+      "end_char": 34545,
+      "chunk_id": "6c378f01-1c31-40a2-91fa-0aba07975ee1",
+      "passage_id": null,
+      "answer_start_char": 34479,
+      "answer_end_char": 34994,
+      "score": 0.7049167201585806
+    },
+    {
+      "source_id": "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+      "citation_number": 6,
+      "cited_text": "FTO Hypomethylation of the FTO promoter markedly upregulates FTO expression, which modulates the downstream IRX3/IRX5 gene network, impacts energy expenditure and adipocyte differentiation, and increases individual obesity risk.",
+      "start_char": 15890,
+      "end_char": 16119,
+      "chunk_id": "f8366632-eff5-4ab0-96a3-8145418d4b23",
+      "passage_id": null,
+      "answer_start_char": 15890,
+      "answer_end_char": 16398,
+      "score": 0.7820799413280137
+    },
+    {
+      "source_id": "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+      "citation_number": 7,
+      "cited_text": "in T2DM liver, reducing its mRNA by 40%–60%, upregulating gluconeogenic genes (G6PC, PCK1), and elevating fasting blood glucose.",
+      "start_char": 22027,
+      "end_char": 22156,
+      "chunk_id": "871b1c41-6071-4e53-b391-0fd374dd4c5d",
+      "passage_id": null,
+      "answer_start_char": 22027,
+      "answer_end_char": 22937,
+      "score": 0.7552509233116012
+    },
+    {
+      "source_id": "e4509ff4-37c3-4445-9511-069caa2096b9",
+      "citation_number": 8,
+      "cited_text": "The role of DNA methylation in metabolic disease Diabetes mellitus and its complications. There are changes in DNA methylation levels in organs and tissues related to the pathogenesis of T2D, such as pancreatic islets, adipose tissue, skeletal muscle, and liver (Fig. 4). In 2008, the first epigenetic study on T2D was conducted in pancreatic islets from patients with T2D. It is revealed that DNA methylation levels in the peroxisome proliferator-activated receptor gamma coactivator-1 α (PGC-1α) gene promoter was increased twofold in pancreatic islets of patients with T2D.144 Only one year later, researchers reported results on DNA methylation of the PGC-1α gene in skeletal muscle. They suggested that the PGC-1α promoter shows increased DNA methylation levels in patients with T2D, a finding consistent with the previous research. Furthermore, they found that the DNA methylation levels are negatively related to PGC-1α mRNA and mitochondrial DNA (mtDNA) in skeletal muscle.145 It has been acknowledged that the DNA methylation levels in the insulin promoter are elevated in patients with T2D;146 nevertheless, there are some hypomethylated CpG islands in these patients.147 In 2014, Dayeh and colleagues148 performed a genome-wide DNA methylation analysis of human pancreatic islets in patients with T2D. They revealed that regions further away from the TSS present greater methylation, while areas near the TSS in human islets are less methylated. Besides, the authors identified 1,649 CpG sites and 853 genes in T2D islets with changes in the DNA methylation level, including fat mass and obesity-associated (FTO), potassium voltage-gated channel subfamily Q member 1 (KCNQ1), and transcription factor-7-like-2 (TCF7L2).148 One study investigated DNA methylation levels in subcutaneous abdominal adipose tissue and identified 18 high-confidence candidate genes that are associated with diabetes, including cytoplasmic polyadenylation element-binding protein 4 (CPEB4) and fatty acid synthase (FASN).149 Krause et al.150 found decreased insulin receptor",
+      "start_char": 27215,
+      "end_char": 29278,
+      "chunk_id": "d9b32314-6c81-41e7-82a8-232caa203771",
+      "passage_id": null,
+      "answer_start_char": 27215,
+      "answer_end_char": 29278,
+      "score": 0.7108240357796051
+    },
+    {
+      "source_id": "ecd6cca6-01e1-47b5-825e-13f202b3b66f",
+      "citation_number": 9,
+      "cited_text": "An example of the intimate connection between metabolism and epigenetic control is epitomized by findings on the FTO (fat mass and obesity-associated) gene. The gene encodes an N6-methyladenosine (m6A) demethylase, an enzyme that controls the levels of RNA methylation (Gerken et al. 2007). Single-nucleotide polymorphisms of the FTO gene, associated with obesity, fundamentally alter its response to food intake and thereby influence the development of obesity. The epigenetic connection came through chromosome capture experiments (described in Dekker and Misteli 2014), showing that certain variants of the FTO gene are uniquely correlated with obesity and physically loop to and interact with IRX3, a homeobox gene located megabases away from FTO. Thus, metabolic dysfunction, such as obesity,",
+      "start_char": 2749,
+      "end_char": 3547,
+      "chunk_id": "ed72517e-b765-4ec6-8a13-52d989103801",
+      "passage_id": null,
+      "answer_start_char": 2749,
+      "answer_end_char": 3547,
+      "score": 0.8002075591830665
+    },
+    {
+      "source_id": "ecd6cca6-01e1-47b5-825e-13f202b3b66f",
+      "citation_number": 10,
+      "cited_text": "Shyh-Chang N, Locasale JW, Lyssiotis CA, Zheng Y, Teo RY, Ratanasirin-trawoot S, Zhang J, Onder T, Unternaehrer JJ, Zhu H, et al. 2013. Influence of threonine metabolism on S-adenosylmethionine and histone methylation. Science 339: 222–226.",
+      "start_char": 108737,
+      "end_char": 108978,
+      "chunk_id": "a49036a9-fa21-46cb-8f3a-f8b4824bc90f",
+      "passage_id": null,
+      "answer_start_char": 108737,
+      "answer_end_char": 109402,
+      "score": 0.7739752780264868
+    },
+    {
+      "source_id": "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+      "citation_number": 11,
+      "cited_text": "HAND1, but also novel genes with altered DNA methylation",
+      "start_char": 37671,
+      "end_char": 37728,
+      "chunk_id": "bfe06f7f-e828-410e-8287-7f5097a81adb",
+      "passage_id": null,
+      "answer_start_char": 37671,
+      "answer_end_char": 38180,
+      "score": 0.7364935153388485
+    },
+    {
+      "source_id": "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+      "citation_number": 12,
+      "cited_text": "downregulating Ca2 + reuptake. Additionally, the protein levels",
+      "start_char": 38711,
+      "end_char": 38775,
+      "chunk_id": "7ca94acf-3437-470c-8d99-fa9e261abf88",
+      "passage_id": null,
+      "answer_start_char": 38711,
+      "answer_end_char": 39214,
+      "score": 0.7126816854571913
+    }
+  ]
+}

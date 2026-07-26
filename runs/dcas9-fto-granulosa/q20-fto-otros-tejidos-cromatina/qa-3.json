@@ -1,0 +1,152 @@
+{
+  "answer": "In several non-granulosa stress models—most notably in cardiac and metabolic tissues—the regulation of **FTO** expression at the transcriptional and promoter levels involves specific transcription factors and metabolic feedback loops.\n\nThe following transcription factors and regulators have been implicated:\n\n*   **SP1 (Specificity Protein 1):** In cardiomyocytes, SP1 is identified as a positive regulator that directly **activates the transcription of FTO** [1]. This activation is part of a protective response to oxidative stress; once transcribed, FTO removes m6A marks from *Ambra1* mRNA, stabilizing it to trigger ULK1-mediated autophagy flux, which helps mitigate oxidative damage [1, 2].\n*   **CEBPA (CCAAT Enhancer Binding Protein Alpha):** In the context of dilated cardiomyopathy and leukemia models, the metabolite **R-2-hydroxyglutaric acid (R-2HG)** reduces FTO expression through a **positive feedback loop driven by CEBPA suppression** [3, 4]. Specifically, R-2HG inhibits FTO’s enzymatic activity first, which eventually leads to the downregulation of *CEBPA* transcripts; the loss of CEBPA, in turn, inhibits the transcription of the *FTO* gene itself [3, 4].\n*   **NRF2 (Nuclear Factor Erythroid 2-Related Factor 2):** While direct evidence in the heart during sepsis is still limited, studies in other non-cardiac inflammatory systems have reported that certain antioxidant agents (such as quercetin or resveratrol) influence the m6A network via an **NRF2–FTO pathway** [5]. FTO is also known to inhibit oxidative stress by mediating the m6A demethylation of *Nrf2* mRNA, creating a regulatory link between this master antioxidant factor and FTO levels [6].\n*   **FOXO1 (Forkhead Box O1):** FTO is implicated in a metabolic regulatory axis with FOXO1 [7]. For example, the drug entacapone acts as an FTO inhibitor that modulates body weight and blood glucose by targeting the **FTO-FOXO1 axis** in an m6A-dependent manner [7, 8].\n*   **Promoter Methylation Dynamics:** Beyond specific protein factors, the physical state of the *FTO* promoter is a major regulator. **Hypomethylation of the FTO promoter** (often induced by a high-fat diet or physical inactivity) markedly upregulates its expression, whereas **promoter hypermethylation** silences the gene [9, 10].\n\nWhile the sources also discuss **HIF1α** as a major transcriptional driver of metabolic reprogramming under stress, they primarily highlight FTO's role in **stabilizing HIF1α transcripts** (e.g., in adipose tissue browning) rather than HIF1α acting as a direct promoter-binding regulator of FTO [11]. Conversely, in hypoxia models, HIF1α is reported to directly transactivate **ALKBH5** (another m6A eraser), but a similar direct link to *FTO* transcription is not explicitly detailed in these excerpts [12].",
+  "conversation_id": "71ccdea8-4b06-401d-b7b0-6d6782067a2a",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 1,
+      "cited_text": "xidative stress, arising from an imbalance in reactive oxygen pecies (ROS) homeostasis, is similarly modulated by epitrancriptomic changes. FTO is essential for maintaining mitochon-",
+      "start_char": 41806,
+      "end_char": 41988,
+      "chunk_id": "a713d985-0ce5-4939-bea1-5c1c074083ad",
+      "passage_id": null,
+      "answer_start_char": 41806,
+      "answer_end_char": 43057,
+      "score": 0.823103575546916
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 2,
+      "cited_text": "124 . Y. Chen, Y. Liu, W. Tu, Y. Chen, C. Xu, and C. Huang, “m6A Demethylase FTO Transcriptionally Activated by SP1 Improves Ischemia Reperfusion-Triggered Acute Kidney Injury by Activating Ambra1/ULK1-Mediated Autophagy,” Faseb Journal 38, no. 20 (2024): e70118.",
+      "start_char": 207686,
+      "end_char": 207950,
+      "chunk_id": "b1bea8a8-1977-4551-b6f3-9f3189726a1d",
+      "passage_id": null,
+      "answer_start_char": 207686,
+      "answer_end_char": 208356,
+      "score": 0.7551665217965711
+    },
+    {
+      "source_id": "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+      "citation_number": 3,
+      "cited_text": "that catalyzes the conversion of isocitrate to α-KG and CO2. They",
+      "start_char": 34479,
+      "end_char": 34545,
+      "chunk_id": "c2f9e925-a3c6-4638-a311-5e628dc341df",
+      "passage_id": null,
+      "answer_start_char": 34479,
+      "answer_end_char": 34994,
+      "score": 0.736792276220718
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 4,
+      "cited_text": null,
+      "start_char": 139912,
+      "end_char": 139913,
+      "chunk_id": "6887fea1-2523-4b28-a8a7-580ebeccb65f",
+      "passage_id": null,
+      "answer_start_char": 139912,
+      "answer_end_char": 140596,
+      "score": 0.7546980747478741
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 5,
+      "cited_text": "including quercetin, puerarin, and resveratrol, have been shown to attenuate oxidative stress and preserve mitochondrial integrity in experimental sepsis or inflammatory models. In some non-cardiac or non-septic systems, these agents have been reported to influence components of the m6A regulatory network, such as the NRF2–FTO or METTL3-related pathways [147–149]. However, direct evidence demonstrating that these compounds modulate myocardial m6A machinery in sepsis remains limited. Thus, their reported cardioprotective effects in SIMD are more likely mediated through upstream redox modulation and mitochondrial protection, rather than direct targeting of m6A writers, erasers, or readers.",
+      "start_char": 78317,
+      "end_char": 79014,
+      "chunk_id": "aa0bde34-959d-4cbd-92d2-c1719b3a02e3",
+      "passage_id": null,
+      "answer_start_char": 78317,
+      "answer_end_char": 79014,
+      "score": 0.7302469527913499
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 6,
+      "cited_text": ".3 m6 A-Regulated in Neurological and",
+      "start_char": 64030,
+      "end_char": 64068,
+      "chunk_id": "41f8e711-6feb-4f44-a0b2-b251927b49eb",
+      "passage_id": null,
+      "answer_start_char": 64030,
+      "answer_end_char": 64887,
+      "score": 0.7667695442301747
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 7,
+      "cited_text": "ntacapone is a catechol O-methyltransferase inhibitor used to reat Parkinson’s disease [ 384 ]. Structure-based virtual screenng of U.S. Food and Drug Administration-approved drug and nzyme activity assays demonstrated that entacapone exhibits otent inhibitory activity against FTO, with an IC50 value of .5 µM. Docking analysis and crystallography revealed that ntacapone occupied both the cofactor and the substrate binding ites of FTO. In vivo, entacapone modulated body weight and lood glucose levels by targeting the FTO-FOXO1 axis in an 6 A-dependent manner [ 328 ]. Inhibitors derived from previously eveloped drugs often exhibit off-target enzymatic activities and ack specificity for FTO, thereby prompting researchers to develop ore effective, specific, and selective FTO inhibitors.",
+      "start_char": 136753,
+      "end_char": 137547,
+      "chunk_id": "cebab3a5-e2b9-4c5d-a8bd-04b0b40dd699",
+      "passage_id": null,
+      "answer_start_char": 136753,
+      "answer_end_char": 137547,
+      "score": 0.7581998402574477
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 8,
+      "cited_text": "326 . L. Xiao, X. Li, Z. Mu, et al., “FTO Inhibition Enhances the Antitumor Effect of Temozolomide by Targeting MYC-miR-155/23a Cluster-MXI1 Feedback Circuit in Glioma,” Cancer Research 80, no. 18 (2020): 3945– 3958.",
+      "start_char": 251259,
+      "end_char": 251476,
+      "chunk_id": "cd1a9231-befe-4750-b906-01baad236a18",
+      "passage_id": null,
+      "answer_start_char": 251259,
+      "answer_end_char": 251919,
+      "score": 0.7694796439069294
+    },
+    {
+      "source_id": "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+      "citation_number": 9,
+      "cited_text": "FTO Hypomethylation of the FTO promoter markedly upregulates FTO expression, which modulates the downstream IRX3/IRX5 gene network, impacts energy expenditure and adipocyte differentiation, and increases individual obesity risk.",
+      "start_char": 15890,
+      "end_char": 16119,
+      "chunk_id": "cf48edba-f50a-4d83-996a-64de2417e8e7",
+      "passage_id": null,
+      "answer_start_char": 15890,
+      "answer_end_char": 16398,
+      "score": 0.7899348108475119
+    },
+    {
+      "source_id": "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+      "citation_number": 10,
+      "cited_text": "in T2DM liver, reducing its mRNA by 40%–60%, upregulating gluconeogenic genes (G6PC, PCK1), and elevating fasting blood glucose.",
+      "start_char": 22027,
+      "end_char": 22156,
+      "chunk_id": "ab37fb96-fa89-4b72-be15-3cff26d53818",
+      "passage_id": null,
+      "answer_start_char": 22027,
+      "answer_end_char": 22937,
+      "score": 0.7487909066944003
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 11,
+      "cited_text": "TO deficiency increased energy expenditure by browning of hite adipose tissue in mice, in which mitochondria play a ital regulatory role in m6 A modification-mediated alteration f adipose tissue thermogenesis and lipid metabolism. Loss of TO upregulates uncoupling protein 1 (UCP1) expression and nhances mitochondrial uncoupling in adipocytes [ 284 ]. Consis-ent with this, the browning of white adipocytes is almost absent n mice with adipose-specific FTO deletion. Mechanistically, TO depletion increased the abundance of m6 A-modified HIF1 α ranscript, which can be bound by YTHDC2 for facilitating IF1 α translation, thereby positively modulating thermogenic ene expression such as Prdm16 , Pgc1 α, Ppar γ, and Ucp1 , and nducing browning and thermogenesis of white adipocytes [ 285 ].",
+      "start_char": 100602,
+      "end_char": 101392,
+      "chunk_id": "a7131087-6251-4173-bfe6-d99cff359c8b",
+      "passage_id": null,
+      "answer_start_char": 100602,
+      "answer_end_char": 101392,
+      "score": 0.7611333063716574
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 12,
+      "cited_text": "entral to the hypoxic response are hypoxia-inducible factors HIFs), the primary transcriptional drivers of metabolic reproramming. In this context, m6 A modification constitutes a key egulator of the HIF signaling axis. Under hypoxic conditions, LKBH5 removes m6 A marks from histone deacetylase type 4 HDAC4) transcripts, resulting in an accumulation of HDAC4 RNA and protein [ 122 ]. Elevated HDAC4 subsequently deacety- ates hypoxia inducible factor 1 alpha (HIF1 α), which protects he latter against ubiquitin-mediated degradation and enhances ts stability. This stabilization establishes a potent positive feed- ack loop, as stabilized HIF1 α further transactivates ALKBH5 xpression.",
+      "start_char": 41119,
+      "end_char": 41806,
+      "chunk_id": "d1dce170-1259-49c8-bef7-c210a61666ed",
+      "passage_id": null,
+      "answer_start_char": 41119,
+      "answer_end_char": 41806,
+      "score": 0.7314571206833178
+    }
+  ]
+}

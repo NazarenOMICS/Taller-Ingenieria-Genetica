@@ -1,0 +1,26 @@
+[17:27:00] Starting parallel upload: 24 PDFs, 4 workers
+[17:27:08] OK - alexa_2020_limits_in_the_detection_of_m6a_changes_using.pdf
+[17:27:09] OK - anna_2023_exclusion_of_m6a_from_splice_site_proximal_regions.pdf
+[17:27:11] OK - ci_2024_methylated_lncrnas_suppress_apoptosis_of_gastric_cancer_stem.pdf
+[17:27:12] OK - christopher_2022_detection_of_m6a_from_direct_rna_sequencing_using.pdf
+[17:27:14] OK - cristina_2023_the_mrna_methyltransferase_mettl3_modulates_cytokine_mrna_stability.pdf
+[17:27:14] OK - hao_2024_mettl3_drives_heart_failure_by_regulating_spp1_and.pdf
+[17:27:18] OK - jingang_2023_exosome_targeted_delivery_of_mettl14_regulates_nfatc1_m6a.pdf
+[17:27:18] OK - jie_2021_histone_lactylation_drives_oncogenesis_by_facilitating_m6a_reader.pdf
+[17:27:21] OK - lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf
+[17:27:21] OK - lijuan_2021_a_neural_m6a_ythdf_pathway_is_required_for.pdf
+[17:27:24] OK - neha_2026_a_novel_method_for_the_identification_and_quantification.pdf
+[17:27:24] OK - mengnuo_2020_the_emerging_roles_of_n6_methyladenosine_m6a_deregulation.pdf
+[17:27:26] OK - paper_2024_m6a_reader_hnrnpc_facilitates_adipogenesis_by_regulating_cytoskeletal.pdf
+[17:27:27] OK - song_2020_an_oncopeptide_regulates_m6a_recognition_by_the_m6a.pdf
+[17:27:31] OK - xiaoyu_2024_ginger_inhibits_the_invasion_of_ovarian_cancer_cells.pdf
+[17:27:31] OK - wei_2021_role_of_m6a_methyltransferase_component_virma_in_multiple.pdf
+[17:27:31] OK - xin_2025_m6a_rna_immunoprecipitation_merip_v1.pdf
+[17:27:33] OK - xin_2025_select_based_quantification_of_site_specific_m6a_modification.pdf
+[17:27:37] OK - yanhua_2021_role_of_hakai_in_m6a_modification_pathway_in.pdf
+[17:27:38] OK - yang_2022_chronic_corticosterone_disrupts_the_circadian_rhythm_of_crh.pdf
+[17:27:40] OK - yingpeng_2021_mettl3_dependent_m6a_modification_programs_t_follicular_helper.pdf
+[17:27:40] OK - yuanhui_2019_m6a_in_mrna_coding_regions_promotes_translation_via.pdf
+[17:27:43] OK - zhongxin_2021_the_m6a_mrna_demethylase_fto_in_granulosa_cells.pdf
+[17:27:44] OK - zhiyuan_2023_exon_intron_boundary_inhibits_m6a_deposition_enabling_m6a.pdf
+[17:27:45] DONE: 24 OK, 0 FAIL (of 24)

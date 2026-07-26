@@ -1,0 +1,725 @@
+﻿{
+    "date":  "2026-07-24",
+    "sources":  [
+                    {
+                        "target_id":  "PMID:42274489",
+                        "title":  "Epigenetic Regulation of Uterine Smooth Muscle Tumors: Histone Modifications in Uterine Fibroids and Leiomyosarcoma.",
+                        "doi":  "10.3390/biology15110838",
+                        "pmid":  "42274489",
+                        "pmcid":  "PMC13255634",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf",
+                        "notebook_source_id":  "a61faf83-9d78-4025-bb02-67e2556b441b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:42169659",
+                        "title":  "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+                        "doi":  "10.3892/mmr.2026.13913",
+                        "pmid":  "42169659",
+                        "pmcid":  "PMC13238957",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:n6 methyladenosine modification in the context of viral infection from molecular mechanism to therapeutic potential",
+                        "title":  "N6-methyladenosine modification in the context of viral infection: from molecular mechanism to therapeutic potential.",
+                        "doi":  "10.1016/j.virusres.2026.199749",
+                        "pmid":  "42162629",
+                        "pmcid":  "PMC13234715",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\wu_2026_n6_methyladenosine_modification_in_the_context_of_viral.pdf",
+                        "notebook_source_id":  "455cb590-644c-4e2e-bcbd-36d5c133fc48",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:novel genome editing approaches to manipulate apical meristem activity for crop yield",
+                        "title":  "Novel genome editing approaches to manipulate apical meristem activity for crop yield.",
+                        "doi":  "10.3389/fpls.2026.1743528",
+                        "pmid":  "41959582",
+                        "pmcid":  "PMC13057558",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\carrasco_2026_novel_genome_editing_approaches_to_manipulate_apical_meristem.pdf",
+                        "notebook_source_id":  "5c7400ea-f1a8-4ba7-a0df-3c49a81e94fd",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13059-026-04037-7",
+                        "title":  "RNA modification-mediated multidimensional crosstalk: a novel perspective on gene expression regulation.",
+                        "doi":  "10.1186/s13059-026-04037-7",
+                        "pmid":  "41918117",
+                        "pmcid":  "PMC13162458",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:regulatory risk loci link disrupted androgen response to the pathophysiology of polycystic ovary syndrome",
+                        "title":  "Regulatory risk loci link disrupted androgen response to the pathophysiology of polycystic ovary syndrome.",
+                        "doi":  "10.1210/jendso/bvag083",
+                        "pmid":  "41994484",
+                        "pmcid":  "PMC13080274",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf",
+                        "notebook_source_id":  "49227af1-333c-4504-89d0-de5d98fecfea",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41623376",
+                        "title":  "The orchestrated interplay between DNA methylation and N6-methyladenosine modification: \u0026lt;i\u0026gt;status quo\u0026lt;/i\u0026gt; and future perspectives.",
+                        "doi":  "10.7717/peerj.20654",
+                        "pmid":  "41623376",
+                        "pmcid":  "PMC12857562",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yang_2026_the_orchestrated_interplay_between_dna_methylation_and_n6.pdf",
+                        "notebook_source_id":  "a4216d30-4acf-4641-a848-4a3b783b6003",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3892/mmr.2026.13908",
+                        "title":  "m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modification in skeletal system diseases (Review).",
+                        "doi":  "10.3892/mmr.2026.13908",
+                        "pmid":  "42169641",
+                        "pmcid":  "PMC13220071",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.5376/mgg.2025.16.0017",
+                        "title":  "ATAC-seq Reveals Chromatin Accessibility Changes During Maize Seed Development",
+                        "doi":  "10.5376/mgg.2025.16.0017",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40759339",
+                        "title":  "Characterization of the core promoter region of bovine FTO gene: Identification and potential regulation by GR, FOXO1, C/EBPβ, and PPARα binding sites.",
+                        "doi":  "10.1016/j.gene.2025.149705",
+                        "pmid":  "40759339",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-025-64009-6",
+                        "title":  "Fosl2 facilitates chromatin accessibility to determine developmental events during follicular maturation.",
+                        "doi":  "10.1038/s41467-025-64009-6",
+                        "pmid":  "41062456",
+                        "pmcid":  "PMC12508199",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf",
+                        "notebook_source_id":  "2e8c71ab-5cc9-48a5-8db5-9964557b3324",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s12929-025-01176-0",
+                        "title":  "Fto-mediated m\u0026lt;sup\u0026gt;6\u0026lt;/sup\u0026gt;A modification is essential for cerebellar development through regulating epigenetic reprogramming.",
+                        "doi":  "10.1186/s12929-025-01176-0",
+                        "pmid":  "40883822",
+                        "pmcid":  "PMC12398073",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\jiang_2025_fto_mediated_m_lt_sup_gt_6_lt.pdf",
+                        "notebook_source_id":  "849a9199-e447-440d-b322-51b46b75dc32",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:eacr 2024 innovative cancer science 10 13 june 2024 rotterdam netherlands",
+                        "title":  "EACR 2024: Innovative Cancer Science, 10-13 June 2024, Rotterdam, Netherlands.",
+                        "doi":  "10.1002/1878-0261.13683",
+                        "pmid":  "38845177",
+                        "pmcid":  "PMC11156946",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "pmc_oa",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf",
+                        "notebook_source_id":  "2b757c23-90a2-4ed2-b251-b0eb6899ba38",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-024-53997-6",
+                        "title":  "YTHDF2 upregulation and subcellular localization dictate CD8 T cell polyfunctionality in anti-tumor immunity",
+                        "doi":  "10.1038/s41467-024-53997-6",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\haiyan_2024_ythdf2_upregulation_and_subcellular_localization_dictate_cd8_t.pdf",
+                        "notebook_source_id":  "d901665d-3d06-477b-b80b-13eb92bfc472",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epidecoder a functional exploration tool for epigenetic and epitranscriptomic regulation",
+                        "title":  "epidecodeR: a functional exploration tool for epigenetic and epitranscriptomic regulation.",
+                        "doi":  "10.1093/bib/bbad521",
+                        "pmid":  "38271482",
+                        "pmcid":  "PMC10810334",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\joshi_2024_epidecoder_a_functional_exploration_tool_for_epigenetic_and.pdf",
+                        "notebook_source_id":  "6e94068e-dfc8-41bd-b237-aec8f143e6b7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-023-37211-7",
+                        "title":  "Epigenetic and transcriptomic characterization reveals progression markers and essential pathways in clear cell renal cell carcinoma",
+                        "doi":  "10.1038/s41467-023-37211-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yige_2023_epigenetic_and_transcriptomic_characterization_reveals_progression_markers_and.pdf",
+                        "notebook_source_id":  "7b91c3fa-e006-4067-9ab7-eb773d2adf3d",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-023-35958-7",
+                        "title":  "scm6A-seq reveals single-cell landscapes of the dynamic m6A during oocyte maturation and early embryonic development",
+                        "doi":  "10.1038/s41467-023-35958-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\huan_2023_scm6a_seq_reveals_single_cell_landscapes_of_the.pdf",
+                        "notebook_source_id":  "60b4d0d6-aeab-4cb0-acda-0f101289acd1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-021-22448-x",
+                        "title":  "A compendium and comparative epigenomics analysis of cis-regulatory elements in the pig genome",
+                        "doi":  "10.1038/s41467-021-22448-x",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yunxia_2021_a_compendium_and_comparative_epigenomics_analysis_of_cis.pdf",
+                        "notebook_source_id":  "63f1790d-5ee3-4c4a-aca5-566f1341df5e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:disease associated genetic variants in the regulatory regions of human genes mechanisms of action on transcription and genomic resources for dissecting these mechanisms",
+                        "title":  "Disease-associated genetic variants in the regulatory regions of human genes: mechanisms of action on transcription and genomic resources for dissecting these mechanisms",
+                        "doi":  "10.18699/vj21.003",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\e_2021_disease_associated_genetic_variants_in_the_regulatory_regions.pdf",
+                        "notebook_source_id":  "53a379e3-47ec-47de-a5d0-f1e9686e63ca",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr011njp",
+                        "title":  "ENCSR011NJP",
+                        "doi":  "10.17989/encsr011njp",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr208hap",
+                        "title":  "ENCSR208HAP",
+                        "doi":  "10.17989/encsr208hap",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr275lcf",
+                        "title":  "ENCSR275LCF",
+                        "doi":  "10.17989/encsr275lcf",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr454uth",
+                        "title":  "ENCSR454UTH",
+                        "doi":  "10.17989/encsr454uth",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41598-019-44076-8",
+                        "title":  "ATAC-seq reveals alterations in open chromatin in pancreatic islets from subjects with type 2 diabetes",
+                        "doi":  "10.1038/s41598-019-44076-8",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\madhusudhan_2019_atac_seq_reveals_alterations_in_open_chromatin_in.pdf",
+                        "notebook_source_id":  "58b2fa01-eb83-48cc-a42f-6605f7319b17",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC6778823",
+                        "title":  "Abstracts from the 51st European Society of Human Genetics Conference: Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC6778823",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.jcmgh.2019.09.006",
+                        "title":  "The Dynamic Chromatin Architecture of the Regenerating Liver",
+                        "doi":  "10.1016/j.jcmgh.2019.09.006",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fto dependent n sup 6 sup methyladenosine regulates cardiac function during remodeling and repair",
+                        "title":  "FTO-Dependent N \u003csup\u003e6\u003c/sup\u003e -Methyladenosine Regulates Cardiac Function During Remodeling and Repair",
+                        "doi":  "10.1161/circulationaha.118.033794",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:shared genetic contribution to type 1 and type 2 diabetes risk",
+                        "title":  "Shared genetic contribution to type 1 and type 2 diabetes risk",
+                        "doi":  "10.1101/285304",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\anthony_2018_shared_genetic_contribution_to_type_1_and_type.pdf",
+                        "notebook_source_id":  "9a0ee980-54c2-422a-b3fc-0cce45043bd5",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:using three dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits",
+                        "title":  "Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits",
+                        "doi":  "10.1101/406330",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\paola_2018_using_three_dimensional_regulatory_chromatin_interactions_from_adult.pdf",
+                        "notebook_source_id":  "b773a511-ac74-42d9-9770-0ba0d47b625e",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the genetics of transcription factor dna binding variation",
+                        "title":  "The Genetics of Transcription Factor DNA Binding Variation",
+                        "doi":  "10.1016/j.cell.2016.07.012",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:obesity associated variants within fto form long range functional connections with irx3",
+                        "title":  "Obesity-associated variants within FTO form long-range functional connections with IRX3",
+                        "doi":  "10.1038/nature13138",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:survival of pancreatic beta cells is partly controlled by a tcf7l2 p53 p53inp1 dependent pathway",
+                        "title":  "Survival of pancreatic beta cells is partly controlled by a TCF7L2-p53-p53INP1-dependent pathway.",
+                        "doi":  "10.1093/hmg/ddr454",
+                        "pmid":  "21965303",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1371/journal.pone.0008771",
+                        "title":  "Hypothalamic-Specific Manipulation of Fto, the Ortholog of the Human Obesity Gene FTO, Affects Food Intake in Rats",
+                        "doi":  "10.1371/journal.pone.0008771",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yi_chun_2010_hypothalamic_specific_manipulation_of_fto_the_ortholog_of.pdf",
+                        "notebook_source_id":  "c03c5bf4-d8b9-4575-9f3d-6da922bba9da",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:genome wide association scan shows genetic variants in the fto gene are associated with obesity related traits",
+                        "title":  "Genome-Wide Association Scan Shows Genetic Variants in the FTO Gene Are Associated with Obesity-Related Traits",
+                        "doi":  "10.1371/journal.pgen.0030115",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\angelo_2007_genome_wide_association_scan_shows_genetic_variants_in.pdf",
+                        "notebook_source_id":  "5532c87b-c78b-4e00-9d47-8ed390d4ebb7",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:12917410",
+                        "title":  "The role of liver X receptor-alpha in the fatty acid regulation of hepatic gene expression.",
+                        "doi":  "",
+                        "pmid":  "12917410",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/s0196-9781(01)00443-0",
+                        "title":  "Cholecystokinin gene transcription: promoter elements, transcription factors and signaling pathways",
+                        "doi":  "10.1016/s0196-9781(01)00443-0",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 1 figure supplement 2 changes in chromatin accessibility at oct4 bound sites following depletion of oct4 in escs",
+                        "title":  "Figure 1—figure supplement 2. Changes in chromatin accessibility at OCT4-bound sites following depletion of OCT4 in ESCs.",
+                        "doi":  "10.7554/elife.22631.005",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.32341.004",
+                        "title":  "Figure 2. Validation of Dam chromatin accessibility profiling compared to ATAC and FAIRE-seq.",
+                        "doi":  "10.7554/elife.32341.004",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.22631.009",
+                        "title":  "Figure 3. The chromatin remodelling enzyme BRG1 is required to create accessible chromatin at OCT4 target sites.",
+                        "doi":  "10.7554/elife.22631.009",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7554/elife.21883.014",
+                        "title":  "Figure 3—figure supplement 4. Correlation of brain-derived DNase-seq and ATAC-seq datasets.",
+                        "doi":  "10.7554/elife.21883.014",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 4 source data 1 table of mcf7 encode chip seq data sets",
+                        "title":  "Figure 4—source data 1. Table of MCF7 ENCODE ChIP-seq data sets.",
+                        "doi":  "10.7554/elife.35073.014",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.32657/10356/35760",
+                        "title":  "Identification of cellular transcription factors binding to HBV promoter with naturally occurring deletions",
+                        "doi":  "10.32657/10356/35760",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:supplemental information 5 predicting transcription factors that bind to the i ldox i promoter",
+                        "title":  "Supplemental Information 5: Predicting transcription factors that bind to the\n                      \u003ci\u003eLDOX\u003c/i\u003e\n                      promoter",
+                        "doi":  "10.7717/peerj.19975/supp-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.14264/158331",
+                        "title":  "TRANSCRIPTIONAL REGULATION OF THE c-fms PROMOTER BY THE ETS FAMILY OF TRANSCRIPTION FACTORS",
+                        "doi":  "10.14264/158331",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.8461/table-3",
+                        "title":  "Table 3: Transcription factors with predicted binding in the promoter regions of Slfn family members.",
+                        "doi":  "10.7717/peerj.8461/table-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

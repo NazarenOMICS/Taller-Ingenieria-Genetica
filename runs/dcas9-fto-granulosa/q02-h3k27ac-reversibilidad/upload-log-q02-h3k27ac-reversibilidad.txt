@@ -1,0 +1,13 @@
+[10:35:33] Starting parallel upload: 11 PDFs, 4 workers
+[10:35:45] OK - benjamin_2015_strategies_for_precision_modulation_of_gene_expression_by.pdf
+[10:35:46] OK - chenya_2021_spatiotemporal_control_of_crispr_cas9_gene_editing.pdf
+[10:35:47] OK - daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf
+[10:35:47] OK - dirk_2017_drug_tunable_multidimensional_synthetic_gene_control_using_inducible.pdf
+[10:35:52] OK - gough_2023_dissection_of_a_non_coding_risk_locus_at.pdf
+[10:35:53] OK - hongxin_2020_cell_cell_contact_induced_gene_editing_activation_in.pdf
+[10:35:54] OK - jackson_2022_a_histone_deacetylase_network_regulates_epigenetic_reprogramming_and.pdf
+[10:35:54] OK - matthew_2019_sufficiency_analysis_of_estrogen_responsive_enhancers_using_synthetic.pdf
+[10:35:58] OK - minhee_2016_the_epigenome_the_next_substrate_for_engineering.pdf
+[10:36:00] OK - mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf
+[10:36:01] OK - t_2018_sirt6_haploinsufficiency_induces_brafv600e_melanoma_cell_resistance_to.pdf
+[10:36:01] DONE: 11 OK, 0 FAIL (of 11)

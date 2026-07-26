@@ -1,0 +1,116 @@
+{
+  "answer": "Several of the provided sources examine or propose chromatin-level and regulatory DNA mechanisms to explain changes in FTO expression, particularly through **DNA methylation**, **transcription factor activity**, and **chromatin remodeling** driven by metabolic stress.\n\n### 1. DNA Methylation and Promoter Changes\nThe sources identify DNA methylation as a primary mechanism regulating the *FTO* gene across various metabolic contexts:\n*   **Obesity and Adipose Tissue:** Evidence indicates that **promoter hypermethylation** silences the *FTO* gene, which is associated with a reduced risk of obesity [1]. Conversely, hypomethylation of the *FTO* promoter—often induced by inactivity or a high-fat diet—markedly upregulates its expression [1, 2].\n*   **Type 2 Diabetes (Pancreatic Islets):** A genome-wide DNA methylation analysis of human pancreatic islets from patients with type 2 diabetes identified *FTO* as one of the genes showing **significant changes in DNA methylation levels**, suggesting this epigenetic modification contributes to the disease-associated alterations in its expression [3].\n\n### 2. Transcription Factor Occupancy\nIn cardiac tissue, the regulation of *FTO* transcription is linked to specific DNA-binding proteins:\n*   **Cardiomyocytes (SP1 Activity):** The transcription factor **SP1** has been identified as a positive regulator that directly activates the transcription of *FTO* in cardiomyocytes [4]. This mechanism is part of a pathway that maintains mitochondrial integrity and limits oxidative stress; thus, changes in SP1 activity or its occupancy at the *FTO* promoter would directly impact *FTO* expression levels [4].\n\n### 3. Chromatin Remodeling and Metabolic Signaling\nThe sources discuss how metabolic stress and oncometabolites influence the epigenetic landscape surrounding the *FTO* locus:\n*   **Sepsis-Induced Myocardial Dysfunction (Histone Lactylation):** While direct evidence is still emerging, the sources propose a conceptual model where **histone lactylation-mediated chromatin remodeling** alters the transcriptional accessibility of the *FTO* locus [5]. Under septic conditions, profound metabolic rewiring leads to lactate accumulation, which may serve as an epigenetic donor to modify chromatin \"openness\" at the *FTO* gene [5, 6].\n*   **Cardiomyopathy (R-2HG):** In the context of dilated cardiomyopathy, the metabolite **R-2-hydroxyglutaric acid (R-2HG)**, produced by mutant IDH enzymes, has been reported to **reduce the expression of the *FTO* gene** [7]. This reduction in expression follows an initial phase where R-2HG directly inhibits FTO’s enzymatic activity [8].\n\n### 4. Other Regulatory Mechanisms\nWhile the query focuses on chromatin, it is worth noting that some tissues regulate FTO levels post-translationally through the **ubiquitin system**:\n*   **Cerebral Ischemia-Reperfusion:** In the brain, **USP18** has been shown to stabilize the FTO protein by preventing its degradation [9]. While this is not a chromatin-level change to the DNA itself, it represents a critical regulatory mechanism for maintaining FTO levels under stress in non-granulosa tissue [9].",
+  "conversation_id": "71ccdea8-4b06-401d-b7b0-6d6782067a2a",
+  "turn_number": 1,
+  "is_follow_up": true,
+  "references": [
+    {
+      "source_id": "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+      "citation_number": 1,
+      "cited_text": "in T2DM liver, reducing its mRNA by 40%–60%, upregulating gluconeogenic genes (G6PC, PCK1), and elevating fasting blood glucose.",
+      "start_char": 22027,
+      "end_char": 22156,
+      "chunk_id": "71badb1c-b7a0-4d16-a669-a98cf032bdb8",
+      "passage_id": null,
+      "answer_start_char": 22027,
+      "answer_end_char": 22937,
+      "score": 0.7994446354486198
+    },
+    {
+      "source_id": "7de9109e-0123-4db0-bd8f-6d689cd4fb6a",
+      "citation_number": 2,
+      "cited_text": "FTO Hypomethylation of the FTO promoter markedly upregulates FTO expression, which modulates the downstream IRX3/IRX5 gene network, impacts energy expenditure and adipocyte differentiation, and increases individual obesity risk.",
+      "start_char": 15890,
+      "end_char": 16119,
+      "chunk_id": "dc37387f-0a34-4496-8a4f-8194186bd370",
+      "passage_id": null,
+      "answer_start_char": 15890,
+      "answer_end_char": 16398,
+      "score": 0.8258543595549245
+    },
+    {
+      "source_id": "e4509ff4-37c3-4445-9511-069caa2096b9",
+      "citation_number": 3,
+      "cited_text": "The role of DNA methylation in metabolic disease Diabetes mellitus and its complications. There are changes in DNA methylation levels in organs and tissues related to the pathogenesis of T2D, such as pancreatic islets, adipose tissue, skeletal muscle, and liver (Fig. 4). In 2008, the first epigenetic study on T2D was conducted in pancreatic islets from patients with T2D. It is revealed that DNA methylation levels in the peroxisome proliferator-activated receptor gamma coactivator-1 α (PGC-1α) gene promoter was increased twofold in pancreatic islets of patients with T2D.144 Only one year later, researchers reported results on DNA methylation of the PGC-1α gene in skeletal muscle. They suggested that the PGC-1α promoter shows increased DNA methylation levels in patients with T2D, a finding consistent with the previous research. Furthermore, they found that the DNA methylation levels are negatively related to PGC-1α mRNA and mitochondrial DNA (mtDNA) in skeletal muscle.145 It has been acknowledged that the DNA methylation levels in the insulin promoter are elevated in patients with T2D;146 nevertheless, there are some hypomethylated CpG islands in these patients.147 In 2014, Dayeh and colleagues148 performed a genome-wide DNA methylation analysis of human pancreatic islets in patients with T2D. They revealed that regions further away from the TSS present greater methylation, while areas near the TSS in human islets are less methylated. Besides, the authors identified 1,649 CpG sites and 853 genes in T2D islets with changes in the DNA methylation level, including fat mass and obesity-associated (FTO), potassium voltage-gated channel subfamily Q member 1 (KCNQ1), and transcription factor-7-like-2 (TCF7L2).148 One study investigated DNA methylation levels in subcutaneous abdominal adipose tissue and identified 18 high-confidence candidate genes that are associated with diabetes, including cytoplasmic polyadenylation element-binding protein 4 (CPEB4) and fatty acid synthase (FASN).149 Krause et al.150 found decreased insulin receptor",
+      "start_char": 27215,
+      "end_char": 29278,
+      "chunk_id": "57301f33-8217-4585-91ce-240cbc2ead4c",
+      "passage_id": null,
+      "answer_start_char": 27215,
+      "answer_end_char": 29278,
+      "score": 0.7531949537387981
+    },
+    {
+      "source_id": "555a3763-67fd-49ac-8ea6-63e811abdfce",
+      "citation_number": 4,
+      "cited_text": "xidative stress, arising from an imbalance in reactive oxygen pecies (ROS) homeostasis, is similarly modulated by epitrancriptomic changes. FTO is essential for maintaining mitochon-",
+      "start_char": 41806,
+      "end_char": 41988,
+      "chunk_id": "c257f36f-d6c2-40b9-b869-9f00d9829827",
+      "passage_id": null,
+      "answer_start_char": 41806,
+      "answer_end_char": 43057,
+      "score": 0.828150099993151
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 5,
+      "cited_text": "Although direct evidence for histone lactylation–m6A coupling in sepsis-induced myocardial dysfunction is currently lacking, several conceptual models support a potential interaction between these two regulatory layers. First, lactylation-mediated chromatin remodeling may alter the transcriptional accessibility of loci encoding core m6A regulators, such as METTL3, FTO, and ALKBH5, thereby indirectly modulating the abundance and balance of the m6A machinery [25,152]. Second, changes in chromatin openness and RNA polymerase II elongation dynamics induced by histone lactylation could influence co-transcriptional m6A deposition on nascent transcripts, particularly those involved in mitochondrial quality control, redox signaling, and regulated cell death pathways [153–156].",
+      "start_char": 87653,
+      "end_char": 88433,
+      "chunk_id": "ff207168-5757-4af6-8445-8611df1ba7ba",
+      "passage_id": null,
+      "answer_start_char": 87653,
+      "answer_end_char": 88433,
+      "score": 0.7584745043074148
+    },
+    {
+      "source_id": "c7c14f51-8580-4fe1-b6db-6de78bbd2f3c",
+      "citation_number": 6,
+      "cited_text": "7.7. Histone lactylation–m6A crosstalk as an emerging epigenetic challenge in SIMD",
+      "start_char": 86874,
+      "end_char": 86957,
+      "chunk_id": "92debdc0-9670-4deb-a77e-1dc50e19085f",
+      "passage_id": null,
+      "answer_start_char": 86874,
+      "answer_end_char": 87653,
+      "score": 0.746115340843534
+    },
+    {
+      "source_id": "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+      "citation_number": 7,
+      "cited_text": "that catalyzes the conversion of isocitrate to α-KG and CO2. They",
+      "start_char": 34479,
+      "end_char": 34545,
+      "chunk_id": "8facf03d-00d5-4fbb-91f4-5c7512c031cc",
+      "passage_id": null,
+      "answer_start_char": 34479,
+      "answer_end_char": 34994,
+      "score": 0.7695984710842643
+    },
+    {
+      "source_id": "2118d8ff-8207-48d3-bf60-fc655d2b6705",
+      "citation_number": 8,
+      "cited_text": "of FTO enzyme activity induced by R-2HG occurs before the",
+      "start_char": 34994,
+      "end_char": 35052,
+      "chunk_id": "ac434197-25a8-4261-bb3e-f599ffd1b76e",
+      "passage_id": null,
+      "answer_start_char": 34994,
+      "answer_end_char": 35517,
+      "score": 0.8139734838560004
+    },
+    {
+      "source_id": "77c11a5c-f848-4441-916f-411f4916b1c7",
+      "citation_number": 9,
+      "cited_text": "Ferritinophagy-dependent iron release is another major source of ubiquitin-controlled ferroptotic iron in the reperfused brain. Li et al. have reported that USP14 directly deubiquitinates and stabilizes NCOA4, which enhances ferritinophagy and promotes the release of ferritin bound iron into the labile iron pool [33]. Through this pathway, ferritin stores are converted into redox active iron and neuronal fer- roptosis is amplified during cerebral I/R. In contrast, Zhang et al. have identified a protective ubiquitin-dependent pathway that acts on the same ferritinophagy machinery at an upstream level [84]. They have shown that USP18 stabilizes fat mass and obesity-associated protein (FTO), and maintained FTO activity suppresses NCOA4 expression after transcription. As a result, ferritinophagy-dependent iron release is reduced, ferritin-derived iron mobilization is limited, and neuronal ferroptosis is attenuated in cerebral I/R. Thus, both USP14 and USP18 affect NCOA4 dependent ferritinophagy, but they act in opposite directions. USP14 promotes ferroptosis by directly stabilizing NCOA4, whereas USP18 suppresses ferroptosis by reducing NCOA4 expression through FTO. These studies indicate that the ubiquitin system is not simply associated with iron overload during reperfusion. It directly controls how iron is taken up, retained, buffered, and released, and in this way influences ferroptosis in the ischemic heart and brain.",
+      "start_char": 37513,
+      "end_char": 38955,
+      "chunk_id": "50b6b5d5-b12c-4ef7-969f-e262fb0030cb",
+      "passage_id": null,
+      "answer_start_char": 37513,
+      "answer_end_char": 38955,
+      "score": 0.7452490343898417
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[18:38:26] Starting parallel upload: 20 PDFs, 4 workers
+[18:38:34] OK - angelo_2007_genome_wide_association_scan_shows_genetic_variants_in.pdf
+[18:38:35] OK - carrasco_2026_novel_genome_editing_approaches_to_manipulate_apical_meristem.pdf
+[18:38:35] OK - e_2021_disease_associated_genetic_variants_in_the_regulatory_regions.pdf
+[18:38:35] OK - anthony_2018_shared_genetic_contribution_to_type_1_and_type.pdf
+[18:38:39] OK - haiyan_2024_ythdf2_upregulation_and_subcellular_localization_dictate_cd8_t.pdf
+[18:38:41] OK - joshi_2024_epidecoder_a_functional_exploration_tool_for_epigenetic_and.pdf
+[18:38:42] OK - huan_2023_scm6a_seq_reveals_single_cell_landscapes_of_the.pdf
+[18:38:45] OK - madhusudhan_2019_atac_seq_reveals_alterations_in_open_chromatin_in.pdf
+[18:38:45] OK - jiang_2025_fto_mediated_m_lt_sup_gt_6_lt.pdf
+[18:38:46] OK - srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf
+[18:38:47] OK - paola_2018_using_three_dimensional_regulatory_chromatin_interactions_from_adult.pdf
+[18:38:50] OK - wu_2026_n6_methyladenosine_modification_in_the_context_of_viral.pdf
+[18:38:52] OK - paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf
+[18:38:52] OK - yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf
+[18:38:54] OK - yige_2023_epigenetic_and_transcriptomic_characterization_reveals_progression_markers_and.pdf
+[18:38:55] OK - yi_chun_2010_hypothalamic_specific_manipulation_of_fto_the_ortholog_of.pdf
+[18:38:56] OK - yongli_2024_pan_cistrome_analysis_of_the_leaf_accessible_chromatin.pdf
+[18:38:57] OK - yang_2026_the_orchestrated_interplay_between_dna_methylation_and_n6.pdf
+[18:39:00] OK - zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf
+[18:39:02] OK - yunxia_2021_a_compendium_and_comparative_epigenomics_analysis_of_cis.pdf
+[18:39:03] DONE: 20 OK, 0 FAIL (of 20)

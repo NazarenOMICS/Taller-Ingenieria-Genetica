@@ -1,0 +1,81 @@
+---
+type: notebook-source
+source_id: "2e8c71ab-5cc9-48a5-8db5-9964557b3324"
+notebook_id: "88cd18f7-147a-46da-adea-544dfdab4816"
+slug: "q21-chip-atac-promotor-fto"
+vault_slug: "dcas9-fto-granulosa/q21-chip-atac-promotor-fto"
+project: "dcas9-fto-granulosa"
+url: ""
+source_type: web
+status: active
+date: 2026-07-24
+pdf: "Research/Papers/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf"
+related:
+  - "[[Notes/Dashboards/Public ChIP-seq and ATAC-seq at FTO promoter]]"
+used_in_qa: true
+cited_in_count: 5
+qa_notes:
+  - "[[Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q01 - according-to-these-sources-there-public.md]]"
+  - "[[Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q02 - which-chromatin-marks-at-fto-promoter.md]]"
+  - "[[Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q04 - which-cell-types-were-those-datasets.md]]"
+  - "[[Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q05 - what-concrete-mechanistic-hypotheses-about-fto.md]]"
+  - "[[Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q06 - what-additional-experiments-would-be-required.md]]"
+---
+
+# zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf
+
+## PDF
+
+![[Research/Papers/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf]]
+
+## Source Guide
+
+## Cited Passages
+
+### Passage 1
+
+Given that GAAs are responsible for strong downstreamGDGs, we comprehensively analyzed GDG dynamics in response to Fosl2 disruption. At global levels, numerousdevelopmental signalingpathways, including the G2M checkpoint pathway, were significantly disrupted upon Fosl2 suppression (Supplementary Fig. 5d). A plethora of GDGs were significantly downregulated after Fosl2 knockdown, including Cyp11a1, Star, Fshr and other well-recognized growth and differentiation-associated GC genes that are proximal to GAAs (Sup-plementary Fig. 5e); however, this downregulation was in stark contrast to the stable expression of a randomly selected control gene set (Fig. 5c). Moreover, after examining Fosl2 enrichment in both gene sets, we found GDGs displayed pronounced Fosl2 enrichments at their TSSs (Fig. 5d). Consistent with this observation, in distal genomic regions, we demonstrated substantially stronger binding signals in proximity to GDGs when compared to the random gene set, highlighting its essential role on harboring the wave of GDGs both at their promoters and within distal regions (Fig. 5e). To further elucidate Fosl2-driven GAA functions in shaping GDG transcriptomic repertoires, we examined accessibility densities in these gene sets in Fosl2 knockdown cells. We found that GDGs exhibited a substantial reduction in accessibility densities compared with randomly selected genes, aligning with the observed downregulation of GDG expression following Fosl2 suppression (Fig. 5f). Two representative GDGs, Fshr and Mapk1, which were proximal to GAAs, displaying elevated gene expression and augmented Fosl2 binding at the ovulatory phase47,53. Nevertheless, the transcription program and accessibility density of these two GDGs were robustly decreased after Fosl2 knockdown. Consistently, fluorescence intensities of these two GDGs were also correspondingly attenuated after Fosl2 knockdown (Fig. 5g, left). In comparison, the selected Fto and Gapdh, which belong to a random gene set displayed unchanged expression both during follicular maturation and Fosl2 silencing scenarios (Fig. 5g, right). Collectively, our data substantiate a model wherein Fosl2 binding to GAAs consolidates an open chromatin conformation, thereby orchestrating a broad transcriptional program of GDGs, which is fundamental to multiple developmental processes.
+
+### Passage 2
+
+randomly selected genes (left, n = 2068) and GDGs (right, n = 2068) in distal genomic regions under different maturation phases. In a–c and e, the p value was generated from a two-sided Wilcoxon rank-sum test. Boxplot summary statistics are: center line: median; upper/lower hinges: 75th and 25th percentiles, upper and lowerwhiskers represent the data extending from the hinge to atmost 1.5 times the interquartile range. f Heatmaps and enrichment plots showing normalized read densities of ATAC-seq signals for randomly selected genes and GDGs after Fosl2 knockdown. Tracks are centered at the TSS and extend ±3 kb. g IGV views displaying the Fosl2 CUT&Tag under differentmaturation phases, ATAC-seq and RNA-seq signals following Fosl2 suppression in representative Fshr, Mapk1, Fto and Gapdh from GDGs (left) and randomly selected genes (right) subsets. h Immunofluorescence staining of the aforementioned genes after Fosl2 knockdown in pGC. The position of the nucleolus is indicated by DAPI staining. Results shown are representative of n = 3 biologically independent experiments with similar results. Scale bar, 40μm.
+
+### Passage 3
+
+CUT&Tag library generation The CUT&Tag was conducted using CUT&Tag Assay Kit for Illumina according to the manufacturer’s protocol with minor modifications (Vazyme, TD903). Briefly, nuclei were isolated from 1 × 104 GCs using the efficient nuclear separation kit and incubated with ConA beads for at least 10min to achieve a comprehensive combination. The antibody-protein-nuclei complexes were then incubated with primary antibodies (H3K4me3, Abcam, ab8580; H3K27ac, Abcam, ab4729; Fosl2, CST, 19967) at 4 °C overnight, with an IgG antibody (IgG, Proteintech, 30000-0-AP) serving as a negative control. The following day, the samples underwent incubationwith a secondary antibody, followedby the application of a diluted pA-Tn5 transposase to cleave the genome and append a unique adapter sequence, thereby constructing the library. All sequencing libraries were prepared after 12 cycles of PCR amplification. The selected DNA fragments were subjected to pairedend sequencing on the Novaseq 6000 platform to a depth of at least 2.5 × 107 reads.
+
+### Passage 4
+
+represents the p value. The p value was generated from a two-sided Wald test. e Annotations of all open chromatin regions presenting the chromatin states trained using public data from the ENCODE project. TSS transcription start site. f Integrative Genomics Viewer (IGV) snapshot displaying the CUT&Tag signal of H3K4me3, H3K27ac, and the ATAC-seq and RNA-seq signals in pGCs during follicular maturation at the representative gene Cyp11a1 and Star loci. Vertical gray boxes indicate the potential promoter and enhancer peaks predicted with CUT&-Tag.g Insertion tracks ofGAAs andGIAs at chromosome 7 (left) and chromosome4 (right) loci. Differentially open regions are labeled with grey boxes. GAAs GC-activated accessibility regions,GIAsGC-inactivated accessibility regions.hDistance distribution between ATAC-seq peaks (all peaks, GAAs, and GIAs) and TSSs. Pro-portions >2k are labeled.
+
+### Passage 5
+
+In this study, we characterized the reorganization of chromatin accessibility that precipitates extensive transcriptomic alterations associated with GCs across different follicular maturation phases in
+
+### Passage 6
+
+one-sided Fisher’s exact test. e Heatmaps showing the different clusters of Fosl2 binding signals with CUT&Tag and their mapping in ATAC-seq peaks at the different maturation phases and peaks following Fosl2 suppression (left). The enrichment of normalized ATAC-seq peaks after Fosl2 knockdown is also shown both in antral- and ovulatory-specific clusters (right). f IGV views displaying the Fosl2 CUT&Tag, ATAC-seq signals under differentmaturation phases and signals in Fosl2-silenced cells in representative Tgfb1, Cyp11a1, Cdc20 and Hspa6 from ovulatory-specific (left) and antral-specific (right) clusters. ChIP-qPCR is also used to measure the relative H3K4me3 levels after Fosl2 knockdown within these genes. IgG is used as the negative control. The enrichment is normalized to a 1:10 dilution of the input. Error bars indicate themean ± S.E.M. (n = 3 biological replicates). The p value was generated from a two-sided Student’s t test. N.S. not significant, ***p <0.001. Source data are provided as a Source Data file.
+
+### Passage 7
+
+expression levels (RPKM) of randomly selected genes (left, n = 2068) and GDGs (right, n = 2068) under different maturation phases. The p value was generated from a two-sided Wilcoxon rank-sum test. N.S. not significant. Boxplot summary statistics are: center line: median; upper/lower hinges: 75th and 25th percentiles, upper and lower whiskers represent the data extending from the hinge to at most 1.5 times the interquartile range. f Heatmaps and enrichment plots displaying normalized read densities of ATAC-seq signals for randomly selected genes and GDGs under different maturation phases in pGCs. Tracks are centered at the TSS and extend ±3 kb. g Location diagram of H3K4me3 ChIP-qPCR primers within the Fshr locus (upper). ChIP-qPCR is used to measure the relative H3K4me3 levels for GAAs within the corresponding Fshr gene at the antral and ovulatory phases (lower). IgG is used as the negative control. The enrichment is normalized to a 1:10 dilution of the input. Error bars indicate the mean± S.E.M. (n = 3 biological replicates). The p value was generated from a two-sided Student’s t test. N.S. not significant, ***p <0.001. Source data are provided as a Source Data file.
+
+### Passage 8
+
+Fosl2 alters GAA-harboring chromatin accessibility during follicular maturation To examine if sustained Fosl2 expression was crucial for maintaining open chromatin states at GAAs, we performed a stable knockdown of Fosl2 in pGCs (Supplementary Fig. 5a). ATAC-seq analyses of Fosl2 knockdown samples identified substantially reduced chromatin accessibility (Fig. 4a). Meanwhile, the collapse predominantly occurred at intergenic regions enriched with Fosl2 motif sites (Fig. 4b and Supplementary Fig. 5b). However, in contrast to elevated GAA peaks found in follicular maturation, the Fosl2 knockdown displayed considerably decreased GAA activity, showing Fosl2-driven perturbations in global open chromatin and a particular impact on the signal intensities of GAAs (Fig. 4c). After evaluating correlations between differential chromatin accessibility peaks in differentmaturation phases and chromatin accessibility in Fosl2 knockdown cells, we found that closed chromatin regions in Fosl2 knockdown cells were inversely correlated
+
+### Passage 9
+
+RNA interference (RNAi) For the knockdown experiment, two small interfering RNA (siRNA) against Fosl2 from GenePharma were transfected into pGCs. Briefly, pGCs were seeded into 24-well plates in DMEM-F12 medium supplemented with 10% FBS, 1μg/mL of β-estradiol, 0.22mM sodium pyruvate, 10 IU/mLof PMSG, 10 IU/mLhCGand 10 ng/mL EGF. Fosl2 siRNA (Fosl2 siRNA-1: 5’-CCAGUCAUCAGACUCCUUGAA-3’ Fosl2 siRNA-2: 5’-CGAACCUCGUCUUCACCUA(dT)(dT)-3’) transfections were performed using lipo3000 (Invitrogen, L3000015) following the manufacturer’s instructions. After 48 h, the cells were collected for further study.
+
+### Passage 10
+
+The functional architecture of the genome exists in a state of dynamic equilibrium, with alterations in epigenetic landscapes known to contribute to extensive gene regulatory networks in folliculogenesis14–16. In terms of epigenetic control, the cooperation between chromatin accessibility and putative regulatory elements, including H3K4me3-decorated promoters and H3K27ac-decorated enhancers, fundamentally changes the chromatin state, thereby determining downstream gene expression patterns and cellular fates17–19. As a major genetic process affecting biological behaviors at specific loci, accessible chromatin recruits master transcription factors (TFs) to target closed chromatin and urge these regions to open. Importantly, the advent of transposase-accessible chromatin with sequencing (ATAC-seq) has greatly expanded our knowledge regarding the mechanisms governing epigenetic alteration and the control of gene expression during fundamental biological processes20,21. To date, a wealth of outstanding research has highlighted the chromatin remodeling events that have happened from terminally differentiated gametes to the highly totipotent blastomeres during the activation of the embryonic genome across different species22–24. In this context, several crucial pluripotency TFs have been uncovered as important, early development and transcriptional regulators in mammalian preimplantation development25–28. GC proliferation during follicular maturation is a prerequisite for oocyte maturation and subsequent embryogenesis. However, despite the recognized importance of these TFs, the precise mechanisms by which they interact with regulatory elements to control the transcriptional circuitry are yet to be fully understood. Characterizing chromatin accessibility changes in the control of gene expression in synchronized oocytes and GCs during follicle maturation is crucial for deciphering the mechanisms that govern signal transduction and follicular development, potentially offering significant insights for enhancing fertility.
+
+### Passage 11
+
+GCs are fundamental to the reproductive processes, serving not only as nutritional support cells but also as endocrine function cells. It is crucial to elucidate the underlying mechanisms that govern signal transduction and follicular maturation in GCs; however, the upstream TF regulators during follicular maturation remain poorly characterized. The high-resolution genome-wide profiling of chromatin accessibility and nucleosome positioning has significantly advanced our comprehension of linear gene function and identified regulatory element candidates across the genome41. Importantly, open chromatin spatial arrangements at enhancers and promoters have highlighted key factors governing physical interactions in the genome. AP-1 binds to specific target-gene promoters, transforming extracellular signals into gene expression changes, e.g., our Fosl2 CUT&Tag analyses strongly supported previously identified regulatory elements, particularly promoter regions marked by ATAC-seq and histone methylation, as they interacted with Fosl2, while nearby GDGs were preferentially downregulated after Fosl2 suppression (Figs. 3f and 5d)65. The sustained correlations between chromatin accessibility and gene expression suggest an underlying regulatory paradigm whereby dynamic chromatin reconfiguration dictates specific expression patterns. Therefore, understanding chromatin-reshaping mediated by Fosl2 activation, which contributes to GDG expression, can help us unravel regulatory pathways that govern physiological and behavioral aspects in ovulation and folliculogenesis.
+
+### Passage 12
+
+ATAC-seq library generation The ATAC-seq procedure was performed as previously described with minor modifications86. In brief, 50 zona pellucida-free oocytes were lysed in a lysis buffer (10mM Tris-HCl (pH 7.4), 10mM NaCl, 3mM MgCl2, 0.1% Igepal CA-630, 0.1% Tween-20, 0.01% Digitonin, 1% Cyto-chalasin B, 0.1% collagenase I) for 10min on ice to generate the nuclei. Meanwhile, GC nuclei were isolated from 5 × 104 cells using the efficient nuclear separation kit (SHBIO, 52009). The nuclei were then centrifuged at 500 × g for 5min to pellet and remove the supernatant. Tn5 transposome and tagmentation reactionswere carried out at 37 °C for 30min (Vazyme, TD501). After the tagmentation, DNAwas purified using 2 × AMPure beads (Beckman Coulter, A63881). Library amplification was performed for 16 cycles for oocytes and 14 cycles for GCs using the following PCR conditions: 72 °C for 3min, 98 °C for 30 s, and thermocycling at 98 °C for 15 s, 60 °C for 30 s and 72 °C for 3min; concluding with a final extension at 72 °C for 5min. The amplifiedDNA was size-selected for 200–500bp fragments using AMPure beads. All libraries were subjected to paired-end sequencing on the Novaseq 6000 platform to a depth of at least 4.0 × 107 reads.

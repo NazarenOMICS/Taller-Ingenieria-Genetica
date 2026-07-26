@@ -1,0 +1,65 @@
+{
+  "slug": "q14-dcas9p300-vs-otros-activadores",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores",
+  "goal": "Determinar que diferencias funcionales existen entre activar FTO con dCas9-p300 y hacerlo con otros activadores (VP64, VPR, SunTag-p300) sobre este mismo locus.",
+  "dashboard": "dCas9-p300 vs other activators",
+  "notebook_id": "997cd2ff-f1d7-42e0-9026-f046a1d2c7dd",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources (e.g., comparison of dCas9 activator complexes), how does dCas9-p300 compare to VP64 and VPR in terms of activation magnitude and target-gene applicability?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/answers/2026-07-24 Q01 - according-to-these-sources-e-g.md"
+    },
+    {
+      "id": 2,
+      "theme": "mechanisms",
+      "question": "According to these sources, what is the mechanistic difference between dCas9-p300 (direct histone acetyltransferase activity) and VP64/VPR (transcription factor domain recruitment) in how they activate gene expression?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/answers/2026-07-24 Q02 - according-to-these-sources-what-mechanistic.md"
+    },
+    {
+      "id": 3,
+      "theme": "suntag",
+      "question": "According to these sources (e.g., modular dCas9-SunTag systems), how does the SunTag signal-amplification architecture change the potency or specificity of a recruited effector (e.g., p300) compared to a direct 1:1 dCas9-effector fusion?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/answers/2026-07-24 Q03 - according-to-these-sources-e-g.md"
+    },
+    {
+      "id": 4,
+      "theme": "epigenetic-memory",
+      "question": "According to these sources, does dCas9-p300 leave a different epigenetic 'memory' or persistence signature at the target locus compared to VP64/VPR, given that p300 deposits a histone modification (H3K27ac) while VP64/VPR recruit transcriptional machinery without necessarily modifying chromatin marks?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/answers/2026-07-24 Q04 - according-to-these-sources-does-dcas9.md"
+    },
+    {
+      "id": 5,
+      "theme": "context-dependence",
+      "question": "According to these sources, do these different CRISPR activators (dCas9-p300, VP64, VPR, SunTag) show different context-dependence on promoter/enhancer state or chromatin accessibility at the target locus?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/answers/2026-07-24 Q05 - according-to-these-sources-do-these.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding a direct head-to-head comparison of dCas9-p300 versus VP64, VPR, and SunTag-p300 specifically at the FTO locus?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q14-dcas9p300-vs-otros-activadores\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/answers/2026-07-24 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q14-dcas9p300-vs-otros-activadores/QA/summaries/2026-07-24 dCas9-p300 vs other activators - NotebookLM block summary.md"
+}

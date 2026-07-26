@@ -1,0 +1,107 @@
+{
+  "notebook_id": "e1baac88-0719-426f-b47a-b620d48b6489",
+  "notebook_title": "dCas9-p300 off-target specificity (q03)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "7d198aa7-8478-48b2-b4bf-d99c9d85f7fe",
+      "title": "ashot_2019_site_specific_manipulation_of_arabidopsis_loci_using_crispr.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:28"
+    },
+    {
+      "index": 2,
+      "id": "b88bde65-5643-4d19-9d2f-b0946e56ad5c",
+      "title": "congting_2023_off_target_effects_in_crispr_cas9_gene_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:29"
+    },
+    {
+      "index": 3,
+      "id": "667b0829-808a-4a71-ae88-955f90cb6931",
+      "title": "fatemeh_2019_crispr_cpf1_proteins_structure_function_and_implications_for.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:29"
+    },
+    {
+      "index": 4,
+      "id": "1c5128aa-61fc-489e-af50-f1923f86884c",
+      "title": "hilton_2015.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-24T16:38:23"
+    },
+    {
+      "index": 5,
+      "id": "631dbc4e-4971-4d36-ac58-5a8e230cf27b",
+      "title": "hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:30"
+    },
+    {
+      "index": 6,
+      "id": "0dc4f046-5781-4a23-ac61-fe9543c91835",
+      "title": "kendall_2018_optimized_libraries_for_crispr_cas9_genetic_screens_with.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:34"
+    },
+    {
+      "index": 7,
+      "id": "e890b126-9491-4131-97f3-832d68092a34",
+      "title": "masahiro_2017_stabilization_of_foxp3_expression_by_crispr_dcas9_based.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:34"
+    },
+    {
+      "index": 8,
+      "id": "b3678d5a-9f29-4abb-a50c-5e914e81d936",
+      "title": "mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:35"
+    },
+    {
+      "index": 9,
+      "id": "22a9f207-9d6d-4452-99ba-cb31b753e321",
+      "title": "tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:36"
+    },
+    {
+      "index": 10,
+      "id": "9d5ef908-b0b3-4a7b-aeb5-002cc6288aac",
+      "title": "yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T10:46:40"
+    }
+  ],
+  "count": 10
+}

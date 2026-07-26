@@ -1,0 +1,11 @@
+[10:46:17] Starting parallel upload: 9 PDFs, 4 workers
+[10:46:28] OK - ashot_2019_site_specific_manipulation_of_arabidopsis_loci_using_crispr.pdf
+[10:46:28] OK - congting_2023_off_target_effects_in_crispr_cas9_gene_editing.pdf
+[10:46:29] OK - fatemeh_2019_crispr_cpf1_proteins_structure_function_and_implications_for.pdf
+[10:46:30] OK - hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf
+[10:46:33] OK - masahiro_2017_stabilization_of_foxp3_expression_by_crispr_dcas9_based.pdf
+[10:46:33] OK - mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf
+[10:46:34] OK - kendall_2018_optimized_libraries_for_crispr_cas9_genetic_screens_with.pdf
+[10:46:35] OK - tianxiang_2023_crispr_cas9_therapeutics_progress_and_prospects.pdf
+[10:46:39] OK - yu_2015_making_sense_of_gwas_using_epigenomics_and_genome.pdf
+[10:46:39] DONE: 9 OK, 0 FAIL (of 9)

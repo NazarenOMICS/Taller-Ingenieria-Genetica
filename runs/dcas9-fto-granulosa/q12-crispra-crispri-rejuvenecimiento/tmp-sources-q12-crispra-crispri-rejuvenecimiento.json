@@ -1,0 +1,167 @@
+{
+  "notebook_id": "b12f5e97-10fe-4024-bf49-afab0fd1c866",
+  "notebook_title": "CRISPRa CRISPRi rejuvenation (q12)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "46d1a477-4a02-4a05-9fe5-dfc9b8cc6e99",
+      "title": "allen_2020_the_impact_of_crispr_cas9_on_age_related.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:39"
+    },
+    {
+      "index": 2,
+      "id": "7df4c7df-ebc4-40c8-9cbf-42c66aef6480",
+      "title": "anne_2022_ageing_and_rejuvenation_of_tissue_stem_cells_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:40"
+    },
+    {
+      "index": 3,
+      "id": "c4c7c2fa-83ed-47ae-ad88-36294a97af9e",
+      "title": "borch_2021_i_in_vivo_i_pooled_screening_a_scalable.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:40"
+    },
+    {
+      "index": 4,
+      "id": "f1475c40-64bf-4607-aed6-fbb103f44ea1",
+      "title": "chatterjee_2024_telomerase_is_essential_for_cardiac_differentiation_and_sustained.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:41"
+    },
+    {
+      "index": 5,
+      "id": "322663e4-9a72-4769-9181-c33fdbef9ba6",
+      "title": "daniel_2021_cellular_reprogramming_and_epigenetic_rejuvenation.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:44"
+    },
+    {
+      "index": 6,
+      "id": "61d0b838-37f8-4fae-a371-82841231f115",
+      "title": "ding_2025_the_interplay_of_cellular_senescence_and_reprogramming_shapes.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:45"
+    },
+    {
+      "index": 7,
+      "id": "63fedfc6-9679-4146-bf71-74f7293b8789",
+      "title": "hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:45"
+    },
+    {
+      "index": 8,
+      "id": "4c6459e3-4cbf-44fe-a0be-95b6dddebd6c",
+      "title": "huimin_2021_application_of_the_crispr_cas9_based_gene_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:47"
+    },
+    {
+      "index": 9,
+      "id": "faa734bc-6739-4231-84fd-3a66e2c5856e",
+      "title": "lei_2022_cellular_senescence_a_key_therapeutic_target_in_aging.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:50"
+    },
+    {
+      "index": 10,
+      "id": "ec73f5d6-8e89-4edc-916f-c09225eb258d",
+      "title": "magdalena_2018_precise_excision_of_the_cag_tract_from_the.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:53"
+    },
+    {
+      "index": 11,
+      "id": "9ad8491d-781b-4483-8397-6adb4c21ae30",
+      "title": "malavika_2023_seed_science_and_technology.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:51"
+    },
+    {
+      "index": 12,
+      "id": "34c83d90-22b5-4b98-a8ea-aa0bb1172886",
+      "title": "mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:54"
+    },
+    {
+      "index": 13,
+      "id": "573f2cb5-b257-4de9-ad8b-9c6223a7acfb",
+      "title": "ruchi_2021_mechanisms_of_cellular_senescence_cell_cycle_arrest_and.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:57"
+    },
+    {
+      "index": 14,
+      "id": "4dd873f1-9fb7-4e07-99aa-e73e22b63972",
+      "title": "shuaifei_2023_cellular_rejuvenation_molecular_mechanisms_and_potential_therapeutic_interventions.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:30:01"
+    },
+    {
+      "index": 15,
+      "id": "71cf0398-d619-4997-8cfc-535a7fd40db6",
+      "title": "tao_2018_rejuvenation_of_cells_by_epigenetic_editing.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:29:58"
+    },
+    {
+      "index": 16,
+      "id": "950af49b-c017-41ff-b198-79d08b977533",
+      "title": "xudong_2021_inflammation_epigenetics_and_metabolism_converge_to_cell_senescence.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:30:03"
+    }
+  ],
+  "count": 16
+}

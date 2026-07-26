@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q07-metodos-m6a-fos-3utr",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr",
+    "goal":  "Determinar que metodos permiten cuantificar m6A sitio-especifica sobre el 3\u0027UTR de FOS (MeRIP-qPCR, SELECT, miCLIP) y su efecto sobre la estabilidad del mensajero (ensayos con actinomicina D).",
+    "notebook_title":  "m6A methods FOS 3-UTR (q07)",
+    "dashboard":  "m6A methods FOS 3-UTR",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T17:33:34",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q07-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\questions-q07-metodos-m6a-fos-3utr.json",
+    "notebook_id":  "b7d60267-6d14-41ad-b7b7-5b606bb8ab2a",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\tmp-sources-q07-metodos-m6a-fos-3utr.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q07-metodos-m6a-fos-3utr\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr\" -Goal \"Determinar que metodos permiten cuantificar m6A sitio-especifica sobre el 3\u0027UTR de FOS (MeRIP-qPCR, SELECT, miCLIP) y su efecto sobre la estabilidad del mensajero (ensayos con actinomicina D).\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q07-queries.json\" -NotebookTitle \"m6A methods FOS 3-UTR (q07)\" -Dashboard \"m6A methods FOS 3-UTR\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"b7d60267-6d14-41ad-b7b7-5b606bb8ab2a\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

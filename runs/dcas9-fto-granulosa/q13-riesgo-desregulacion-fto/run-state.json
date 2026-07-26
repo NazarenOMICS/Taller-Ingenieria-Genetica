@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q13-riesgo-desregulacion-fto",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q13-riesgo-desregulacion-fto",
+    "goal":  "Determinar cuales son los riesgos de la desregulacion global asociada a FTO por su multiplicidad de blancos de m6A, y como se acota una activacion fisiologica frente a una suprafisiologica.",
+    "notebook_title":  "FTO dysregulation risk (q13)",
+    "dashboard":  "FTO dysregulation risk",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T18:48:43",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q13-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\questions-q13-riesgo-desregulacion-fto.json",
+    "notebook_id":  "ef0da090-9b28-43a3-9dd4-5889790ce012",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\tmp-sources-q13-riesgo-desregulacion-fto.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q13-riesgo-desregulacion-fto\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q13-riesgo-desregulacion-fto\" -Goal \"Determinar cuales son los riesgos de la desregulacion global asociada a FTO por su multiplicidad de blancos de m6A, y como se acota una activacion fisiologica frente a una suprafisiologica.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q13-queries.json\" -NotebookTitle \"FTO dysregulation risk (q13)\" -Dashboard \"FTO dysregulation risk\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q13-riesgo-desregulacion-fto\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"ef0da090-9b28-43a3-9dd4-5889790ce012\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q13-riesgo-desregulacion-fto/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

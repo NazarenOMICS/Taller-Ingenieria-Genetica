@@ -1,0 +1,34 @@
+﻿{
+    "slug":  "q04-eje-fto-m6a-fos",
+    "project":  "dcas9-fto-granulosa",
+    "vault_slug":  "dcas9-fto-granulosa/q04-eje-fto-m6a-fos",
+    "goal":  "Determinar que evidencia respalda el eje FTO-m6A-FOS en celulas de la granulosa humanas, y en que modelos y con que controles fue validado mas alla de Jiang et al. 2021.",
+    "notebook_title":  "FTO-m6A-FOS axis in granulosa cells (q04)",
+    "dashboard":  "FTO-m6A-FOS axis granulosa",
+    "stage":  "done",
+    "status":  "ok",
+    "updated_at":  "2026-07-14T11:23:15",
+    "run_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos",
+    "save_dir":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers",
+    "queries_file":  ".\\runs\\dcas9-fto-granulosa-q04-queries.json",
+    "questions_file":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\questions-q04-eje-fto-m6a-fos.json",
+    "notebook_id":  "0bf608b2-1812-42af-a82e-885597208929",
+    "tmp_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\tmp-sources-q04-eje-fto-m6a-fos.json",
+    "source_rescue":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\source-rescue.json",
+    "candidate_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\candidate-sources.json",
+    "missing_sources":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\missing-sources.md",
+    "must_have_file":  "",
+    "allow_anna_fallback":  false,
+    "stop_if_missing_must_have":  false,
+    "resume_state":  "",
+    "retry_delays_minutes":  [
+
+                             ],
+    "retry_attempt":  0,
+    "resume_command":  "powershell.exe -ExecutionPolicy Bypass -File \"C:\\Users\\Administrator\\Documents\\EZresearchLM\\scripts\\run_hermes_pipeline.ps1\" -Slug \"q04-eje-fto-m6a-fos\" -Project \"dcas9-fto-granulosa\" -VaultSlug \"dcas9-fto-granulosa/q04-eje-fto-m6a-fos\" -Goal \"Determinar que evidencia respalda el eje FTO-m6A-FOS en celulas de la granulosa humanas, y en que modelos y con que controles fue validado mas alla de Jiang et al. 2021.\" -QueriesFile \".\\runs\\dcas9-fto-granulosa-q04-queries.json\" -NotebookTitle \"FTO-m6A-FOS axis in granulosa cells (q04)\" -Dashboard \"FTO-m6A-FOS axis granulosa\" -SaveDir \"C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q04-eje-fto-m6a-fos\\papers\" -SkipSearch -FromExistingQuestions -ExistingNotebookId \"0bf608b2-1812-42af-a82e-885597208929\"",
+    "details":  {
+                    "citation_audit_note":  "Notes/NotebookLM/dcas9-fto-granulosa/q04-eje-fto-m6a-fos/QA/summaries/2026-07-14 Citation Audit.md",
+                    "citation_audit_exit_code":  0,
+                    "traceability_status":  "pass"
+                }
+}

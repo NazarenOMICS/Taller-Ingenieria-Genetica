@@ -1,0 +1,65 @@
+{
+  "slug": "q07-metodos-m6a-fos-3utr",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr",
+  "goal": "Determinar que metodos permiten cuantificar m6A sitio-especifica sobre el 3'UTR de FOS (MeRIP-qPCR, SELECT, miCLIP) y su efecto sobre la estabilidad del mensajero (ensayos con actinomicina D).",
+  "dashboard": "m6A methods FOS 3-UTR",
+  "notebook_id": "b7d60267-6d14-41ad-b7b7-5b606bb8ab2a",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, how does MeRIP-qPCR (methylated RNA immunoprecipitation) work for quantifying site-specific m6A modification, and what is its resolution and main limitation?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/answers/2026-07-14 Q01 - according-to-these-sources-how-does.md"
+    },
+    {
+      "id": 2,
+      "theme": "core-evidence",
+      "question": "According to these sources, how does the SELECT method (single-base elongation- and ligation-based qPCR amplification) work for site-specific m6A quantification, and how does its resolution compare to MeRIP?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/answers/2026-07-14 Q02 - according-to-these-sources-how-does.md"
+    },
+    {
+      "id": 3,
+      "theme": "core-evidence",
+      "question": "According to these sources, how does miCLIP (or related crosslinking/sequencing methods) map m6A sites at nucleotide resolution, and what are its technical requirements compared to MeRIP and SELECT?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/answers/2026-07-14 Q03 - according-to-these-sources-how-does.md"
+    },
+    {
+      "id": 4,
+      "theme": "mechanisms",
+      "question": "According to these sources, how do actinomycin D chase assays measure the effect of m6A modification on mRNA stability, and what results have been reported for m6A-modified transcripts?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/answers/2026-07-14 Q04 - according-to-these-sources-how-do.md"
+    },
+    {
+      "id": 5,
+      "theme": "comparisons",
+      "question": "What known limitations, biases, or artifacts affect current m6A detection methods according to these sources (e.g., antibody specificity, false positives, resolution limits)?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/answers/2026-07-14 Q05 - what-known-limitations-biases-or-artifacts.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding methods specifically validated for quantifying m6A on the FOS 3'UTR and its effect on FOS mRNA stability, as opposed to m6A methodology in general?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q07-metodos-m6a-fos-3utr\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/answers/2026-07-14 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/summaries/2026-07-14 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/summaries/2026-07-14 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/summaries/2026-07-14 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q07-metodos-m6a-fos-3utr/QA/summaries/2026-07-14 m6A methods FOS 3-UTR - NotebookLM block summary.md"
+}

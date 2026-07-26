@@ -1,0 +1,21 @@
+[17:48:17] Starting parallel upload: 19 PDFs, 4 workers
+[17:48:26] OK - bathina_2026_lifestyle_intervention_therapy_modulates_global_dna_methylation_and.pdf
+[17:48:26] OK - bao_2026_inside_the_battle_against_acute_myeloid_leukemia_biology.pdf
+[17:48:27] OK - lee_2026_metabolic_oxidoreductases_central_regulators_of_the_epigenetic_landscapes.pdf
+[17:48:27] OK - david_2020_cyclin_c_promoter_occupancy_directs_changes_in_stress.pdf
+[17:48:32] OK - lei_2023_rna_modification_mechanisms_and_therapeutic_targets.pdf
+[17:48:32] OK - poltronieri_2024_regulatory_rnas_role_as_scaffolds_assembling_protein_complexes.pdf
+[17:48:33] OK - rajaganapathi_2025_tead1_is_a_novel_regulator_of_nrf2_and.pdf
+[17:48:33] OK - li_2026_the_role_of_n_lt_sup_gt_6.pdf
+[17:48:38] OK - xiaoyu_2019_the_role_of_m6a_rna_methylation_in_human.pdf
+[17:48:38] OK - shanshan_2022_dynamic_regulation_and_functions_of_mrna_m6a_modification.pdf
+[17:48:38] OK - wen_2025_dynamic_rendition_of_adipose_genes_under_epigenetic_regulation.pdf
+[17:48:39] OK - tobias_2024_recruitment_of_ctcf_to_the_sirt1_promoter_after.pdf
+[17:48:43] OK - zhang_2025_hsf1_activation_mechanisms_disease_roles_and_small_molecule.pdf
+[17:48:43] OK - yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf
+[17:48:44] OK - zewei_2024_insights_into_the_m6a_demethylases_fto_and_alkbh5.pdf
+[17:48:45] OK - yuhan_2020_role_of_m6a_rna_methylation_in_cardiovascular_disease.pdf
+[17:48:49] OK - zhu_2026_cell_signaling_and_transcriptional_regulation_of_osteoclast_lineage.pdf
+[17:48:49] OK - zhang_2026_rna_modifications_in_cancer_stem_cells_molecular_mechanisms.pdf
+[17:48:52] OK - zhao_2024_role_of_n6_methyladenosine_methylation_in_nasopharyngeal_carcinoma.pdf
+[17:48:52] DONE: 19 OK, 0 FAIL (of 19)

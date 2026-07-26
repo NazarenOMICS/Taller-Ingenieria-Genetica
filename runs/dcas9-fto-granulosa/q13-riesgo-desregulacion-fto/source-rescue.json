@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-14",
+  "sources": [
+    {
+      "target_id": "DOI:10.18097/pbmcr1509",
+      "title": "The m6A methylation system limits hepatitis B virus replication.",
+      "doi": "10.18097/pbmcr1509",
+      "pmid": "40326019",
+      "pmcid": "",
+      "required": false,
+      "status": "manual_needed",
+      "failure_reason": "paywall",
+      "pdf_source": null,
+      "pdf_path": null,
+      "notebook_source_id": null,
+      "notes": [
+        "Was always a nice-to-have per user's reference list, only marked required by mistake. Corpus already has strong on-topic sources (FTO dysregulation causing memory deficits, cardiac dysfunction, orthogonal dose-control of CRISPRa) covering the dysregulation-risk question directly."
+      ]
+    }
+  ]
+}

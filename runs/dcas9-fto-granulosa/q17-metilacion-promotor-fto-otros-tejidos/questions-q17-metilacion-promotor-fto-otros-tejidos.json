@@ -1,0 +1,65 @@
+{
+  "slug": "q17-metilacion-promotor-fto-otros-tejidos",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos",
+  "goal": "Determinar si la metilación del promotor de FTO actúa como mecanismo de silenciamiento en otros tejidos y qué enzimas DNMT/TET la regulan en estrés oxidativo o envejecimiento.",
+  "dashboard": "FTO promoter methylation in other tissues",
+  "notebook_id": "44e0bea6-2947-4802-810a-c140ba64ed5c",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "direct-methylation",
+      "question": "According to these sources, is DNA methylation (5mC or 6mA) at the FTO promoter directly reported as a mechanism that reduces FTO transcription in any tissue?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/answers/2026-07-24 Q01 - according-to-these-sources-dna-methylation.md"
+    },
+    {
+      "id": 2,
+      "theme": "enzymes",
+      "question": "Which DNMT or TET enzymes are implicated in regulating FTO promoter methylation, if any, and in what biological contexts?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/answers/2026-07-24 Q02 - which-dnmt-or-tet-enzymes-implicated.md"
+    },
+    {
+      "id": 3,
+      "theme": "oxidative-stress-aging",
+      "question": "Is FTO promoter methylation linked specifically to oxidative stress, aging, inflammation, or senescence in any model system?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/answers/2026-07-24 Q03 - fto-promoter-methylation-linked-specifically-to.md"
+    },
+    {
+      "id": 4,
+      "theme": "evidence-quality",
+      "question": "What experimental approaches were used to demonstrate FTO promoter methylation and transcriptional silencing, and how direct is that evidence?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/answers/2026-07-24 Q04 - what-experimental-approaches-were-used-to.md"
+    },
+    {
+      "id": 5,
+      "theme": "granulosa-extrapolation",
+      "question": "How transferable are these non-granulosa findings to ovarian granulosa cells, and what limits that extrapolation?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/answers/2026-07-24 Q05 - how-transferable-these-non-granulosa-findings.md"
+    },
+    {
+      "id": 6,
+      "theme": "gaps",
+      "question": "What key evidence gaps remain before proposing FTO promoter methylation as the main cause of FTO downregulation in granulosa aging or oxidative stress?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q17-metilacion-promotor-fto-otros-tejidos\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/answers/2026-07-24 Q06 - what-key-evidence-gaps-remain-before.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q17-metilacion-promotor-fto-otros-tejidos/QA/summaries/2026-07-24 FTO promoter methylation in other tissues - NotebookLM block summary.md"
+}

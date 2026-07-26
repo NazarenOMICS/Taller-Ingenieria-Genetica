@@ -1,0 +1,65 @@
+{
+  "slug": "q12-crispra-crispri-rejuvenecimiento",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento",
+  "goal": "Determinar si se ha aplicado edicion epigenomica (CRISPRa o CRISPRi) al rejuvenecimiento de tejido reproductivo o a la reversion parcial del envejecimiento en otros tejidos, y con que resultados.",
+  "dashboard": "CRISPRa CRISPRi rejuvenation",
+  "notebook_id": "b12f5e97-10fe-4024-bf49-afab0fd1c866",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources (e.g., rejuvenation of cells by epigenetic editing), what specific epigenetic editing approaches (CRISPRa, CRISPRi, or related) have been used to reverse aging phenotypes in cells or tissues, and what results were reported?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/answers/2026-07-14 Q01 - according-to-these-sources-e-g.md"
+    },
+    {
+      "id": 2,
+      "theme": "core-evidence",
+      "question": "According to these sources, has epigenomic editing (CRISPRa/CRISPRi) been applied specifically to reproductive tissue rejuvenation (ovary, testis, granulosa), and if so, with what outcomes?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/answers/2026-07-14 Q02 - according-to-these-sources-has-epigenomic.md"
+    },
+    {
+      "id": 3,
+      "theme": "mechanisms",
+      "question": "According to these sources, how does epigenetic-editing-based rejuvenation compare mechanistically to cellular reprogramming approaches (e.g., partial Yamanaka factor reprogramming) for reversing aging phenotypes?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/answers/2026-07-14 Q03 - according-to-these-sources-how-does.md"
+    },
+    {
+      "id": 4,
+      "theme": "context",
+      "question": "According to these sources, what cellular senescence or aging markers were used to demonstrate rejuvenation success in these epigenetic editing studies, and how much reversal (partial vs complete) was typically achieved?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/answers/2026-07-14 Q04 - according-to-these-sources-what-cellular.md"
+    },
+    {
+      "id": 5,
+      "theme": "in-vivo",
+      "question": "According to these sources, has any of this epigenetic-editing-based rejuvenation work been demonstrated in vivo (as opposed to only in cultured cells), and in which tissues?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/answers/2026-07-14 Q05 - according-to-these-sources-has-any.md"
+    },
+    {
+      "id": 6,
+      "theme": "limitations",
+      "question": "What gaps remain in these sources regarding epigenomic editing (CRISPRa/CRISPRi) specifically applied to reproductive tissue or ovarian/granulosa rejuvenation, as opposed to other tissue types?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q12-crispra-crispri-rejuvenecimiento\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/answers/2026-07-14 Q06 - what-gaps-remain-these-sources-regarding.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/summaries/2026-07-14 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/summaries/2026-07-14 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/summaries/2026-07-14 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q12-crispra-crispri-rejuvenecimiento/QA/summaries/2026-07-14 CRISPRa CRISPRi rejuvenation - NotebookLM block summary.md"
+}

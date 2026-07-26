@@ -1,0 +1,1437 @@
+{
+  "slug": "q21-chip-atac-promotor-fto",
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "Epigenetic Regulation of Uterine Smooth Muscle Tumors: Histone Modifications in Uterine Fibroids and Leiomyosarcoma.",
+      "authors": "Yang Q",
+      "year": 2026,
+      "doi": "10.3390/biology15110838",
+      "pmid": "42274489",
+      "pmcid": "PMC13255634",
+      "abstract": "Uterine smooth muscle tumors (USMTs) represent a diverse group of neoplasms arising from the myometrium, ranging from benign uterine fibroids (leiomyomas) to highly aggressive uterine leiomyosarcoma. While genetic alterations contribute to tumor development, growing evidence highlights the crucial role of epigenetic regulation in shaping tumor behavior. Among these mechanisms, histone modification has emerged as a key regulator of chromatin structure and gene expression. Histone modifications, including acetylation, methylation, phosphorylation, ubiquitination, ADP-ribosylation, and SUMOylation, are dynamically controlled by epigenetic regulators known as writers, erasers, and readers, which collectively modulate transcriptional programs involved in cell proliferation, differentiation, and stress responses. Recent studies indicate that dysregulation of histone-modifying enzymes contributes to the pathogenesis of USMTs by altering chromatin accessibility and transcriptional networks. In uterine fibroids, histone modifications are associated with hormone-responsive signaling pathways, extracellular matrix deposition, and abnormal smooth muscle cell proliferation. In contrast, uterine leiomyosarcoma exhibits extensive epigenetic reprogramming characterized by aberrant histone acetylation and methylation patterns, dysregulated chromatin regulators, and activation of oncogenic signaling pathways that promote tumor aggressiveness and genomic instability. Importantly, histone modifications interact with other epigenetic mechanisms, including DNA methylation, non-coding RNA-mediated regulation, and RNA epitranscriptomics, forming complex networks that influence tumor initiation and progression. This narrative review summarizes current knowledge on histone modification pathways and their roles in USMT biology, highlighting the functions of histone-modifying enzymes, their interactions with other epigenetic mechanisms, and their impact on tumor development. In addition, this review discusses emerging therapeutic strategies targeting epigenetic regulators, including inhibitors of histone deacetylases, histone methyltransferases, and readers, as well as potential epigenetic biomarkers for diagnosis and prognosis. Finally, this review outlines future research directions, including multi-omics integration, and advanced epigenomic technologies, which may provide deeper insights into the epigenetic landscape of USMTs and facilitate the development of personalized therapeutic approaches.",
+      "url": "https://europepmc.org/articles/PMC13255634",
+      "pdf_url": "https://europepmc.org/articles/PMC13255634?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a2/e9/PMC13255634.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yang_2026_epigenetic_regulation_of_uterine_smooth_muscle_tumors_histone.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "PMID:42274489",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+      "authors": "Cui X; Zeng L; Zhang W; Xi L; Wang R; Jia D; Safa; Feng H; Jia H",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13913",
+      "pmid": "42169659",
+      "pmcid": "PMC13238957",
+      "abstract": "Intervertebral disc degeneration (IVDD) is increasingly recognized as a systemic collapse of the epigenetic regulatory network, driven by cellular senescence and environmental stressors. The present review provides an overview of the epigenetic regulatory mechanisms governing IVDD, focusing on the dynamic interplay between DNA methylation, histone modifications, N6‑methyladenosine RNA methylation and the non‑coding RNA regulatory triad (microRNAs, long non‑coding RNAs and circular RNAs). The present study evaluates advanced research methodologies (ranging from site‑specific methylation typing and transposase accessible chromatin sequencing to single‑cell multi‑omics and artificial intelligence‑driven predictive modeling) that resolve the spatial and cellular heterogeneities of the degenerating disc niche. Furthermore, the translational constraints of current animal models were critically assessed, advocating for a strategic shift from acute needle‑puncture insults to physiologically relevant aging and genetically engineered progeroid models to better recapitulate human 'epigenetic drift'. Finally, the therapeutic potential of targeted epigenetic editing via CRISPR/dCas9 systems and the development of stimuli‑responsive nanocarriers for precision delivery are highlighted. By bridging methodological innovation with robust model selection, the present review offers a roadmap for transitioning molecular insights into clinical regenerative therapies for spinal health.",
+      "url": "https://europepmc.org/articles/PMC13238957",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/70/fd/mmr-34-01-13913.PMC13238957.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/70/fd/PMC13238957.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "PMID:42169659",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "N6-methyladenosine modification in the context of viral infection: from molecular mechanism to therapeutic potential.",
+      "authors": "Wu X; Deng Z; Li Y; Shi C",
+      "year": 2026,
+      "doi": "10.1016/j.virusres.2026.199749",
+      "pmid": "42162629",
+      "pmcid": "PMC13234715",
+      "abstract": "N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) is the most abundant and dynamically regulated RNA modification in eukaryotic cells, which modulates key RNA metabolic processes including splicing, stability, nuclear export, degradation and translation. During viral infection, m<sup>6</sup>A exerts a pivotal regulatory role by modifying both viral RNAs and host cellular transcripts. Accumulating evidence demonstrates that viruses hijack the host m<sup>6</sup>A machinery through diverse mechanisms to reprogram the host epitranscriptome, in favor of viral replication. Targeting the host m<sup>6</sup>A machinery has emerged as a promising novel antiviral therapeutic strategy. This review focuses on the molecular mechanisms underlying viral hijacking of host m<sup>6</sup>A modifications and explores the therapeutic potential of targeting the viral hijacking mechanisms of the host m<sup>6</sup>A machinery.",
+      "url": "https://europepmc.org/articles/PMC13234715",
+      "pdf_url": "https://europepmc.org/articles/PMC13234715?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/99/f0/PMC13234715.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\wu_2026_n6_methyladenosine_modification_in_the_context_of_viral.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "PMID:42162629",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Novel genome editing approaches to manipulate apical meristem activity for crop yield.",
+      "authors": "Carrasco E; Gutierrez-Marcos J",
+      "year": 2026,
+      "doi": "10.3389/fpls.2026.1743528",
+      "pmid": "41959582",
+      "pmcid": "PMC13057558",
+      "abstract": "Meristem function underlies organogenesis and yield potential in crop species, and its regulation depends on the crosstalk of genetic and hormonal networks that balance stem-cell niche maintenance and differentiation. During the shoot apical meristem (SAM) transition, developmental reprogramming shifts the meristem from a vegetative to a reproductive state, referred to as inflorescence meristem (IM). Major regulatory events in this transition include the cytokinin-gibberellin crosstalk, that regulate the expression of the <i>CLAVATA/WUSCHEL</i> (<i>CLV/WUS</i>) negative feedback loop and key transcription factor families like <i>KNOTTED-LIKE HOMEOBOX</i> (<i>KNOX</i>) and <i>SHOOT MERISTEMLESS</i> (<i>STM</i>). Despite the basic principles of apical meristem differentiation are well-described nowadays, major phenotypic bottlenecks were reached in major staple crops during the artificial selection process, known as domestication, leading to a final reduction in total crop yield. This review aims to describe the key processes and genes that play a role in this transition and how they can be artificially targeted to overcome these limitations. Major bioengineering approaches are covered, ranging from classical random mutagenesis with chemicals like ethyl methanesulfonate (EMS) to targeted genome editing using diverse Clustered Regularly Interspaced Short Palindromic Repeats and CRISPR-associated proteins (CRISPR/Cas) systems. Finally, emerging strategies such as epibreeding are considered as promising tools to achieve precise, reversible modulation of meristem activity and to unlock new routes for crop yield enhancement.",
+      "url": "https://europepmc.org/articles/PMC13057558",
+      "pdf_url": "https://europepmc.org/articles/PMC13057558?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6b/bd/PMC13057558.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\carrasco_2026_novel_genome_editing_approaches_to_manipulate_apical_meristem.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "PMID:41959582",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "RNA modification-mediated multidimensional crosstalk: a novel perspective on gene expression regulation.",
+      "authors": "Wang Y; Yang C; Lin R; Ling H; Xu YZ; Wu Q; Zhou Y",
+      "year": 2026,
+      "doi": "10.1186/s13059-026-04037-7",
+      "pmid": "41918117",
+      "pmcid": "PMC13162458",
+      "abstract": "RNA modifications play pivotal roles in regulating RNA metabolism. Notably, they do not function in isolation, but crosstalk with DNA/protein modifications and other RNA modifications to form multi-layered regulatory networks that cooperatively fine-tune gene expression. In this review, we propose a two-dimensional, mutually exclusive \"cis/trans\" and \"direct/indirect\" framework to delineate the mechanisms and functions of four reciprocal modification axes including RNA-DNA, RNA-histone, RNA-non-histone, and RNA-RNA interactions. Furthermore, this RNA modification-centered crosstalk provides groundbreaking insights into translational applications across disease therapy, tissue engineering, and plant biotechnology. We also address current technical challenges and outline future directions to accelerate translational research.",
+      "url": "https://europepmc.org/articles/PMC13162458",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/0a/cd/13059_2026_Article_4037.PMC13162458.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0a/cd/PMC13162458.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "PMID:41918117",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Regulatory risk loci link disrupted androgen response to the pathophysiology of polycystic ovary syndrome.",
+      "authors": "Srivastava J; Ovcharenko I",
+      "year": 2026,
+      "doi": "10.1210/jendso/bvag083",
+      "pmid": "41994484",
+      "pmcid": "PMC13080274",
+      "abstract": "A major challenge in deciphering the complex genetic landscape of polycystic ovary syndrome (PCOS) lies in the limited understanding of how susceptibility loci drive molecular mechanisms across diverse phenotypes. To address this, we integrated molecular and epigenomic annotations from proposed causal cell types and employed a deep learning (DL) framework to predict cell type-specific regulatory effects of PCOS-risk variants. Our analysis revealed that these variants affect key transcription factor-binding sites, including <i>NR4A1/2</i>, <i>NHLH2</i>, <i>FOXA1</i>, and <i>WT1</i>, which regulate gonadotropin signaling, folliculogenesis, and steroidogenesis across brain and endocrine cell types. The DL model, which showed strong concordance with reporter assay data, identified enhancer-disrupting activity in ∼20% of risk variants. Notably, many of these variants disrupt transcription factors involved in androgen-mediated signaling, providing molecular insights into hyperandrogenemia in PCOS. Variants prioritized by the model were more pleiotropic and exerted stronger regulatory effects on gene expression compared with other risk variants. Using the <i>IRX3-FTO</i> locus as a case study, we demonstrate how regulatory disruptions in tissues such as the fetal brain, pancreas, adipocytes, and endothelial cells may link obesity-associated mechanisms to PCOS pathogenesis via neuronal development, metabolic dysfunction, and impaired folliculogenesis. Collectively, our findings highlight the utility of integrating DL models with epigenomic data to uncover disease-relevant variants, reveal cross-tissue regulatory effects, and refine mechanistic understanding of PCOS.",
+      "url": "https://europepmc.org/articles/PMC13080274",
+      "pdf_url": "https://europepmc.org/articles/PMC13080274?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\srivastava_2026_regulatory_risk_loci_link_disrupted_androgen_response_to.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq",
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "PMID:41994484",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The orchestrated interplay between DNA methylation and N6-methyladenosine modification: &lt;i&gt;status quo&lt;/i&gt; and future perspectives.",
+      "authors": "Yang J; Liao J; Mo BW; Gao Y; Chen YX; Gu Y; Liang MM; Li HM",
+      "year": 2026,
+      "doi": "10.7717/peerj.20654",
+      "pmid": "41623376",
+      "pmcid": "PMC12857562",
+      "abstract": "DNA methylation (DNAme) and N6-methyladenosine (m6A) represent key mechanisms in epigenetic and epitranscriptomic regulation, respectively. While DNAme is a well-established modification, m6A has more recently emerged as a central focus of epitranscriptomic research. This review comprehensively explores the dynamic crosstalk between DNAme and m6A, addressing the molecular intricacies and functional consequences of their interplay. A systematic literature search conducted in Web of Science Core Collection identified 972 publications related to both modifications. After rigorous screening, 29 studies directly investigating interactions between DNAme and m6A were included for in-depth analysis. These interactions were systematically classified into six distinct modes: (1) DNAme-mediated regulation of m6A; (2) m6A-dependent modulation of DNAme; (3) indirect interplay mediated by intermediate factors; (4) direct bilateral regulation between DNAme and m6A; (5) cooperative targeting of common downstream genes or biological processes; and (6) co-expression patterns suggestive of functional interplay. This categorization provides a novel conceptual framework that integrates disparate mechanistic insights, highlights under-explored areas, and proposes new hypotheses for future research. By synthesizing and structuring current knowledge, this review serves as a foundational resource for understanding the complex relationship between these two modifications and facilitates the identification of novel regulatory axes in epigenomic and epitranscriptomic research.",
+      "url": "https://europepmc.org/articles/PMC12857562",
+      "pdf_url": "https://europepmc.org/articles/PMC12857562?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3c/41/PMC12857562.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yang_2026_the_orchestrated_interplay_between_dna_methylation_and_n6.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "PMID:41623376",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A modification in skeletal system diseases (Review).",
+      "authors": "Xie X; Li C; Zheng H; Gan G; Gao X",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13908",
+      "pmid": "42169641",
+      "pmcid": "PMC13220071",
+      "abstract": "N6‑methyladenosine (m<sup>6</sup>A) modifications are key epigenetic regulatory mechanisms in mammals and serve key roles in both normal skeletal development and the pathogenesis of skeletal disorder. The dynamic and reversible regulation of m<sup>6</sup>A relies on three core factors: Methyltransferases (writers), demethylases (erasers) and m<sup>6</sup>A‑binding proteins (readers), which collectively ensure proper physiological functions. Despite this, the functions and regulatory mechanisms of numerous m<sup>6</sup>A‑associated factors in skeletal diseases remain insufficiently understood. m6A modification maintains bone homeostasis during skeletal development primarily by regulating the balance between osteoblasts and osteoclasts. Under pathological conditions, dysregulated m<sup>6</sup>A modification contributes to aberrant osteoclast proliferation and chondrocyte apoptosis, leading to bone loss and cartilage degeneration. These pathological changes are key contributors to common types of skeletal disorder, including osteoporosis, osteoarthritis, rheumatoid arthritis and intervertebral disc degeneration, imposing a burden on human health. Non‑coding RNAs are major targets of m<sup>6</sup>A modification and their interactions exert post‑transcriptional regulation in skeletal biology. The present review summarizes the roles and mechanisms of m<sup>6</sup>A modification in skeletal diseases and highlights its therapeutic potential, offering novel perspectives for disease prevention and treatment.",
+      "url": "https://europepmc.org/articles/PMC13220071",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8f/06/mmr-34-01-13908.PMC13220071.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/06/PMC13220071.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "PMID:42169641",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ATAC-seq Reveals Chromatin Accessibility Changes During Maize Seed Development",
+      "authors": "Minghua Li",
+      "year": 2025,
+      "doi": "10.5376/mgg.2025.16.0017",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.5376/mgg.2025.16.0017",
+      "pdf_url": "https://doi.org/10.5376/mgg.2025.16.0017",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "10.5376/mgg.2025.16.0017",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Characterization of the core promoter region of bovine FTO gene: Identification and potential regulation by GR, FOXO1, C/EBPβ, and PPARα binding sites.",
+      "authors": "Cui Q; Wu G; Chen Q; Feng Y; Shang F; Ni M; Li S",
+      "year": 2025,
+      "doi": "10.1016/j.gene.2025.149705",
+      "pmid": "40759339",
+      "pmcid": null,
+      "abstract": "The fat mass and obesity-associated gene (FTO) critically regulates fat metabolism. The FTO protein encoded by this gene exhibits RNA demethylase activity, enabling it to regulate adipocyte differentiation and the expression of genes involved in lipid metabolism and energy homeostasis. Consequently, it exerts significant influence on the processes of fat synthesis, storage, and degradation. Research on the FTO gene is crucial for elucidating lipid metabolism and obesity-related mechanisms. In this study, we examined the expression patterns of the FTO gene in the tissues of fetal cattle and 24-month-old Guanling cattle. Bioinformatics prediction combined with dual-luciferase reporter assays identified the core promoter region of the FTO gene. Site-directed mutagenesis was subsequently performed to evaluate the effects of transcription factors on promoter transcriptional activity. The results demonstrated that the expression level of the FTO gene was significantly higher in the adipose tissue of Guanling cattle than in other tissues (P < 0.01), with the highest expression observed in adipose tissue. Furthermore, the core promoter region of the FTO gene was mapped to the region spanning -1021∼-702 bp upstream of the transcription start site. Subsequent analysis of mutations in transcription factor binding sites revealed that alterations in the binding sites for GR, FOXO1, C/EBPβ, and PPARα significantly affected the transcriptional activity of the FTO gene (P < 0.05). In conclusion, this study identified the specific expression pattern of the FTO gene in the adipose tissue of Guanling cattle and explored the regulatory roles of the core promoter region and transcription factor binding sites in modulating promoter activity. These findings aim to further elucidate the transcriptional regulatory mechanisms of the FTO gene in cattle.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40759339/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "40759339",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fosl2 facilitates chromatin accessibility to determine developmental events during follicular maturation.",
+      "authors": "Zhang H; Li Z; Zhu Y; Lyu W; Wei W; Wang H; Tian S; Yue W; Zhong J; Sun QY; Guan Y",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-64009-6",
+      "pmid": "41062456",
+      "pmcid": "PMC12508199",
+      "abstract": "Granulosa cells (GCs) are the most dynamically responsive cell lineage to encourage continuous folliculogenesis; however, developmental dynamics and interplay with downstream transcription circuitry remain unclear. Here, we unravel the redistribution of genome-wide chromatin areas that drive broad developmental-related transcriptomic alterations during follicular maturation in murine and porcine GCs. Distinct GC-activated accessibility regions (GAAs) at the ovulatory phase are responsible for augmenting flanking GC-involved developmental gene (GDG) expression, which are essential for transcriptional responses to developmental cues. Mechanistically, the transcription factor Fosl2 is strongly recruited to GAAs, facilitating chromatin accessibility state transition. Elevated GAA signals driven by Fosl2 loading induce a significant upregulation of adjacent GDG expression. Additionally, GC-specific Fosl2 deletion in mice perturbs GC cellularity, leading to subfertility related to reproductive aging. Together, we highlight a dynamic chromatin accessibility landscape during follicular maturation, revealing the indispensable Fosl2 function not only controls transcriptional activation via a reconfigured chromatin state, but also orchestrates intricate signaling pathways that are fundamental for ovulation and reproduction.",
+      "url": "https://europepmc.org/articles/PMC12508199",
+      "pdf_url": "https://europepmc.org/articles/PMC12508199?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ee/64/PMC12508199.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\zhang_2025_fosl2_facilitates_chromatin_accessibility_to_determine_developmental_events.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "PMID:41062456",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Fto-mediated m&lt;sup&gt;6&lt;/sup&gt;A modification is essential for cerebellar development through regulating epigenetic reprogramming.",
+      "authors": "Jiang J; Zhang M; Xia W; Ding C; Li J; Hu X; Lu J; Li H; Meng Q; Cheung HH; Huang B",
+      "year": 2025,
+      "doi": "10.1186/s12929-025-01176-0",
+      "pmid": "40883822",
+      "pmcid": "PMC12398073",
+      "abstract": "<h4>Background</h4>Growing evidence highlights the importance of epitranscriptomic regulation in cerebellar development and function, especially through m<sup>6</sup>A methylation. Nevertheless, the precise function of the RNA demethylase Fto in the cerebellum is still uncertain.<h4>Methods</h4>An Fto knockout (Fto<sup>KO</sup>) mouse model was generated to investigate the role of Fto in cerebellar development. Cerebellar function was assessed using the behavioral tests and Nissl staining. Immunofluorescence was performed to detect molecular expression levels and subcellular localization. Dot blot, m<sup>6</sup>A-RIP-seq, ATAC-seq and CUT&Tag-seq were used to confirm m<sup>6</sup>A levels and chromatin accessibility. Co-IP was employed to test molecular interactions.<h4>Results</h4>Fto<sup>KO</sup> mice exhibited cerebellar ataxia, including tremors and abnormal gait patterns. Reduced FTO expression at embryonic day 13.5 (E13.5) and postnatal day 3 (P3) stages resulted in increased TUJ1 expression, as well as reductions in neuronal functional genes (Map2) and self-renewal genes (Sox2, Sox9, Nestin and Pax6). Mechanistically, Kat8 upregulation was linked to the high m<sup>6</sup>A levels regulated by Fto loss. Furthermore, IGF2BP3 specifically recruited acetyltransferase KAT8 to control gene transcription during early cerebellar development by regulating H4K16ac modification, which alters chromatin accessibility in neural developmental pathways.<h4>Conclusions</h4>In summary, Fto<sup>KO</sup>-induced Kat8 upregulation in an m<sup>6</sup>A-dependent manner resulted in enhanced KAT8 recruitment by IGF2BP3, which improved chromatin accessibility and H4K16ac modification, thereby promoting cerebellar developmental dysfunction.",
+      "url": "https://europepmc.org/articles/PMC12398073",
+      "pdf_url": "https://europepmc.org/articles/PMC12398073?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/32/60/PMC12398073.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\jiang_2025_fto_mediated_m_lt_sup_gt_6_lt.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "PMID:40883822",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "EACR 2024: Innovative Cancer Science, 10-13 June 2024, Rotterdam, Netherlands.",
+      "authors": "",
+      "year": 2024,
+      "doi": "10.1002/1878-0261.13683",
+      "pmid": "38845177",
+      "pmcid": "PMC11156946",
+      "abstract": "",
+      "url": "https://europepmc.org/articles/PMC11156946",
+      "pdf_url": "https://europepmc.org/articles/PMC11156946?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4e/c9/PMC11156946.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\paper_2024_eacr_2024_innovative_cancer_science_10_13_june.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "PMID:38845177",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "YTHDF2 upregulation and subcellular localization dictate CD8 T cell polyfunctionality in anti-tumor immunity",
+      "authors": "Haiyan Zhang; Xiao-Jing Luo; Wei Yang; Zhiying Wu; Zhicong Zhao; Xin Pei; Xue Zhang; Chonghao Chen; Josh Haipeng Lei; Qingxia Shi; Qi Zhao; Yanxing Chen; Wenwei Wu; Zhao-Lei Zeng; Huai‐Qiang Ju; Miao‐Zhen Qiu; Jun Liu; Bin Shen; Minshan Chen; Jianjun Chen; Chu‐Xia Deng; Rui‐Hua Xu; Jiajie Hou",
+      "year": 2024,
+      "doi": "10.1038/s41467-024-53997-6",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "RNA methylation is an important regulatory process to determine immune cell function but how it affects the anti-tumor activity of CD8 T cells is not fully understood. Here we show that the N6-methyladenosine (m6A) RNA reader YTHDF2 is highly expressed in early effector or effector-like CD8 T cells. We find that YTHDF2 facilitates nascent RNA synthesis, and m6A recognition is fundamental for this distinctively nuclear function of the protein, which also reinforces its autoregulation at the RNA level. Loss of YTHDF2 in T cells exacerbates tumor progression and confers unresponsiveness to PD-1 blockade in mice and in humans. In addition to initiating RNA decay that is necessary for mitochondrial fitness, YTHDF2 orchestrates chromatin changes that promote T cell polyfunctionality. YTHDF2 interacts with IKZF1/3, which is important for sustained transcription of their target genes. Accordingly, immunotherapy-induced efficacy could be largely restored in YTHDF2-deficient T cells through combinational use of IKZF1/3 inhibitor lenalidomide in a mouse model. Thus, YTHDF2 coordinates epi-transcriptional and transcriptional networks to potentiate T cell immunity, which could inform therapeutic intervention. RNA methylation has recently identified as an important regulatory mechanism governing functional cellular states, but its effect on the antitumour activity of CD8 + T cells is not fully explored. Here authors assign an essential nuclear, m6A-recognition-dependent function to YTHDF2, which, in conjunction with its regulatory role in IKZF1/3-mediated gene transcription, governs anti-tumor activity in CD8 + T cells.",
+      "url": "https://doi.org/10.1038/s41467-024-53997-6",
+      "pdf_url": "https://www.nature.com/articles/s41467-024-53997-6.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\haiyan_2024_ythdf2_upregulation_and_subcellular_localization_dictate_cd8_t.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "W4404061310",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "epidecodeR: a functional exploration tool for epigenetic and epitranscriptomic regulation.",
+      "authors": "Joshi K; Wang DO",
+      "year": 2024,
+      "doi": "10.1093/bib/bbad521",
+      "pmid": "38271482",
+      "pmcid": "PMC10810334",
+      "abstract": "Recent technological advances in sequencing DNA and RNA modifications using high-throughput platforms have generated vast epigenomic and epitranscriptomic datasets whose power in transforming life science is yet fully unleashed. Currently available in silico methods have facilitated the identification, positioning and quantitative comparisons of individual modification sites. However, the essential challenge to link specific 'epi-marks' to gene expression in the particular context of cellular and biological processes is unmet. To fast-track exploration, we generated epidecodeR implemented in R, which allows biologists to quickly survey whether an epigenomic or epitranscriptomic status of their interest potentially influences gene expression responses. The evaluation is based on the cumulative distribution function and the statistical significance in differential expression of genes grouped by the number of 'epi-marks'. This tool proves useful in predicting the role of H3K9ac and H3K27ac in associated gene expression after knocking down deacetylases FAM60A and SDS3 and N6-methyl-adenosine-associated gene expression after knocking out the reader proteins. We further used epidecodeR to explore the effectiveness of demethylase FTO inhibitors and histone-associated modifications in drug abuse in animals. epidecodeR is available for downloading as an R package at https://bioconductor.riken.jp/packages/3.13/bioc/html/epidecodeR.html.",
+      "url": "https://europepmc.org/articles/PMC10810334",
+      "pdf_url": "https://europepmc.org/articles/PMC10810334?pdf=render",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\joshi_2024_epidecoder_a_functional_exploration_tool_for_epigenetic_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc",
+        "openalex"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "PMID:38271482",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic and transcriptomic characterization reveals progression markers and essential pathways in clear cell renal cell carcinoma",
+      "authors": "Yige Wu; Nadezhda V. Terekhanova; Wagma Caravan; Nataly Naser Al Deen; Preet Lal; Siqi Chen; Chia-Kuei Mo; Song Cao; Yize Li; Alla Y. Karpova; Ruiyang Liu; Yanyan Zhao; Andrew Shinkle; Ilya Strunilin; Cody Weimholt; Kazuhito Sato; Lijun Yao; Mamatha Serasanambati; Xiaolu Yang; Matthew A. Wyczalkowski; Houxiang Zhu; Daniel Cui Zhou; Reyka G. Jayasinghe; Daniel Mendez; Michael C. Wendl; David Clark; Chelsea J. Newton; Yijun Ruan; Melissa A. Reimers; Russell K. Pachynski; Chris Kinsinger; Scott D. Jewell; Daniel W. Chan; Hui Zhang; Aadel A. Chaudhuri; Milan G. Chheda; Benjamin D. Humphreys; Mehdi Mesri; Henry Rodriguez; James J. Hsieh; Li Ding; Feng Chen",
+      "year": 2023,
+      "doi": "10.1038/s41467-023-37211-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Identifying tumor-cell-specific markers and elucidating their epigenetic regulation and spatial heterogeneity provides mechanistic insights into cancer etiology. Here, we perform snRNA-seq and snATAC-seq in 34 and 28 human clear cell renal cell carcinoma (ccRCC) specimens, respectively, with matched bulk proteogenomics data. By identifying 20 tumor-specific markers through a multi-omics tiered approach, we reveal an association between higher ceruloplasmin (CP) expression and reduced survival. CP knockdown, combined with spatial transcriptomics, suggests a role for CP in regulating hyalinized stroma and tumor-stroma interactions in ccRCC. Intratumoral heterogeneity analysis portrays tumor cell-intrinsic inflammation and epithelial-mesenchymal transition (EMT) as two distinguishing features of tumor subpopulations. Finally, BAP1 mutations are associated with widespread reduction of chromatin accessibility, while PBRM1 mutations generally increase accessibility, with the former affecting five times more accessible peaks than the latter. These integrated analyses reveal the cellular architecture of ccRCC, providing insights into key markers and pathways in ccRCC tumorigenesis.",
+      "url": "https://doi.org/10.1038/s41467-023-37211-7",
+      "pdf_url": "https://www.nature.com/articles/s41467-023-37211-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yige_2023_epigenetic_and_transcriptomic_characterization_reveals_progression_markers_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "W4361007156",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "scm6A-seq reveals single-cell landscapes of the dynamic m6A during oocyte maturation and early embryonic development",
+      "authors": "Huan Yao; Chun‐Chun Gao; Danru Zhang; Jiawei Xu; Gege Song; Xiu Fan; Dao-Bo Liang; Yusheng Chen; Qian Li; Yanjie Guo; Yuting Cai; Lulu Hu; Yongliang Zhao; Yingpu Sun; Ying Yang; Jianyong Han; Yun‐Gui Yang",
+      "year": 2023,
+      "doi": "10.1038/s41467-023-35958-7",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract N 6 -methyladenosine (m 6 A) has been demonstrated to regulate RNA metabolism and various biological processes, including gametogenesis and embryogenesis. However, the landscape and function of m 6 A at single cell resolution have not been extensively studied in mammalian oocytes or during pre-implantation. In this study, we developed a single-cell m 6 A sequencing (scm 6 A-seq) method to simultaneously profile the m 6 A methylome and transcriptome in single oocytes/blastomeres of cleavage-stage embryos. We found that m 6 A deficiency leads to aberrant RNA clearance and consequent low quality of Mettl3 Gdf9 conditional knockout (cKO) oocytes. We further revealed that m 6 A regulates the translation and stability of modified RNAs in metaphase II (MII) oocytes and during oocyte-to-embryo transition, respectively. Moreover, we observed m 6 A-dependent asymmetries in the epi-transcriptome between the blastomeres of two-cell embryo. scm 6 A-seq thus allows in-depth investigation into m 6 A characteristics and functions, and the findings provide invaluable single-cell resolution resources for delineating the underlying mechanism for gametogenesis and early embryonic development.",
+      "url": "https://doi.org/10.1038/s41467-023-35958-7",
+      "pdf_url": "https://www.nature.com/articles/s41467-023-35958-7.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\huan_2023_scm6a_seq_reveals_single_cell_landscapes_of_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "W4317436464",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A compendium and comparative epigenomics analysis of cis-regulatory elements in the pig genome",
+      "authors": "Yunxia Zhao; Ye Hou; Yueyuan Xu; Yu Luan; Huanhuan Zhou; Xiaolong Qi; Mingyang Hu; Daoyuan Wang; Zhangxu Wang; Yuhua Fu; Jingjin Li; Saixian Zhang; Jianhai Chen; Jianlin Han; Xinyun Li; Shuhong Zhao",
+      "year": 2021,
+      "doi": "10.1038/s41467-021-22448-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Although major advances in genomics have initiated an exciting new era of research, a lack of information regarding cis-regulatory elements has limited the genetic improvement or manipulation of pigs as a meat source and biomedical model. Here, we systematically characterize cis-regulatory elements and their functions in 12 diverse tissues from four pig breeds by adopting similar strategies as the ENCODE and Roadmap Epigenomics projects, which include RNA-seq, ATAC-seq, and ChIP-seq. In total, we generate 199 datasets and identify more than 220,000 cis-regulatory elements in the pig genome. Surprisingly, we find higher conservation of cis-regulatory elements between human and pig genomes than those between human and mouse genomes. Furthermore, the differences of topologically associating domains between the pig and human genomes are associated with morphological evolution of the head and face. Beyond generating a major new benchmark resource for pig epigenetics, our study provides basic comparative epigenetic data relevant to using pigs as models in human biomedical research.",
+      "url": "https://doi.org/10.1038/s41467-021-22448-x",
+      "pdf_url": "https://www.nature.com/articles/s41467-021-22448-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yunxia_2021_a_compendium_and_comparative_epigenomics_analysis_of_cis.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "W3154671194",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Disease-associated genetic variants in the regulatory regions of human genes: mechanisms of action on transcription and genomic resources for dissecting these mechanisms",
+      "authors": "E. V. Ignatieva; E. A. Matrosova",
+      "year": 2021,
+      "doi": "10.18699/vj21.003",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Whole genome and whole exome sequencing technologies play a very important role in the studies of the genetic aspects of the pathogenesis of various diseases. The ample use of genome-wide and exome-wide association study methodology (GWAS and EWAS) made it possible to identify a large number of genetic variants associated with diseases. This information is accumulated in the databases like GWAS central, GWAS catalog, OMIM, ClinVar, etc. Most of the variants identified by the GWAS technique are located in the noncoding regions of the human genome. According to the ENCODE project, the fraction of regions in the human genome potentially involved in transcriptional control is many times greater than the fraction of coding regions. Thus, genetic variation in noncoding regions of the genome can increase the susceptibility to diseases by disrupting various regulatory elements (promoters, enhancers, silencers, insulator regions, etc.). However, identification of the mechanisms of influence of pathogenic genetic variants on the diseases risk is difficult due to a wide variety of regulatory elements. The present review focuses on the molecular genetic mechanisms by which pathogenic genetic variants affect gene expression. At the same time, attention is concentrated on the transcriptional level of regulation as an initial step in the expression of any gene. A triggering event mediating the effect of a pathogenic genetic variant on the level of gene expression can be, for example, a change in the functional activity of transcription factor binding sites (TFBSs) or DNA methylation change, which, in turn, affects the functional activity of promoters or enhancers. Dissecting the regulatory roles of polymorphic loci have been impossible without close integration of modern experimental approaches with computer analysis of a growing wealth of genetic and biological data obtained using omics technologies. The review provides a brief description of a number of the most well-known public genomic information resources containing data obtained using omics technologies, including (1) resources that accumulate data on the chromatin states and the regions of transcription factor binding derived from ChIP-seq experiments; (2) resources containing data on genomic loci, for which allele-specific transcription factor binding was revealed based on ChIP-seq technology; (3) resources containing in silico predicted data on the potential impact of genetic variants on the transcription factor binding sites.",
+      "url": "https://doi.org/10.18699/vj21.003",
+      "pdf_url": "https://vavilov.elpub.ru/jour/article/download/2912/1467",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\e_2021_disease_associated_genetic_variants_in_the_regulatory_regions.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "W3138818411",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR011NJP",
+      "authors": "S Montgomery",
+      "year": 2021,
+      "doi": "10.17989/encsr011njp",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr011njp",
+      "pdf_url": "https://doi.org/10.17989/encsr011njp",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "10.17989/encsr011njp",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR208HAP",
+      "authors": "S Montgomery",
+      "year": 2021,
+      "doi": "10.17989/encsr208hap",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr208hap",
+      "pdf_url": "https://doi.org/10.17989/encsr208hap",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "10.17989/encsr208hap",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR275LCF",
+      "authors": "S Montgomery",
+      "year": 2021,
+      "doi": "10.17989/encsr275lcf",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr275lcf",
+      "pdf_url": "https://doi.org/10.17989/encsr275lcf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "10.17989/encsr275lcf",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ENCSR454UTH",
+      "authors": "S Montgomery",
+      "year": 2021,
+      "doi": "10.17989/encsr454uth",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.17989/encsr454uth",
+      "pdf_url": "https://doi.org/10.17989/encsr454uth",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "10.17989/encsr454uth",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ATAC-seq reveals alterations in open chromatin in pancreatic islets from subjects with type 2 diabetes",
+      "authors": "Madhusudhan Bysani; Rasmus Ågren; Cajsa Davegårdh; Petr Volkov; Tina Rönn; Per Unneberg; Karl Bacos; Charlotte Ling",
+      "year": 2019,
+      "doi": "10.1038/s41598-019-44076-8",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Impaired insulin secretion from pancreatic islets is a hallmark of type 2 diabetes (T2D). Altered chromatin structure may contribute to the disease. We therefore studied the impact of T2D on open chromatin in human pancreatic islets. We used assay for transposase-accessible chromatin using sequencing (ATAC-seq) to profile open chromatin in islets from T2D and non-diabetic donors. We identified 57,105 and 53,284 ATAC-seq peaks representing open chromatin regions in islets of non-diabetic and diabetic donors, respectively. The majority of ATAC-seq peaks mapped near transcription start sites. Additionally, peaks were enriched in enhancer regions and in regions where islet-specific transcription factors (TFs), e.g. FOXA2, MAFB, NKX2.2, NKX6.1 and PDX1, bind. Islet ATAC-seq peaks overlap with 13 SNPs associated with T2D (e.g. rs7903146, rs2237897, rs757209, rs11708067 and rs878521 near TCF7L2, KCNQ1, HNF1B, ADCY5 and GCK, respectively) and with additional 67 SNPs in LD with known T2D SNPs (e.g. SNPs annotated to GIPR, KCNJ11, GLIS3, IGF2BP2, FTO and PPARG). There was enrichment of open chromatin regions near highly expressed genes in human islets. Moreover, 1,078 open chromatin peaks, annotated to 898 genes, differed in prevalence between diabetic and non-diabetic islet donors. Some of these peaks are annotated to candidate genes for T2D and islet dysfunction (e.g. HHEX, HMGA2, GLIS3, MTNR1B and PARK2) and some overlap with SNPs associated with T2D (e.g. rs3821943 near WFS1 and rs508419 near ANK1). Enhancer regions and motifs specific to key TFs including BACH2, FOXO1, FOXA2, NEUROD1, MAFA and PDX1 were enriched in differential islet ATAC-seq peaks of T2D versus non-diabetic donors. Our study provides new understanding into how T2D alters the chromatin landscape, and thereby accessibility for TFs and gene expression, in human pancreatic islets.",
+      "url": "https://doi.org/10.1038/s41598-019-44076-8",
+      "pdf_url": "https://www.nature.com/articles/s41598-019-44076-8.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\madhusudhan_2019_atac_seq_reveals_alterations_in_open_chromatin_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "W2945648754",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abstracts from the 51st European Society of Human Genetics Conference: Posters",
+      "authors": "",
+      "year": 2019,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC6778823",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778823/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778823/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/83/92/PMC6778823.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "PMC6778823",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Dynamic Chromatin Architecture of the Regenerating Liver",
+      "authors": "Amber W. Wang; Yue J. Wang; Adam M. Zahm; Ashleigh Morgan; Kirk J. Wangensteen; Klaus H. Kaestner",
+      "year": 2019,
+      "doi": "10.1016/j.jcmgh.2019.09.006",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND & AIMS: The adult liver is the main detoxification organ and routinely is exposed to environmental insults but retains the ability to restore its mass and function upon tissue damage. However, extensive injury can lead to liver failure, and chronic injury causes fibrosis, cirrhosis, and hepatocellular carcinoma. Currently, the transcriptional regulation of organ repair in the adult liver is incompletely understood. METHODS: We isolated nuclei from quiescent as well as repopulating hepatocytes in a mouse model of hereditary tyrosinemia, which recapitulates the injury and repopulation seen in toxic liver injury in human beings. We then performed the assay for transposase accessible chromatin with high-throughput sequencing specifically in repopulating hepatocytes to identify differentially accessible chromatin regions and nucleosome positioning. In addition, we used motif analysis to predict differential transcription factor occupancy and validated the in silico results with chromatin immunoprecipitation followed by sequencing for hepatocyte nuclear factor 4α (HNF4α) and CCCTC-binding factor (CTCF). RESULTS: Chromatin accessibility in repopulating hepatocytes was increased in the regulatory regions of genes promoting proliferation and decreased in the regulatory regions of genes involved in metabolism. The epigenetic changes at promoters and liver enhancers correspond with the regulation of gene expression, with enhancers of many liver function genes showing a less accessible state during the regenerative process. Moreover, increased CTCF occupancy at promoters and decreased HNF4α binding at enhancers implicate these factors as key drivers of the transcriptomic changes in replicating hepatocytes that enable liver repopulation. CONCLUSIONS: Our analysis of hepatocyte-specific epigenomic changes during liver repopulation identified CTCF and HNF4α as key regulators of hepatocyte proliferation and regulation of metabolic programs. Thus, liver repopulation in the setting of toxic injury makes use of both general transcription factors (CTCF) for promoter activation, and reduced binding by a hepatocyte-enriched factor (HNF4α) to temporarily limit enhancer activity. All sequencing data in this study were deposited to the Gene Expression Omnibus database and can be downloaded with accession number GSE109466.",
+      "url": "https://doi.org/10.1016/j.jcmgh.2019.09.006",
+      "pdf_url": "http://www.cmghjournal.org/article/S2352345X19301249/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "W2981130335",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "FTO-Dependent N <sup>6</sup> -Methyladenosine Regulates Cardiac Function During Remodeling and Repair",
+      "authors": "Prabhu Mathiyalagan; Marta Adamiak; Joshua Mayourian; Yassine Sassi; Yaxuan Liang; Neha Agarwal; Divya Jha; Shihong Zhang; Erik Kohlbrenner; Elena Chepurko; Jiqiu Chen; Maria G. Trivieri; Rajvir Singh; Rihab Bouchareb; Kenneth Fish; Kiyotake Ishikawa; Djamel Lebeche; Roger J. Hajjar; Susmita Sahoo",
+      "year": 2018,
+      "doi": "10.1161/circulationaha.118.033794",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: -methyladenosine (m6A) in the heart are lacking. Here, we show that the FTO (fat mass and obesity-associated protein), an m6A demethylase, plays a critical role in cardiac contractile function during homeostasis, remodeling, and regeneration. METHODS: We used clinical human samples, preclinical pig and mouse models, and primary cardiomyocyte cell cultures to study the functional role of m6A and FTO in the heart and in cardiomyocytes. We modulated expression of FTO by using adeno-associated virus serotype 9 (in vivo), adenovirus (both in vivo and in vitro), and small interfering RNAs (in vitro) to study its function in regulating cardiomyocyte m6A, calcium dynamics and contractility, and cardiac function postischemia. We performed methylated (m6A) RNA immunoprecipitation sequencing to map transcriptome-wide m6A, and methylated (m6A) RNA immunoprecipitation quantitative polymerase chain reaction assays to map and validate m6A in individual transcripts, in healthy and failing hearts, and in myocytes. RESULTS: We discovered that FTO has decreased expression in failing mammalian hearts and hypoxic cardiomyocytes, thereby increasing m6A in RNA and decreasing cardiomyocyte contractile function. Improving expression of FTO in failing mouse hearts attenuated the ischemia-induced increase in m6A and decrease in cardiac contractile function. This is performed by the demethylation activity of FTO, which selectively demethylates cardiac contractile transcripts, thus preventing their degradation and improving their protein expression under ischemia. In addition, we demonstrate that FTO overexpression in mouse models of myocardial infarction decreased fibrosis and enhanced angiogenesis. CONCLUSIONS: Collectively, our study demonstrates the functional importance of the FTO-dependent cardiac m6A methylome in cardiac contraction during heart failure and provides a novel mechanistic insight into the therapeutic mechanisms of FTO.",
+      "url": "https://doi.org/10.1161/circulationaha.118.033794",
+      "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.118.033794",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "W2837459302",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Shared genetic contribution to type 1 and type 2 diabetes risk",
+      "authors": "Anthony Aylward; Joshua Chiou; Mei-Lin Okino; Nikita Kadakia; Kyle J. Gaulton",
+      "year": 2018,
+      "doi": "10.1101/285304",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract The role of shared genetic risk in the etiology of type 1 diabetes (T1D) and type 2 diabetes (T2D) and the mechanisms of these effects is unknown. In this study, we generated T1D association data of 15k samples imputed into the HRC reference panel which we compared to T2D association data of 159k samples imputed into 1000 Genomes. The effects of genetic variants on T1D and T2D risk at known loci and genome-wide were positively correlated, which we replicated using data from the UK Biobank and clinically-defined diabetes in the WTCCC. Increased risk of T1D and T2D was correlated with higher fasting insulin and fasting glucose level and decreased birth weight, among T1D- and T2D-specifc correlations, and T1D and T2D associated variants were enriched in regulatory elements for pancreatic, insulin resistance (adipose, CD19+ B cell), and developmental (CD184+ endoderm) cell types. We fine-mapped causal variants at known T1D and T2D loci and found evidence for co-localization at five signals, four of which had same direction of effect, including CENPW and GLIS3. Shared risk variants at GLIS3 and other signals were associated with measures of islet function, while CENPW was associated with early growth, and we identified shared risk variants at GLIS3 in islet accessible chromatin with allelic effects on islet regulatory activity. Our findings support shared genetic risk involving variants affecting islet function as well as insulin resistance, growth and development in the etiology of T1D and T2D.",
+      "url": "https://doi.org/10.1101/285304",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2018/05/07/285304.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\anthony_2018_shared_genetic_contribution_to_type_1_and_type.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "W2800377980",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Using three-dimensional regulatory chromatin interactions from adult and fetal cortex to interpret genetic results for psychiatric disorders and cognitive traits",
+      "authors": "Paola Giusti‐Rodríguez; Patrick F. Sullivan",
+      "year": 2018,
+      "doi": "10.1101/406330",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Genome-wide association studies have identified hundreds of genetic associations for complex psychiatric disorders and cognitive traits. However, interpretation of most of these findings is complicated by the presence of many significant and highly correlated genetic variants located in non-coding regions. Here, we address this issue by creating a high-resolution map of the three-dimensional (3D) genome organization by applying Hi-C to adult and fetal brain cortex with concomitant RNA-seq, open chromatin (ATAC-seq), and ChIP-seq data (H3K27ac, H3K4me3, and CTCF). Extensive analyses established the quality, information content, and salience of these new Hi-C data. We used these data to connect 938 significant genetic loci for schizophrenia, intelligence, ADHD, alcohol dependence, Alzheimer's disease, anorexia nervosa, autism spectrum disorder, bipolar disorder, major depression, and educational attainment to 8,595 genes (with 42.1% of these genes implicated more than once). We show that assigning genes to traits based on proximity provides a limited view of the complexity of GWAS findings and that gene set analyses based on functional genomic data provide an expanded view of the biological processes involved in the etiology of schizophrenia and other complex brain traits.",
+      "url": "https://doi.org/10.1101/406330",
+      "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2019/01/30/406330.full.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\paola_2018_using_three_dimensional_regulatory_chromatin_interactions_from_adult.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "W3098180800",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Genetics of Transcription Factor DNA Binding Variation",
+      "authors": "Bart Deplancke; Daniel Alpern; Vincent Gardeux",
+      "year": 2016,
+      "doi": "10.1016/j.cell.2016.07.012",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cell.2016.07.012",
+      "pdf_url": "http://www.cell.com/article/S0092867416309187/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "W2481378334",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Obesity-associated variants within FTO form long-range functional connections with IRX3",
+      "authors": "Scott Smemo; Juan J. Tena; Kyoung-Han Kim; Eric R. Gamazon; Noboru J. Sakabe; Carlos Gómez-Marín; Ivy Aneas; Flavia L. Credidio; Débora R. Sobreira; Nora Wasserman; Ju Hee Lee; Vijitha Puviindran; Davis Tam; Michael M. Shen; Joe Eun Son; N Alizadeh Vakili; Hoon‐Ki Sung; Silvia Naranjo; Rafael D. Acemel; Miguel Manzanares; András Nagy; Nancy J. Cox; Chi-chung Hui; José Luis Gómez-Skármeta; Marcelo A. Nóbrega",
+      "year": 2014,
+      "doi": "10.1038/nature13138",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1038/nature13138",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4113484",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "W2156714600",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Survival of pancreatic beta cells is partly controlled by a TCF7L2-p53-p53INP1-dependent pathway.",
+      "authors": "Zhou Y; Zhang E; Berggreen C; Jing X; Osmark P; Lang S; Cilio CM; Göransson O; Groop L; Renström E; Hansson O",
+      "year": 2012,
+      "doi": "10.1093/hmg/ddr454",
+      "pmid": "21965303",
+      "pmcid": null,
+      "abstract": "The transcription factor T-cell factor 7-like 2 (TCF7L2) confers type 2 diabetes risk mainly through impaired insulin secretion, perturbed incretin effect and reduced beta-cell survival. The aim of this study was to identify the molecular mechanism through which TCF7L2 influences beta-cell survival. TCF7L2 target genes in INS-1 cells were identified using Chromatin Immunoprecipitation. Validation of targets was obtained by: siRNA silencing, real-time quantitative polymerase chain reaction, electrophoretic mobility shift assay, luciferase reporter assays and western blot. Apoptosis rate was measured by DNA degradation and caspase-3 content. Islet viability was estimated by measuring metabolic rate. TCF7L2 binds to 3646 gene promoters in INS-1 cells in high or low glucose, including Tp53, Pten, Uggt1, Adamts9 and Fto. SiRNA-mediated reduction in TCF7L2 activity resulted in increased apoptosis and increased expression of Tp53, which resulted in elevated p53 protein activity and an increased expression of the p53 target gene Tp53inp1 (encoding p53-induced-nuclear-protein 1). Reversing the increase in p53INP1 protein expression, seen after Tcf7l2 silencing, protected INS-1 cells from Tcf7l2 depletion-induced apoptosis. This result was replicated in primary rat islets. The risk T-allele of rs7903146 is associated with increased TCF7L2 mRNA expression and transcriptional activity. On the other hand, in vitro silencing of TCF7L2 lead to increased apoptosis. One possibility is that the risk T-allele increases expression of an inhibitory TCF7L2 isoform with lower transcriptional activity. These results identify the p53-p53INP1 pathway as a molecular mechanism through which TCF7L2 may affect beta-cell survival and established a molecular link between Tcf7l2 and two type 2 diabetes-associated genes, Tp53inp1 and Adamts9.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21965303/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "21965303",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Hypothalamic-Specific Manipulation of Fto, the Ortholog of the Human Obesity Gene FTO, Affects Food Intake in Rats",
+      "authors": "Yi-Chun Tung; Eduard Ayuso; Xiaoye Shan; Fátima Bosch; Stephen O’Rahilly; Anthony P. Coll; Giles S.H. Yeo",
+      "year": 2010,
+      "doi": "10.1371/journal.pone.0008771",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Sequence variants in the first intron of FTO are strongly associated with human obesity and human carriers of the risk alleles show evidence for increased appetite and food intake. Mice globally lacking Fto display a complex phenotype characterised by both increased energy expenditure and increased food intake. The site of action of FTO on energy balance is unclear. Fasting reduces levels of Fto mRNA in the arcuate nucleus (ARC) of the hypothalamus, a site where Fto expression is particularly high. In this study, we have extended this nutritional link by demonstrating that consumption of a high fat diet (45%) results in a 2.5 fold increase in Arc Fto expression. We have further explored the role of hypothalamic Fto in the control of food intake by using stereotactic injections coupled with AAV technology to bi-directionally modulate Fto expression. An over expression of Fto protein by 2.5-fold in the ARC results in a 14% decrease in average daily food intake in the first week. In contrast, knocking down Arc Fto expression by 40% increases food intake by 16%. mRNA levels of Agrp, Pomc and Npy, ARC-expressed genes classically associated with the control of food intake, were not affected by the manipulation of Fto expression. However, over expression of Fto resulted in a 4-fold increase in the mRNA levels of Stat3, a signalling molecule critical for leptin receptor signalling, suggesting a possible candidate for the mediation of Fto's actions. These data provide further support for the notion that FTO itself can influence key components of energy balance, and is therefore a strong candidate for the mediation of the robust association between FTO intronic variants and adiposity. Importantly, this provide the first indication that selective alteration of FTO levels in the hypothalamus can influence food intake, a finding consistent with the reported effects of FTO alleles on appetite and food intake in man.",
+      "url": "https://doi.org/10.1371/journal.pone.0008771",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0008771&type=printable",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\yi_chun_2010_hypothalamic_specific_manipulation_of_fto_the_ortholog_of.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "W1963603805",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Genome-Wide Association Scan Shows Genetic Variants in the FTO Gene Are Associated with Obesity-Related Traits",
+      "authors": "Angelo Scuteri; Serena Sanna; Wei‐Min Chen; Manuela Uda; Giuseppe Albai; James Strait; Samer S. Najjar; Ramaiah Nagaraja; Marco Orrù; Gianluca Usala; Mariano Dei; Sandra Lai; Andrea Maschio; Fabio Busonero; Antonella Mulas; Georg Ehret; Ashley A Fink; Alan B. Weder; Richard S Cooper; Pilar Galán; Aravinda Chakravarti; David Schlessinger; Antonio Cao; Edward G. Lakatta; Gonçalo R. Abecasis",
+      "year": 2007,
+      "doi": "10.1371/journal.pgen.0030115",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The obesity epidemic is responsible for a substantial economic burden in developed countries and is a major risk factor for type 2 diabetes and cardiovascular disease. The disease is the result not only of several environmental risk factors, but also of genetic predisposition. To take advantage of recent advances in gene-mapping technology, we executed a genome-wide association scan to identify genetic variants associated with obesity-related quantitative traits in the genetically isolated population of Sardinia. Initial analysis suggested that several SNPs in the FTO and PFKP genes were associated with increased BMI, hip circumference, and weight. Within the FTO gene, rs9930506 showed the strongest association with BMI (p = 8.6 x10(-7)), hip circumference (p = 3.4 x 10(-8)), and weight (p = 9.1 x 10(-7)). In Sardinia, homozygotes for the rare \"G\" allele of this SNP (minor allele frequency = 0.46) were 1.3 BMI units heavier than homozygotes for the common \"A\" allele. Within the PFKP gene, rs6602024 showed very strong association with BMI (p = 4.9 x 10(-6)). Homozygotes for the rare \"A\" allele of this SNP (minor allele frequency = 0.12) were 1.8 BMI units heavier than homozygotes for the common \"G\" allele. To replicate our findings, we genotyped these two SNPs in the GenNet study. In European Americans (N = 1,496) and in Hispanic Americans (N = 839), we replicated significant association between rs9930506 in the FTO gene and BMI (p-value for meta-analysis of European American and Hispanic American follow-up samples, p = 0.001), weight (p = 0.001), and hip circumference (p = 0.0005). We did not replicate association between rs6602024 and obesity-related traits in the GenNet sample, although we found that in European Americans, Hispanic Americans, and African Americans, homozygotes for the rare \"A\" allele were, on average, 1.0-3.0 BMI units heavier than homozygotes for the more common \"G\" allele. In summary, we have completed a whole genome-association scan for three obesity-related quantitative traits and report that common genetic variants in the FTO gene are associated with substantial changes in BMI, hip circumference, and body weight. These changes could have a significant impact on the risk of obesity-related morbidity in the general population.",
+      "url": "https://doi.org/10.1371/journal.pgen.0030115",
+      "pdf_url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0030115&type=printable",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\papers\\angelo_2007_genome_wide_association_scan_shows_genetic_variants_in.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "W2110678911",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of liver X receptor-alpha in the fatty acid regulation of hepatic gene expression.",
+      "authors": "Pawar A; Botolin D; Mangelsdorf DJ; Jump DB",
+      "year": 2003,
+      "doi": "",
+      "pmid": "12917410",
+      "pmcid": null,
+      "abstract": "Liver X receptors (LXR) alpha and beta play an important role in regulating the expression of genes involved in hepatic bile and fatty acid synthesis, glucose metabolism, as well as sterol efflux. Studies with human embryonic kidney 293 cells indicate that unsaturated fatty acids interfere with oxysterols binding to LXR and antagonize oxysterol-induced LXRalpha activity. In this report, we evaluated the effects of unsaturated fatty acids on LXR-regulated hepatic gene expression. The LXR agonist, T1317, induced mRNAs encoding sterol regulatory element-binding protein 1c (SREBP-1c) and two SREBP-1c-regulated lipogenic genes, e.g. fatty-acid synthase and the S14 protein in primary hepatocytes. Treatment of hepatocytes with eicosapentaenoic acid (20:5n-3) suppressed these mRNAs in the absence and presence of T1317. The cis-regulatory elements targeted by T1317 were not required for fatty-acid suppression of FAS or S14 promoter activity. In contrast to SREBP-1-regulated lipogenic genes, 20:5n-3 had no effect on the T1317 induction of ABCG5 or ABCG8 in the rat hepatoma cell line, FTO-2B. These two genes require LXR but not SREBP-1c for their expression. Feeding rats a diet supplemented with fish oil suppressed hepatic SREBP-1c-regulated genes and induced PPARalpha-regulated genes but had no effect on the LXR-regulated transcripts, CYP7A1, ABCG5, or ABCG8. Transfection studies, using either full-length hLXRalpha or a chimera containing only the LXRalpha ligand binding domain, indicate that a wide array of unsaturated fatty acids had little effect on LXRalpha activity in primary hepatocytes or FTO-2B. These studies suggest that LXRalpha is not a target for unsaturated fatty acid regulation in primary rat hepatocytes or in liver. Thus, oxysterol/LXR-mediated regulation of transcripts involved in bile acid synthesis or sterol efflux appear insensitive to dietary unsaturated fatty acids. The unsaturated fatty acid suppression of SREBP-1 and its targeted lipogenic genes is independent of LXRalpha",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12917410/",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "pubmed",
+      "sources": [
+        "pubmed"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "12917410",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cholecystokinin gene transcription: promoter elements, transcription factors and signaling pathways",
+      "authors": "Thomas v.O Hansen",
+      "year": 2001,
+      "doi": "10.1016/s0196-9781(01)00443-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s0196-9781(01)00443-0",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "10.1016/s0196-9781(01)00443-0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 1—figure supplement 2. Changes in chromatin accessibility at OCT4-bound sites following depletion of OCT4 in ESCs.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.22631.005",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.22631.005",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "10.7554/elife.22631.005",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 2. Validation of Dam chromatin accessibility profiling compared to ATAC and FAIRE-seq.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.32341.004",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.32341.004",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "10.7554/elife.32341.004",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3. The chromatin remodelling enzyme BRG1 is required to create accessible chromatin at OCT4 target sites.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.22631.009",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.22631.009",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "10.7554/elife.22631.009",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 3—figure supplement 4. Correlation of brain-derived DNase-seq and ATAC-seq datasets.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.21883.014",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.21883.014",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter chromatin accessibility ATAC-seq ChIP-seq"
+      ],
+      "paper_id": "10.7554/elife.21883.014",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Figure 4—source data 1. Table of MCF7 ENCODE ChIP-seq data sets.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7554/elife.35073.014",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.35073.014",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ENCODE Cistrome FTO promoter ChIP-seq ATAC-seq"
+      ],
+      "paper_id": "10.7554/elife.35073.014",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Identification of cellular transcription factors binding to HBV promoter with naturally occurring deletions",
+      "authors": "Hong Pan",
+      "year": 1970,
+      "doi": "10.32657/10356/35760",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.32657/10356/35760",
+      "pdf_url": "https://dr.ntu.edu.sg/bitstream/10356/35760/1/SBS_THESES_5.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "10.32657/10356/35760",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Supplemental Information 5: Predicting transcription factors that bind to the\n                      <i>LDOX</i>\n                      promoter",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.19975/supp-5",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.19975/supp-5",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "10.7717/peerj.19975/supp-5",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "TRANSCRIPTIONAL REGULATION OF THE c-fms PROMOTER BY THE ETS FAMILY OF TRANSCRIPTION FACTORS",
+      "authors": "Myrna Constantin",
+      "year": 1970,
+      "doi": "10.14264/158331",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.14264/158331",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "10.14264/158331",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Table 3: Transcription factors with predicted binding in the promoter regions of Slfn family members.",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.7717/peerj.8461/table-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7717/peerj.8461/table-3",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "FTO promoter transcription factors ENCODE"
+      ],
+      "paper_id": "10.7717/peerj.8461/table-3",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

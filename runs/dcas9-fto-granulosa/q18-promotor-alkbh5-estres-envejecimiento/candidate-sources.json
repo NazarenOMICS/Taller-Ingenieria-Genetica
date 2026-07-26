@@ -1,0 +1,1438 @@
+{
+  "slug": "q18-promotor-alkbh5-estres-envejecimiento",
+  "date": "2026-07-24",
+  "candidates": [
+    {
+      "title": "Abstract 1358: Promoter methylation gains in aging and cancer are independent of replication.",
+      "authors": "Sara-Jayne Thursby; Zhicheng Jin; Nibedita Patel; Yong Tao; Yuba Bhandari; Daniel Petkovich; Shangzhi Lu; Lijing Yang; Tza-Huei Wang; T. R. Pisanic; S. Baylin; Hariharan Easwaran; Jacob Blum",
+      "year": 2026,
+      "doi": "10.1158/1538-7445.am2026-1358",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "\n DNA methylation alterations are observed across multiple cancers, occurring early during tumor initiation. However, the evolution of these changes remains poorly understood and difficult to assess at the clonal level. We addressed the clonal evolution of DNA methylation using our previously established mouse organoid model of BRAFV600E oncogene-induced colon cancer (CC) tumorigenesis. We developed a method for profiling genome-wide DNA methylation from low DNA amounts and applied it to that organoid model. Single organoid clones, derived from single stem cells, were profiled every month for 5 months to map nucleotide-level dynamic heterogeneity in methylation changes. Uninduced control organoids exhibit a pattern of epigenetic drift leading towards clonal convergence but not until 5 months. Whereas BRAFV600E-induced organoids exhibit a step-wise divergence throughout the different time points, likely explained by progressive clonal takeovers. Although there are differences in the clonal dynamics of epigenetic states in the control and BRAFV600E-induced organoids, there is a common basis for the DNA methylation changes in both the lineages explained by the age-in-culture associated methylation changes. This is revealed by the observation that unlike currently proposed models, BRAFV600E did not induce or increase the degree of DNA methylation gains. Furthermore, the CpG sites affected in the control and BRAFV600E comparison were not shared but mapped to the same genomic elements, indicating common drivers of methylation changes regardless of oncogene. Additionally, investigation of promoter CpG-island methylation gains revealed that they are decoupled from replication. External validation in other pre-cancerous/CC datasets and experimental cell line datasets, show that methylation gains at regulatory elements are a function of “biological aging” and independent of replication or cell division cycles. The sites that acquire DNA methylation changes in BRAFV600E -induced organoids, compared to control organoids, are enriched for transcription factor motifs important in colorectal cancers, such as Cdx1, Cdx2, and Pparg. In contrast, control organoids show enrichment for transcription factors involved in stress and viral pathways. Our studies provide new insights into the early epigenetic changes involved in BRAFV600Edriven carcinogenesis, which is mainly rooted in the age-dependent drivers of epigenetic alterations, and are potentially subject to clonal selection in the context of uncontrolled growth due to oncogenic signaling.\n \n \n Sara-Jayne Thursby, Zhicheng Jin, Nibedita Patel, Yong Tao, Yuba Bhandari, Daniel Petkovich, Shangzhi Lu, Lijing Yang, Tza-Huei Wang, Thomas Russell Pisanic, Stephen B. Baylin, Hariharan Easwaran, Jacob Blum. Promoter methylation gains in aging and cancer are independent of replication [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2026; Part 1 (Regular Abstracts); 2026 Apr 17-22; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2026;86(7 Suppl):Abstract nr 1358.\n",
+      "url": "https://www.semanticscholar.org/paper/9ce48aa88463e833277ba2ca60dc2bb49678ae15",
+      "pdf_url": "https://doi.org/10.1158/1538-7445.am2026-1358",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "9ce48aa88463e833277ba2ca60dc2bb49678ae15",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic crossroads in intervertebral disc degeneration: Unlocking novel therapeutic avenues (Review).",
+      "authors": "Hou Y; Liu L; Guo Y; Shi J",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13823",
+      "pmid": "41685572",
+      "pmcid": "PMC12930325",
+      "abstract": "Intervertebral disc degeneration (IDD) is a major pathological basis for spinal degenerative diseases, involving mechanisms such as abnormal mechanical loading, inflammatory responses, and genetic and environmental factors. The role of epigenetic regulation in IDD has gained attention as a potential therapeutic target. The present review systematically explores the contributions of DNA methylation, histone modifications, non‑coding RNAs (ncRNAs) and metabolic regulation to IDD progression, and elucidates their molecular mechanisms. Specific examples include: DNA methyltransferase 3β‑mediated DNA methylation promoting ferroptosis and oxidative stress in nucleus pulposus cells; enhancer of zeste homolog 2 (EZH2)‑mediated trimethylation of histone H3 lysine 27 modification inhibiting SOX9 expression, leading to cellular senescence and extracellular matrix degradation; and ncRNAs (such as microRNA‑143 and LINC01121) regulating gene transcription to affect inflammation and apoptosis. Additionally, metabolic products (such as NAD+, α‑ketoglutarate and lactate) interact with epigenetic pathways to influence IDD. Specifically, NAD+ acts as a cofactor for sirtuin deacetylases, thereby regulating histone and non‑histone protein acetylation; α‑ketoglutarate serves as a cofactor for TET DNA demethylases and Jumonji‑C histone demethylases, influencing DNA and histone demethylation; and lactate induces histone lactylation, which modulates gene transcription related to inflammation and extracellular matrix metabolism in IDD. Based on these mechanisms, novel therapies targeting epigenetics (such as DNA methylation inhibitors, EZH2 inhibitors and RNA interference) show therapeutic potential. Future research should further explore the crosstalk between epigenetic and metabolic regulation to advance the development of personalized and precision medicine strategies for IDD intervention.",
+      "url": "https://europepmc.org/articles/PMC12930325",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/13/c1/mmr-33-04-13823.PMC12930325.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/13/c1/PMC12930325.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "PMID:41685572",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic deciphering of ovarian aging: multilayer interactive mechanisms and targeted reversal strategies.",
+      "authors": "Zhang Y; Yang Y; Liao Q; Chen X; Wang K; Zhang R; Li J; Liu H",
+      "year": 2026,
+      "doi": "10.1186/s13072-026-00664-3",
+      "pmid": "42050634",
+      "pmcid": "PMC13274177",
+      "abstract": "Ovarian aging leads to the progressive loss of reproductive and endocrine functions. As an upstream regulatory hub, epigenetic modifications synergistically impair these two functions through multi-dimensional mechanisms, collectively contributing to the occurrence of clinical phenotypes. Current therapies (e.g., hormone replacement therapy) are difficult to reverse functional decline and carry long-term risks. This review systematically elaborates on the core roles of three major epigenetic mechanisms in ovarian aging: DNA methylation (mediated by DNMTs/TET), histone modification (dynamic balance of HATs/HDACs), and non-coding RNA (miRNA/lncRNA/circRNA network). Dysregulation of DNA methylation reprogramming drives the imbalance between dormancy and activation of primordial follicles and impairs steroidogenesis. Dysregulated histone modification induces spindle assembly defects, meiotic arrest, and a vicious cycle of apoptosis and autophagy in granulosa cells. ncRNAs regulate oocyte maturation through the ceRNA mechanism and epitranscriptomic reprogramming (e.g., m6A). These mechanisms synergistically accelerate ovarian aging through multiple pathways, including interfering with the HPG axis, aggravating oxidative stress-mitochondrial dysfunction, and disrupting apoptosis/autophagy homeostasis. Although epigenetic interventions still face potential transgenerational genetic safety risks, against the backdrop of high incidence and global population aging, the development of novel therapies that specifically target somatic cells or can avoid such risks has become an urgent need. In the future, targeting key epigenetic nodes is still expected to open up new avenues for extending female reproductive lifespan and alleviating long-term health risks associated with ovarian aging.",
+      "url": "https://europepmc.org/articles/PMC13274177",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/77/3d/13072_2026_Article_664.PMC13274177.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/77/3d/PMC13274177.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "PMID:42050634",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic research methods and animal models for intervertebral disc degeneration (Review).",
+      "authors": "Cui X; Zeng L; Zhang W; Xi L; Wang R; Jia D; Safa; Feng H; Jia H",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13913",
+      "pmid": "42169659",
+      "pmcid": "PMC13238957",
+      "abstract": "Intervertebral disc degeneration (IVDD) is increasingly recognized as a systemic collapse of the epigenetic regulatory network, driven by cellular senescence and environmental stressors. The present review provides an overview of the epigenetic regulatory mechanisms governing IVDD, focusing on the dynamic interplay between DNA methylation, histone modifications, N6‑methyladenosine RNA methylation and the non‑coding RNA regulatory triad (microRNAs, long non‑coding RNAs and circular RNAs). The present study evaluates advanced research methodologies (ranging from site‑specific methylation typing and transposase accessible chromatin sequencing to single‑cell multi‑omics and artificial intelligence‑driven predictive modeling) that resolve the spatial and cellular heterogeneities of the degenerating disc niche. Furthermore, the translational constraints of current animal models were critically assessed, advocating for a strategic shift from acute needle‑puncture insults to physiologically relevant aging and genetically engineered progeroid models to better recapitulate human 'epigenetic drift'. Finally, the therapeutic potential of targeted epigenetic editing via CRISPR/dCas9 systems and the development of stimuli‑responsive nanocarriers for precision delivery are highlighted. By bridging methodological innovation with robust model selection, the present review offers a roadmap for transitioning molecular insights into clinical regenerative therapies for spinal health.",
+      "url": "https://europepmc.org/articles/PMC13238957",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/70/fd/mmr-34-01-13913.PMC13238957.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/70/fd/PMC13238957.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging",
+        "ALKBH5 promoter oxidative stress aging transcription regulation",
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "PMID:42169659",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic transcriptional regulation of skeletal aging: The emerging role of m&lt;sup&gt;6&lt;/sup&gt;A methylation.",
+      "authors": "Song C; Song G; Zhang S; Zhao H; Wen Z; Chen Y; Chen X; Liu B; Ni Q; Fan D",
+      "year": 2026,
+      "doi": "10.1016/j.jot.2026.101088",
+      "pmid": "41969821",
+      "pmcid": "PMC13068658",
+      "abstract": "Bone plays critical roles in providing mechanical support, maintaining mineral homeostasis, and facilitating hematopoiesis. However, its structure and function progressively deteriorate with age. Although peak bone mass is achieved in early adulthood, aging is associated with decreased bone density, increased marrow adiposity, and accelerated bone turnover, collectively elevating the risk of fractures and osteoporosis (OP). With the growing elderly population worldwide, the socioeconomic burden of skeletal disorders-particularly OP-has intensified, highlighting the urgent need to elucidate their underlying molecular mechanisms for improved clinical management. Emerging evidence indicates that RNA modifications, especially N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) methylation, serve as critical regulators of bone metabolism and aging. This review explores the mechanisms by which m<sup>6</sup>A methylation influences bone aging and its impact on key bone cells, including bone marrow-derived mesenchymal stem cells, osteoblasts, and osteoclasts, as well as its role in the pathogenesis of skeletal-related diseases. Deeper insights into these processes may open new perspectives and offer novel therapeutic avenues for the prevention and treatment of bone aging-related disorders. The translational potential of this article: The exploration of m<sup>6</sup>A methylation in skeletal aging transcends fundamental scientific discovery, holding significant promise for translating these findings into clinical applications. Understanding this novel regulatory layer opens up new avenues for diagnosing, preventing, and treating age-related skeletal disorders, most notably OP and sarcopenia. The translational potential can be envisioned across several key areas: (1) The dynamic and reversible nature of m<sup>6</sup>A methylation makes it an ideal candidate for biomarker development; (2) The \"writers,\" \"erasers,\" and \"readers\" of m<sup>6</sup>A represent a entirely new class of druggable targets for combating skeletal aging; (3) This research can provide a mechanistic basis for the action of existing drugs and inform their better use.",
+      "url": "https://europepmc.org/articles/PMC13068658",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/f3/1e/main.PMC13068658.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f3/1e/PMC13068658.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "PMID:41969821",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+      "authors": "Wang X; Zhu Q; Liu J; Fu Y; Xu J; Dong Z; Tang B; Li J",
+      "year": 2026,
+      "doi": "10.1186/s12967-026-07990-w",
+      "pmid": "41832537",
+      "pmcid": "PMC13101344",
+      "abstract": "BACKGROUND: Aging is a complex process characterized by the progressive decline of physiological functions. This process is accompanied by a series of genetic and epigenetic alterations. Epigenetic mechanisms, including histone modifications, chromatin remodeling, and RNA modifications, are critical due to their highly dynamic and plastic nature. These mechanisms play fundamental roles in the occurrence and progression of aging and age-related diseases. MAIN BODY: This review systematically summarizes the fundamental roles and molecular mechanisms of histone modifications (e.g., methylation and acylation such as acetylation), chromatin remodeling (encompassing heterochromatin formation, nuclear lamina association, alterations in chromatin accessibility and higher-order architecture, and TF-mediated regulation), and RNA modifications (such as m6A, m7G, and m5C) in the regulation of cellular senescence, organ functional decline, and age-related diseases, including neurodegenerative disorders, CVDs, and osteoporosis. We highlight the sophisticated interaction networks formed between these three epigenetic layers. Finally, we summarize potential anti-aging interventions targeting these mechanisms. These strategies include natural products, peptides, and specific small-molecule inhibitors or agonists. Emerging intervention methods and their potential safety considerations are also discussed. CONCLUSION: Histone modifications, chromatin remodeling, and RNA modifications constitute an interconnected and dynamically coordinated epigenetic network that synergistically regulates the aging process. A thorough elucidation of the regulatory mechanisms within this complex network will not only contribute to a fundamental understanding of the biological essence of aging, but also provide a critical theoretical foundation for the development of precise and efficient epigenetic interventions.",
+      "url": "https://europepmc.org/articles/PMC13101344",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/9a/85/12967_2026_Article_7990.PMC13101344.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9a/85/PMC13101344.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "PMID:41832537",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting epigenetic remodeling of the blood-brain barrier: current knowledge for drug therapy.",
+      "authors": "Akhoury M; Vegara N; Stamatovic SM; Keep RF; Andjelkovic AV",
+      "year": 2026,
+      "doi": "10.1080/17501911.2026.2637419",
+      "pmid": "41770019",
+      "pmcid": "PMC13097789",
+      "abstract": "The blood - brain barrier (BBB) is a dynamic regulator of brain homeostasis, and its dysfunction is a hallmark of many neurological and psychiatric disorders. Yet, in most conditions, the causal relationship between BBB injury and disease progression remains unclear, as shared systemic risk factors, such as inflammation, infection, oxidative stress, and genetic predisposition, produce highly variable patterns of barrier disruption. Epigenetic mechanisms, including DNA and RNA methylation, histone modifications, chromatin remodeling, and noncoding RNAs, have emerged as key regulators of BBB integrity. Their dysregulation contributes to pathological BBB remodeling in disorders such as cerebrovascular and neurodegenerative diseases, promoting a decline in barrier function (structural and biochemical) and accelerating disease progression. Owing to their reversible nature, epigenetic modifications represent promising therapeutic targets, and their disease-stage-specific patterns offer potential as biomarkers for BBB injury and recovery. This review summarizes current knowledge on how epigenetic processes drive BBB dysfunction and highlights emerging epigenetic signatures with diagnostic and therapeutic relevance across neurological and psychiatric diseases.",
+      "url": "https://europepmc.org/articles/PMC13097789",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/0f/32/IEPI_18_2637419.PMC13097789.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0f/32/PMC13097789.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "PMID:41770019",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The Role of N&lt;sup&gt;6&lt;/sup&gt;-Methyladenosine Modification in Health and Disease.",
+      "authors": "Li L; Sun Y; Zheng W; Li L; Feng Y; Qi M; Li H",
+      "year": 2026,
+      "doi": "10.1002/mco2.70767",
+      "pmid": "42164653",
+      "pmcid": "PMC13183813",
+      "abstract": "Emerging evidence highlights that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most prevalent internal RNA modification in eukaryotes, serves as a critical epitranscriptomic regulator of RNA metabolism. This posttranscriptional modification modulates alternative splicing, nuclear export, stability, and translation, thereby regulating various physiological processes. Notably, dysregulation of m<sup>6</sup>A-associated modifiers (writers/erasers/readers) is implicated in a variety of diseases, such as metabolic disorders and cancer. Despite the rapid progress of m<sup>6</sup>A-mediated emerging therapeutic strategies, there remains an imperative to bridge the gap between basic epitranscriptomics and clinical application. This review systematically depicts recent advances in understanding m<sup>6</sup>A-mediated epitranscriptomic regulation, with particular focus on its dual role in maintaining cellular homeostasis and driving disease progression upon dysregulation, provides a dedicated exploration of m<sup>6</sup>A-regulated mitochondrial remodeling, and outlines cutting-edge technologies for m<sup>6</sup>A mapping and inhibitors targeting m<sup>6</sup>A modifiers. Furthermore, we conduct an in-depth exploration of the existing limitations and therapeutic potential associated with targeting m<sup>6</sup>A modification. Acting as a pivotal link between epitranscriptomics and medicine, m<sup>6</sup>A modification provides novel perspectives for developing precision interventions in complex human diseases.",
+      "url": "https://europepmc.org/articles/PMC13183813",
+      "pdf_url": "https://europepmc.org/articles/PMC13183813?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/04/PMC13183813.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\li_2026_the_role_of_n_lt_sup_gt_6.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation",
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "PMID:42164653",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of epigenetic modifications in cancer-associated fibroblasts.",
+      "authors": "Yan B; Yang C; Liu X; Zuo Q; Wang J; Yang W; Chen H",
+      "year": 2026,
+      "doi": "10.3389/fmed.2026.1780734",
+      "pmid": "42110420",
+      "pmcid": "PMC13154011",
+      "abstract": "Cancer-associated fibroblasts (CAFs) constitute a heterogeneous population of stromal cells whose tumor-modulating activities are highly context-dependent. Unlike cancer cells, CAFs rarely harbor stable genetic mutations; instead, their phenotypic plasticity is largely driven by reversible epigenetic reprogramming. Within the tumor microenvironment (TME), CAFs function as key regulators by secreting extracellular matrix (ECM) components, paracrine growth factors, cytokines, and metabolic intermediates that collectively promote tumor growth, invasion, and therapeutic resistance. Recent advances in cancer biology have shifted attention from solely cataloging coding-sequence mutations toward understanding the epigenetic mechanisms that shape CAF identity and function. Major epigenetic regulatory mechanisms include DNA methylation, histone modifications, and RNA modifications, which dynamically regulate chromatin structure and gene expression without altering the underlying DNA sequence. Emerging evidence indicates that the activation and functional heterogeneity of CAFs are predominantly governed by these epigenetic alterations rather than by permanent genetic changes. Epigenetic reprogramming enables CAFs to acquire diverse tumor-promoting properties, including remodeling of the extracellular matrix, modulation of intercellular signaling pathways, and secretion of cytokines that influence gene expression in neighboring cancer and immune cells. These processes ultimately contribute to tumor initiation, progression, metastasis, and resistance to therapy. This review summarizes recent advances in understanding how epigenetic modifications regulate CAF activation and function within the tumor microenvironment. In addition, we discuss the potential of targeting CAF-associated epigenetic pathways as a promising therapeutic strategy for cancer treatment.",
+      "url": "https://europepmc.org/articles/PMC13154011",
+      "pdf_url": "https://europepmc.org/articles/PMC13154011?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/85/39/PMC13154011.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\yan_2026_the_role_of_epigenetic_modifications_in_cancer_associated.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "PMID:42110420",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Unravelling Multilayered RNA Modification Networks in Female Reproduction and Obstetric/Gynaecologic Disorders.",
+      "authors": "Kuai Y; Yi Y; Li X; Wang Z; Zheng Y; Li Y; Li Y",
+      "year": 2026,
+      "doi": "10.3390/biom16040571",
+      "pmid": "42072692",
+      "pmcid": "PMC13113650",
+      "abstract": "<b>Background/Objective:</b> RNA modifications, including N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), 5-methylcytosine (m<sup>5</sup>C), 7-methylguanosine (m<sup>7</sup>G), N<sup>1</sup>-methyladenosine (m<sup>1</sup>A), pseudouridine (Ψ), N<sup>4</sup>-acetylcytidine (ac<sup>4</sup>C), 5-methoxycarbonylmethyl-2-thiouridine (mcm<sup>5</sup>s<sup>2</sup>U) and adenosine-to-inosine (A-to-I) editing, constitute a critical layer of post-transcriptional regulation that influences RNA stability, splicing, translation and degradation. This review aims to systematically summarise the current understanding of the molecular mechanisms and regulatory networks of RNA modifications in the female reproductive physiology and to evaluate their pathological implications in obstetric and gynaecologic disorders. <b>Methods:</b> We conducted a comprehensive literature review, synthesising findings from high-throughput sequencing studies, functional experiments and clinical investigations. The review integrates evidence across multiple RNA modification types, their regulatory enzymes (writers, erasers and readers) and their roles in physiological processes (germ cell development, oocyte maturation, embryogenesis and endometrial function) and pathological conditions (gynaecologic cancers, preeclampsia, endometriosis, polycystic ovary syndrome and premature ovarian insufficiency). <b>Results:</b> RNA modifications function as dynamic and reversible regulators that orchestrate key reproductive events, including primordial germ cell differentiation, oocyte meiosis, the maternal-to-zygotic transition, the establishment of uterine receptivity, and placental development. These modifications operate through coordinated writer-eraser-reader networks that fine tune transcripts' stability, translation efficiency and RNA decay. The dysregulation of these epitranscriptomic networks is strongly implicated in the pathogenesis of gynaecologic malignancies (cervical, ovarian, endometrial cancers and choriocarcinoma), pregnancy-related disorders (preeclampsia, gestational diabetes mellitus and recurrent miscarriage), reproductive endocrine disorders (polycystic ovary syndrome and premature ovarian insufficiency) and benign gynaecological conditions (endometriosis and adenomyosis). Emerging evidence also reveals complex crosstalk among RNA modifications, such as cooperative interactions between m<sup>6</sup>A and m<sup>5</sup>C in translation regulation and antagonistic relationships between m<sup>6</sup>A and A-to-I editing. <b>Conclusions:</b> RNA modifications represent an essential and multifaceted regulatory layer in female reproduction, with broad implications for disease pathogenesis. Their unique reversibility and context-dependent functions offer promising opportunities for the development of diagnostic biomarkers and targeted therapeutic interventions. Future researchers should prioritise integrated multi-omics approaches, enhanced human-relevant models and clinical translation to fully realise the potential of epitranscriptomic medicine in reproductive health.",
+      "url": "https://europepmc.org/articles/PMC13113650",
+      "pdf_url": "https://europepmc.org/articles/PMC13113650?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/23/PMC13113650.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\kuai_2026_unravelling_multilayered_rna_modification_networks_in_female_reproduction.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "PMID:42072692",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A epitranscriptomic remodeling links redox stress to mitochondrial quality control and programmed cell death in sepsis-induced myocardial dysfunction.",
+      "authors": "Chen M; Fu B; Wu Q",
+      "year": 2026,
+      "doi": "10.1016/j.redox.2026.104178",
+      "pmid": "42030647",
+      "pmcid": "PMC13125911",
+      "abstract": "Sepsis-induced myocardial dysfunction (SIMD) is a major contributor to sepsis-related mortality and is characterized by excessive oxidative stress, mitochondrial dysfunction, and heterogeneous forms of programmed cell death. However, how cardiomyocytes interpret redox stress and commit to distinct death pathways remains incompletely understood. Increasing evidence suggests that N<sup>6</sup>-methyladenosine (m<sup>6</sup>A), the most abundant internal RNA modification, functions as a dynamic post-transcriptional regulator linking redox signaling to mitochondrial homeostasis and cell fate decisions. This review summarizes recent advances indicating that m<sup>6</sup>A-dependent regulatory networks integrate mitochondrial reactive oxygen species (mtROS), mitochondrial quality control (MQC), and downstream cell death pathways in SIMD. Under septic conditions, sustained inflammation and oxidative stress perturb the balance of m<sup>6</sup>A writers, erasers, and readers, leading to maladaptive remodeling of mitochondrial dynamics, mitophagy, and biogenesis. Such epitranscriptomic dysregulation is associated with mtROS accumulation, impaired mitochondrial renewal, and a shift from adaptive redox compensation toward irreversible cardiomyocyte injury. Importantly, emerging evidence suggests that m<sup>6</sup>A remodeling does not uniformly activate cell death but modulates redox signal processing in a context-dependent manner. Preferential amplification of inflammatory sensing and inflammasome signaling may bias mtROS toward pyroptotic execution, whereas compromised antioxidant capacity, iron handling, and lipid metabolism may increase vulnerability to ferroptosis. On this basis, we propose the m<sup>6</sup>A-ROS-MQC axis as a unifying, hypothesis-driven framework for understanding SIMD pathogenesis, in which m<sup>6</sup>A acts as a redox-responsive epitranscriptomic regulator coordinating mitochondrial adaptation and programmed cell death decisions.",
+      "url": "https://europepmc.org/articles/PMC13125911",
+      "pdf_url": "https://europepmc.org/articles/PMC13125911?pdf=render",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/19/92/PMC13125911.tar.gz",
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\chen_2026_m_lt_sup_gt_6_lt_sup_gt.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "pmc_oa",
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": null,
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "PMID:42030647",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m&lt;sup&gt;6&lt;/sup&gt;A modification in skeletal system diseases (Review).",
+      "authors": "Xie X; Li C; Zheng H; Gan G; Gao X",
+      "year": 2026,
+      "doi": "10.3892/mmr.2026.13908",
+      "pmid": "42169641",
+      "pmcid": "PMC13220071",
+      "abstract": "N6‑methyladenosine (m<sup>6</sup>A) modifications are key epigenetic regulatory mechanisms in mammals and serve key roles in both normal skeletal development and the pathogenesis of skeletal disorder. The dynamic and reversible regulation of m<sup>6</sup>A relies on three core factors: Methyltransferases (writers), demethylases (erasers) and m<sup>6</sup>A‑binding proteins (readers), which collectively ensure proper physiological functions. Despite this, the functions and regulatory mechanisms of numerous m<sup>6</sup>A‑associated factors in skeletal diseases remain insufficiently understood. m6A modification maintains bone homeostasis during skeletal development primarily by regulating the balance between osteoblasts and osteoclasts. Under pathological conditions, dysregulated m<sup>6</sup>A modification contributes to aberrant osteoclast proliferation and chondrocyte apoptosis, leading to bone loss and cartilage degeneration. These pathological changes are key contributors to common types of skeletal disorder, including osteoporosis, osteoarthritis, rheumatoid arthritis and intervertebral disc degeneration, imposing a burden on human health. Non‑coding RNAs are major targets of m<sup>6</sup>A modification and their interactions exert post‑transcriptional regulation in skeletal biology. The present review summarizes the roles and mechanisms of m<sup>6</sup>A modification in skeletal diseases and highlights its therapeutic potential, offering novel perspectives for disease prevention and treatment.",
+      "url": "https://europepmc.org/articles/PMC13220071",
+      "pdf_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_pdf/8f/06/mmr-34-01-13908.PMC13220071.pdf",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8f/06/PMC13220071.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "PMID:42169641",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "m6A RNA Methylation-miRNA Crosstalk in Cardiovascular Remodeling",
+      "authors": "",
+      "year": 2026,
+      "doi": "",
+      "pmid": null,
+      "pmcid": "PMC13296636",
+      "abstract": "",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13296636/?tool=EBI",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13296636/pdf/?tool=EBI",
+      "tgz_url": "https://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/36/07/PMC13296636.tar.gz",
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "pmc-oa"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "europepmc",
+      "sources": [
+        "europepmc"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "PMC13296636",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CpG Methylation in the 1F Promoter of the NR3C1 Gene and its Biomarker Potential in Post-Traumatic Stress Disorder",
+      "authors": "Banu Rustamli",
+      "year": 2025,
+      "doi": "10.9734/ajbgmb/2025/v17i12507",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "PTSD is a disorder that is described to cause by disruption of psychoneurological and biological processes in military personnel due to war-related trauma, excessive stress and exposure to extreme environments. Specifically, stability of the means of stress response is also influenced by epigenetic regulation of the glucocorticoid receptor gene (NR3C1). In this research, “in silico” methods of CpG methylation at a level and location in the 1F promoter region of NR3C1 gene was conducted. We examined exon 1F promoter of the glucocorticoid receptor gene (NR3C1) of peripheral blood of group of individuals aged 20-24 (46 XY males, 46 XX females). The degree of CpG methylation was higher in females (β ≈ 0.8-1.0) compared with males (β ≈ 0.5-0.7), showing that there was a high sensitivity to methylation and a high epigenetic activity at the locus. Variability observed indicates that the 1F promoter is a major site of the individual difference in stress responsivity. Due to the potential to alter the NR3C1 expression with the help of methylation of this region, such patterns can affect cortisol regulation and the functioning of the HPA-axis, which could possibly support the maintenance of stress responses following military trauma and predisposes to PTSD. On the whole, the presented analyses show that CpG methylation in the 1F promoter of the NR3C1 gene could be one of the molecular predictors of stress tolerance and adaptation to psychological stress in a military environment. This region could be assessed as an early diagnostic and prognostic epigenetic biomarker of PTSD. \n ",
+      "url": "https://www.semanticscholar.org/paper/a522a9a8a3006a948ba7fac36969279afc5bc2af",
+      "pdf_url": "https://doi.org/10.9734/ajbgmb/2025/v17i12507",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "a522a9a8a3006a948ba7fac36969279afc5bc2af",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Pilot Study on CpG Methylation of the NRF2 Promoter Across Different Ages and Sex in Healthy and Lung Cancer Prediagnostic Individuals.",
+      "authors": "Ki-Jae Hong; Yoon-Jung Choi; Jeong-Soo Kim; Min-Chul Cho; Jung-Hwan Kim",
+      "year": 2025,
+      "doi": "10.1016/j.freeradbiomed.2025.04.036",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "This pilot study introduces the concept of a \"redox clock,\" an NRF2-based epigenetic clock that reflects age-related changes in oxidative stress regulation. We examined CpG methylation of the NRF2 promoter across two independent populations: 101 healthy participants (56 males, 45 females) from Gyeongsang National University Hospital (GNUH) and 150 healthy participants (111 males, 39 females) from the National Cancer Center (NCC). Methylation-sensitive HpaII restriction enzyme assays targeted three promoter regions (A, B, and C), while Illumina MethylationEPIC microarray analysis identified two specific CpG sites (cg03988329 and cg15484591) that correlated significantly with age (p < 0.01). Males, in particular, showed heightened CpG methylation in regions A and C with advancing age, alongside higher Ct values for NRF2 and HO-1 transcripts, indicating reduced gene expression. Using these methylation patterns, we developed the \"redox clock\" to model accelerated aging (AA). Notably, this redox clock discriminated prediagnostic lung cancer cases from healthy controls by revealing significantly greater AA in the cancer cohort, whereas established epigenetic clocks (Horvath, Hannum, and PhenoAge) did not detect this difference. These findings support CpG methylation of the NRF2 promoter, as captured by the redox clock, as a promising biomarker for biological aging and potential risk assessment for age-related diseases such as lung cancer.",
+      "url": "https://www.semanticscholar.org/paper/8d2fd17bf77d6178629c9c6059e641787d9cdc54",
+      "pdf_url": "https://doi.org/10.1016/j.freeradbiomed.2025.04.036",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "8d2fd17bf77d6178629c9c6059e641787d9cdc54",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1177/10732748251342685/v2/review1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1177/10732748251342685/v2/review1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "10.1177/10732748251342685/v2/review1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1177/10732748251342685/v2/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1177/10732748251342685/v2/review2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "10.1177/10732748251342685/v2/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1177/10732748251342685/v1/review2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1177/10732748251342685/v1/review2",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "10.1177/10732748251342685/v1/review2",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Review for \"M6A Methylation Regulators METTL3 and ALKBH5 are Risk Factors for EGFR-Mutant NSCLC\"",
+      "authors": "",
+      "year": 2025,
+      "doi": "10.1177/10732748251342685/v1/review1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1177/10732748251342685/v1/review1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "10.1177/10732748251342685/v1/review1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Smcle25 Coordinates Stress Resistance and Leaf Senescence Inhibition Via Transcriptional Repression of Rboh-Mediated Oxidative Burst",
+      "authors": "Wei Zhao; Yuna Sun; Jingjing Li; Yangli Tian; Junwei Wei; Yinshuai Tian",
+      "year": 2025,
+      "doi": "10.2139/ssrn.5266931",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.2139/ssrn.5266931",
+      "pdf_url": "https://doi.org/10.2139/ssrn.5266931",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "10.2139/ssrn.5266931",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Astrocytic ALKBH5 in stress response contributes to depressive-like behaviors in mice",
+      "authors": "Fang Guo; Jun Fan; Jinming Liu; Peng‐Li Kong; Jing Ren; Jia‐Wen Mo; Chenglin Lu; Qiuling Zhong; Liang-Yu Chen; Hao-Tian Jiang; Canyuan Zhang; You‐Lu Wen; Tingting Gu; Shu-Ji Li; Yingying Fang; Bing‐Xing Pan; Tianming Gao; Xiong Cao",
+      "year": 2024,
+      "doi": "10.1038/s41467-024-48730-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Epigenetic mechanisms bridge genetic and environmental factors that contribute to the pathogenesis of major depression disorder (MDD). However, the cellular specificity and sensitivity of environmental stress on brain epitranscriptomics and its impact on depression remain unclear. Here, we found that ALKBH5, an RNA demethylase of N6-methyladenosine (m6A), was increased in MDD patients’ blood and depression models. ALKBH5 in astrocytes was more sensitive to stress than that in neurons and endothelial cells. Selective deletion of ALKBH5 in astrocytes, but not in neurons and endothelial cells, produced antidepressant-like behaviors. Astrocytic ALKBH5 in the mPFC regulated depression-related behaviors bidirectionally. Meanwhile, ALKBH5 modulated glutamate transporter-1 (GLT-1) m6A modification and increased the expression of GLT-1 in astrocytes. ALKBH5 astrocyte-specific knockout preserved stress-induced disruption of glutamatergic synaptic transmission, neuronal atrophy and defective Ca 2+ activity. Moreover, enhanced m6A modification with S-adenosylmethionine (SAMe) produced antidepressant-like effects. Our findings indicate that astrocytic epitranscriptomics contribute to depressive-like behaviors and that astrocytic ALKBH5 may be a therapeutic target for depression.",
+      "url": "https://doi.org/10.1038/s41467-024-48730-2",
+      "pdf_url": "https://www.nature.com/articles/s41467-024-48730-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\fang_2024_astrocytic_alkbh5_in_stress_response_contributes_to_depressive.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "W4398163277",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "CHAC1: a master regulator of oxidative stress and ferroptosis in human diseases and cancers",
+      "authors": "Jiasen Sun; Hui Ren; Jiawen Wang; Xiang Xiao; Lin Zhu; Yanyan Wang; Lili Yang",
+      "year": 2024,
+      "doi": "10.3389/fcell.2024.1458716",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "CHAC1, an essential regulator of oxidative stress and ferroptosis, is increasingly recognized for its significant roles in these cellular processes and its impact on various human diseases and cancers. This review aims to provide a comprehensive overview of CHAC1's molecular functions, regulatory mechanisms, and effects in different pathological contexts. Specifically, the study objectives are to elucidate the biochemical pathways involving CHAC1, explore its regulatory network, and discuss its implications in disease progression and potential therapeutic strategies. As a γ-glutamyl cyclotransferase, CHAC1 degrades glutathione, affecting calcium signaling and mitochondrial function. Its regulation involves transcription factors like ATF4 and ATF3, which control CHAC1 mRNA expression. CHAC1 is crucial for maintaining redox balance and regulating cell death pathways in cancer. Its elevated levels are associated with poor prognosis in many cancers, indicating its potential as a biomarker and therapeutic target. Additionally, CHAC1 influences non-cancerous diseases such as neurodegenerative and cardiovascular disorders. Therapeutically, targeting CHAC1 could increase cancer cell sensitivity to ferroptosis, aiding in overcoming resistance to standard treatments. This review compiles current knowledge and recent discoveries, emphasizing CHAC1's vital role in human diseases and its potential in diagnostic and therapeutic applications.",
+      "url": "https://doi.org/10.3389/fcell.2024.1458716",
+      "pdf_url": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2024.1458716/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\jiasen_2024_chac1_a_master_regulator_of_oxidative_stress_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "W4403881077",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cross-talk of inflammation and cellular senescence: a new insight into the occurrence and progression of osteoarthritis",
+      "authors": "Zeyu Han; Ketao Wang; Shenglong Ding; Mingzhu Zhang",
+      "year": 2024,
+      "doi": "10.1038/s41413-024-00375-z",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Osteoarthritis (OA) poses a significant challenge in orthopedics. Inflammatory pathways are regarded as central mechanisms in the onset and progression of OA. Growing evidence suggests that senescence acts as a mediator in inflammation-induced OA. Given the lack of effective treatments for OA, there is an urgent need for a clearer understanding of its pathogenesis. In this review, we systematically summarize the cross-talk between cellular senescence and inflammation in OA. We begin by focusing on the mechanisms and hallmarks of cellular senescence, summarizing evidence that supports the relationship between cellular senescence and inflammation. We then discuss the mechanisms of interaction between cellular senescence and inflammation, including senescence-associated secretory phenotypes (SASP) and the effects of pro- and anti-inflammatory interventions on cellular senescence. Additionally, we focus on various types of cellular senescence in OA, including senescence in cartilage, subchondral bone, synovium, infrapatellar fat pad, stem cells, and immune cells, elucidating their mechanisms and impacts on OA. Finally, we highlight the potential of therapies targeting senescent cells in OA as a strategy for promoting cartilage regeneration.",
+      "url": "https://doi.org/10.1038/s41413-024-00375-z",
+      "pdf_url": "https://www.nature.com/articles/s41413-024-00375-z.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\zeyu_2024_cross_talk_of_inflammation_and_cellular_senescence_a.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "W4404974640",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA methylation as an epigenetic mechanism in the regulation of LEDGF expression and biological response in aging and oxidative stress",
+      "authors": "Biju Bhargavan; B. Chhunchha; E. Kubo; Dhirendra P. Singh",
+      "year": 2024,
+      "doi": "10.1038/s41420-024-02076-2",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The physiological quantum of stress-inducible transcriptional protein, Lens Epithelium-Derived Growth Factor (LEDGF), is vital for the maintenance of cellular physiology. Erratic epigenetic reprogramming in response to oxidative stress or with advancing age is found to be a major cause in the gene silencing, leading to pathobiologies. Using aging human (h) eye lens/lens epithelial cells (LECs) coupled with redox-active Peroxiredoxin 6 (Prdx6)-deficient (Prdx6−/−) mLECs as model systems, herein, we showed that in aging/oxidative stress, the human LEDGF gene was regulated by unique methylation patterns of CGs nucleotides within and around the Sp1 binding site(s) of CpG island of the LEDGF promoter (−170 to −27nts). The process caused the repression of LEDGF and its target, Hsp27, resulting in reactive oxygen species (ROS) amplification and cellular insults. This phenomenon was opposed to the unmethylated promoter in LECs. Clinically, we observed that the loss of LEDGF in the Prdx6−/− mLECs or aging lenses/LECs, correlating with increased expression of DNMT1, DNMT3a, and DNMT3b along with the methyl CpG binding protein 2 (MeCP2). Upon oxidative stress, the expression of these molecules was increased with the dramatic reduction in LEDGF expression. While demethylating agent, 5-Aza deoxycytidine (5-AzaC) transposed the aberrant methylation status, and revived LEDGF and Hsp27 expression. Mechanistically, the chloramphenicol acetyltransferase (CAT) reporter gene driven by the LEDGF promoter (−170/ + 35) and ChIP assays uncovered that 5-AzaC acted on GC/Sp1 sites to release LEDGF transcription. The data argued, for the first time, that de novo methylation of CGs around and within Sp1 sites of the CpG island directly disrupted Sp1 activity, which ensued in LEDGF repression and its biological functions. The findings should improve our understanding of cellular insults-associated with aberrant DNMTs-mediated LEDGF’s activity, and can offer strategies for therapeutic intervention to halt aging/oxidative stress-induced abnormalities.",
+      "url": "https://www.semanticscholar.org/paper/9af44fa5fee77d3bdb6b3d339f7410bc19df9dd7",
+      "pdf_url": "https://www.nature.com/articles/s41420-024-02076-2.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\biju_2024_dna_methylation_as_an_epigenetic_mechanism_in_the.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "direct",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "9af44fa5fee77d3bdb6b3d339f7410bc19df9dd7",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "DNA methylation drives hematopoietic stem cell aging phenotypes after proliferative stress",
+      "authors": "Hagai Yanai; Taylor L McNeely; Saipriya Ayyar; Michael Leone; Le Zong; Bongsoo Park; Isabel Beerman",
+      "year": 2024,
+      "doi": "10.1007/s11357-024-01360-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Aging of hematopoietic stem cells (HSCs) is implicated in various aging phenotypes, including immune dysfunction, anemia, and malignancies. The role of HSC proliferation in driving these aging phenotypes, particularly under stress conditions, remains unclear. Therefore, we induced forced replications of HSCs in vivo by a cyclical treatment with low-dose fluorouracil (5FU) and examined the impact on HSC aging. Our findings show that proliferative stress induces several aging phenotypes, including altered leukocyte counts, decreased lymphoid progenitors, accumulation of HSCs with high expression of Slamf1, and reduced reconstitution potential, without affecting stem cell self-renewal capacity. The divisional history of HSCs was imprinted in the DNA methylome, consistent with functional decline. Specifically, DNA methylation changes included global hypermethylation in non-coding regions and similar frequencies of hypo- and hyper-methylation at promoter regions, particularly affecting genes targeted by the PRC2 complex. Importantly, initial forced replication promoted DNA damage repair accumulated with age, but continuous proliferative stress led to the accumulation of double-strand breaks, independent of functional decline. Overall, our results suggest that HSC proliferation can drive some aging phenotypes primarily through epigenetic mechanisms, including DNA methylation changes.",
+      "url": "https://www.semanticscholar.org/paper/fc9636db410ef92359a4e6cf75a1d101e296b195",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11978565",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "semantic",
+      "sources": [
+        "semantic"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "fc9636db410ef92359a4e6cf75a1d101e296b195",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Histone acetyltransferase Kat2a regulates ferroptosis via enhancing Tfrc and Hmox1 expression in diabetic cardiomyopathy",
+      "authors": "Juan Zhen; Xia Sheng; Tianlong Chen; Haitao Yu",
+      "year": 2024,
+      "doi": "10.1038/s41419-024-06771-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Diabetic cardiomyopathy (DCM) is a prevalent myocardial microvascular complication of the myocardium with a complex pathogenesis. Investigating the pathogenesis of DCM can significantly contribute to enhancing its prevention and treatment strategies. Our study revealed an upregulation of lysine acetyltransferase 2 A (Kat2a) expression in DCM, accompanied by a decrease in N6-methyladenosine (m6A) modified Kat2a mRNA levels. Our study revealed an upregulation of lysine acetyltransferase 2 A (Kat2a) expression in DCM, accompanied by a decrease in N6-methyladenosine (m6A) modified Kat2a mRNA levels. Functionally, inhibition of Kat2a effectively ameliorated high glucose-induced cardiomyocyte injury both in vitro and in vivo by suppressing ferroptosis. Mechanistically, Demethylase alkB homolog 5 (Alkbh5) was found to reduce m6A methylation levels on Kat2a mRNA, leading to its upregulation. YTH domain family 2 (Ythdf2) played a crucial role as an m6A reader protein mediating the degradation of Kat2a mRNA. Furthermore, Kat2a promoted ferroptosis by increasing Tfrc and Hmox1 expression via enhancing the enrichment of H3K27ac and H3K9ac on their promoter regions. In conclusion, our findings unveil a novel role for the Kat2a-ferroptosis axis in DCM pathogenesis, providing valuable insights for potential clinical interventions.",
+      "url": "https://doi.org/10.1038/s41419-024-06771-x",
+      "pdf_url": "https://www.nature.com/articles/s41419-024-06771-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\juan_2024_histone_acetyltransferase_kat2a_regulates_ferroptosis_via_enhancing_tfrc.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "W4399499099",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Epigenetic regulation in the tumor microenvironment: molecular mechanisms and therapeutic targets",
+      "authors": "Jing Yang; Jin Xu; Wei Wang; Bo Zhang; Xianjun Yu; Si Shi",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01480-x",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Over decades, researchers have focused on the epigenetic control of DNA-templated processes. Histone modification, DNA methylation, chromatin remodeling, RNA modification, and noncoding RNAs modulate many biological processes that are crucial to the development of cancers. Dysregulation of the epigenome drives aberrant transcriptional programs. A growing body of evidence suggests that the mechanisms of epigenetic modification are dysregulated in human cancers and might be excellent targets for tumor treatment. Epigenetics has also been shown to influence tumor immunogenicity and immune cells involved in antitumor responses. Thus, the development and application of epigenetic therapy and cancer immunotherapy and their combinations may have important implications for cancer treatment. Here, we present an up-to-date and thorough description of how epigenetic modifications in tumor cells influence immune cell responses in the tumor microenvironment (TME) and how epigenetics influence immune cells internally to modify the TME. Additionally, we highlight the therapeutic potential of targeting epigenetic regulators for cancer immunotherapy. Harnessing the complex interplay between epigenetics and cancer immunology to develop therapeutics that combine thereof is challenging but could yield significant benefits. The purpose of this review is to assist researchers in understanding how epigenetics impact immune responses in the TME, so that better cancer immunotherapies can be developed.",
+      "url": "https://doi.org/10.1038/s41392-023-01480-x",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01480-x.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\jing_2023_epigenetic_regulation_in_the_tumor_microenvironment_molecular_mechanisms.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging",
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "W4377292628",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Targeting epigenetic and posttranslational modifications regulating ferroptosis for the treatment of diseases",
+      "authors": "Yumin Wang; Jing Hu; Shuang Wu; Joshua S. Fleishman; Yulin Li; Yin-Shi Xu; Wailong Zou; Jinhua Wang; Yukuan Feng; Jichao Chen; Hongquan Wang",
+      "year": 2023,
+      "doi": "10.1038/s41392-023-01720-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Ferroptosis, a unique modality of cell death with mechanistic and morphological differences from other cell death modes, plays a pivotal role in regulating tumorigenesis and offers a new opportunity for modulating anticancer drug resistance. Aberrant epigenetic modifications and posttranslational modifications (PTMs) promote anticancer drug resistance, cancer progression, and metastasis. Accumulating studies indicate that epigenetic modifications can transcriptionally and translationally determine cancer cell vulnerability to ferroptosis and that ferroptosis functions as a driver in nervous system diseases (NSDs), cardiovascular diseases (CVDs), liver diseases, lung diseases, and kidney diseases. In this review, we first summarize the core molecular mechanisms of ferroptosis. Then, the roles of epigenetic processes, including histone PTMs, DNA methylation, and noncoding RNA regulation and PTMs, such as phosphorylation, ubiquitination, SUMOylation, acetylation, methylation, and ADP-ribosylation, are concisely discussed. The roles of epigenetic modifications and PTMs in ferroptosis regulation in the genesis of diseases, including cancers, NSD, CVDs, liver diseases, lung diseases, and kidney diseases, as well as the application of epigenetic and PTM modulators in the therapy of these diseases, are then discussed in detail. Elucidating the mechanisms of ferroptosis regulation mediated by epigenetic modifications and PTMs in cancer and other diseases will facilitate the development of promising combination therapeutic regimens containing epigenetic or PTM-targeting agents and ferroptosis inducers that can be used to overcome chemotherapeutic resistance in cancer and could be used to prevent other diseases. In addition, these mechanisms highlight potential therapeutic approaches to overcome chemoresistance in cancer or halt the genesis of other diseases.",
+      "url": "https://doi.org/10.1038/s41392-023-01720-0",
+      "pdf_url": "https://www.nature.com/articles/s41392-023-01720-0.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\yumin_2023_targeting_epigenetic_and_posttranslational_modifications_regulating_ferroptosis_for.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "W4389516284",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Abnormal methylation caused by folic acid deficiency in neural tube defects",
+      "authors": "Rui Cao; Jun Xie; Li Zhang",
+      "year": 2022,
+      "doi": "10.1515/biol-2022-0504",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Abstract Neural tube closure disorders, including anencephaly, spina bifida, and encephalocele, cause neural tube defects (NTDs). This congenital disability remained not only a major contributor to the prevalence of stillbirths and neonatal deaths but also a significant cause of lifelong physical disability in surviving infants. NTDs are complex diseases caused by multiple etiologies, levels, and mechanisms. Currently, the pathogenesis of NTDs is considered to be associated with both genetic and environmental factors. Here, we aimed to review the research progress on the etiology and mechanism of NTDs induced by methylation modification caused by folic acid deficiency. Folic acid supplementation in the diet is reported to be beneficial in preventing NTDs. Methylation modification is one of the most important epigenetic modifications crucial for brain neurodevelopment. Disturbances in folic acid metabolism and decreased S -adenosylmethionine levels lead to reduced methyl donors and methylation modification disorders. In this review, we summarized the relationship between NTDs, folic acid metabolism, and related methylation of DNA, imprinted genes, cytoskeletal protein, histone, RNA, and non-coding RNA, so as to clarify the role of folic acid and methylation in NTDs and to better understand the various pathogenesis mechanisms of NTDs and the effective prevention.",
+      "url": "https://doi.org/10.1515/biol-2022-0504",
+      "pdf_url": "https://www.degruyter.com/document/doi/10.1515/biol-2022-0504/pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "W4312355868",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Decision letter: Modeling single-cell phenotypes links yeast stress acclimation to transcriptional repression and pre-stress cellular states",
+      "authors": "",
+      "year": 2022,
+      "doi": "10.7554/elife.82017.sa1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.82017.sa1",
+      "pdf_url": "https://doi.org/10.7554/elife.82017.sa1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "10.7554/elife.82017.sa1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Editor's evaluation: Modeling single-cell phenotypes links yeast stress acclimation to transcriptional repression and pre-stress cellular states",
+      "authors": "Naama Barkai",
+      "year": 2022,
+      "doi": "10.7554/elife.82017.sa0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.7554/elife.82017.sa0",
+      "pdf_url": "https://doi.org/10.7554/elife.82017.sa0",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "10.7554/elife.82017.sa0",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "The role of m6A RNA methylation in cancer metabolism",
+      "authors": "Yuanyuan An; Hua Duan",
+      "year": 2022,
+      "doi": "10.1186/s12943-022-01500-4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Metabolic reprogramming is one of the main characteristics of malignant tumors, which is due to the flexible changes of cell metabolism that can meet the needs of cell growth and maintain the homeostasis of tissue environments. Cancer cells can obtain metabolic adaptation through a variety of endogenous and exogenous signaling pathways, which can not only promote the growth of malignant cancer cells, but also start the transformation process of cells to adapt to tumor microenvironment. Studies show that m6A RNA methylation is widely involved in the metabolic recombination of tumor cells. In eukaryotes, m6A methylation is the most abundant modification in mRNA, which is involved in almost all the RNA cycle stages, including regulation the transcription, maturation, translation, degradation and stability of mRNA. M6A RNA methylation can be involved in the regulation of physiological and pathological processes, including cancer. In this review, we discuss the role of m6A RNA methylation modification plays in tumor metabolism-related molecules and pathways, aiming to show the importance of targeting m6A in regulating tumor metabolism.",
+      "url": "https://doi.org/10.1186/s12943-022-01500-4",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-022-01500-4",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\yuanyuan_2022_the_role_of_m6a_rna_methylation_in_cancer.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "W4206368060",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "ALKBH5-HOXA10 loop-mediated JAK2 m6A demethylation and cisplatin resistance in epithelial ovarian cancer",
+      "authors": "Sipei Nie; Lin Zhang; Jinhui Liu; Yicong Wan; Yi Jiang; Jing Yang; Rui Sun; Xiaolling Ma; Guodong Sun; Huangyang Meng; Mengting Xu; Wenjun Cheng",
+      "year": 2021,
+      "doi": "10.1186/s13046-021-02088-1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "BACKGROUND: Chemotherapy resistance remains a barrier to improving the prognosis of epithelial ovarian cancer (EOC). ALKBH5 has recently been shown to be one of the RNA N6-methyladenosine (m6A) demethyltransferases associated with various cancers, but its role in cancer therapeutic resistance remains unclear. This study aimed to investigate the role of AlkB homolog 5 (ALKBH5) in cisplatin-resistant EOC. METHODS: Functional assays were performed both in vitro and in vivo. RNA sequencing (RNA-seq), m6A-modified RNA immunoprecipitation sequencing (MeRIP-seq), chromatin immunoprecipitation, RNA immunoprecipitation, and luciferase reporter and actinomycin-D assays were performed to investigate RNA/RNA interaction and m6A modification of the ALKBH5-HOXA10 loop. RESULTS: ALKBH5 was upregulated in cisplatin-resistant EOC and promoted cancer cell cisplatin resistance both in vivo and in vitro. Notably, HOXA10 formed a loop with ALKBH5 and was found to be the upstream transcription factor of ALKBH5. HOXA10 overexpression also facilitated EOC cell chemoresistance both in vivo and in vitro. Collective results of MeRIP-seq and RNA-seq showed that JAK2 is the m6A-modified gene targeted by ALKBH5. The JAK2/STAT3 signaling pathway was activated by overexpression of the ALKBH5-HOXA10 loop, resulting in EOC chemoresistance. Cell sensitivity to cisplatin was rescued by ALKBH5 and HOXA10 knockdown or inhibition of the JAK2/STAT3 signaling pathway in EOC cells overexpressing ALKBH5-HOXA10. CONCLUSIONS: The ALKBH5-HOXA10 loop jointly activates the JAK2/STAT3 signaling pathway by mediating JAK2 m6A demethylation, promoting EOC resistance to cisplatin. Thus, inhibition of the expression of the ALKBH5-HOXA10 loop may be a potential strategy to overcome cisplatin resistance in EOC.",
+      "url": "https://doi.org/10.1186/s13046-021-02088-1",
+      "pdf_url": "https://jeccr.biomedcentral.com/track/pdf/10.1186/s13046-021-02088-1",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\sipei_2021_alkbh5_hoxa10_loop_mediated_jak2_m6a_demethylation_and.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "W3153785311",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Cellular senescence or stemness: hypoxia flips the coin",
+      "authors": "Daniel Otero-Albiol; Amancio Carnero",
+      "year": 2021,
+      "doi": "10.1186/s13046-021-02035-0",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Cellular senescence is a complex physiological state whose main feature is proliferative arrest. Cellular senescence can be considered the reverse of cell immortalization and continuous tumor growth. However, cellular senescence has many physiological functions beyond being a putative tumor suppressive trait. It remains unknown whether low levels of oxygen or hypoxia, which is a feature of every tissue in the organism, modulate cellular senescence, altering its capacity to suppress the limitation of proliferation. It has been observed that the lifespan of mammalian primary cells is increased under low oxygen conditions. Additionally, hypoxia promotes self-renewal and pluripotency maintenance in adult and embryonic stem cells (ESCs), induced pluripotent stem cells (iPSCs) and cancer stem cells (CSCs). In this study, we discuss the role of hypoxia facilitating senescence bypass during malignant transformation and acquisition of stemness properties, which all contribute to tumor development and cancer disease aggressiveness.",
+      "url": "https://doi.org/10.1186/s13046-021-02035-0",
+      "pdf_url": "https://doi.org/10.1186/s13046-021-02035-0",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "W3186291335",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Small molecules in targeted cancer therapy: advances, challenges, and future perspectives",
+      "authors": "Lei Zhong; Yueshan Li; Liang Xiong; Wenjing Wang; Ming Wu; Ting Yuan; Wei Yang; Chenyu Tian; Zhuang Miao; Tianqi Wang; Shengyong Yang",
+      "year": 2021,
+      "doi": "10.1038/s41392-021-00572-w",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Due to the advantages in efficacy and safety compared with traditional chemotherapy drugs, targeted therapeutic drugs have become mainstream cancer treatments. Since the first tyrosine kinase inhibitor imatinib was approved to enter the market by the US Food and Drug Administration (FDA) in 2001, an increasing number of small-molecule targeted drugs have been developed for the treatment of malignancies. By December 2020, 89 small-molecule targeted antitumor drugs have been approved by the US FDA and the National Medical Products Administration (NMPA) of China. Despite great progress, small-molecule targeted anti-cancer drugs still face many challenges, such as a low response rate and drug resistance. To better promote the development of targeted anti-cancer drugs, we conducted a comprehensive review of small-molecule targeted anti-cancer drugs according to the target classification. We present all the approved drugs as well as important drug candidates in clinical trials for each target, discuss the current challenges, and provide insights and perspectives for the research and development of anti-cancer drugs.",
+      "url": "https://doi.org/10.1038/s41392-021-00572-w",
+      "pdf_url": "https://www.nature.com/articles/s41392-021-00572-w.pdf",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\lei_2021_small_molecules_in_targeted_cancer_therapy_advances_challenges.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "W3165143074",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Circular RNA: metabolism, functions and interactions with proteins",
+      "authors": "Zhou Wei-yi; Zerong Cai; Jia Liu; De‐Shen Wang; Huai‐Qiang Ju; Rui‐Hua Xu",
+      "year": 2020,
+      "doi": "10.1186/s12943-020-01286-3",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "Circular RNAs (CircRNAs) are single-stranded, covalently closed RNA molecules that are ubiquitous across species ranging from viruses to mammals. Important advances have been made in the biogenesis, regulation, localization, degradation and modification of circRNAs. CircRNAs exert biological functions by acting as transcriptional regulators, microRNA (miR) sponges and protein templates. Moreover, emerging evidence has revealed that a group of circRNAs can serve as protein decoys, scaffolds and recruiters. However, the existing research on circRNA-protein interactions is quite limited. Hence, in this review, we briefly summarize recent progress in the metabolism and functions of circRNAs and elaborately discuss the patterns of circRNA-protein interactions, including altering interactions between proteins, tethering or sequestering proteins, recruiting proteins to chromatin, forming circRNA-protein-mRNA ternary complexes and translocating or redistributing proteins. Many discoveries have revealed that circRNAs have unique expression signatures and play crucial roles in a variety of diseases, enabling them to potentially act as diagnostic biomarkers and therapeutic targets. This review systematically evaluates the roles and mechanisms of circRNAs, with the hope of advancing translational medicine involving circRNAs.",
+      "url": "https://doi.org/10.1186/s12943-020-01286-3",
+      "pdf_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-020-01286-3",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q18-promotor-alkbh5-estres-envejecimiento\\papers\\zhou_2020_circular_rna_metabolism_functions_and_interactions_with_proteins.pdf",
+      "pdf_status": "downloaded",
+      "pdf_source": "europepmc_openalex",
+      "oa_sources": [],
+      "manual_reason": null,
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation",
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "W3112047397",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Mechanism and Function of Oxidative Reversal of DNA and RNA Methylation",
+      "authors": "Li Shen; Chun‐Xiao Song; Chuan He; Yi Zhang",
+      "year": 2014,
+      "doi": "10.1146/annurev-biochem-060713-035513",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "The importance of eukaryotic DNA methylation [5-methylcytosine (5mC)] in transcriptional regulation and development was first suggested almost 40 years ago. However, the molecular mechanism underlying the dynamic nature of this epigenetic mark was not understood until recently, following the discovery that the TET proteins, a family of AlkB-like Fe(II)/α-ketoglutarate-dependent dioxygenases, can oxidize 5mC to generate 5-hydroxymethylcytosine (5hmC), 5-formylcytosine (5fC), and 5-carboxylcytosine (5caC). Since then, several mechanisms that are responsible for processing oxidized 5mC derivatives to achieve DNA demethylation have emerged. Our biochemical understanding of the DNA demethylation process has prompted new investigations into the biological functions of DNA demethylation. Characterization of two additional AlkB family proteins, FTO and ALKBH5, showed that they possess demethylase activity toward N(6)-methyladenosine (m(6)A) in RNA, indicating that members of this subfamily of dioxygenases have a general function in demethylating nucleic acids. In this review, we discuss recent advances in this emerging field, focusing on the mechanism and function of TET-mediated DNA demethylation.",
+      "url": "https://doi.org/10.1146/annurev-biochem-060713-035513",
+      "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-biochem-060713-035513",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "openalex",
+      "sources": [
+        "openalex"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "W2171490882",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "SIRT1, IGFBP-3 and CAV1 Promoter DNA Methylation in Aging",
+      "authors": "Carolina Oliveira Gigek",
+      "year": 2014,
+      "doi": "10.4172/2161-1025.1000133",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.4172/2161-1025.1000133",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter methylation H3K27ac stress aging"
+      ],
+      "paper_id": "10.4172/2161-1025.1000133",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Role of Oxidative Stress in Aging",
+      "authors": "D. Knoefler; H. L. Tienson; U. Jakob",
+      "year": 2013,
+      "doi": "10.1007/978-94-007-5787-5_14",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-94-007-5787-5_14",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "10.1007/978-94-007-5787-5_14",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Glycation as Oxidative Stress and Redox Regulation: Implications for Aging, Diabetes, and Familial Amyotrophic Lateral Sclerosis",
+      "authors": "",
+      "year": 1997,
+      "doi": "10.1201/9781482292213-44",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1201/9781482292213-44",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "10.1201/9781482292213-44",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "NFKB Transcription Factor Activation: Importance of the Redox Regulation",
+      "authors": "",
+      "year": 1997,
+      "doi": "10.1201/9781482292213-9",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1201/9781482292213-9",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "10.1201/9781482292213-9",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oxidative stress, antioxidants, aging and disease",
+      "authors": "L. Packer",
+      "year": 1995,
+      "doi": "10.1007/978-3-0348-7337-6_1",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-0348-7337-6_1",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "10.1007/978-3-0348-7337-6_1",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "A novel IKK- and proteasome-independent mechanism of RelA activation triggers senescence associated secretome via transcriptional repression of NFKBIA",
+      "authors": "",
+      "year": 1970,
+      "doi": "10.37473/dac/10.1101/2019.12.19.882225",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.37473/dac/10.1101/2019.12.19.882225",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "10.37473/dac/10.1101/2019.12.19.882225",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Analysis of transcription factor FOXO in the regulation of stress, aging, and neuromuscular tissue homeostasis in Drosophila melanogaster",
+      "authors": "Allison Birnbaum",
+      "year": 1970,
+      "doi": "10.31274/etd-20200902-17",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.31274/etd-20200902-17",
+      "pdf_url": "https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=9105&context=etd",
+      "tgz_url": null,
+      "is_oa": true,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [
+        "unpaywall"
+      ],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 promoter oxidative stress aging transcription regulation"
+      ],
+      "paper_id": "10.31274/etd-20200902-17",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    },
+    {
+      "title": "Oxidative Stress and Leaf Senescence",
+      "authors": "Ulrike Zentgraf",
+      "year": 1970,
+      "doi": "10.1002/9780470988855.ch4",
+      "pmid": null,
+      "pmcid": null,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/9780470988855.ch4",
+      "pdf_url": null,
+      "tgz_url": null,
+      "is_oa": false,
+      "pdf_path": null,
+      "pdf_status": "manual_needed",
+      "pdf_source": null,
+      "oa_sources": [],
+      "manual_reason": "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall.",
+      "source": "crossref",
+      "sources": [
+        "crossref"
+      ],
+      "queries": [
+        "ALKBH5 transcriptional repression oxidative stress senescence"
+      ],
+      "paper_id": "10.1002/9780470988855.ch4",
+      "identifier_confidence": 80,
+      "title_match_confidence": 0,
+      "source_match_reason": "discovery_result",
+      "acquisition_policy": "oa_first",
+      "fallback_after": []
+    }
+  ]
+}

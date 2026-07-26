@@ -1,0 +1,57 @@
+{
+  "slug": "q01-activacion-eficiencia",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q01-activacion-eficiencia",
+  "goal": "Determinar la eficiencia de activacion transcripcional de dCas9-p300 sobre promotores endogenos humanos y de que depende: posicion de la guia respecto al TSS, numero/combinacion de guias, arquitectura del promotor.",
+  "dashboard": "dCas9-p300 activation efficiency",
+  "notebook_id": "d1d79b7f-7751-4fa1-84ac-110bc93c9954",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "core-evidence",
+      "question": "According to these sources, what magnitude of transcriptional activation (fold-change in mRNA/expression) does dCas9-p300 achieve on endogenous human gene promoters, and on which genes/cell types was this measured?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/answers/2026-07-24 Q01 - according-to-these-sources-what-magnitude.md"
+    },
+    {
+      "id": 2,
+      "theme": "mechanisms",
+      "question": "How does the position of the sgRNA binding site relative to the transcription start site (TSS) affect dCas9-p300-mediated gene activation efficiency, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/answers/2026-07-24 Q02 - how-does-position-sgrna-binding-site.md"
+    },
+    {
+      "id": 3,
+      "theme": "mechanisms",
+      "question": "How does the number of guide RNAs and their combination (multiplexing) affect dCas9-p300 activation efficiency compared to using a single guide, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/answers/2026-07-24 Q03 - how-does-number-guide-rnas-their.md"
+    },
+    {
+      "id": 4,
+      "theme": "mechanisms",
+      "question": "What role does promoter architecture or local chromatin accessibility play in determining dCas9-p300 CRISPR activation efficiency, according to these sources?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/answers/2026-07-24 Q04 - what-role-does-promoter-architecture-or.md"
+    },
+    {
+      "id": 5,
+      "theme": "limitations",
+      "question": "What gaps, limitations, or unanswered aspects remain in these sources regarding quantitative dCas9-p300 activation efficiency on endogenous human promoters (e.g., missing dose-response data, guide-position screens, or promoter-architecture comparisons)?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q01-activacion-eficiencia\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/answers/2026-07-24 Q05 - what-gaps-limitations-or-unanswered-aspects.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q01-activacion-eficiencia/QA/summaries/2026-07-24 dCas9-p300 activation efficiency - NotebookLM block summary.md"
+}

@@ -1,0 +1,187 @@
+{
+  "notebook_id": "ef0da090-9b28-43a3-9dd4-5889790ce012",
+  "notebook_title": "FTO dysregulation risk (q13)",
+  "sources": [
+    {
+      "index": 1,
+      "id": "e3fe646a-251a-4beb-b9b4-907461ed1eef",
+      "title": "alain_2021_orthogonal_control_of_mean_and_variability_of_endogenous.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:12"
+    },
+    {
+      "index": 2,
+      "id": "300b9685-71f3-4cc3-a2a1-372bf391a916",
+      "title": "alexander_2020_direct_rna_sequencing_reveals_m6a_modifications_on_adenovirus.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:12"
+    },
+    {
+      "index": 3,
+      "id": "a0bd826f-8dd0-42df-99d0-766f9b87f63f",
+      "title": "anni_2021_hyperinsulinemia_in_obesity_inflammation_and_cancer.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:13"
+    },
+    {
+      "index": 4,
+      "id": "e5f55861-6646-4caf-9c85-4608048f662a",
+      "title": "beijian_2021_m6a_demethylase_fto_attenuates_cardiac_dysfunction_by_regulating.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:13"
+    },
+    {
+      "index": 5,
+      "id": "582c5cc2-e5e0-4e1f-aec1-a7250472a27a",
+      "title": "bernard_2012_diabetes_and_hypertension_is_there_a_common_metabolic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:17"
+    },
+    {
+      "index": 6,
+      "id": "2b44122b-a7ae-4a14-aa57-040ef8dfa424",
+      "title": "dipanjana_2026_fto_dependent_m6a_rna_dysregulation_underlies_memory_deficits.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:18"
+    },
+    {
+      "index": 7,
+      "id": "3253d778-72b5-4838-8992-ce23677676dd",
+      "title": "hao_2021_mettl3_mediated_m6a_rna_methylation_promotes_the_anti.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:18"
+    },
+    {
+      "index": 8,
+      "id": "82c85a33-99aa-40d3-94fd-0a8188fa8ad7",
+      "title": "hongyi_2020_applications_of_genome_editing_technology_in_the_targeted.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:18"
+    },
+    {
+      "index": 9,
+      "id": "5c4947b8-1a8a-4a6a-9961-98d632c0bb52",
+      "title": "julie_2023_crispri_gene_modulation_and_all_optical_electrophysiology_in.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:22"
+    },
+    {
+      "index": 10,
+      "id": "0e51268b-148c-4f30-a434-62cb6510a28d",
+      "title": "julie_2023_gene_modulation_with_crispr_based_tools_in_human.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:22"
+    },
+    {
+      "index": 11,
+      "id": "855db16e-0aa9-42a1-b80a-9eecfd89f019",
+      "title": "neal_2020_defining_the_atpome_reveals_cross_optimization_of_metabolic.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:24"
+    },
+    {
+      "index": 12,
+      "id": "51f62de8-4dc1-498d-bd0a-11dd36eaa76a",
+      "title": "paz_2021_the_role_of_m6a_m5c_and_rna_modifications.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:23"
+    },
+    {
+      "index": 13,
+      "id": "0eb299c7-a19b-48bc-808e-021ed45598b7",
+      "title": "roland_2024_lim_domain_only_4_lmo4_enhances_cd8_t.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:27"
+    },
+    {
+      "index": 14,
+      "id": "84525ef6-7214-4e20-a392-f9e28569480f",
+      "title": "stephanie_2022_crispr_based_approaches_for_gene_regulation_in_non.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:28"
+    },
+    {
+      "index": 15,
+      "id": "98253e54-ef42-4361-8820-586751f764b3",
+      "title": "xingxing_2023_overexpression_of_fto_inhibits_excessive_proliferation_and_promotes.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:29"
+    },
+    {
+      "index": 16,
+      "id": "0bad82d3-339b-429b-9a2c-6f0e6b437819",
+      "title": "xiulin_2021_the_role_of_m6a_modification_in_the_biological.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:29"
+    },
+    {
+      "index": 17,
+      "id": "5837746b-387e-4c23-9adc-247089fe0d1e",
+      "title": "yanlin_2023_epigenetic_regulation_in_metabolic_diseases_mechanisms_and_advances.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:33"
+    },
+    {
+      "index": 18,
+      "id": "89af8d42-0611-4561-8bc4-f13d1276f912",
+      "title": "yibing_2025_brain_targeted_nano_delivery_system_for_crispra_mediated.pdf",
+      "type": "pdf",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-07-14T18:43:33"
+    }
+  ],
+  "count": 18
+}

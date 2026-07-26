@@ -1,0 +1,27 @@
+[18:13:14] Starting parallel upload: 25 PDFs, 4 workers
+[18:13:22] OK - alameen_2026_sirt1_activators_as_geroprotective_agents_in_brain_aging.pdf
+[18:13:22] OK - ambrosini_2024_transcending_frontiers_in_prostate_cancer_the_role_of.pdf
+[18:13:23] OK - amr_2024_insulin_sensitizers_as_anti_aging_agents_unveiling_synergies.pdf
+[18:13:24] OK - amrita_2018_age_related_declines_in_klotho_drive_progenitor_cell.pdf
+[18:13:26] OK - carollo_2026_nature_s_bioactives_in_cardiorenal_syndrome_polyphenols_at.pdf
+[18:13:28] OK - dao_fu_2025_regulation_of_stem_cell_aging_and_cellular_proliferation.pdf
+[18:13:28] OK - de_2026_sirtuin_1_as_an_emerging_exerkine_in_the.pdf
+[18:13:29] OK - di_2018_the_role_of_klotho_in_chronic_kidney_disease.pdf
+[18:13:31] OK - g_rald_2022_pathobiology_of_the_klotho_antiaging_protein_and_therapeutic.pdf
+[18:13:33] OK - james_2016_histone_modifications_and_cancer.pdf
+[18:13:34] OK - jaehyouk_2010_the_anti_aging_gene_klotho_is_a_novel.pdf
+[18:13:34] OK - jun_2022_aging_and_aging_related_diseases_from_molecular_mechanisms.pdf
+[18:13:37] OK - j_s_2014_ligand_activated_peroxisome_proliferator_activated_receptor_and_inhibit.pdf
+[18:13:39] OK - ladisa_2026_a_new_complexity_layer_dna_methylation_and_the.pdf
+[18:13:39] OK - liang_2026_chromatin_remodeling_and_epigenetic_regulation_in_chronic_kidney.pdf
+[18:13:40] OK - marius_2019_sirt1_in_the_development_and_treatment_of_hepatocellular.pdf
+[18:13:43] OK - misawa_2026_integrative_approaches_to_treating_cellular_senescence_in_kidney.pdf
+[18:13:43] OK - palayakotai_2023_metadichol_an_agonist_that_expresses_anti_aging_gene.pdf
+[18:13:45] OK - stephen_2016_epigenetic_determinants_of_cancer.pdf
+[18:13:45] OK - pavi_2026_overview_of_the_zinc_functional_interactome_through_health.pdf
+[18:13:49] OK - wei_2025_atrial_myocyte_senescence_as_a_driver_of_atrial.pdf
+[18:13:51] OK - yunshu_2022_regulation_of_sirt1_and_its_roles_in_inflammation.pdf
+[18:13:51] OK - wu_2022_the_sirtuin_family_in_health_and_disease.pdf
+[18:13:52] OK - yang_2022_the_role_of_protein_acetylation_in_carcinogenesis_and.pdf
+[18:13:54] OK - zhao_2023_role_of_primary_aging_hallmarks_in_alzheimer_s.pdf
+[18:13:55] DONE: 25 OK, 0 FAIL (of 25)

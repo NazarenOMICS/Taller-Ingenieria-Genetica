@@ -1,0 +1,1125 @@
+﻿{
+    "date":  "2026-07-14",
+    "sources":  [
+                    {
+                        "target_id":  "DOI:10.1016/j.bej.2026.110223",
+                        "title":  "A pre-integrated dCas9-VPR CRISPRa platform for high-level recombinant protein production in CHO cells",
+                        "doi":  "10.1016/j.bej.2026.110223",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:block and lock approaches for hiv cure mechanistic insights challenges and emerging role of cpsf6",
+                        "title":  "Block-and-Lock Approaches for HIV Cure: Mechanistic Insights, Challenges, and Emerging Role of CPSF6.",
+                        "doi":  "10.3390/ijms27083496",
+                        "pmid":  "42074139",
+                        "pmcid":  "PMC13117020",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12937741",
+                        "title":  "Chromatin Remodeling in VSMC Phenotype Switching During Vascular Remodeling: From Mechanism to Therapeutic Potential.",
+                        "doi":  "10.3390/biom16020265",
+                        "pmid":  "41750335",
+                        "pmcid":  "PMC12937741",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13115134",
+                        "title":  "Epigenetic and Transcriptomic Pathways Underlying Animal Models of Cognitive and Psychiatric Disorders: A Scoping Review.",
+                        "doi":  "10.3390/cimb48040425",
+                        "pmid":  "42042085",
+                        "pmcid":  "PMC13115134",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.ymthe.2025.08.047",
+                        "title":  "Epigenome editing based treatment: Progresses and challenges.",
+                        "doi":  "10.1016/j.ymthe.2025.08.047",
+                        "pmid":  "40898613",
+                        "pmcid":  "PMC12925790",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13168874",
+                        "title":  "Histone Modifications in Cardiovascular Disease: Mechanisms and Therapeutic Opportunities.",
+                        "doi":  "10.1002/mco2.70765",
+                        "pmid":  "42137184",
+                        "pmcid":  "PMC13168874",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1002/ctm2.70720",
+                        "title":  "Inducible CRISPR/Cas systems in precision oncology: Current applications and future perspectives.",
+                        "doi":  "10.1002/ctm2.70720",
+                        "pmid":  "42298891",
+                        "pmcid":  "PMC13269835",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/cells15090756",
+                        "title":  "Pre-Adaptive States and Evolutionary Trajectories in Breast Cancer Drug Resistance: From Drug-Tolerant Persisters to Clonal Evolution.",
+                        "doi":  "10.3390/cells15090756",
+                        "pmid":  "42121857",
+                        "pmcid":  "PMC13163021",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC12795505",
+                        "title":  "Predicting the effect of CRISPR-Cas9-based epigenome editing.",
+                        "doi":  "10.7554/elife.92991",
+                        "pmid":  "41524535",
+                        "pmcid":  "PMC12795505",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:transgenic dcas9 dnmt3a mouse lines enable i ex vivo i and i in vivo i methylation editing with locus dependent transcriptional effects",
+                        "title":  "Transgenic dCas9-DNMT3A mouse lines enable  \u003ci\u003eex vivo\u003c/i\u003e  and  \u003ci\u003ein vivo\u003c/i\u003e  methylation editing with locus-dependent transcriptional effects",
+                        "doi":  "10.64898/2026.02.26.708277",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abstract 906 high k in tumors impairs t cell effector activity via lysosomal acidification induced autophagy",
+                        "title":  "Abstract 906: High K+ in tumors impairs T cell effector activity via lysosomal acidification-induced autophagy",
+                        "doi":  "10.1158/1538-7445.am2025-906",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1158/2326-6074.io2025-pr008",
+                        "title":  "Abstract PR008: CD4+ T cell rest and activation is enabled by centralized control of state specific regulatory genes",
+                        "doi":  "10.1158/2326-6074.io2025-pr008",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC13007986",
+                        "title":  "CRISPR-based Transcriptional Regulation: Technologies, Applications, and Future Directions.",
+                        "doi":  "10.3390/dna5040057",
+                        "pmid":  "41877893",
+                        "pmcid":  "PMC13007986",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:40697666",
+                        "title":  "CRISPR/Cas9 technology in tumor research and drug development application progress and future prospects.",
+                        "doi":  "10.3389/fphar.2025.1552741",
+                        "pmid":  "40697666",
+                        "pmcid":  "PMC12279886",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:discovery of oligodendrocyte enhancers that regulate sox10 expression",
+                        "title":  "Discovery of oligodendrocyte enhancers that regulate Sox10 expression.",
+                        "doi":  "10.1371/journal.pgen.1011778",
+                        "pmid":  "40644525",
+                        "pmcid":  "PMC12266436",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/ijms26136371",
+                        "title":  "Epigenome Engineering Using dCas Systems for Biomedical Applications and Biotechnology: Current Achievements, Opportunities and Challenges.",
+                        "doi":  "10.3390/ijms26136371",
+                        "pmid":  "40650152",
+                        "pmcid":  "PMC12250444",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:41425703",
+                        "title":  "Immune Checkpoint Inhibitors Combined with Oncolytic Virotherapy: Synergy, Heterogeneity, and Safety in Cancer Treatment.",
+                        "doi":  "10.32604/or.2025.067824",
+                        "pmid":  "41425703",
+                        "pmcid":  "PMC12712690",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41540-025-00621-y",
+                        "title":  "Mammalian synthetic gene circuits for biopharmaceutical development \u0026amp; manufacture.",
+                        "doi":  "10.1038/s41540-025-00621-y",
+                        "pmid":  "41330944",
+                        "pmcid":  "PMC12764465",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:molecular mechanisms of chronic pain and therapeutic interventions",
+                        "title":  "Molecular Mechanisms of Chronic Pain and Therapeutic Interventions.",
+                        "doi":  "10.1002/mco2.70325",
+                        "pmid":  "40787071",
+                        "pmcid":  "PMC12331885",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:abstracts from the 57th european society of human genetics eshg conference hybrid posters",
+                        "title":  "Abstracts from the 57th European Society of Human Genetics (ESHG) Conference: Hybrid Posters",
+                        "doi":  "",
+                        "pmid":  "",
+                        "pmcid":  "PMC11627200",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.20944/preprints202410.0978.v1",
+                        "title":  "DNA Methylation and Histone Acetylation Contribute to the Maintenance of LTP in the Withdrawal Behavior Interneurons in Terrestrial Snails",
+                        "doi":  "10.20944/preprints202410.0978.v1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:eacr 2024 innovative cancer science 10 13 june 2024 rotterdam netherlands",
+                        "title":  "EACR 2024: Innovative Cancer Science, 10-13 June 2024, Rotterdam, Netherlands.",
+                        "doi":  "10.1002/1878-0261.13683",
+                        "pmid":  "38845177",
+                        "pmcid":  "PMC11156946",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/nar/gkae498",
+                        "title":  "Efficient activation of hundreds of LTR12C elements reveals cis-regulatory function determined by distinct epigenetic mechanisms.",
+                        "doi":  "10.1093/nar/gkae498",
+                        "pmid":  "38874474",
+                        "pmcid":  "PMC11317136",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMID:39599784",
+                        "title":  "SMC5/6-Mediated Transcriptional Regulation of Hepatitis B Virus and Its Therapeutic Potential.",
+                        "doi":  "10.3390/v16111667",
+                        "pmid":  "39599784",
+                        "pmcid":  "PMC11598903",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a modular dcas9 based recruitment platform for combinatorial epigenome editing",
+                        "title":  "A modular dCas9-based recruitment platform for combinatorial epigenome editing",
+                        "doi":  "10.1093/nar/gkad1108",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "PMCID:PMC10634339",
+                        "title":  "Characterization of transcriptional enhancers in the chicken genome using CRISPR-mediated activation.",
+                        "doi":  "10.3389/fgeed.2023.1269115",
+                        "pmid":  "37953873",
+                        "pmcid":  "PMC10634339",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/2023.12.04.569945",
+                        "title":  "Dissection of a non-coding risk locus at 1p36.23 identifies  \u003ci\u003eERRFI1\u003c/i\u003e  as a novel gene in the pathogenesis of psoriasis and psoriatic arthritis",
+                        "doi":  "10.1101/2023.12.04.569945",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\gough_2023_dissection_of_a_non_coding_risk_locus_at.pdf",
+                        "notebook_source_id":  "317ddae5-cca6-41b7-8cdb-6d93e8cad29c",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:morphine withdrawal aversive memories and their extinction modulate h4k5 acetylation and brd4 activation in the rat hippocampus and basolateral amygdala",
+                        "title":  "Morphine-withdrawal aversive memories and their extinction modulate H4K5 acetylation and Brd4 activation in the rat hippocampus and basolateral amygdala.",
+                        "doi":  "10.1016/j.biopha.2023.115055",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the mir 430 locus with extreme promoter density forms a transcription body during the minor wave of zygotic genome activation",
+                        "title":  "The miR-430 locus with extreme promoter density forms a transcription body during the minor wave of zygotic genome activation",
+                        "doi":  "10.1016/j.devcel.2022.12.007",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:a histone deacetylase network regulates epigenetic reprogramming and viral silencing in hiv infected cells",
+                        "title":  "A histone deacetylase network regulates epigenetic reprogramming and viral silencing in HIV infected cells",
+                        "doi":  "10.1101/2022.05.09.491199",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\jackson_2022_a_histone_deacetylase_network_regulates_epigenetic_reprogramming_and.pdf",
+                        "notebook_source_id":  "3742cdb8-b7a3-4aec-abe1-02be902e566b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1093/nar/gkac123",
+                        "title":  "Determinants of heritable gene silencing for KRAB-dCas9 + DNMT3 and Ezh2-dCas9 + DNMT3 hit-and-run epigenome editing",
+                        "doi":  "10.1093/nar/gkac123",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr324znp",
+                        "title":  "ENCSR324ZNP",
+                        "doi":  "10.17989/encsr324znp",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr930emo",
+                        "title":  "ENCSR930EMO",
+                        "doi":  "10.17989/encsr930emo",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41590-022-01224-z",
+                        "title":  "Epigenetic regulation of T cell exhaustion",
+                        "doi":  "10.1038/s41590-022-01224-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1089/crispr.2022.0001",
+                        "title":  "Increasing Genome Editing Efficiency of Cas9 Nucleases by the Simultaneous Use of Transcriptional Activators and Histone Acetyltransferase Activator",
+                        "doi":  "10.1089/crispr.2022.0001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the sound of silence transgene silencing in mammalian cell engineering",
+                        "title":  "The sound of silence: Transgene silencing in mammalian cell engineering",
+                        "doi":  "10.1016/j.cels.2022.11.005",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:covalently closed circular dna the ultimate therapeutic target for curing hbv infections",
+                        "title":  "Covalently closed circular DNA: The ultimate therapeutic target for curing HBV infections",
+                        "doi":  "10.1016/j.jhep.2021.05.013",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/epigenomes5030017",
+                        "title":  "Deciphering Plant Chromatin Regulation via CRISPR/dCas9-Based Epigenome Engineering",
+                        "doi":  "10.3390/epigenomes5030017",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:persistence of cerebellar ataxia during chronic ethanol exposure is associated with epigenetic upregulation of fmr1 gene expression in rat cerebellum",
+                        "title":  "Persistence of cerebellar ataxia during chronic ethanol exposure is associated with epigenetic upregulation of Fmr1 gene expression in rat cerebellum",
+                        "doi":  "10.1111/acer.14691",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:spatiotemporal control of crispr cas9 gene editing",
+                        "title":  "Spatiotemporal control of CRISPR/Cas9 gene editing",
+                        "doi":  "10.1038/s41392-021-00645-w",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\chenya_2021_spatiotemporal_control_of_crispr_cas9_gene_editing.pdf",
+                        "notebook_source_id":  "4b5ab4be-3ba0-4494-a316-5823ef4f6cc8",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.3390/cells9040993",
+                        "title":  "CRISPR/Cas9 Epigenome Editing Potential for Rare Imprinting Diseases: A Review",
+                        "doi":  "10.3390/cells9040993",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/s13238-020-00690-1",
+                        "title":  "Cell-cell contact-induced gene editing/activation in mammalian cells using a synNotch-CRISPR/Cas9 system",
+                        "doi":  "10.1007/s13238-020-00690-1",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\hongxin_2020_cell_cell_contact_induced_gene_editing_activation_in.pdf",
+                        "notebook_source_id":  "5e440f09-07e8-42d3-9c13-29c68168394b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:epigenome engineering new technologies for precision medicine",
+                        "title":  "Epigenome engineering: new technologies for precision medicine",
+                        "doi":  "10.1093/nar/gkaa1000",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:the bradyzoite a key developmental stage for the persistence and pathogenesis of toxoplasmosis",
+                        "title":  "The Bradyzoite: A Key Developmental Stage for the Persistence and Pathogenesis of Toxoplasmosis",
+                        "doi":  "10.3390/pathogens9030234",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:scp crispr scp scp dc scp as9 platforms in plants strategies and applications beyond genome editing",
+                        "title":  "\u003cscp\u003eCRISPR\u003c/scp\u003e/\u003cscp\u003edC\u003c/scp\u003eas9 platforms in plants: strategies and applications beyond genome editing",
+                        "doi":  "10.1111/pbi.13232",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.26508/lsa.201900497",
+                        "title":  "Sufficiency analysis of estrogen responsive enhancers using synthetic activators",
+                        "doi":  "10.26508/lsa.201900497",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\matthew_2019_sufficiency_analysis_of_estrogen_responsive_enhancers_using_synthetic.pdf",
+                        "notebook_source_id":  "87749aac-5085-4394-86b9-8bf9e67fadd4",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.bpj.2017.11.1252",
+                        "title":  "Inducible Gene Expression and Protein Localization using CRISPR/DCAS9 and Antiviral Protease Inhibitors",
+                        "doi":  "10.1016/j.bpj.2017.11.1252",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-018-05966-z",
+                        "title":  "SIRT6 haploinsufficiency induces BRAFV600E melanoma cell resistance to MAPK inhibitors via IGF signalling",
+                        "doi":  "10.1038/s41467-018-05966-z",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\t_2018_sirt6_haploinsufficiency_induces_brafv600e_melanoma_cell_resistance_to.pdf",
+                        "notebook_source_id":  "39df89e0-fece-4eba-8e14-2e1ee783634b",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-018-04252-2",
+                        "title":  "The CRISPR tool kit for genome editing and beyond",
+                        "doi":  "10.1038/s41467-018-04252-2",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\mazhar_2018_the_crispr_tool_kit_for_genome_editing_and.pdf",
+                        "notebook_source_id":  "39014e8c-7acc-4cc3-a3f5-d58c8e8ff055",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1101/227355",
+                        "title":  "A rhamnose-inducible system for precise and temporal control of gene expression in cyanobacteria",
+                        "doi":  "10.1101/227355",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1038/s41467-017-01222-y",
+                        "title":  "Drug-tunable multidimensional synthetic gene control using inducible degron-tagged dCas9 effectors",
+                        "doi":  "10.1038/s41467-017-01222-y",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "direct",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\dirk_2017_drug_tunable_multidimensional_synthetic_gene_control_using_inducible.pdf",
+                        "notebook_source_id":  "16851046-cd7b-4fa6-abfe-dfb1507d0066",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:dcas9 a versatile tool for epigenome editing",
+                        "title":  "dCas9: A Versatile Tool for Epigenome Editing",
+                        "doi":  "10.21775/cimb.026.015",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\daan_2017_dcas9_a_versatile_tool_for_epigenome_editing.pdf",
+                        "notebook_source_id":  "dc4d41b8-886d-4432-8106-3548a3efece1",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:crispr cas9 in genome editing and beyond",
+                        "title":  "CRISPR/Cas9 in Genome Editing and Beyond",
+                        "doi":  "10.1146/annurev-biochem-060815-014607",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:tet on systems for doxycycline inducible gene expression",
+                        "title":  "Tet-On Systems For Doxycycline-inducible Gene Expression",
+                        "doi":  "10.2174/1566523216666160524144041",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1186/s13059-016-1046-5",
+                        "title":  "The epigenome: the next substrate for engineering",
+                        "doi":  "10.1186/s13059-016-1046-5",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\minhee_2016_the_epigenome_the_next_substrate_for_engineering.pdf",
+                        "notebook_source_id":  "57320331-3b1e-4dec-ba41-efb2b548935f",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:strategies for precision modulation of gene expression by epigenome editing an overview",
+                        "title":  "Strategies for precision modulation of gene expression by epigenome editing: an overview",
+                        "doi":  "10.1186/s13072-015-0023-7",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "notebook_ready",
+                        "failure_reason":  null,
+                        "pdf_source":  "europepmc_openalex",
+                        "pdf_path":  "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\Search\\dcas9-fto-granulosa\\q02-h3k27ac-reversibilidad\\papers\\benjamin_2015_strategies_for_precision_modulation_of_gene_expression_by.pdf",
+                        "notebook_source_id":  "8ac370b9-29d4-42e7-b6f9-16f4ed432766",
+                        "notes":  [
+
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1016/j.gep.2014.01.002",
+                        "title":  "Two types of transgenic lines for doxycycline-inducible, cell-specific gene expression in zebrafish ultraviolet cone photoreceptors",
+                        "doi":  "10.1016/j.gep.2014.01.002",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.17989/encsr892hpq",
+                        "title":  "ENCSR892HPQ",
+                        "doi":  "10.17989/encsr892hpq",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acssynbio.7b00435.s001",
+                        "title":  "A Rhamnose-Inducible System for Precise and Temporal Control of Gene Expression in Cyanobacteria",
+                        "doi":  "10.1021/acssynbio.7b00435.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/jacs.7b06555.s001",
+                        "title":  "Chemically Controlled Epigenome Editing through an Inducible dCas9 System",
+                        "doi":  "10.1021/jacs.7b06555.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1021/acssynbio.8b00192.s001",
+                        "title":  "Delivery of an Artificial Transcription Regulator dCas9-VPR by Extracellular Vesicles for Therapeutic Gene Activation",
+                        "doi":  "10.1021/acssynbio.8b00192.s001",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:earthworm microbial biomass and leaf litter decay responses after invasive honeysuckle shrub removal from urban woodlands",
+                        "title":  "Earthworm, microbial biomass, and leaf litter decay responses after invasive honeysuckle shrub removal from urban woodlands.",
+                        "doi":  "10.18297/etd/1759",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:fig 4 the role of the crispr dcas9 system in gene repression and activation",
+                        "title":  "Fig. 4. The role of the CRISPR-dCas9 system in gene repression and activation",
+                        "doi":  "10.17816/brmma62825-38295",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 2 activation of an exogenous reporter gene zsgreen under the control of a hnf4 promoter by the crispr assisted trans enhancer in multiple cells",
+                        "title":  "Figure 2. Activation of an exogenous reporter gene ZsGreen under the control of a HNF4α promoter by the CRISPR-assisted trans enhancer in multiple cells.",
+                        "doi":  "10.7554/elife.45973.003",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 3 changes in ltr5hs chromatin landscape upon cargo crispra crispri",
+                        "title":  "Figure 3. Changes in LTR5HS chromatin landscape upon CARGO-CRISPRa/CRISPRi.",
+                        "doi":  "10.7554/elife.35989.008",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:figure 3 integrative analysis of dnase seq and h3k27ac chip seq data",
+                        "title":  "Figure 3: Integrative analysis of DNase-seq and H3K27Ac ChIP-seq data.",
+                        "doi":  "10.7717/peerj.13250/fig-3",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "TITLE:histone acetylation",
+                        "title":  "Histone Acetylation",
+                        "doi":  "10.1007/springerreference_34074",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.1007/springerreference_138027",
+                        "title":  "Histone Acetylation",
+                        "doi":  "10.1007/springerreference_138027",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.7717/peerj.13250/supp-4",
+                        "title":  "Supplemental Information 4: Analysis of the H3K27Ac ChIP-seq data",
+                        "doi":  "10.7717/peerj.13250/supp-4",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    },
+                    {
+                        "target_id":  "DOI:10.58837/chula.sp.2019.302",
+                        "title":  "บทบาทของกระบวนการ Histone acetylation ต่อกระบวนการพัฒนาเป็นเซลล์ไขมันของเซลล์ไฟโบรบลาสต์จากดวงตาจากผู้ป่วยตาโปนจากไทรอยด์",
+                        "doi":  "10.58837/chula.sp.2019.302",
+                        "pmid":  "",
+                        "pmcid":  "",
+                        "required":  false,
+                        "status":  "manual_needed",
+                        "failure_reason":  "paywall",
+                        "pdf_source":  null,
+                        "pdf_path":  null,
+                        "notebook_source_id":  null,
+                        "notes":  [
+                                      "No open-access PDF was downloadable via direct URL, PMC OA, or Unpaywall."
+                                  ]
+                    }
+                ]
+}

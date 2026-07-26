@@ -1,0 +1,65 @@
+{
+  "slug": "q21-chip-atac-promotor-fto",
+  "project": "dcas9-fto-granulosa",
+  "vault_slug": "dcas9-fto-granulosa/q21-chip-atac-promotor-fto",
+  "goal": "Identificar bases públicas ChIP-seq o ATAC-seq que perfilen el promotor de FTO y extraer candidatos de factores de transcripción o marcas de cromatina con potencial represor.",
+  "dashboard": "Public ChIP-seq and ATAC-seq at FTO promoter",
+  "notebook_id": "88cd18f7-147a-46da-adea-544dfdab4816",
+  "questions": [
+    {
+      "id": 1,
+      "theme": "public-datasets",
+      "question": "According to these sources, are there public ENCODE, Cistrome, or related datasets that profile the FTO promoter region by ChIP-seq, CUT&RUN, or ATAC-seq?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\qa-1.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q01 - according-to-these-sources-there-public.md"
+    },
+    {
+      "id": 2,
+      "theme": "chromatin-marks",
+      "question": "Which chromatin marks at the FTO promoter are reported across public datasets, especially H3K27ac, H3K4me3, H3K27me3, or accessibility signals?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\qa-2.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q02 - which-chromatin-marks-at-fto-promoter.md"
+    },
+    {
+      "id": 3,
+      "theme": "tf-candidates",
+      "question": "Which transcription factors appear at or near the FTO promoter in public datasets and are plausible candidate repressors or lost activators?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\qa-3.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q03 - which-transcription-factors-appear-at-or.md"
+    },
+    {
+      "id": 4,
+      "theme": "cell-context",
+      "question": "In which cell types were those datasets generated, and how relevant are they to ovarian or oxidative-stress biology?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\qa-4.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q04 - which-cell-types-were-those-datasets.md"
+    },
+    {
+      "id": 5,
+      "theme": "usable-hypotheses",
+      "question": "What concrete mechanistic hypotheses about FTO promoter control can be generated from the public chromatin datasets, and how tentative are they?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\qa-5.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q05 - what-concrete-mechanistic-hypotheses-about-fto.md"
+    },
+    {
+      "id": 6,
+      "theme": "gaps",
+      "question": "What additional experiments would be required in granulosa cells before treating the public ChIP-seq/ATAC-seq signals as evidence for the mechanism of FTO downregulation?",
+      "status": "done",
+      "qa_file": "C:\\Users\\Administrator\\Documents\\Taller Ingenieria Genetica\\runs\\dcas9-fto-granulosa\\q21-chip-atac-promotor-fto\\qa-6.json",
+      "vault_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/answers/2026-07-24 Q06 - what-additional-experiments-would-be-required.md"
+    }
+  ],
+  "qa_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/summaries/2026-07-24 QA Summary.md",
+  "source_curation_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/summaries/2026-07-24 Source Curation.md",
+  "citation_audit_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/summaries/2026-07-24 Citation Audit.md",
+  "citation_audit_status": "pass",
+  "citation_audit_exit_code": 0,
+  "traceability_status": "pass",
+  "block_summary_note": "Notes/NotebookLM/dcas9-fto-granulosa/q21-chip-atac-promotor-fto/QA/summaries/2026-07-24 Public ChIP-seq and ATAC-seq at FTO promoter - NotebookLM block summary.md"
+}
