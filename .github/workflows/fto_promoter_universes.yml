@@ -1,0 +1,137 @@
+name: Temporary FTO promoter universes
+on:
+  push:
+    branches: [tmp/fto-ensembl116-extraction]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: tmp/fto-ensembl116-extraction
+      - name: Download and query primary annotation universes
+        run: |
+          set -euo pipefail
+          mkdir -p tmp_fto_promoters
+          wget -q https://ftp.ensembl.org/pub/release-116/gff3/homo_sapiens/Homo_sapiens.GRCh38.116.chromosome.16.gff3.gz -O tmp_fto_promoters/gene.gff3.gz
+          wget -q https://ftp.ensembl.org/pub/release-116/regulation/homo_sapiens/GRCh38/annotation/Homo_sapiens.GRCh38.regulatory_features.v116.gff3.gz -O tmp_fto_promoters/reg.gff3.gz
+          curl -fsSL 'https://api.genome.ucsc.edu/list/tracks?genome=hg38;trackLeavesOnly=1' -o tmp_fto_promoters/ucsc_tracks.json
+          for tr in epdNew robustPeaks encodeCcreCombined cCREregistry geneHancerRegElements geneHancerRegElementsDoubleElite geneHancerGenes geneHancerGenesDoubleElite geneHancerInteractions geneHancerInteractionsDoubleElite; do
+            curl -fsSL "https://api.genome.ucsc.edu/getData/track?genome=hg38;track=${tr};chrom=chr16;start=53580000;end=53725000;maxItemsOutput=100000" -o "tmp_fto_promoters/ucsc_${tr}.json" || true
+          done
+      - name: Parse locus, TSS and independent regulatory universes
+        run: |
+          python - <<'PY'
+          import gzip, csv, json, urllib.parse
+          from pathlib import Path
+          out=Path('tmp_fto_promoters')
+          genes={'ENSG00000140718':'FTO','ENSG00000103494':'RPGRIP1L'}
+          region_start=53580001  # converted to 1-based inclusive from UCSC API start
+          region_end=53725000
+          def attrs(s):
+              d={}
+              for x in s.split(';'):
+                  if '=' in x:
+                      k,v=x.split('=',1); d[k]=urllib.parse.unquote(v)
+              return d
+          tx=[]; gene_rows=[]
+          with gzip.open(out/'gene.gff3.gz','rt') as f:
+              for line in f:
+                  if line.startswith('#'): continue
+                  p=line.rstrip('\n').split('\t')
+                  if len(p)!=9: continue
+                  seq,src,typ,start,end,score,strand,phase,a=p
+                  if not any(g in a for g in genes): continue
+                  d=attrs(a); start=int(start); end=int(end)
+                  parent=d.get('Parent',''); gid=None
+                  for g in genes:
+                      if g in a: gid=g; break
+                  row={'gene_id':gid,'gene_symbol':genes.get(gid,''),'seqid':seq,'source':src,'type':typ,'start':start,'end':end,'strand':strand,'attributes':a,**d}
+                  if typ=='gene': gene_rows.append(row)
+                  if typ in ('mRNA','transcript'):
+                      row['tss']=start if strand=='+' else end
+                      row['tes']=end if strand=='+' else start
+                      row['transcript_stable_id']=d.get('transcript_id') or d.get('ID','').split(':')[-1]
+                      tx.append(row)
+          def write_csv(path, rows):
+              keys=[]
+              for r in rows:
+                  for k in r:
+                      if k not in keys: keys.append(k)
+              with open(path,'w',newline='',encoding='utf-8') as h:
+                  w=csv.DictWriter(h,fieldnames=keys); w.writeheader(); w.writerows(rows)
+          write_csv(out/'ensembl116_FTO_RPGRIP1L_transcripts_TSS.csv',sorted(tx,key=lambda r:(r['gene_symbol'],r['tss'],r.get('transcript_stable_id',''))))
+          write_csv(out/'ensembl116_FTO_RPGRIP1L_gene_ranges.csv',gene_rows)
+          regs=[]
+          with gzip.open(out/'reg.gff3.gz','rt') as f:
+              for line in f:
+                  if line.startswith('#'): continue
+                  p=line.rstrip('\n').split('\t')
+                  if len(p)!=9: continue
+                  seq,src,typ,start,end,score,strand,phase,a=p
+                  if seq not in ('16','chr16'): continue
+                  start=int(start); end=int(end)
+                  if end < region_start or start > region_end: continue
+                  d=attrs(a)
+                  regs.append({'source_universe':'Ensembl Regulatory Build 116','seqid':'chr16','type':typ,'start_1based':start,'end_1based':end,'strand':strand,**d})
+          write_csv(out/'ensembl116_regulatory_145kb_around_FTO_RPGRIP1L.csv',regs)
+          # UCSC track-list candidates
+          tracks=json.loads((out/'ucsc_tracks.json').read_text())
+          candidates=[]
+          def walk(x,path=''):
+              if isinstance(x,dict):
+                  for k,v in x.items():
+                      np=f'{path}/{k}'
+                      if isinstance(v,(dict,list)): walk(v,np)
+                      else:
+                          text=str(v)
+                          if any(q in (k+' '+text).lower() for q in ['epd','fantom','cage','ccre','genehancer','rampage']):
+                              candidates.append({'path':np,'key':k,'value':text})
+              elif isinstance(x,list):
+                  for i,v in enumerate(x): walk(v,f'{path}[{i}]')
+          walk(tracks)
+          write_csv(out/'ucsc_candidate_track_names.csv',candidates)
+          # Flatten returned API records without assuming a fixed schema
+          all_ucsc=[]
+          for p in sorted(out.glob('ucsc_*.json')):
+              if p.name=='ucsc_tracks.json': continue
+              try: data=json.loads(p.read_text())
+              except Exception: continue
+              track=p.stem.replace('ucsc_','')
+              if isinstance(data,dict) and data.get('error'):
+                  all_ucsc.append({'source_universe':'UCSC API','track':track,'api_error':data.get('error')})
+                  continue
+              records=[]
+              if isinstance(data,dict):
+                  for k,v in data.items():
+                      if isinstance(v,list) and v and isinstance(v[0],dict):
+                          records.extend(v)
+              for r in records:
+                  rr={'source_universe':'UCSC API','track':track,**r}
+                  # Normalize UCSC BED-like 0-based half-open coordinates when present
+                  cs=r.get('chromStart',r.get('start'))
+                  ce=r.get('chromEnd',r.get('end'))
+                  if isinstance(cs,int) and isinstance(ce,int):
+                      rr['start_1based']=cs+1; rr['end_1based']=ce
+                  all_ucsc.append(rr)
+          write_csv(out/'ucsc_independent_universes_145kb.csv',all_ucsc)
+          # Compact summary
+          summary={
+            'region_GRCh38_1based_inclusive':[region_start,region_end],
+            'gene_rows':len(gene_rows),'transcripts':len(tx),'ensembl_regulatory':len(regs),
+            'ucsc_records':len(all_ucsc),
+            'tss_by_gene':{g:sorted(set(r['tss'] for r in tx if r['gene_symbol']==g)) for g in ('FTO','RPGRIP1L')}
+          }
+          (out/'summary_promoter_universes.json').write_text(json.dumps(summary,indent=2),encoding='utf-8')
+          print(json.dumps(summary,indent=2))
+          PY
+      - name: Commit extracted data
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add tmp_fto_promoters/*.csv tmp_fto_promoters/*.json
+          git commit -m 'Extract FTO-RPGRIP1L promoter evidence across annotation universes' || exit 0
+          git push origin tmp/fto-ensembl116-extraction
