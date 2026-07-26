@@ -1,0 +1,32 @@
+{
+  "gene_id": "ENSG00000140718",
+  "transcript_id": "ENST00000471389",
+  "transcript_start": 53704156,
+  "transcript_end": 54121941,
+  "strand": "+",
+  "region_start": 53702356,
+  "region_end": 54121941,
+  "upstream_bp": 1800,
+  "n_exons": 9,
+  "n_regulatory_all": 69,
+  "n_enhancers": 59,
+  "transcript_row": {
+    "seqid": "16",
+    "source": "ensembl_havana",
+    "type": "mRNA",
+    "start": 53704156,
+    "end": 54121941,
+    "strand": "+",
+    "phase": ".",
+    "attributes": "ID=transcript:ENST00000471389;Parent=gene:ENSG00000140718;Name=FTO-206;biotype=protein_coding;ccdsid=CCDS32448.1;tag=gencode_basic,gencode_primary,Ensembl_canonical,MANE_Select;transcript_id=ENST00000471389;transcript_support_level=1 (assigned to previous version 5);version=6",
+    "ID": "transcript:ENST00000471389",
+    "Parent": "gene:ENSG00000140718",
+    "Name": "FTO-206",
+    "biotype": "protein_coding",
+    "ccdsid": "CCDS32448.1",
+    "tag": "gencode_basic,gencode_primary,Ensembl_canonical,MANE_Select",
+    "transcript_id": "ENST00000471389",
+    "transcript_support_level": "1 (assigned to previous version 5)",
+    "version": "6"
+  }
+}
