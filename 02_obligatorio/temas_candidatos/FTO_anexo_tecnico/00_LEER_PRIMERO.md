@@ -13,6 +13,7 @@ Este anexo contiene únicamente el conocimiento nuevo obtenido durante la inspec
 5. `datos/FTO_exones_MANE_Ensembl116_GRCh38.csv`
 6. `datos/FTO_enhancers_Ensembl116_GRCh38_1p8kb_upstream.csv`
 7. `datos/FTO_regulatorios_Ensembl116_GRCh38_1p8kb_upstream.csv`
+8. `04_herramientas_fuentes_y_metodologia.md`: explicación completa de las bases, navegadores, herramientas computacionales, generación de figuras y limitaciones del análisis.
 
 ## Referencias obligatorias
 
