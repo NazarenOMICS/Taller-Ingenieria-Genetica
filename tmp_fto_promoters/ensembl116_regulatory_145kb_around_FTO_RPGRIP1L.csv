@@ -1,0 +1,9 @@
+source_universe,seqid,type,start_1based,end_1based,strand,ID,color,extended_start,extended_end,gene_id,gene_name,gene_biotype
+Ensembl Regulatory Build 116,chr16,CTCF_binding_site,53593976,53593997,+,ENSR16_5GLCMB,#40e0d0,,,,,
+Ensembl Regulatory Build 116,chr16,enhancer,53600108,53600469,.,ENSR16_9R9FC,#faca00,,,,,
+Ensembl Regulatory Build 116,chr16,enhancer,53666759,53667094,.,ENSR16_9RB5L,#faca00,,,,,
+Ensembl Regulatory Build 116,chr16,enhancer,53703398,53703830,.,ENSR16_9RBJ8,#faca00,,,,,
+Ensembl Regulatory Build 116,chr16,promoter,53703831,53704167,.,ENSR16_9RBJC,#ff0000,53703831,53704167,"ENSG00000103494,ENSG00000140718","RPGRIP1L,FTO","protein_coding,protein_coding"
+Ensembl Regulatory Build 116,chr16,enhancer,53704168,53704740,.,ENSR16_BDMQQ,#faca00,,,,,
+Ensembl Regulatory Build 116,chr16,enhancer,53713560,53713734,.,ENSR16_83KM99,#faca00,,,,,
+Ensembl Regulatory Build 116,chr16,enhancer,53714109,53715070,.,ENSR16_BDMS7,#faca00,,,,,
