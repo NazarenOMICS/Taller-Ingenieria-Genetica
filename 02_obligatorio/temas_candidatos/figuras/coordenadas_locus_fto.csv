@@ -1,0 +1,19 @@
+categoria,nombre,etiqueta_corta,inicio_1based,fin_1based,hebra,clasificacion_ensembl,clasificacion_encode,estado,fuente
+transcrito,RPGRIP1L-212 (ENST00000647211.2),RPGRIP1L-212,53598153,53703859,-,,,referencia,Ensembl 116
+transcrito,FTO-206 (ENST00000471389.6),FTO-206,53704156,54121941,+,,,referencia,Ensembl 116
+exon,Exon 1 de FTO-206 (ENSE00003793523),Exon 1,53704156,53704229,+,,,,Ensembl 116
+tss,TSS de referencia de RPGRIP1L,TSS ref RPGRIP1L,53703859,53703859,-,,,referencia,Ensembl 116
+tss,Inicio alternativo de RPGRIP1L,Inicio alt RPGRIP1L,53703938,53703938,-,,,alternativo,Ensembl 116
+tss,Inicio alternativo de FTO,Inicio alt FTO,53703963,53703963,+,,,alternativo,Ensembl 116
+tss,TSS de referencia de FTO,TSS ref FTO,53704156,53704156,+,,,referencia,Ensembl 116
+ensembl_rb,ENSR16_9RBJ8,9RBJ8,53703398,53703830,.,enhancer,,,Ensembl Regulatory Build 116
+ensembl_rb,ENSR16_9RBJC,9RBJC,53703831,53704167,.,promotor (RPGRIP1L y FTO),,,Ensembl Regulatory Build 116
+ensembl_rb,ENSR16_BDMQQ,BDMQQ,53704168,53704740,.,enhancer,,,Ensembl Regulatory Build 116
+encode_ccre,EH38E1816375,1816375,53703562,53703761,.,,PLS (score 326),,ENCODE cCRE via UCSC
+encode_ccre,EH38E1816376,1816376,53703859,53704208,.,,PLS (score 682),,ENCODE cCRE via UCSC
+encode_ccre,EH38E1816377,1816377,53704523,53704689,.,,pELS (score 214),,ENCODE cCRE via UCSC
+genehancer,GH16J053703,GH16J053703,53703192,53705162,.,,,Promoter/Enhancer Elite,GeneHancer via UCSC
+region,Centro del promotor divergente FTO-RPGRIP1L,Centro promotor divergente,53703921,53703991,.,promotor,PLS,conservada,Intervalo de rastreo regional
+region,Region promotora proxima al TSS de referencia de FTO,Promotora proxima,53704020,53704145,.,promotor,PLS,conservada,Intervalo de rastreo regional
+region,Region codificante del exon 1 del transcrito de referencia de FTO,Codificante exon 1,53704181,53704251,.,enhancer,borde de PLS,retirada,Intervalo de rastreo regional
+region,Region intronica con firma pELS,Intronica pELS,53704571,53704641,.,enhancer,pELS,conservada,Intervalo de rastreo regional

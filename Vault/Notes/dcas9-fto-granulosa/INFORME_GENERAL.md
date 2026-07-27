@@ -299,6 +299,7 @@ La conclusión metodológicamente más honesta permanece entonces sin cambios: K
 
 *Fuentes citadas a lo largo de este informe, ordenadas alfabéticamente por primer autor. Metadatos (autores, año, DOI) extraídos automáticamente de los registros de búsqueda bibliográfica del pipeline EZresearchLM; no se han generado citas de memoria.*
 
+- **Akçakale Kaba et al., 2025** — Fatma Akçakale Kaba; Ersin Akıncı; Mehmet Fatih Cengiz; Adem Kaba (2025). *Comparison of dCas9-activator complexes for the activation of PDX1 and NGN3 pancreatic genes using the CRISPR system*. Trakya University Journal of Natural Sciences 26(1):49-59. DOI: 10.23902/trkjnat.1622077.
 - **Adli, 2018** — Mazhar Adli (2018). *The CRISPR tool kit for genome editing and beyond*. DOI: 10.1038/s41467-018-04252-2.
 - **Ahmad et al., 2026** — Rizwan Ahmad; Mohammad Yusuf Hasan (2026). *Deciphering Reactive Oxygen Species with Cutting-Edge Aging Research*. DOI: 10.5772/intechopen.1014497.
 - **Asgarpour et al., 2020** — Kasra Asgarpour et al. (2020). *Exosomal microRNAs derived from mesenchymal stem cells: cell-to-cell messages*. DOI: 10.1186/s12964-020-00650-6.

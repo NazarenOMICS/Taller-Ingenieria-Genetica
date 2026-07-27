@@ -55,6 +55,20 @@ Los dos documentos no son equivalentes. Tres criterios que suman **16 de los 30 
 
 **Fuentes**: dossier del tema candidato, secciones 1 y 2; `INFORME_GENERAL.md` apartado 5.6 para el punto 5.
 
+### Texto aprobado para los puntos 4 y 5, redacción definitiva
+
+Aprobado el 2026-07-26. Se traslada al entregable sin reescribir.
+
+> La activación génica dirigida mediante sistemas CRISPR constituye una estrategia establecida para aumentar la expresión de genes endógenos sin producir cortes en el ADN ni modificar su secuencia. En estos sistemas, una Cas9 catalíticamente inactiva es dirigida mediante un ARN guía hacia regiones regulatorias específicas, donde recluta dominios capaces de favorecer un estado local compatible con la transcripción. Estudios previos demostraron que este tipo de edición epigenómica puede activar genes endógenos desde regiones promotoras y elementos potenciadores (enhancer), lo que permite evaluar de manera causal si el aumento de la expresión de un gen es suficiente para modificar una vía molecular o un fenotipo determinado (Hilton et al., 2015). A diferencia de la sobreexpresión mediante una copia exógena, esta aproximación actúa sobre el locus en su contexto genómico y regulatorio natural, permitiendo además comparar el efecto de intervenir distintas regiones regulatorias.
+>
+> Esta estrategia resulta especialmente pertinente cuando se ha identificado una disminución de la expresión de un gen, pero todavía no se conoce con precisión el mecanismo molecular que la produce. La activación dirigida no requiere asumir que la disminución basal se deba a una alteración epigenética específica, sino que funciona como una intervención experimental para determinar si el aumento de la transcripción endógena puede compensar esa reducción. En este marco, la activación dirigida de FTO permite evaluar si elevar su expresión es suficiente para modificar el eje m6A–FOS y atenuar parcialmente el fenotipo senescente, manteniendo separada esta pregunta de la identificación del mecanismo original responsable de la disminución de FTO.
+
+**Qué resuelve este texto.** Justifica el abordaje de activación dirigida frente a la sobreexpresión por copia exógena, y desactiva de raíz la objeción de que la estrategia exigiría haber demostrado que la disminución de *FTO* es de origen epigenético. Deja explícito que la identificación del mecanismo original y la evaluación de suficiencia son dos preguntas separadas.
+
+**Qué no resuelve, y va en 3.1.** No justifica p300 frente a otros dominios activadores. Ese argumento es distinto y se apoya en la arquitectura del locus, no en la naturaleza de la disminución basal.
+
+**Ajuste menor sugerido al trasladarlo.** Introducir la abreviatura en el primer uso, escribiendo "una Cas9 catalíticamente inactiva (dCas9)", para poder emplearla en el resto del documento sin volver a definirla.
+
 ---
 
 ## A.2 Objetivo (0,25 carillas)
@@ -73,19 +87,37 @@ Instrumental, con la redacción acordada: determinar qué región produce la rel
 
 Doce subsecciones. La columna de criterio indica a cuál de la rúbrica responde cada una.
 
-### 3.1 Estrategia general y justificación del abordaje (0,3 carillas, criterio 2)
+### 3.1 Estrategia general y justificación del abordaje (0,4 carillas, criterio 2)
+
+**Encuadre acordado el 2026-07-26.** La subsección **asume** que la Introducción ya estableció qué es la activación génica dirigida, por qué permite intervenir el locus endógeno, por qué no requiere demostrar una represión epigenética previa y cuál es la pregunta de suficiencia sobre *FTO*. No repite ese marco. Abre con una transición breve y se concentra en cuatro decisiones experimentales: activar el locus endógeno de *FTO*; comparar regiones regulatorias por la arquitectura del locus; justificar la selección de dCas9-p300; e indicar que la eficacia y la región óptima se determinarán experimentalmente. La definición del efector queda acá; su arquitectura molecular y su construcción se desarrollan en 3.6.
 
 Esquema de la estrategia en un párrafo. Justificación del efector con la formulación acordada sobre posición: la posición respecto del TSS es un determinante importante de la eficiencia, aunque dCas9-p300 presenta flexibilidad para actuar tanto desde promotores como desde enhancers, y las posiciones seleccionadas deben validarse experimentalmente. No se enuncia ninguna ventana óptima numérica.
 
+**Orden de los argumentos para elegir p300, fijado el 2026-07-26.** El texto aprobado de la Introducción justifica la activación dirigida frente a la sobreexpresión por copia exógena, pero no justifica p300 frente a otros dominios activadores. Ese argumento se construye acá, en este orden de peso.
+
+1. **Adecuación a un diseño comparativo entre regiones de naturaleza distinta.** La capacidad de actuar desde regiones promotoras y desde regiones candidatas a enhancer resulta especialmente adecuada para este diseño, porque permite comparar con el mismo efector regiones regulatorias de naturaleza y posición diferentes. Formulación corregida el 2026-07-26: **no corresponde afirmar que actuar a distancia sea un requisito funcional**, puesto que el panel conserva también una región promotora próxima al TSS de referencia y por lo tanto el diseño no depende de esa capacidad.
+2. **Precedente concordante en tipo celular y en gen.** Los dos únicos antecedentes disponibles, granulosa porcina en Liao et al. (2026) y activación de *FTO* endógeno en HepG2 en Kachanov et al. (2025), emplean ambos p300. Ningún otro dominio activador tiene precedente en el tipo celular ni en el gen.
+3. **Reversibilidad y suficiencia con una sola guía**, que facilitan el control experimental.
+
+**Lo que debe concederse de forma explícita.** Si el criterio fuese la magnitud bruta de activación, p300 no es necesariamente la mejor opción, puesto que VPR y SunTag rinden más en varias comparaciones directas. A esto se suman el tamaño de la carga, que complica la entrega, la dependencia del contexto celular documentada en fibroblastos primarios humanos, y la ausencia de toda comparación cabeza a cabeza en el locus de *FTO*.
+
+**Argumento que no debe ocupar el lugar principal.** La coherencia conceptual entre un efector epigenético y un problema epigenético es débil, porque no está demostrado que la disminución basal de *FTO* sea de origen epigenético. Se conserva como argumento secundario.
+
 Tabla de efectores evaluados y descartados.
 
-### 3.2 Metodología del análisis genómico y regulatorio (0,9 carillas, criterio 2)
+**Opción abierta, no incorporada**: agregar un brazo con VPR o VP64 dirigido a la guía seleccionada, para convertir la elección de efector en un resultado del trabajo en lugar de un argumento. Queda planteada y no decidida.
+
+### 3.2 Metodología del análisis genómico y regulatorio (0,7 carillas, criterio 2)
+
+**Criterio de extensión**: metodología reproducible, no inventario de herramientas. Tabla compacta de fuentes con cuatro columnas, un máximo de siete filas, y el detalle de endpoints, versiones y comandos al anexo.
 
 Sección que el evaluador buscará como Metodología. Contiene la tabla de bases de datos con qué aporta cada una, cómo se utilizó, por qué fue seleccionada y sus limitaciones declaradas, y la descripción del procedimiento de revisión.
 
 Explicación única de la etiqueta MANE, con esta formulación: "FTO-206 y RPGRIP1L-212 fueron adoptados como transcritos de referencia porque poseen la etiqueta MANE Select, que indica concordancia entre Ensembl/GENCODE y NCBI RefSeq. Esta elección normaliza las coordenadas, pero no demuestra que sean los transcritos más utilizados en granulosa." A partir de aquí se usa siempre "TSS de referencia".
 
 Procedimiento a describir: descarga de anotaciones desde las fuentes citadas; comparación manual entre anotaciones de distinta procedencia; control de coordenadas y de ensamblado, manteniendo GRCh38.p14 como referencia única y sin mezclar coordenadas de hg19; revisión de la secuencia de referencia y localización de los motivos PAM disponibles; contraste entre estructura génica y elementos regulatorios superpuestos; identificación y corrección de inconsistencias entre bases; y evaluación crítica de la relevancia experimental de cada elemento.
+
+**Obtención de la secuencia anotada del locus completo.** La secuencia de referencia para el locus completo, *RPGRIP1L* más *FTO*, se obtuvo del RefSeq de NCBI mediante el servicio E-utilities (efetch, base nuccore, identificador NC_000016.10, ensamblado GRCh38.p14, GCF_000001405.40), especificando el intervalo chr16:53.598.153-54.158.512 (560.360 pb) para cubrir ambos genes completos más el tramo compartido entre sus sitios de inicio. El archivo se descargó en formato GenBank (rettype=gb, retmode=text) el 26/07/2026, con la tabla de features de RefSeq ya incorporada (genes, variantes de transcripto, exones y CDS), y quedó disponible para importación directa a Benchling. Verificación de coherencia: el gen *FTO* comienza, dentro de este archivo, en la posición relativa 105.811, que corresponde a la coordenada absoluta chr16:53.703.963, es decir el cluster alternativo de inicio de *FTO* ya fijado en `DECISIONES_DISENO.md` (apartado D0).
 
 Declaración de niveles: hechos de anotación oficial, evidencia experimental publicada, e inferencias de integración.
 
@@ -103,7 +135,9 @@ Debe quedar explícito que la segmentación en promotor y enhancer depende del u
 
 **Fuente**: `FTO_anexo_tecnico/05_mapa_reconciliado_region.md`.
 
-### 3.4 Definición de las regiones blanco (0,7 carillas, criterios 2 y 3)
+### 3.4 Definición y justificación de las regiones blanco (0,8 carillas, criterios 2 y 3)
+
+**Restricción acordada el 2026-07-26.** No se incluye tabla con las cuatro distancias exactas de cada candidata, porque esas distancias corresponden a puntos medios de protoespaciadores y discutirlas acá adelantaría el contenido de 3.5. En esta subsección se presenta, por región: intervalo o posición aproximada, contexto respecto de los sitios de inicio, proximidad relativa a *FTO* y a *RPGRIP1L*, clasificación regulatoria y estado de conservación o retiro. Las distancias exactas van a 3.5 y a la tabla completa del anexo. La figura puede mostrar los cuatro puntos de referencia y las regiones como bloques, **sin protoespaciadores ni PAM**.
 
 Las cuatro ventanas con nombre, ubicación, elementos superpuestos y función. W2 se documenta como analizada y retirada por su localización exónica codificante.
 
@@ -257,14 +291,20 @@ Formato autor-año consistente, sin mezclar con sistema numérico. Ninguna afirm
 
 Para cada guía se informan siempre las cuatro distancias. Ninguna coordenada se presenta como "el TSS real" de *FTO*.
 
-### Nombres y función de las cuatro ventanas
+### Nomenclatura de las regiones blanco, aprobada el 2026-07-26
 
-| Ventana | Nombre | Ubicación | Función |
+Los códigos W1 a W4 quedan **retirados del cuerpo del entregable**. Se conservan únicamente en esta tabla, como nota de trazabilidad interna, y no vuelven a emplearse como nombre. Las regiones se ordenan por coordenada creciente, que es también el orden narrativo adoptado.
+
+| Nombre en el entregable | Ubicación | Estado en el panel | Equivalencia histórica |
 | :--- | :--- | :--- | :--- |
-| W1 | centro del promotor divergente | prácticamente entre los inicios alternativos de ambos genes | comparador de activación del bloque compartido |
-| W2 | primer exón codificante de *FTO* | exón 1 del transcrito de referencia | región problemática, retirada |
-| W3 | región intrónica candidata a enhancer | intrón 1, aproximadamente +426 y +466, pELS EH38E1816377 | brazo de activación de una región intrónica con firma de elemento regulador |
-| W4 | región promotora próxima al TSS de referencia de *FTO* | aproximadamente −42 y −71; también 5′ UTR de isoformas del inicio alternativo | brazo de activación promotora orientado al transcrito de referencia |
+| Centro del promotor divergente FTO–RPGRIP1L | aproximadamente −204 y −207, entre los inicios alternativos de ambos genes | comparador del bloque compartido | W1 |
+| Región promotora próxima al TSS de referencia de *FTO* | aproximadamente −71 y −42; también 5′ UTR de isoformas del inicio alternativo | región promotora conservada | W4 |
+| Región codificante del exón 1 del transcrito de referencia de *FTO* | aproximadamente +61, dentro de secuencia codificante | **analizada y retirada** del panel experimental | W2 |
+| Región intrónica con firma pELS | intrón 1, aproximadamente +426 y +466, EH38E1816377 | región candidata conservada | W3 |
+
+**Retiro definitivo de la región codificante.** No se conserva como eventual comparador. Los motivos, que constituyen un resultado del proceso de selección y no información a omitir, son cuatro: está dentro de secuencia codificante del exón 1 del transcrito de referencia; presenta densidad elevada de variantes anotadas; su interpretación sería difícil de separar de posibles efectos de ocupación estérica del complejo; y ya existe un comparador más claro, el centro del promotor divergente.
+
+**Sitios CUX1 del primer intrón.** Quedan fuera de la caracterización del locus y fuera de la explicación de regiones blanco. Se documentan en el anexo y en la bitácora de alternativas evaluadas, se mencionan brevemente en la Discusión como evidencia de que el locus posee regulación intrónica distal compleja, y quedan disponibles para responder en la oral por qué no se eligieron regiones más distales. No se presentan como una región blanco equivalente a las cuatro analizadas, puesto que la evidencia publicada sobre CUX1 no corresponde al locus endógeno en granulosa.
 
 ## B.2 Método canónico del curso
 
